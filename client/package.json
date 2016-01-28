@@ -20,17 +20,16 @@
     "watchify": "^3.7.0"
   },
   "dependencies": {
-    "diva.js": "^4.0.0",
-    "jquery": "^2.2.0"
+    "diva.js": "^4.0.0"
   },
   "browserify-shim": {
-    "jquery": "$",
+    "jQuery": "global:jQuery",
+    "$": "global:$",
     "diva": {
       "exports": "diva"
     }
   },
   "browser": {
-    "jquery": "./node_modules/jquery",
     "diva": "./node_modules/diva.js/build/js/diva.min.js"
   },
   "browserify": {
