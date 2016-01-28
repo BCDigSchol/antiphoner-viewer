@@ -32,8 +32,15 @@ module.exports = function () {
         var page_incipits = [];
         if (pageHasChanged()) {
             page_incipits = all_incipits[data.current_page];
+            page_incipits.map(buildIncipitID);
+            console.log(page_incipits);
             $('.incipit-holder').html(incipit_template({incipits: page_incipits}));
         }
+    }
+
+    function buildIncipitID(incipit) {
+        incipit.id = incipit.title.replace(/\s+/g, '-').toLowerCase();
+        return incipit;
     }
 
     /**

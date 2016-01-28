@@ -1,8 +1,23 @@
 <div>
-    <h2>Incipits</h2>
+    <h2>Chants</h2>
     <ul>
         {{#each incipits}}
-            <li>{{title}}</li>
+            <li id="{{id}}">
+                <h3><a href="#{{id}}">{{title}}</a></h3>
+                <div class="metadata">
+                    <dl>
+                        <dt>Feast</dt>
+                        <dd>{{occasion}}</dd>
+                        <dt>Office</dt>
+                        <dd>{{office}}</dd>
+                        <dt>Genre</dt>
+                        <dd>{{genre}}</dd>
+                        <dt>Mode</dt>
+                        <dd>{{mode}}</dd>
+
+                    </dl>
+                </div>
+            </li>
         {{/each}}
     </ul>
 </div>
