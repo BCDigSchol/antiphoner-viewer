@@ -1,0 +1,42 @@
+{
+  "name": "antiphoner-client",
+  "version": "1.0.0",
+  "description": "Client for Antiphoner project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "browserify app.js -o static/js/antiphoner-bundle.js",
+    "build-min-js": "browserify app.js | uglifyjs -o static/js/antiphoner-bundle.min.js",
+    "watch-js": "watchify app.js -v -o 'cat | uglifyjs -o static/js/antiphoner-bundle.min.js'"
+  },
+  "author": "Ben Florin",
+  "license": "MIT",
+  "devDependencies": {
+    "browserify": "^13.0.0",
+    "browserify-shim": "^3.8.12",
+    "handlebars": "^4.0.5",
+    "hbsfy": "^2.4.1",
+    "uglifyjs": "^2.4.10",
+    "watchify": "^3.7.0"
+  },
+  "dependencies": {
+    "diva.js": "^4.0.0",
+    "jquery": "^2.2.0"
+  },
+  "browserify-shim": {
+    "jquery": "$",
+    "diva": {
+      "exports": "diva"
+    }
+  },
+  "browser": {
+    "jquery": "./node_modules/jquery",
+    "diva": "./node_modules/diva.js/build/js/diva.min.js"
+  },
+  "browserify": {
+    "transform": [
+      "browserify-shim",
+      "hbsfy"
+    ]
+  }
+}

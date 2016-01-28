@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <title>Diva.js Demo Page</title>
+    <link rel="stylesheet" href="http://test.dev/diva/css/diva.min.css"/>
+    <script src="js/antiphoner-bundle.min.js"></script>
+
+    <style>
+        @import url("http://fonts.googleapis.com/css?family=Lato:300,400,900");
+
+        body, html {
+            height: 90%;
+            width: 100%;
+            font-family: "Lato", serif, sans-serif;
+        }
+
+        body {
+            display: flex;
+        }
+
+        #diva-wrapper {
+            height: 100%;
+            width: 50%;
+            max-width: 800px;
+        }
+
+        #info {
+            flex: 1;
+            padding: 0 2em;
+            font-weight: 300;
+        }
+
+        .diva-outer {
+            height: 100%;
+        }
+
+        h1, h2 {
+            font-weight: 400;
+            text-transform: uppercase;
+        }
+
+        a {
+            cursor: pointer;
+        }
+    </style>
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            $('#diva-wrapper').diva({
+                enableAutoHeight: true,
+                fixedHeightGrid: false,
+                iipServerURL: "http://mlib.bc.edu/iipsrv/iipsrv.fcgi",
+                objectData: "antiphoner-processed.json",
+                imageDir: "",
+                enableCanvas: true,
+                enableDownload: true,
+                enableAutoTitle: false,
+                enableAntiphoner: true,
+                pageAliasFunction: function (page) {
+                    var numeric = 0;
+
+                    switch (page) {
+                        case 0:
+                            return 'Front cover';
+                        case 1:
+                            return 'Front endpaper';
+                        case 239:
+                            return 'Back endpaper';
+                        case 240:
+                            return 'Back cover';
+                    }
+
+                    numeric = Math.floor(page / 2);
+
+                    if (page % 2 === 0) {
+                        return numeric + "r";
+                    } else {
+                        return numeric + "v";
+                    }
+                },
+                enablePagealias: true
+            });
+
+        });
+    </script>
+</head>
+<body>
+<div id="diva-wrapper"></div>
+<div id="info">
+    <h1>Lorem ipsum dolor</h1>
+
+    <p>Nullam vel ornare ex. Donec vel luctus ex. Curabitur eget bibendum metus. Nam sit amet ipsum turpis. Vestibulum
+        molestie sem eu velit suscipit ultricies. Vestibulum sit amet mollis arcu. Vivamus molestie mattis elit, at
+        vehicula turpis viverra sit amet. Aenean viverra commodo bibendum.
+
+    <div class="incipit-holder">
+    </div>
+
+</div>
+</body>
+</html>
