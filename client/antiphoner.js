@@ -4,7 +4,7 @@ module.exports = function () {
     var querystring = require("querystring");
 
     // Incipit data array
-    var all_incipits = require('./incipits.js');
+    var getChants = require('./chants.js');
 
     // Incipit handlebars tempalte
     var incipit_template = require('./templates/incipit.hbs')
@@ -56,10 +56,10 @@ module.exports = function () {
     function loadPage(page_num, b, c) {
         var page_incipits = [];
         if (pageHasChanged()) {
-            page_incipits = all_incipits[data.current_page];
+            page_incipits = getChants(data.current_page);
             page_incipits.map(buildIncipitID);
             $('.incipit-holder').html(incipit_template({incipits: page_incipits}));
-            $('.incipit-holder h3').click(function(){
+            $('.incipit-holder h3').click(function () {
                 $(this).next('.metadata').slideToggle().siblings('.metadata:visible').slideUp();
             });
         }

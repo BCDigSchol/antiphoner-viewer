@@ -1,4 +1,4 @@
-module.exports = {
+var chants = {
     "1v": [
         {
             "sequence": "1",
@@ -10718,3 +10718,9 @@ module.exports = {
     "Back cover": [],
     "Back endpaper": []
 };
+
+function getChants(page) {
+    return chants[page];
+}
+
+module.exports = getChants;
