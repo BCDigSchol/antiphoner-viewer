@@ -1,6 +1,8 @@
 module.exports = function () {
     "use strict";
 
+    var querystring = require("querystring");
+
     // Incipit data array
     var all_incipits = require('./incipits.js');
 
@@ -19,6 +21,29 @@ module.exports = function () {
         data.current_diva = diva_instance;
         data.current_page = '';
         diva.Events.subscribe('PageDidLoad', loadPage, self);
+        diva.Events.subscribe('ObjectDidLoad', loadInitialViewer, self);
+
+    }
+
+    function loadInitialViewer() {
+        var page = querystring.parse(window.location.search.slice(1)).page;
+        if (page) {
+            goToPage(page);
+        }
+    }
+
+    /**
+     * Jump to a page
+     *
+     * @param page_alias
+     */
+    function goToPage(page_alias) {
+
+        // For some reason we have to wait before page jumping.
+        // @TODO: Why do we have to wait before page jumping?
+        setTimeout(function () {
+            data.current_diva.gotoPageByAliasedNumber(page_alias);
+        }, 1);
     }
 
     /**
@@ -33,7 +58,6 @@ module.exports = function () {
         if (pageHasChanged()) {
             page_incipits = all_incipits[data.current_page];
             page_incipits.map(buildIncipitID);
-            console.log(page_incipits);
             $('.incipit-holder').html(incipit_template({incipits: page_incipits}));
         }
     }
@@ -49,6 +73,7 @@ module.exports = function () {
      * @returns {boolean}
      */
     function pageHasChanged() {
+        window.currentdiva = data.current_diva;
         if (data.current_page != data.current_diva.getCurrentAliasedPageIndex()) {
             data.current_page = data.current_diva.getCurrentAliasedPageIndex();
             return true;
