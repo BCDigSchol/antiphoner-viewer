@@ -59,6 +59,9 @@ module.exports = function () {
             page_incipits = all_incipits[data.current_page];
             page_incipits.map(buildIncipitID);
             $('.incipit-holder').html(incipit_template({incipits: page_incipits}));
+            $('.incipit-holder h3').click(function(){
+                $(this).next('.metadata').slideToggle().siblings('.metadata:visible').slideUp();
+            });
         }
     }
 
