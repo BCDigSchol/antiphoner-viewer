@@ -1,5 +1,9 @@
-module.exports = function () {
+module.exports = (function () {
     "use strict";
+
+    var my = {
+        load: load
+    };
 
     var querystring = require("querystring");
 
@@ -7,7 +11,7 @@ module.exports = function () {
     var getChants = require('./chants.js');
 
     // Incipit handlebars tempalte
-    var incipit_template = require('./templates/incipit.hbs')
+    var incipit_template = require('./templates/incipit.hbs');
 
     var data = {};
 
@@ -85,12 +89,16 @@ module.exports = function () {
         }
     }
 
-    // Add to the Diva plugin list
-    window.divaPlugins.push({
-        pluginName: 'antiphoner',
-        init: initialize,
-        handleClick: function (event) {
-            // Diva.js plugins need a handleClick function, but we have no clicks to handle.
-        }
-    });
-};
+    function load() {
+        // Add to the Diva plugin list
+        window.divaPlugins.push({
+            pluginName: 'antiphoner',
+            init: initialize,
+            handleClick: function (event) {
+                // Diva.js plugins need a handleClick function, but we have no clicks to handle.
+            }
+        });
+    }
+
+    return my;
+})();

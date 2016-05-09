@@ -14,13 +14,13 @@
   "devDependencies": {
     "browserify": "^13.0.0",
     "browserify-shim": "^3.8.12",
-    "handlebars": "^4.0.5",
-    "hbsfy": "^2.4.1",
     "uglifyjs": "^2.4.10",
-    "watchify": "^3.7.0"
+    "watchify": "^3.7.0",
+    "diva.js": "^4.0.0",
+    "hbsfy": "^2.4.1",
+    "handlebars": "^4.0.5"
   },
   "dependencies": {
-    "diva.js": "^4.0.0"
   },
   "browserify-shim": {
     "jQuery": "global:jQuery",
