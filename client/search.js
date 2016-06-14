@@ -4,25 +4,22 @@ var lunr = require("lunr");
 
 module.exports = (function () {
 
-    var chants_map = {};
+    var antiphoner = {};
 
     var chant_idx = {};
 
-    function load(chants_data) {
-        chants_map = chants_data.chants;
-
+    function load(antiphoner_data) {
+        antiphoner = antiphoner_data;
         chant_idx = lunr(function () {
-            this.field('volpiano');
-            this.field('incipit');
             this.field('full_text_standard');
             this.ref('id');
         });
-        
         ingest();
+        console.log(chant_idx.search('Unus'));
     }
 
-    function loadChant(folio, chant_num) {
-        var chant = chants_map[folio][chant_num];
+    function loadChant(folio, sequence) {
+        var chant = antiphoner[folio][sequence];
 
         chant_idx.add({
                 id: chant['id'],
@@ -32,24 +29,23 @@ module.exports = (function () {
     }
 
     function ingest() {
-        for (var folio in chants_map) {
-            for (var chant_num in chants_map[folio]) {
-                loadChant(folio, chant_num);
+        for (var folio in antiphoner) {
+            for (var sequence in antiphoner[folio]) {
+                loadChant(folio, sequence);
             }
         }
     }
 
     function search(keyword) {
         var result = chant_idx.search(keyword);
-        console.log(result);
     }
 
     function searchVolpiano(volpiano) {
         var return_vals = [];
         var chants;
 
-        for (var folio in chants_map) {
-            chants = chants_map[folio];
+        for (var folio in antiphoner) {
+            chants = antiphoner[folio];
             return_vals = return_vals.concat(chants.filter(chantContainsVolpiano, {volpiano: volpiano}));
         }
         return return_vals;

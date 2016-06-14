@@ -1,4 +1,4 @@
-var chants={
+var data={
     "Front cover": [],
     "Front endpaper": [],
     "1r": [
@@ -23390,13 +23390,13 @@ function ChantError(message) {
 ChantError.prototype = Object.create(Error.prototype);
 
 function getChants(folio) {
-    if (!chants[folio]) {
+    if (!data[folio]) {
         throw new ChantError('No chant found with ID ' + folio);
     }
-    return chants[folio];
+    return data[folio];
 }
 
 module.exports = {
     getChants: getChants,
-    chants: chants
+    data: data
 };
