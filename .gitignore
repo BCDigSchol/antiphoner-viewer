@@ -1,3 +1,8 @@
 node_modules
 antiphoner-bundle*
 *.log
+*csv
+client/static/fonts
+ingester/*json
+ingester/*csv
+manifest-builder/*json

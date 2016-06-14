@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "browserify app.js -o static/js/antiphoner-bundle.js",
     "build-min-js": "browserify app.js | uglifyjs -o static/js/antiphoner-bundle.min.js",
-    "watch-js": "watchify app.js -v -o 'cat | uglifyjs -o static/js/antiphoner-bundle.min.js'"
+    "watch-js": "watchify app.js -v -o static/js/antiphoner-bundle.min.js"
   },
   "author": "Ben Florin",
   "license": "MIT",
@@ -16,11 +16,12 @@
     "browserify-shim": "^3.8.12",
     "uglifyjs": "^2.4.10",
     "watchify": "^3.7.0",
-    "diva.js": "^4.0.0",
     "hbsfy": "^2.4.1",
     "handlebars": "^4.0.5"
   },
   "dependencies": {
+    "diva.js": "^4.0.0",
+    "lunr": "^0.7.1"
   },
   "browserify-shim": {
     "jQuery": "global:jQuery",

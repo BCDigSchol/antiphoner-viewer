@@ -1,11 +1,11 @@
 <div>
     <h2>Chants</h2>
     {{#each incipits}}
-        <h3>{{title}}</h3>
+        <h3>{{incipit}}</h3>
         <div class="metadata">
             <dl>
                 <dt>Feast</dt>
-                <dd>{{occasion}}</dd>
+                <dd>{{feast}}</dd>
                 <dt>Office</dt>
                 <dd>{{office}}</dd>
                 <dt>Genre</dt>
@@ -13,6 +13,7 @@
                 <dt>Mode</dt>
                 <dd>{{mode}}</dd>
             </dl>
+            <div class="notation">{{volpiano}}</div>
         </div>
     {{/each}}
 </div>

@@ -8,7 +8,7 @@ module.exports = (function () {
     var querystring = require("querystring");
 
     // Incipit data array
-    var getChants = require('./chants.js');
+    var chants = {};
 
     // Incipit handlebars tempalte
     var incipit_template = require('./templates/incipit.hbs');
@@ -26,7 +26,6 @@ module.exports = (function () {
         data.current_page = '';
         diva.Events.subscribe('PageDidLoad', loadPage, self);
         diva.Events.subscribe('ObjectDidLoad', loadInitialViewer, self);
-
     }
 
     function loadInitialViewer() {
@@ -60,8 +59,9 @@ module.exports = (function () {
     function loadPage(page_num, b, c) {
         var page_incipits = [];
         if (pageHasChanged()) {
-            page_incipits = getChants(data.current_page);
+            page_incipits = chants.getChants(data.current_page);
             page_incipits.map(buildIncipitID);
+            console.log(page_incipits);
             $('.incipit-holder').html(incipit_template({incipits: page_incipits}));
             $('.incipit-holder h3').click(function () {
                 $(this).next('.metadata').slideToggle().siblings('.metadata:visible').slideUp();
@@ -70,7 +70,7 @@ module.exports = (function () {
     }
 
     function buildIncipitID(incipit) {
-        incipit.id = incipit.title.replace(/\s+/g, '-').toLowerCase();
+        incipit.id = incipit.incipit.replace(/\s+/g, '-').toLowerCase();
         return incipit;
     }
 
@@ -89,7 +89,8 @@ module.exports = (function () {
         }
     }
 
-    function load() {
+    function load(chants_data) {
+        chants = chants_data;
         // Add to the Diva plugin list
         window.divaPlugins.push({
             pluginName: 'antiphoner',
