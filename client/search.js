@@ -15,7 +15,6 @@ module.exports = (function () {
             this.ref('id');
         });
         ingest();
-        console.log(chant_idx.search('Unus'));
     }
 
     function loadChant(folio, sequence) {
@@ -36,8 +35,8 @@ module.exports = (function () {
         }
     }
 
-    function search(keyword) {
-        var result = chant_idx.search(keyword);
+    function searchText(keyword) {
+        return chant_idx.search(keyword);
     }
 
     function searchVolpiano(volpiano) {
@@ -57,7 +56,8 @@ module.exports = (function () {
 
     return {
         load: load,
-        search: search
+        searchText: searchText,
+        searchVolpiano: searchVolpiano
     };
 
 })();

@@ -4,3 +4,4 @@ var viewer = require('./antiphoner_viewer.js');
 var search = require('./search.js');
 search.load(antiphoner.data);
 viewer.load(antiphoner);
+console.log(search.searchText('Unus'));
