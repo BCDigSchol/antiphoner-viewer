@@ -17,11 +17,11 @@
     "uglifyjs": "^2.4.10",
     "watchify": "^3.7.0",
     "hbsfy": "^2.4.1",
-    "handlebars": "^4.0.5"
+    "handlebars": "^4.0.5",
+    "lunr": "^0.7.1"
   },
   "dependencies": {
-    "diva.js": "^4.0.0",
-    "lunr": "^0.7.1"
+    "diva.js": "^4.0.0"
   },
   "browserify-shim": {
     "jQuery": "global:jQuery",
