@@ -1,0 +1,127 @@
+@import url("http://fonts.googleapis.com/css?family=Lato:300,400,900");
+
+@font-face {
+    font-family: 'Volpiano';
+    src: url('../fonts/volpiano.woff') format('woff');
+    src: url('../fonts/volpiano.ttf') format('truetype');
+}
+
+body, html {
+    height: 90%;
+    width: 100%;
+    font-family: "Lato", serif, sans-serif;
+}
+
+body {
+    display: flex;
+}
+
+#diva-wrapper {
+    height: 100%;
+    width: 50%;
+    max-width: 800px;
+}
+
+#info {
+    flex: 1;
+    padding: 0 2em;
+    font-weight: 300;
+}
+
+.diva-outer {
+    height: 100%;
+}
+
+h1, h2 {
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+a {
+    cursor: pointer;
+}
+
+.incipit-holder h3 {
+    font-weight: normal;
+    padding: .5em;
+    cursor: pointer;
+    text-decoration: none;
+    color: gray;
+    border: 1px solid gray;
+    margin: 0 0 .25em 0;
+}
+
+.incipit-holder .metadata {
+    display: none;
+    padding: .5em;
+}
+
+.incipit-holder dt {
+    font-weight: bold;
+}
+
+li {
+    clear: both;
+}
+
+dl {
+    overflow: hidden;
+    margin: 0 0 1em 0;
+}
+
+dd, dt {
+    margin: 0;
+}
+
+dd {
+    float: left;
+    width: 50%;
+}
+
+dt {
+    float: left;
+    width: 9%;
+    min-width: 3.5em;
+    clear: both;
+    margin-bottom: .5em;
+}
+
+.notation {
+    font-family: 'Volpiano';
+    font-size: 26px;
+}
+
+#search-window {
+    display: none;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1000;
+    background-color: rgba(0,0,0,.5);
+}
+
+#search-window .modal-content {
+    width:50%;
+    margin: 1% auto;
+    background-color: #fff;
+    border:1px solid #000;
+    padding:15px;
+    height: 92%;
+    overflow: scroll;
+}
+
+#search-window .close {
+    cursor: pointer;
+}
+
+#volpiano-input {
+    font-size: 30px;
+    size: 600px;
+    font-family: "Volpiano";
+}
+
+#search-window h3 {
+    font-weight: normal;
+}

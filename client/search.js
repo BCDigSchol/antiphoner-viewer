@@ -45,7 +45,7 @@ module.exports = (function () {
 
         for (var folio in antiphoner) {
             chants = antiphoner[folio];
-            return_vals = return_vals.concat(chants.filter(chantContainsVolpiano, {volpiano: volpiano}));
+            return_vals = return_vals.gcat(chants.filter(chantContainsVolpiano, {volpiano: volpiano}));
         }
         return return_vals;
     }

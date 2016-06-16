@@ -3,102 +3,11 @@
 <head>
     <meta charset="utf-8"/>
     <title>Diva.js Demo Page</title>
-    <link rel="stylesheet" href="http://test.dev/diva/css/diva.min.css"/>
+    <link rel="stylesheet" href="css/diva.min.css"/>
+    <link rel="stylesheet" href="css/style.css"/>
     <script src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
     <script src="js/antiphoner-bundle.min.js"></script>
     <style>
-        @import url("http://fonts.googleapis.com/css?family=Lato:300,400,900");
-
-        @font-face {
-            font-family: 'Volpiano';
-            src: url('/antiphoner/fonts/volpiano.woff') format('woff');
-            src: url('/antiphoner/fonts/volpiano.ttf') format('truetype');
-        }
-
-        body, html {
-            height: 90%;
-            width: 100%;
-            font-family: "Lato", serif, sans-serif;
-        }
-
-        body {
-            display: flex;
-        }
-
-        #diva-wrapper {
-            height: 100%;
-            width: 50%;
-            max-width: 800px;
-        }
-
-        #info {
-            flex: 1;
-            padding: 0 2em;
-            font-weight: 300;
-        }
-
-        .diva-outer {
-            height: 100%;
-        }
-
-        h1, h2 {
-            font-weight: 400;
-            text-transform: uppercase;
-        }
-
-        a {
-            cursor: pointer;
-        }
-
-        .incipit-holder h3 {
-            font-weight: normal;
-            padding: .5em;
-            cursor: pointer;
-            text-decoration: none;
-            color: gray;
-            border: 1px solid gray;
-            margin: 0 0 .25em 0;
-        }
-
-        .incipit-holder .metadata {
-            display: none;
-            padding: .5em;
-        }
-
-        .incipit-holder dt {
-            font-weight: bold;
-        }
-
-        li {
-            clear: both;
-        }
-
-        dl {
-            overflow: hidden;
-            margin: 0 0 1em 0;
-        }
-
-        dd, dt {
-            margin: 0;
-        }
-
-        dd {
-            float: left;
-            width: 50%;
-        }
-
-        dt {
-            float: left;
-            width: 9%;
-            min-width: 3.5em;
-            clear: both;
-            margin-bottom: .5em;
-        }
-
-        .notation {
-            font-family: 'Volpiano';
-            font-size: 26px;
-        }
 
     </style>
     <script type="text/javascript">
@@ -147,6 +56,8 @@
 <div id="info">
     <h1>Lorem ipsum dolor</h1>
 
+    <button id="search-button">Search</button>
+
     <p>Nullam vel ornare ex. Donec vel luctus ex. Curabitur eget bibendum metus. Nam sit amet ipsum turpis. Vestibulum
         molestie sem eu velit suscipit ultricies. Vestibulum sit amet mollis arcu. Vivamus molestie mattis elit, at
         vehicula turpis viverra sit amet. Aenean viverra commodo bibendum.
@@ -154,6 +65,21 @@
     <div class="incipit-holder">
     </div>
 
+</div>
+
+<div id="search-window" class="modal">
+    <div class="modal-content">
+        <span class="close">x</span>
+        <form>
+            <label for="volpiano-input">Volpiano</label>
+            <input id="volpiano-input" type="text">
+        </form>
+
+        <div id="results-holder">
+
+        </div>
+
+    </div>
 </div>
 </body>
 </html>
