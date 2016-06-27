@@ -2,7 +2,10 @@ module.exports = (function () {
     "use strict";
 
     var my = {
-        load: load
+        load: load,
+        goTo: function (folio, sequence) {
+            goTo(folio);
+        }
     };
 
     var querystring = require("querystring");
@@ -41,12 +44,8 @@ module.exports = (function () {
      * @param folio
      */
     function goTo(folio) {
-
-        // For some reason we have to wait before jumping.
-        // @TODO: Why do we have to wait before jumping?
-        setTimeout(function () {
-            data.current_diva.gotoPageByAliasedNumber(folio);
-        }, 1);
+        folio = folio.replace(/^0+/, '');
+        data.current_diva.gotoPageByAliasedNumber(folio);
     }
 
     /**

@@ -4,6 +4,7 @@ var data = {
     "1r": [
         {
             "id": "001r1",
+            "folio": "001r",
             "sequence": "1",
             "incipit": "Unus ex duobus qui secuti ",
             "feast": "Andreae",
@@ -19,6 +20,7 @@ var data = {
         },
         {
             "id": "001r2",
+            "folio": "001r",
             "sequence": "2",
             "incipit": "Exsultet caelum laudibus",
             "feast": "Andreae",
@@ -34,6 +36,7 @@ var data = {
         },
         {
             "id": "001r3",
+            "folio": "001r",
             "sequence": "3",
             "incipit": "In omnem terram*",
             "feast": "Andreae",
@@ -49,6 +52,7 @@ var data = {
         },
         {
             "id": "001r4",
+            "folio": "001r",
             "sequence": "4",
             "incipit": "Regem apostolorum dominum",
             "feast": "Andreae",
@@ -64,6 +68,7 @@ var data = {
         },
         {
             "id": "001r5",
+            "folio": "001r",
             "sequence": "5",
             "incipit": "Vidit dominus Petrum et Andream",
             "feast": "Andreae",
@@ -79,6 +84,7 @@ var data = {
         },
         {
             "id": "001r6",
+            "folio": "001r",
             "sequence": "6",
             "incipit": "Venite post me dicit dominus",
             "feast": "Andreae",
@@ -94,6 +100,7 @@ var data = {
         },
         {
             "id": "001r7",
+            "folio": "001r",
             "sequence": "7",
             "incipit": "Relictis retibus secuti sunt",
             "feast": "Andreae",
@@ -109,6 +116,7 @@ var data = {
         },
         {
             "id": "001r8",
+            "folio": "001r",
             "sequence": "8",
             "incipit": "In omnem terram*",
             "feast": "Andreae",
@@ -124,6 +132,7 @@ var data = {
         },
         {
             "id": "001r9",
+            "folio": "001r",
             "sequence": "9",
             "incipit": "Dum deambularet dominus",
             "feast": "Andreae",
@@ -141,6 +150,7 @@ var data = {
     "1v": [
         {
             "id": "001v1",
+            "folio": "001v",
             "sequence": "1",
             "incipit": "Erant enim piscatores et ait ",
             "feast": "Andreae",
@@ -156,6 +166,7 @@ var data = {
         },
         {
             "id": "001v2",
+            "folio": "001v",
             "sequence": "2",
             "incipit": "Mox ut vocem domini",
             "feast": "Andreae",
@@ -171,6 +182,7 @@ var data = {
         },
         {
             "id": "001v3",
+            "folio": "001v",
             "sequence": "3",
             "incipit": "Hic est qui pro amore ",
             "feast": "Andreae",
@@ -186,6 +198,7 @@ var data = {
         },
         {
             "id": "001v4",
+            "folio": "001v",
             "sequence": "4",
             "incipit": "Doctor bonus et amicus dei",
             "feast": "Andreae",
@@ -201,6 +214,7 @@ var data = {
         },
         {
             "id": "001v5",
+            "folio": "001v",
             "sequence": "5",
             "incipit": "Salve crux quae in corpore",
             "feast": "Andreae",
@@ -218,6 +232,7 @@ var data = {
     "2r": [
         {
             "id": "002r1",
+            "folio": "002r",
             "sequence": "1",
             "incipit": "Dignum sibi dominus computavit",
             "feast": "Andreae",
@@ -233,6 +248,7 @@ var data = {
         },
         {
             "id": "002r1",
+            "folio": "002r",
             "sequence": "1",
             "incipit": "Homo dei ducebatur",
             "feast": null,
@@ -248,6 +264,7 @@ var data = {
         },
         {
             "id": "002r2",
+            "folio": "002r",
             "sequence": "2",
             "incipit": "Dilexit Andream dominus in odorem",
             "feast": "Andreae",
@@ -263,6 +280,7 @@ var data = {
         },
         {
             "id": "002r2",
+            "folio": "002r",
             "sequence": "2",
             "incipit": "Cumque carnifices ducerent eum",
             "feast": null,
@@ -278,6 +296,7 @@ var data = {
         },
         {
             "id": "002r3",
+            "folio": "002r",
             "sequence": "3",
             "incipit": "Biduo vivens pendebat in cruce",
             "feast": "Andreae",
@@ -293,6 +312,7 @@ var data = {
         },
         {
             "id": "002r4",
+            "folio": "002r",
             "sequence": "4",
             "incipit": "Constitues eos principes",
             "feast": "Andreae",
@@ -310,6 +330,7 @@ var data = {
     "2v": [
         {
             "id": "002v3",
+            "folio": "002v",
             "sequence": "3",
             "incipit": "O bona crux que decorum",
             "feast": null,
@@ -325,6 +346,7 @@ var data = {
         },
         {
             "id": "002v4",
+            "folio": "002v",
             "sequence": "4",
             "incipit": "Beatus Andreas expansis",
             "feast": null,
@@ -340,6 +362,7 @@ var data = {
         },
         {
             "id": "002v5",
+            "folio": "002v",
             "sequence": "5",
             "incipit": "Expandi manus meas",
             "feast": null,
@@ -355,6 +378,7 @@ var data = {
         },
         {
             "id": "002v6",
+            "folio": "002v",
             "sequence": "6",
             "incipit": "Deus ulcionum dominus deus",
             "feast": null,
@@ -372,6 +396,7 @@ var data = {
     "3r": [
         {
             "id": "003r1",
+            "folio": "003r",
             "sequence": "1",
             "incipit": "Non me permittas domine",
             "feast": null,
@@ -387,6 +412,7 @@ var data = {
         },
         {
             "id": "003r2",
+            "folio": "003r",
             "sequence": "2",
             "incipit": "Andreas vero rogabat populum",
             "feast": null,
@@ -402,6 +428,7 @@ var data = {
         },
         {
             "id": "003r3",
+            "folio": "003r",
             "sequence": "3",
             "incipit": "Recipe me ab hominibus",
             "feast": null,
@@ -417,6 +444,7 @@ var data = {
         },
         {
             "id": "003r4",
+            "folio": "003r",
             "sequence": "4",
             "incipit": "Nimis honorati sunt",
             "feast": "Andreae",
@@ -432,6 +460,7 @@ var data = {
         },
         {
             "id": "003r5",
+            "folio": "003r",
             "sequence": "5",
             "incipit": "Oravit sanctus Andreas",
             "feast": null,
@@ -447,6 +476,7 @@ var data = {
         },
         {
             "id": "003r6",
+            "folio": "003r",
             "sequence": "6",
             "incipit": "Tu es magister meus",
             "feast": null,
@@ -464,6 +494,7 @@ var data = {
     "3v": [
         {
             "id": "003v1",
+            "folio": "003v",
             "sequence": "1",
             "incipit": "Videns crucem Andreas",
             "feast": null,
@@ -479,6 +510,7 @@ var data = {
         },
         {
             "id": "003v2",
+            "folio": "003v",
             "sequence": "2",
             "incipit": "O bona crux que decorem",
             "feast": null,
@@ -494,6 +526,7 @@ var data = {
         },
         {
             "id": "003v3",
+            "folio": "003v",
             "sequence": "3",
             "incipit": "Salve crux pretiosa suscipe",
             "feast": null,
@@ -509,6 +542,7 @@ var data = {
         },
         {
             "id": "003v4",
+            "folio": "003v",
             "sequence": "4",
             "incipit": "Beatus Andreas orabat dicens",
             "feast": null,
@@ -524,6 +558,7 @@ var data = {
         },
         {
             "id": "003v5",
+            "folio": "003v",
             "sequence": "5",
             "incipit": "Andreas Christi famulus dignus",
             "feast": null,
@@ -541,6 +576,7 @@ var data = {
     "4r": [
         {
             "id": "004r1",
+            "folio": "004r",
             "sequence": "1",
             "incipit": "Maximilla Christo amabilis tulit",
             "feast": null,
@@ -556,6 +592,7 @@ var data = {
         },
         {
             "id": "004r2",
+            "folio": "004r",
             "sequence": "2",
             "incipit": "Qui persequebantur justum",
             "feast": null,
@@ -571,6 +608,7 @@ var data = {
         },
         {
             "id": "004r3",
+            "folio": "004r",
             "sequence": "3",
             "incipit": "Exsultet caelum laudibus",
             "feast": "Andreae",
@@ -586,6 +624,7 @@ var data = {
         },
         {
             "id": "004r4",
+            "folio": "004r",
             "sequence": "4",
             "incipit": "Annunciaverunt opera dei",
             "feast": "Andreae",
@@ -601,6 +640,7 @@ var data = {
         },
         {
             "id": "004r5",
+            "folio": "004r",
             "sequence": "5",
             "incipit": "Concede nobis hominem justum",
             "feast": null,
@@ -616,6 +656,7 @@ var data = {
         },
         {
             "id": "004r6",
+            "folio": "004r",
             "sequence": "6",
             "incipit": "Cum pervenisset beatus Andreas",
             "feast": null,
@@ -633,6 +674,7 @@ var data = {
     "4v": [
         {
             "id": "004v1",
+            "folio": "004v",
             "sequence": "1",
             "incipit": "In tua patientia possedisti",
             "feast": "Luciae",
@@ -648,6 +690,7 @@ var data = {
         },
         {
             "id": "004v2",
+            "folio": "004v",
             "sequence": "2",
             "incipit": "Lucia virgo quid a me ",
             "feast": "Luciae",
@@ -663,6 +706,7 @@ var data = {
         },
         {
             "id": "004v3",
+            "folio": "004v",
             "sequence": "3",
             "incipit": "Sicut per me civitas",
             "feast": "Luciae",
@@ -678,6 +722,7 @@ var data = {
         },
         {
             "id": "004v4",
+            "folio": "004v",
             "sequence": "4",
             "incipit": "Rogavi dominum meum Jesum",
             "feast": "Luciae",
@@ -695,6 +740,7 @@ var data = {
     "5r": [
         {
             "id": "005r1",
+            "folio": "005r",
             "sequence": "1",
             "incipit": "Pro eo ut me diligerent",
             "feast": "Luciae",
@@ -710,6 +756,7 @@ var data = {
         },
         {
             "id": "005r2",
+            "folio": "005r",
             "sequence": "2",
             "incipit": "Grata facta est a domino",
             "feast": "Luciae",
@@ -725,6 +772,7 @@ var data = {
         },
         {
             "id": "005r3",
+            "folio": "005r",
             "sequence": "3",
             "incipit": "Adiuvabit eam deus vultu",
             "feast": "Luciae",
@@ -740,6 +788,7 @@ var data = {
         },
         {
             "id": "005r4",
+            "folio": "005r",
             "sequence": "4",
             "incipit": "Orante sancta Lucia apparuit",
             "feast": "Luciae",
@@ -755,6 +804,7 @@ var data = {
         },
         {
             "id": "005r5",
+            "folio": "005r",
             "sequence": "5",
             "incipit": "Lucia virgo quid a me",
             "feast": "Luciae",
@@ -772,6 +822,7 @@ var data = {
     "5v": [
         {
             "id": "005v1",
+            "folio": "005v",
             "sequence": "1",
             "incipit": "Per te Lucia virgo civitas",
             "feast": "Luciae",
@@ -787,6 +838,7 @@ var data = {
         },
         {
             "id": "005v2",
+            "folio": "005v",
             "sequence": "2",
             "incipit": "Benedico te pater domini",
             "feast": "Luciae",
@@ -802,6 +854,7 @@ var data = {
         },
         {
             "id": "005v3",
+            "folio": "005v",
             "sequence": "3",
             "incipit": "Soror mea Lucia virgo",
             "feast": "Luciae",
@@ -817,6 +870,7 @@ var data = {
         },
         {
             "id": "005v4",
+            "folio": "005v",
             "sequence": "4",
             "incipit": "Columna es immobilis Lucia",
             "feast": "Luciae",
@@ -832,6 +886,7 @@ var data = {
         },
         {
             "id": "005v5",
+            "folio": "005v",
             "sequence": "5",
             "incipit": "Tanto pondere eam fixit",
             "feast": "Luciae",
@@ -847,6 +902,7 @@ var data = {
         },
         {
             "id": "005v6",
+            "folio": "005v",
             "sequence": "6",
             "incipit": "Quia vidisti me Thoma",
             "feast": "Thomae Apost.",
@@ -864,6 +920,7 @@ var data = {
     "6r": [
         {
             "id": "006r1",
+            "folio": "006r",
             "sequence": "1",
             "incipit": "Beata Agnes in medio flammarum",
             "feast": "Agnetis",
@@ -879,6 +936,7 @@ var data = {
         },
         {
             "id": "006r2",
+            "folio": "006r",
             "sequence": "2",
             "incipit": "Regem virginum*",
             "feast": "Agnetis",
@@ -894,6 +952,7 @@ var data = {
         },
         {
             "id": "006r3",
+            "folio": "006r",
             "sequence": "3",
             "incipit": "Virginum proles*",
             "feast": "Agnetis",
@@ -909,6 +968,7 @@ var data = {
         },
         {
             "id": "006r4",
+            "folio": "006r",
             "sequence": "4",
             "incipit": "Discede a me pabulum",
             "feast": "Agnetis",
@@ -924,6 +984,7 @@ var data = {
         },
         {
             "id": "006r5",
+            "folio": "006r",
             "sequence": "5",
             "incipit": "Dextram meam et collum meum",
             "feast": "Agnetis",
@@ -939,6 +1000,7 @@ var data = {
         },
         {
             "id": "006r6",
+            "folio": "006r",
             "sequence": "6",
             "incipit": "Posuit signum in faciem meam",
             "feast": "Agnetis",
@@ -956,6 +1018,7 @@ var data = {
     "6v": [
         {
             "id": "006v1",
+            "folio": "006v",
             "sequence": "1",
             "incipit": "Specie tua et pulchritudine*",
             "feast": "Agnetis",
@@ -971,6 +1034,7 @@ var data = {
         },
         {
             "id": "006v2",
+            "folio": "006v",
             "sequence": "2",
             "incipit": "Diem festum sacratissime",
             "feast": "Agnetis",
@@ -986,6 +1050,7 @@ var data = {
         },
         {
             "id": "006v3",
+            "folio": "006v",
             "sequence": "3",
             "incipit": "Infantia quidem computabatur",
             "feast": "Agnetis",
@@ -1001,6 +1066,7 @@ var data = {
         },
         {
             "id": "006v4",
+            "folio": "006v",
             "sequence": "4",
             "incipit": "Dextram meam et collum",
             "feast": "Agnetis",
@@ -1018,6 +1084,7 @@ var data = {
     "7r": [
         {
             "id": "007r1",
+            "folio": "007r",
             "sequence": "1",
             "incipit": "Posuit signum in faciem",
             "feast": "Agnetis",
@@ -1033,6 +1100,7 @@ var data = {
         },
         {
             "id": "007r2",
+            "folio": "007r",
             "sequence": "2",
             "incipit": "Amo Christum in cujus thalamum",
             "feast": "Agnetis",
@@ -1048,6 +1116,7 @@ var data = {
         },
         {
             "id": "007r3",
+            "folio": "007r",
             "sequence": "3",
             "incipit": "Anulo fidei suae subarrhavit",
             "feast": "Agnetis",
@@ -1063,6 +1132,7 @@ var data = {
         },
         {
             "id": "007r4",
+            "folio": "007r",
             "sequence": "4",
             "incipit": "Induit me dominus cyclade",
             "feast": "Agnetis",
@@ -1080,6 +1150,7 @@ var data = {
     "7v": [
         {
             "id": "007v1",
+            "folio": "007v",
             "sequence": "1",
             "incipit": "Mel et lac ex ejus ",
             "feast": "Agnetis",
@@ -1095,6 +1166,7 @@ var data = {
         },
         {
             "id": "007v2",
+            "folio": "007v",
             "sequence": "2",
             "incipit": "Ipsi soli servo fidem",
             "feast": "Agnetis",
@@ -1110,6 +1182,7 @@ var data = {
         },
         {
             "id": "007v3",
+            "folio": "007v",
             "sequence": "3",
             "incipit": "Adjuvabit eam deus*",
             "feast": "Agnetis",
@@ -1125,6 +1198,7 @@ var data = {
         },
         {
             "id": "007v4",
+            "folio": "007v",
             "sequence": "4",
             "incipit": "Induit me dominus vestimento",
             "feast": "Agnetis",
@@ -1140,6 +1214,7 @@ var data = {
         },
         {
             "id": "007v5",
+            "folio": "007v",
             "sequence": "5",
             "incipit": "Tradidit auribus meis",
             "feast": "Agnetis",
@@ -1155,6 +1230,7 @@ var data = {
         },
         {
             "id": "007v6",
+            "folio": "007v",
             "sequence": "6",
             "incipit": "Mel et lac ex ejus ",
             "feast": "Agnetis",
@@ -1170,6 +1246,7 @@ var data = {
         },
         {
             "id": "007v7",
+            "folio": "007v",
             "sequence": "7",
             "incipit": "Ostendit mihi thesauros",
             "feast": "Agnetis",
@@ -1187,6 +1264,7 @@ var data = {
     "8r": [
         {
             "id": "008r1",
+            "folio": "008r",
             "sequence": "1",
             "incipit": "Jam corpus ejus corpori meo",
             "feast": "Agnetis",
@@ -1202,6 +1280,7 @@ var data = {
         },
         {
             "id": "008r2",
+            "folio": "008r",
             "sequence": "2",
             "incipit": "Ipsi sum desponsata",
             "feast": "Agnetis",
@@ -1217,6 +1296,7 @@ var data = {
         },
         {
             "id": "008r3",
+            "folio": "008r",
             "sequence": "3",
             "incipit": "Cujus pulchritudinem sol et luna",
             "feast": "Agnetis",
@@ -1232,6 +1312,7 @@ var data = {
         },
         {
             "id": "008r4",
+            "folio": "008r",
             "sequence": "4",
             "incipit": "Christus circumdedit me",
             "feast": "Agnetis",
@@ -1247,6 +1328,7 @@ var data = {
         },
         {
             "id": "008r5",
+            "folio": "008r",
             "sequence": "5",
             "incipit": "Ipsi sum desponsata ",
             "feast": "Agnetis",
@@ -1262,6 +1344,7 @@ var data = {
         },
         {
             "id": "008r6",
+            "folio": "008r",
             "sequence": "6",
             "incipit": "Elegit eam deus*",
             "feast": "Agnetis",
@@ -1277,6 +1360,7 @@ var data = {
         },
         {
             "id": "008r7",
+            "folio": "008r",
             "sequence": "7",
             "incipit": "Ipsi sum desponsata",
             "feast": "Agnetis",
@@ -1294,6 +1378,7 @@ var data = {
     "8v": [
         {
             "id": "008v1",
+            "folio": "008v",
             "sequence": "1",
             "incipit": "Dextram meam et collum meum",
             "feast": "Agnetis",
@@ -1309,6 +1394,7 @@ var data = {
         },
         {
             "id": "008v2",
+            "folio": "008v",
             "sequence": "2",
             "incipit": "Omnipotens adorande colende",
             "feast": "Agnetis",
@@ -1324,6 +1410,7 @@ var data = {
         },
         {
             "id": "008v3",
+            "folio": "008v",
             "sequence": "3",
             "incipit": "Te Confiteor labiis te corde",
             "feast": "Agnetis",
@@ -1341,6 +1428,7 @@ var data = {
     "9r": [
         {
             "id": "009r1",
+            "folio": "009r",
             "sequence": "1",
             "incipit": "Ingressa Agnes turpitudinis locum",
             "feast": "Agnetis",
@@ -1356,6 +1444,7 @@ var data = {
         },
         {
             "id": "009r2",
+            "folio": "009r",
             "sequence": "2",
             "incipit": "Mecum enim habeo custodem",
             "feast": "Agnetis",
@@ -1371,6 +1460,7 @@ var data = {
         },
         {
             "id": "009r3",
+            "folio": "009r",
             "sequence": "3",
             "incipit": "Anulo suo subharravit me",
             "feast": "Agnetis",
@@ -1386,6 +1476,7 @@ var data = {
         },
         {
             "id": "009r4",
+            "folio": "009r",
             "sequence": "4",
             "incipit": "Benedico te pater domini mei",
             "feast": "Agnetis",
@@ -1401,6 +1492,7 @@ var data = {
         },
         {
             "id": "009r5",
+            "folio": "009r",
             "sequence": "5",
             "incipit": "Congaudete mecum et congratulamini",
             "feast": "Agnetis",
@@ -1416,6 +1508,7 @@ var data = {
         },
         {
             "id": "009r6",
+            "folio": "009r",
             "sequence": "6",
             "incipit": "Ecce quod concupivi jam video",
             "feast": "Agnetis",
@@ -1431,6 +1524,7 @@ var data = {
         },
         {
             "id": "009r7",
+            "folio": "009r",
             "sequence": "7",
             "incipit": "Ingressa Agnes*",
             "feast": "Agnetis",
@@ -1448,6 +1542,7 @@ var data = {
     "9v": [
         {
             "id": "009v1",
+            "folio": "009v",
             "sequence": "1",
             "incipit": "Stans beata Agnes in medio ",
             "feast": "Agnetis",
@@ -1463,6 +1558,7 @@ var data = {
         },
         {
             "id": "009v2",
+            "folio": "009v",
             "sequence": "2",
             "incipit": "Doctor egregie*",
             "feast": "Conversio Pauli",
@@ -1478,6 +1574,7 @@ var data = {
         },
         {
             "id": "009v3",
+            "folio": "009v",
             "sequence": "3",
             "incipit": "Tu es vas electionis*",
             "feast": "Conversio Pauli",
@@ -1493,6 +1590,7 @@ var data = {
         },
         {
             "id": "009v4",
+            "folio": "009v",
             "sequence": "4",
             "incipit": "Vade Anania et quaere Saulum",
             "feast": "Conversio Pauli",
@@ -1508,6 +1606,7 @@ var data = {
         },
         {
             "id": "009v5",
+            "folio": "009v",
             "sequence": "5",
             "incipit": "Laudemus deum nostrum in conversione",
             "feast": "Conversio Pauli",
@@ -1523,6 +1622,7 @@ var data = {
         },
         {
             "id": "009v6",
+            "folio": "009v",
             "sequence": "6",
             "incipit": "Stans ad dextris eius Agnus ",
             "feast": "Octava Agnetis",
@@ -1538,6 +1638,7 @@ var data = {
         },
         {
             "id": "009v7",
+            "folio": "009v",
             "sequence": "7",
             "incipit": "O admirabile*",
             "feast": "Purificatio Mariae",
@@ -1553,6 +1654,7 @@ var data = {
         },
         {
             "id": "009v8",
+            "folio": "009v",
             "sequence": "8",
             "incipit": "Ave maris stella*",
             "feast": "Purificatio Mariae",
@@ -1568,6 +1670,7 @@ var data = {
         },
         {
             "id": "009v9",
+            "folio": "009v",
             "sequence": "9",
             "incipit": "Responsum accepit Simeon*",
             "feast": "Purificatio Mariae",
@@ -1583,6 +1686,7 @@ var data = {
         },
         {
             "id": "009v10",
+            "folio": "009v",
             "sequence": "10",
             "incipit": "Senex puerum portabat puer",
             "feast": "Purificatio Mariae",
@@ -1600,6 +1704,7 @@ var data = {
     "10r": [
         {
             "id": "010r1",
+            "folio": "010r",
             "sequence": "1",
             "incipit": "Ecce venit ad templum sanctum",
             "feast": "Purificatio Mariae",
@@ -1615,6 +1720,7 @@ var data = {
         },
         {
             "id": "010r2",
+            "folio": "010r",
             "sequence": "2",
             "incipit": "Quem terra*",
             "feast": "Purificatio Mariae",
@@ -1630,6 +1736,7 @@ var data = {
         },
         {
             "id": "010r3",
+            "folio": "010r",
             "sequence": "3",
             "incipit": "Benedicta tu in mulieribus",
             "feast": "Purificatio Mariae",
@@ -1645,6 +1752,7 @@ var data = {
         },
         {
             "id": "010r4",
+            "folio": "010r",
             "sequence": "4",
             "incipit": "Sicut myrrha electa odorem",
             "feast": "Purificatio Mariae",
@@ -1660,6 +1768,7 @@ var data = {
         },
         {
             "id": "010r5",
+            "folio": "010r",
             "sequence": "5",
             "incipit": "Ante torum hujus virginis",
             "feast": "Purificatio Mariae",
@@ -1675,6 +1784,7 @@ var data = {
         },
         {
             "id": "010r6",
+            "folio": "010r",
             "sequence": "6",
             "incipit": "Adorna thalamum tuum Sion",
             "feast": "Purificatio Mariae",
@@ -1692,6 +1802,7 @@ var data = {
     "10v": [
         {
             "id": "010v1",
+            "folio": "010v",
             "sequence": "1",
             "incipit": "Induere vestimentis gloriae tuae",
             "feast": "Purificatio Mariae",
@@ -1707,6 +1818,7 @@ var data = {
         },
         {
             "id": "010v2",
+            "folio": "010v",
             "sequence": "2",
             "incipit": "Postquam impleti sunt dies",
             "feast": "Purificatio Mariae",
@@ -1722,6 +1834,7 @@ var data = {
         },
         {
             "id": "010v3",
+            "folio": "010v",
             "sequence": "3",
             "incipit": "Obtulerunt pro eo domino",
             "feast": "Purificatio Mariae",
@@ -1737,6 +1850,7 @@ var data = {
         },
         {
             "id": "010v4",
+            "folio": "010v",
             "sequence": "4",
             "incipit": "Obtulerunt pro eo domino",
             "feast": "Purificatio Mariae",
@@ -1752,6 +1866,7 @@ var data = {
         },
         {
             "id": "010v5",
+            "folio": "010v",
             "sequence": "5",
             "incipit": "Postquam autem impleti sunt",
             "feast": "Purificatio Mariae",
@@ -1769,6 +1884,7 @@ var data = {
     "11r": [
         {
             "id": "011r1",
+            "folio": "011r",
             "sequence": "1",
             "incipit": "Specie tua et pulchritudine tua",
             "feast": "Purificatio Mariae",
@@ -1784,6 +1900,7 @@ var data = {
         },
         {
             "id": "011r2",
+            "folio": "011r",
             "sequence": "2",
             "incipit": "Adjuvabit eam deus vultu suo",
             "feast": "Purificatio Mariae",
@@ -1799,6 +1916,7 @@ var data = {
         },
         {
             "id": "011r3",
+            "folio": "011r",
             "sequence": "3",
             "incipit": "Sicut laetantium omnium",
             "feast": "Purificatio Mariae",
@@ -1814,6 +1932,7 @@ var data = {
         },
         {
             "id": "011r4",
+            "folio": "011r",
             "sequence": "4",
             "incipit": "Adjuvabit eam deus*",
             "feast": "Purificatio Mariae",
@@ -1829,6 +1948,7 @@ var data = {
         },
         {
             "id": "011r5",
+            "folio": "011r",
             "sequence": "5",
             "incipit": "Simeon justus et timoratus",
             "feast": "Purificatio Mariae",
@@ -1844,6 +1964,7 @@ var data = {
         },
         {
             "id": "011r6",
+            "folio": "011r",
             "sequence": "6",
             "incipit": "Responsum accepit Simeon",
             "feast": "Purificatio Mariae",
@@ -1859,6 +1980,7 @@ var data = {
         },
         {
             "id": "011r7",
+            "folio": "011r",
             "sequence": "7",
             "incipit": "Responsum accepat Simeon",
             "feast": "Purificatio Mariae",
@@ -1876,6 +1998,7 @@ var data = {
     "11v": [
         {
             "id": "011v1",
+            "folio": "011v",
             "sequence": "1",
             "incipit": "Cum inducerent puerum",
             "feast": "Purificatio Mariae",
@@ -1891,6 +2014,7 @@ var data = {
         },
         {
             "id": "011v2",
+            "folio": "011v",
             "sequence": "2",
             "incipit": "Cum inducerent puerum",
             "feast": "Purificatio Mariae",
@@ -1906,6 +2030,7 @@ var data = {
         },
         {
             "id": "011v3",
+            "folio": "011v",
             "sequence": "3",
             "incipit": "Suscipiens puerum in manibus",
             "feast": "Purificatio Mariae",
@@ -1923,6 +2048,7 @@ var data = {
     "12r": [
         {
             "id": "012r1",
+            "folio": "012r",
             "sequence": "1",
             "incipit": "Gaude Maria virgo cunctas haereses",
             "feast": "Purificatio Mariae",
@@ -1938,6 +2064,7 @@ var data = {
         },
         {
             "id": "012r2",
+            "folio": "012r",
             "sequence": "2",
             "incipit": "Speciosa facta es et suavis",
             "feast": "Purificatio Mariae",
@@ -1953,6 +2080,7 @@ var data = {
         },
         {
             "id": "012r3",
+            "folio": "012r",
             "sequence": "3",
             "incipit": "Post partum virgo inviolata",
             "feast": "Purificatio Mariae",
@@ -1968,6 +2096,7 @@ var data = {
         },
         {
             "id": "012r4",
+            "folio": "012r",
             "sequence": "4",
             "incipit": "Elegit eam deus et praeelegit",
             "feast": "Purificatio Mariae",
@@ -1983,6 +2112,7 @@ var data = {
         },
         {
             "id": "012r5",
+            "folio": "012r",
             "sequence": "5",
             "incipit": "Suscipiens Jesum in ulnas",
             "feast": "Purificatio Mariae",
@@ -1998,6 +2128,7 @@ var data = {
         },
         {
             "id": "012r6",
+            "folio": "012r",
             "sequence": "6",
             "incipit": "Cum inducerent puerum",
             "feast": "Purificatio Mariae",
@@ -2015,6 +2146,7 @@ var data = {
     "12v": [
         {
             "id": "012v1",
+            "folio": "012v",
             "sequence": "1",
             "incipit": "Gaude Maria virgo cunctas",
             "feast": "Purificatio Mariae",
@@ -2030,6 +2162,7 @@ var data = {
         },
         {
             "id": "012v2",
+            "folio": "012v",
             "sequence": "2",
             "incipit": "Gabrielem archangelum",
             "feast": "Purificatio Mariae",
@@ -2045,6 +2178,7 @@ var data = {
         },
         {
             "id": "012v3",
+            "folio": "012v",
             "sequence": "3",
             "incipit": "Gloria patri et filio",
             "feast": "Purificatio Mariae",
@@ -2060,6 +2194,7 @@ var data = {
         },
         {
             "id": "012v4",
+            "folio": "012v",
             "sequence": "4",
             "incipit": "Simeon justus et timoratus",
             "feast": "Purificatio Mariae",
@@ -2075,6 +2210,7 @@ var data = {
         },
         {
             "id": "012v5",
+            "folio": "012v",
             "sequence": "5",
             "incipit": "Responsum accepit Simeon",
             "feast": "Purificatio Mariae",
@@ -2092,6 +2228,7 @@ var data = {
     "13r": [
         {
             "id": "013r1",
+            "folio": "013r",
             "sequence": "1",
             "incipit": "Accipiens Simeon puerum in manibus",
             "feast": "Purificatio Mariae",
@@ -2107,6 +2244,7 @@ var data = {
         },
         {
             "id": "013r2",
+            "folio": "013r",
             "sequence": "2",
             "incipit": "Revertere in terram Juda",
             "feast": "Purificatio Mariae",
@@ -2122,6 +2260,7 @@ var data = {
         },
         {
             "id": "013r3",
+            "folio": "013r",
             "sequence": "3",
             "incipit": "Obtulerunt pro eo domino",
             "feast": "Purificatio Mariae",
@@ -2137,6 +2276,7 @@ var data = {
         },
         {
             "id": "013r4",
+            "folio": "013r",
             "sequence": "4",
             "incipit": "O gloriosa domina*",
             "feast": "Purificatio Mariae",
@@ -2152,6 +2292,7 @@ var data = {
         },
         {
             "id": "013r5",
+            "folio": "013r",
             "sequence": "5",
             "incipit": "Diffusa est gratia*",
             "feast": "Purificatio Mariae",
@@ -2167,6 +2308,7 @@ var data = {
         },
         {
             "id": "013r6",
+            "folio": "013r",
             "sequence": "6",
             "incipit": "Cum inducerent puerum Jesum",
             "feast": "Purificatio Mariae",
@@ -2182,6 +2324,7 @@ var data = {
         },
         {
             "id": "013r7",
+            "folio": "013r",
             "sequence": "7",
             "incipit": "Simeon justus*",
             "feast": "Purificatio Mariae",
@@ -2197,6 +2340,7 @@ var data = {
         },
         {
             "id": "013r8",
+            "folio": "013r",
             "sequence": "8",
             "incipit": "Ave maris stella*",
             "feast": "Purificatio Mariae",
@@ -2212,6 +2356,7 @@ var data = {
         },
         {
             "id": "013r9",
+            "folio": "013r",
             "sequence": "9",
             "incipit": "Responsum accepit*",
             "feast": "Purificatio Mariae",
@@ -2227,6 +2372,7 @@ var data = {
         },
         {
             "id": "013r10",
+            "folio": "013r",
             "sequence": "10",
             "incipit": "Hodie beata virgo Maria",
             "feast": "Purificatio Mariae",
@@ -2244,6 +2390,7 @@ var data = {
     "13v": [
         {
             "id": "013v1",
+            "folio": "013v",
             "sequence": "1",
             "incipit": "Mentem sanctam spontaneam ",
             "feast": "Agathae",
@@ -2259,6 +2406,7 @@ var data = {
         },
         {
             "id": "013v2",
+            "folio": "013v",
             "sequence": "2",
             "incipit": "Regem virginum*",
             "feast": "Agathae",
@@ -2274,6 +2422,7 @@ var data = {
         },
         {
             "id": "013v3",
+            "folio": "013v",
             "sequence": "3",
             "incipit": "Virginum proles*",
             "feast": "Agathae",
@@ -2289,6 +2438,7 @@ var data = {
         },
         {
             "id": "013v4",
+            "folio": "013v",
             "sequence": "4",
             "incipit": "Ingenua sum et exspectabilis genere",
             "feast": "Agathae",
@@ -2304,6 +2454,7 @@ var data = {
         },
         {
             "id": "013v5",
+            "folio": "013v",
             "sequence": "5",
             "incipit": "Summa ingenuitas ista est ",
             "feast": "Agathae",
@@ -2319,6 +2470,7 @@ var data = {
         },
         {
             "id": "013v6",
+            "folio": "013v",
             "sequence": "6",
             "incipit": "Ancilla Christi sum ideo me ",
             "feast": "Agathae",
@@ -2334,6 +2486,7 @@ var data = {
         },
         {
             "id": "013v7",
+            "folio": "013v",
             "sequence": "7",
             "incipit": "Specie tua et pulchritudine*",
             "feast": null,
@@ -2349,6 +2502,7 @@ var data = {
         },
         {
             "id": "013v8",
+            "folio": "013v",
             "sequence": "8",
             "incipit": "Dum torqueretur beata Agatha",
             "feast": "Agathae",
@@ -2366,6 +2520,7 @@ var data = {
     "14r": [
         {
             "id": "014r1",
+            "folio": "014r",
             "sequence": "1",
             "incipit": "Ego autem habeo mamillas",
             "feast": "Agathae",
@@ -2381,6 +2536,7 @@ var data = {
         },
         {
             "id": "014r2",
+            "folio": "014r",
             "sequence": "2",
             "incipit": "Agatha laetissima et glorianter",
             "feast": "Agathae",
@@ -2396,6 +2552,7 @@ var data = {
         },
         {
             "id": "014r3",
+            "folio": "014r",
             "sequence": "3",
             "incipit": "Nobilissimis orta natalibus",
             "feast": "Agathae",
@@ -2411,6 +2568,7 @@ var data = {
         },
         {
             "id": "014r4",
+            "folio": "014r",
             "sequence": "4",
             "incipit": "Quis es tu qui venisti ",
             "feast": "Agathae",
@@ -2426,6 +2584,7 @@ var data = {
         },
         {
             "id": "014r5",
+            "folio": "014r",
             "sequence": "5",
             "incipit": "Nam et ego apostolus eius",
             "feast": "Agathae",
@@ -2443,6 +2602,7 @@ var data = {
     "14v": [
         {
             "id": "014v1",
+            "folio": "014v",
             "sequence": "1",
             "incipit": "Agatha sancta dixit si feras",
             "feast": "Agathae",
@@ -2458,6 +2618,7 @@ var data = {
         },
         {
             "id": "014v2",
+            "folio": "014v",
             "sequence": "2",
             "incipit": "Si ignem adhibeas rorem mihi",
             "feast": "Agathae",
@@ -2473,6 +2634,7 @@ var data = {
         },
         {
             "id": "014v3",
+            "folio": "014v",
             "sequence": "3",
             "incipit": "Agatha laetissima et glorianter",
             "feast": "Agathae",
@@ -2488,6 +2650,7 @@ var data = {
         },
         {
             "id": "014v4",
+            "folio": "014v",
             "sequence": "4",
             "incipit": "Adjuvabit eam deus vultu suo*",
             "feast": null,
@@ -2503,6 +2666,7 @@ var data = {
         },
         {
             "id": "014v5",
+            "folio": "014v",
             "sequence": "5",
             "incipit": "Ego autem adjuvata a domino",
             "feast": "Agathae",
@@ -2518,6 +2682,7 @@ var data = {
         },
         {
             "id": "014v6",
+            "folio": "014v",
             "sequence": "6",
             "incipit": "Gratias tibi ago domine",
             "feast": "Agathae",
@@ -2535,6 +2700,7 @@ var data = {
     "15r": [
         {
             "id": "015r1",
+            "folio": "015r",
             "sequence": "1",
             "incipit": "Ipse me curavit",
             "feast": "Agathae",
@@ -2550,6 +2716,7 @@ var data = {
         },
         {
             "id": "015r2",
+            "folio": "015r",
             "sequence": "2",
             "incipit": "Ipse me dignatus est",
             "feast": "Agathae",
@@ -2565,6 +2732,7 @@ var data = {
         },
         {
             "id": "015r3",
+            "folio": "015r",
             "sequence": "3",
             "incipit": "Vidisti domine et exspectasti",
             "feast": "Agathae",
@@ -2580,6 +2748,7 @@ var data = {
         },
         {
             "id": "015r4",
+            "folio": "015r",
             "sequence": "4",
             "incipit": "Propter veritatem",
             "feast": "Agathae",
@@ -2597,6 +2766,7 @@ var data = {
     "15v": [
         {
             "id": "015v1",
+            "folio": "015v",
             "sequence": "1",
             "incipit": "Nisi diligenter perfeceris",
             "feast": "Agathae",
@@ -2612,6 +2782,7 @@ var data = {
         },
         {
             "id": "015v2",
+            "folio": "015v",
             "sequence": "2",
             "incipit": "Vidisti domine agonem meum",
             "feast": "Agathae",
@@ -2627,6 +2798,7 @@ var data = {
         },
         {
             "id": "015v3",
+            "folio": "015v",
             "sequence": "3",
             "incipit": "Propter fidem castitatis",
             "feast": "Agathae",
@@ -2642,6 +2814,7 @@ var data = {
         },
         {
             "id": "015v4",
+            "folio": "015v",
             "sequence": "4",
             "incipit": "Elegit eam deus*",
             "feast": null,
@@ -2657,6 +2830,7 @@ var data = {
         },
         {
             "id": "015v5",
+            "folio": "015v",
             "sequence": "5",
             "incipit": "Beata Agatha ingessa",
             "feast": "Agathae",
@@ -2674,6 +2848,7 @@ var data = {
     "16r": [
         {
             "id": "016r1",
+            "folio": "016r",
             "sequence": "1",
             "incipit": "Domine qui me creasti",
             "feast": "Agathae",
@@ -2689,6 +2864,7 @@ var data = {
         },
         {
             "id": "016r2",
+            "folio": "016r",
             "sequence": "2",
             "incipit": "Gaudeamus omnes in domino",
             "feast": "Agathae",
@@ -2704,6 +2880,7 @@ var data = {
         },
         {
             "id": "016r3",
+            "folio": "016r",
             "sequence": "3",
             "incipit": "Immaculatus dominus",
             "feast": "Agathae",
@@ -2719,6 +2896,7 @@ var data = {
         },
         {
             "id": "016r4",
+            "folio": "016r",
             "sequence": "4",
             "incipit": "Quis es tu qui venisti ",
             "feast": "Agathae",
@@ -2734,6 +2912,7 @@ var data = {
         },
         {
             "id": "016r5",
+            "folio": "016r",
             "sequence": "5",
             "incipit": "Medicinam carnalem corpori",
             "feast": "Agathae",
@@ -2751,6 +2930,7 @@ var data = {
     "16v": [
         {
             "id": "016v1",
+            "folio": "016v",
             "sequence": "1",
             "incipit": "Gracias tibi ago domine",
             "feast": "Agathae",
@@ -2766,6 +2946,7 @@ var data = {
         },
         {
             "id": "016v2",
+            "folio": "016v",
             "sequence": "2",
             "incipit": "Benedico te pater domini mei",
             "feast": "Agathae",
@@ -2781,6 +2962,7 @@ var data = {
         },
         {
             "id": "016v3",
+            "folio": "016v",
             "sequence": "3",
             "incipit": "Qui me dignatus est ab ",
             "feast": "Agathae",
@@ -2796,6 +2978,7 @@ var data = {
         },
         {
             "id": "016v4",
+            "folio": "016v",
             "sequence": "4",
             "incipit": "Paganorum multitudo fugiens",
             "feast": "Agathae",
@@ -2813,6 +2996,7 @@ var data = {
     "17r": [
         {
             "id": "017r1",
+            "folio": "017r",
             "sequence": "1",
             "incipit": "Quis es tu qui venisti ",
             "feast": "Agathae",
@@ -2828,6 +3012,7 @@ var data = {
         },
         {
             "id": "017r2",
+            "folio": "017r",
             "sequence": "2",
             "incipit": "Stans beata Agatha in medio ",
             "feast": "Agathae",
@@ -2843,6 +3028,7 @@ var data = {
         },
         {
             "id": "017r3",
+            "folio": "017r",
             "sequence": "3",
             "incipit": "Quodcumque vinclis*",
             "feast": "Cathedra Petri",
@@ -2858,6 +3044,7 @@ var data = {
         },
         {
             "id": "017r4",
+            "folio": "017r",
             "sequence": "4",
             "incipit": "Tu es petrus*",
             "feast": "Cathedra Petri",
@@ -2873,6 +3060,7 @@ var data = {
         },
         {
             "id": "017r5",
+            "folio": "017r",
             "sequence": "5",
             "incipit": "Tu es pastor ovium princeps ",
             "feast": "Cathedra Petri",
@@ -2888,6 +3076,7 @@ var data = {
         },
         {
             "id": "017r6",
+            "folio": "017r",
             "sequence": "6",
             "incipit": "Tu es pastor ovium princeps",
             "feast": "Cathedra Petri",
@@ -2903,6 +3092,7 @@ var data = {
         },
         {
             "id": "017r7",
+            "folio": "017r",
             "sequence": "7",
             "incipit": "Quodcumque vinclis*",
             "feast": "Cathedra Petri",
@@ -2918,6 +3108,7 @@ var data = {
         },
         {
             "id": "017r8",
+            "folio": "017r",
             "sequence": "8",
             "incipit": "Ecce sacerdos*",
             "feast": "Cathedra Petri",
@@ -2933,6 +3124,7 @@ var data = {
         },
         {
             "id": "017r9",
+            "folio": "017r",
             "sequence": "9",
             "incipit": "Jam bone pastor*",
             "feast": "Cathedra Petri",
@@ -2948,6 +3140,7 @@ var data = {
         },
         {
             "id": "017r10",
+            "folio": "017r",
             "sequence": "10",
             "incipit": "Elegit te dominus*",
             "feast": "Cathedra Petri",
@@ -2963,6 +3156,7 @@ var data = {
         },
         {
             "id": "017r11",
+            "folio": "017r",
             "sequence": "11",
             "incipit": "Quodcumque vinclis*",
             "feast": "Cathedra Petri",
@@ -2978,6 +3172,7 @@ var data = {
         },
         {
             "id": "017r12",
+            "folio": "017r",
             "sequence": "12",
             "incipit": "Elegit te dominus*",
             "feast": "Cathedra Petri",
@@ -2993,6 +3188,7 @@ var data = {
         },
         {
             "id": "017r13",
+            "folio": "017r",
             "sequence": "13",
             "incipit": "Cum esset summus pontifex",
             "feast": "Cathedra Petri",
@@ -3010,6 +3206,7 @@ var data = {
     "17v": [
         {
             "id": "017v1",
+            "folio": "017v",
             "sequence": "1",
             "incipit": "Ave maris stella*",
             "feast": "Annuntiatio Mariae",
@@ -3025,6 +3222,7 @@ var data = {
         },
         {
             "id": "017v2",
+            "folio": "017v",
             "sequence": "2",
             "incipit": "Ave maria gratia plena",
             "feast": "Annuntiatio Mariae",
@@ -3040,6 +3238,7 @@ var data = {
         },
         {
             "id": "017v3",
+            "folio": "017v",
             "sequence": "3",
             "incipit": "Spiritus sanctus in te descendet",
             "feast": "Annuntiatio Mariae",
@@ -3055,6 +3254,7 @@ var data = {
         },
         {
             "id": "017v4",
+            "folio": "017v",
             "sequence": "4",
             "incipit": "Ave Maria gratia plena",
             "feast": "Annuntiatio Mariae",
@@ -3070,6 +3270,7 @@ var data = {
         },
         {
             "id": "017v5",
+            "folio": "017v",
             "sequence": "5",
             "incipit": "Quem terra*",
             "feast": "Annuntiatio Mariae",
@@ -3085,6 +3286,7 @@ var data = {
         },
         {
             "id": "017v6",
+            "folio": "017v",
             "sequence": "6",
             "incipit": "Missus est Gabriel*",
             "feast": "Annuntiatio Mariae",
@@ -3100,6 +3302,7 @@ var data = {
         },
         {
             "id": "017v7",
+            "folio": "017v",
             "sequence": "7",
             "incipit": "Ave Maria*",
             "feast": "Annuntiatio Mariae",
@@ -3115,6 +3318,7 @@ var data = {
         },
         {
             "id": "017v8",
+            "folio": "017v",
             "sequence": "8",
             "incipit": "Suscipe verbum*",
             "feast": "Annuntiatio Mariae",
@@ -3130,6 +3334,7 @@ var data = {
         },
         {
             "id": "017v9",
+            "folio": "017v",
             "sequence": "9",
             "incipit": "Ecce virgo concipiet*",
             "feast": "Annuntiatio Mariae",
@@ -3145,6 +3350,7 @@ var data = {
         },
         {
             "id": "017v10",
+            "folio": "017v",
             "sequence": "10",
             "incipit": "Egredietur virga*",
             "feast": "Annuntiatio Mariae",
@@ -3160,6 +3366,7 @@ var data = {
         },
         {
             "id": "017v11",
+            "folio": "017v",
             "sequence": "11",
             "incipit": "Sancte et immaculata*",
             "feast": "Annuntiatio Mariae",
@@ -3175,6 +3382,7 @@ var data = {
         },
         {
             "id": "017v12",
+            "folio": "017v",
             "sequence": "12",
             "incipit": "Congratulamini nunc omnes*",
             "feast": "Annuntiatio Mariae",
@@ -3190,6 +3398,7 @@ var data = {
         },
         {
             "id": "017v13",
+            "folio": "017v",
             "sequence": "13",
             "incipit": "Gaude Maria*",
             "feast": "Annuntiatio Mariae",
@@ -3205,6 +3414,7 @@ var data = {
         },
         {
             "id": "017v14",
+            "folio": "017v",
             "sequence": "14",
             "incipit": "Beatam me dicent*",
             "feast": "Annuntiatio Mariae",
@@ -3220,6 +3430,7 @@ var data = {
         },
         {
             "id": "017v15",
+            "folio": "017v",
             "sequence": "15",
             "incipit": "Missus est Gabriel angelus",
             "feast": "Annuntiatio Mariae",
@@ -3235,6 +3446,7 @@ var data = {
         },
         {
             "id": "017v16",
+            "folio": "017v",
             "sequence": "16",
             "incipit": "Ave Maria gratia plena",
             "feast": "Annuntiatio Mariae",
@@ -3250,6 +3462,7 @@ var data = {
         },
         {
             "id": "017v17",
+            "folio": "017v",
             "sequence": "17",
             "incipit": "Ne timeas Maria",
             "feast": "Annuntiatio Mariae",
@@ -3265,6 +3478,7 @@ var data = {
         },
         {
             "id": "017v18",
+            "folio": "017v",
             "sequence": "18",
             "incipit": "Dabit ei dominus",
             "feast": "Annuntiatio Mariae",
@@ -3280,6 +3494,7 @@ var data = {
         },
         {
             "id": "017v19",
+            "folio": "017v",
             "sequence": "19",
             "incipit": "Ecce ancilla domini",
             "feast": "Annuntiatio Mariae",
@@ -3295,6 +3510,7 @@ var data = {
         },
         {
             "id": "017v20",
+            "folio": "017v",
             "sequence": "20",
             "incipit": "O gloriosa domina*",
             "feast": "Annuntiatio Mariae",
@@ -3310,6 +3526,7 @@ var data = {
         },
         {
             "id": "017v21",
+            "folio": "017v",
             "sequence": "21",
             "incipit": "Ave maria gratia*",
             "feast": "Annuntiatio Mariae",
@@ -3327,6 +3544,7 @@ var data = {
     "18r": [
         {
             "id": "018r1",
+            "folio": "018r",
             "sequence": "1",
             "incipit": "Quomodo fiet istud angele dei",
             "feast": "Annuntiatio Mariae",
@@ -3342,6 +3560,7 @@ var data = {
         },
         {
             "id": "018r2",
+            "folio": "018r",
             "sequence": "2",
             "incipit": "Gabriel angelus locutus est",
             "feast": "Annuntiatio Mariae",
@@ -3357,6 +3576,7 @@ var data = {
         },
         {
             "id": "018r3",
+            "folio": "018r",
             "sequence": "3",
             "incipit": "Lux perpetua lucebit sanctis ",
             "feast": "De Sanctis TP",
@@ -3372,6 +3592,7 @@ var data = {
         },
         {
             "id": "018r4",
+            "folio": "018r",
             "sequence": "4",
             "incipit": "Exsultent in domino sancti",
             "feast": "De Sanctis TP",
@@ -3387,6 +3608,7 @@ var data = {
         },
         {
             "id": "018r5",
+            "folio": "018r",
             "sequence": "5",
             "incipit": "Stabunt justi in magna constantia",
             "feast": "De Sanctis TP",
@@ -3402,6 +3624,7 @@ var data = {
         },
         {
             "id": "018r6",
+            "folio": "018r",
             "sequence": "6",
             "incipit": "Sancti et justi in domino",
             "feast": "De Sanctis TP",
@@ -3417,6 +3640,7 @@ var data = {
         },
         {
             "id": "018r7",
+            "folio": "018r",
             "sequence": "7",
             "incipit": "Beatus vir qui metuit dominum",
             "feast": "De Sanctis TP",
@@ -3434,6 +3658,7 @@ var data = {
     "18v": [
         {
             "id": "018v1",
+            "folio": "018v",
             "sequence": "1",
             "incipit": "Gloria et divitiae in domo",
             "feast": "De Sanctis TP",
@@ -3449,6 +3674,7 @@ var data = {
         },
         {
             "id": "018v2",
+            "folio": "018v",
             "sequence": "2",
             "incipit": "Tristitia vestra alleluia",
             "feast": "De Sanctis TP",
@@ -3464,6 +3690,7 @@ var data = {
         },
         {
             "id": "018v3",
+            "folio": "018v",
             "sequence": "3",
             "incipit": "Mundus autem gaudebit",
             "feast": "De Sanctis TP",
@@ -3479,6 +3706,7 @@ var data = {
         },
         {
             "id": "018v4",
+            "folio": "018v",
             "sequence": "4",
             "incipit": "Pretiosa in conspectu domini",
             "feast": "De Sanctis TP",
@@ -3494,6 +3722,7 @@ var data = {
         },
         {
             "id": "018v5",
+            "folio": "018v",
             "sequence": "5",
             "incipit": "Custodit dominus omnia ossa",
             "feast": "De Sanctis TP",
@@ -3509,6 +3738,7 @@ var data = {
         },
         {
             "id": "018v6",
+            "folio": "018v",
             "sequence": "6",
             "incipit": "Ecce quomodo computati",
             "feast": "De Sanctis TP",
@@ -3526,6 +3756,7 @@ var data = {
     "19r": [
         {
             "id": "019r1",
+            "folio": "019r",
             "sequence": "1",
             "incipit": "Lux perpetua lucebit sanctis",
             "feast": "De Sanctis TP",
@@ -3541,6 +3772,7 @@ var data = {
         },
         {
             "id": "019r2",
+            "folio": "019r",
             "sequence": "2",
             "incipit": "Lux perpetua lucebit sanctis",
             "feast": "De Sanctis TP",
@@ -3556,6 +3788,7 @@ var data = {
         },
         {
             "id": "019r3",
+            "folio": "019r",
             "sequence": "3",
             "incipit": "Laetitia sempiterna erit",
             "feast": "De Sanctis TP",
@@ -3571,6 +3804,7 @@ var data = {
         },
         {
             "id": "019r4",
+            "folio": "019r",
             "sequence": "4",
             "incipit": "In servis suis alleluia",
             "feast": "De Sanctis TP",
@@ -3586,6 +3820,7 @@ var data = {
         },
         {
             "id": "019r5",
+            "folio": "019r",
             "sequence": "5",
             "incipit": "Judicabit dominus populum",
             "feast": "De Sanctis TP",
@@ -3601,6 +3836,7 @@ var data = {
         },
         {
             "id": "019r6",
+            "folio": "019r",
             "sequence": "6",
             "incipit": "Filiae Jerusalem venite",
             "feast": "De Sanctis TP",
@@ -3616,6 +3852,7 @@ var data = {
         },
         {
             "id": "019r7",
+            "folio": "019r",
             "sequence": "7",
             "incipit": "Quoniam confortavit seras",
             "feast": "De Sanctis TP",
@@ -3633,6 +3870,7 @@ var data = {
     "19v": [
         {
             "id": "019v1",
+            "folio": "019v",
             "sequence": "1",
             "incipit": "Lux perpetua lucebit sanctis",
             "feast": "De Sanctis TP",
@@ -3648,6 +3886,7 @@ var data = {
         },
         {
             "id": "019v2",
+            "folio": "019v",
             "sequence": "2",
             "incipit": "Laetitia sempiterna super",
             "feast": "De Sanctis TP",
@@ -3663,6 +3902,7 @@ var data = {
         },
         {
             "id": "019v3",
+            "folio": "019v",
             "sequence": "3",
             "incipit": "Ego sum vitis vera et ",
             "feast": "De Sanctis TP",
@@ -3678,6 +3918,7 @@ var data = {
         },
         {
             "id": "019v4",
+            "folio": "019v",
             "sequence": "4",
             "incipit": "Sicut dilexit me pater et ",
             "feast": "De Sanctis TP",
@@ -3693,6 +3934,7 @@ var data = {
         },
         {
             "id": "019v5",
+            "folio": "019v",
             "sequence": "5",
             "incipit": "Candidi facti sunt",
             "feast": "De Sanctis TP",
@@ -3708,6 +3950,7 @@ var data = {
         },
         {
             "id": "019v6",
+            "folio": "019v",
             "sequence": "6",
             "incipit": "Candidiores nive nitidiores",
             "feast": "De Sanctis TP",
@@ -3723,6 +3966,7 @@ var data = {
         },
         {
             "id": "019v7",
+            "folio": "019v",
             "sequence": "7",
             "incipit": "Sancti tui domine florebunt ",
             "feast": "De Sanctis TP",
@@ -3740,6 +3984,7 @@ var data = {
     "20r": [
         {
             "id": "020r1",
+            "folio": "020r",
             "sequence": "1",
             "incipit": "In caelestibus regnis sanctorum",
             "feast": "De Sanctis TP",
@@ -3755,6 +4000,7 @@ var data = {
         },
         {
             "id": "020r2",
+            "folio": "020r",
             "sequence": "2",
             "incipit": "In velamento clamabunt sancti",
             "feast": "De Sanctis TP",
@@ -3770,6 +4016,7 @@ var data = {
         },
         {
             "id": "020r3",
+            "folio": "020r",
             "sequence": "3",
             "incipit": "Spiritus et animae justorum",
             "feast": "De Sanctis TP",
@@ -3785,6 +4032,7 @@ var data = {
         },
         {
             "id": "020r4",
+            "folio": "020r",
             "sequence": "4",
             "incipit": "Fulgebunt justi sicut sol",
             "feast": "De Sanctis TP",
@@ -3800,6 +4048,7 @@ var data = {
         },
         {
             "id": "020r5",
+            "folio": "020r",
             "sequence": "5",
             "incipit": "Pretiosa in conspectu domini",
             "feast": "De Sanctis TP",
@@ -3815,6 +4064,7 @@ var data = {
         },
         {
             "id": "020r6",
+            "folio": "020r",
             "sequence": "6",
             "incipit": "Filiae Jerusalem venite et videte",
             "feast": "De Sanctis TP",
@@ -3830,6 +4080,7 @@ var data = {
         },
         {
             "id": "020r7",
+            "folio": "020r",
             "sequence": "7",
             "incipit": "Sancti et justi in domino",
             "feast": "De Sanctis TP",
@@ -3847,6 +4098,7 @@ var data = {
     "20v": [
         {
             "id": "020v1",
+            "folio": "020v",
             "sequence": "1",
             "incipit": "Vos elegit deus",
             "feast": "De Sanctis TP",
@@ -3862,6 +4114,7 @@ var data = {
         },
         {
             "id": "020v2",
+            "folio": "020v",
             "sequence": "2",
             "incipit": "Gloria*",
             "feast": "De Sanctis TP",
@@ -3877,6 +4130,7 @@ var data = {
         },
         {
             "id": "020v3",
+            "folio": "020v",
             "sequence": "3",
             "incipit": "Lux perpetua lucebit sanctis",
             "feast": "De Sanctis TP",
@@ -3892,6 +4146,7 @@ var data = {
         },
         {
             "id": "020v4",
+            "folio": "020v",
             "sequence": "4",
             "incipit": "Lux perpetua lucebit ",
             "feast": "De Sanctis TP",
@@ -3907,6 +4162,7 @@ var data = {
         },
         {
             "id": "020v5",
+            "folio": "020v",
             "sequence": "5",
             "incipit": "Et eternitas temporum",
             "feast": "De Sanctis TP",
@@ -3922,6 +4178,7 @@ var data = {
         },
         {
             "id": "020v6",
+            "folio": "020v",
             "sequence": "6",
             "incipit": "Letitia sempiterna",
             "feast": "De Sanctis TP",
@@ -3937,6 +4194,7 @@ var data = {
         },
         {
             "id": "020v7",
+            "folio": "020v",
             "sequence": "7",
             "incipit": "Letitia sempiterna",
             "feast": "De Sanctis TP",
@@ -3952,6 +4210,7 @@ var data = {
         },
         {
             "id": "020v8",
+            "folio": "020v",
             "sequence": "8",
             "incipit": "Gaudium et exultationem",
             "feast": "De Sanctis TP",
@@ -3967,6 +4226,7 @@ var data = {
         },
         {
             "id": "020v9",
+            "folio": "020v",
             "sequence": "9",
             "incipit": "Pretiosa in conspectu domini",
             "feast": "De Sanctis TP",
@@ -3982,6 +4242,7 @@ var data = {
         },
         {
             "id": "020v10",
+            "folio": "020v",
             "sequence": "10",
             "incipit": "Sancti et justi in domino",
             "feast": "De Sanctis TP",
@@ -3997,6 +4258,7 @@ var data = {
         },
         {
             "id": "020v11",
+            "folio": "020v",
             "sequence": "11",
             "incipit": "Tristes erant apostoli*",
             "feast": null,
@@ -4012,6 +4274,7 @@ var data = {
         },
         {
             "id": "020v12",
+            "folio": "020v",
             "sequence": "12",
             "incipit": "Sancti et justi in domino",
             "feast": null,
@@ -4027,6 +4290,7 @@ var data = {
         },
         {
             "id": "020v13",
+            "folio": "020v",
             "sequence": "13",
             "incipit": "Non turbetur cor vestrum ",
             "feast": null,
@@ -4042,6 +4306,7 @@ var data = {
         },
         {
             "id": "020v14",
+            "folio": "020v",
             "sequence": "14",
             "incipit": "Regem apostolorum*",
             "feast": null,
@@ -4057,6 +4322,7 @@ var data = {
         },
         {
             "id": "020v15",
+            "folio": "020v",
             "sequence": "15",
             "incipit": "Tristes erant*",
             "feast": null,
@@ -4072,6 +4338,7 @@ var data = {
         },
         {
             "id": "020v16",
+            "folio": "020v",
             "sequence": "16",
             "incipit": "Stabant justi",
             "feast": null,
@@ -4087,6 +4354,7 @@ var data = {
         },
         {
             "id": "020v17",
+            "folio": "020v",
             "sequence": "17",
             "incipit": "Tristitia vestra*",
             "feast": null,
@@ -4102,6 +4370,7 @@ var data = {
         },
         {
             "id": "020v18",
+            "folio": "020v",
             "sequence": "18",
             "incipit": "Pretiosa*",
             "feast": null,
@@ -4117,6 +4386,7 @@ var data = {
         },
         {
             "id": "020v19",
+            "folio": "020v",
             "sequence": "19",
             "incipit": "Lux perpetua*",
             "feast": null,
@@ -4132,6 +4402,7 @@ var data = {
         },
         {
             "id": "020v20",
+            "folio": "020v",
             "sequence": "20",
             "incipit": "Filiae Jerusalem*",
             "feast": null,
@@ -4147,6 +4418,7 @@ var data = {
         },
         {
             "id": "020v21",
+            "folio": "020v",
             "sequence": "21",
             "incipit": "Virtute magna*",
             "feast": null,
@@ -4162,6 +4434,7 @@ var data = {
         },
         {
             "id": "020v22",
+            "folio": "020v",
             "sequence": "22",
             "incipit": "Isti sunt agni novelli*",
             "feast": null,
@@ -4177,6 +4450,7 @@ var data = {
         },
         {
             "id": "020v23",
+            "folio": "020v",
             "sequence": "23",
             "incipit": "Ego sum vitis*",
             "feast": null,
@@ -4192,6 +4466,7 @@ var data = {
         },
         {
             "id": "020v24",
+            "folio": "020v",
             "sequence": "24",
             "incipit": "Candidi facti sunt*",
             "feast": null,
@@ -4207,6 +4482,7 @@ var data = {
         },
         {
             "id": "020v25",
+            "folio": "020v",
             "sequence": "25",
             "incipit": "Domine ostende nobis patrem",
             "feast": null,
@@ -4222,6 +4498,7 @@ var data = {
         },
         {
             "id": "020v26",
+            "folio": "020v",
             "sequence": "26",
             "incipit": "Philippe qui videt me ",
             "feast": null,
@@ -4239,6 +4516,7 @@ var data = {
     "21r": [
         {
             "id": "021r1",
+            "folio": "021r",
             "sequence": "1",
             "incipit": "Tanto tempore vobiscum ",
             "feast": null,
@@ -4254,6 +4532,7 @@ var data = {
         },
         {
             "id": "021r2",
+            "folio": "021r",
             "sequence": "2",
             "incipit": "Si cognovissetis me et patrem",
             "feast": null,
@@ -4269,6 +4548,7 @@ var data = {
         },
         {
             "id": "021r3",
+            "folio": "021r",
             "sequence": "3",
             "incipit": "Si diligitis me sermonum meum",
             "feast": null,
@@ -4284,6 +4564,7 @@ var data = {
         },
         {
             "id": "021r4",
+            "folio": "021r",
             "sequence": "4",
             "incipit": "Exsultet caelum*",
             "feast": null,
@@ -4299,6 +4580,7 @@ var data = {
         },
         {
             "id": "021r5",
+            "folio": "021r",
             "sequence": "5",
             "incipit": "Pretiosa in conspectu*",
             "feast": null,
@@ -4314,6 +4596,7 @@ var data = {
         },
         {
             "id": "021r6",
+            "folio": "021r",
             "sequence": "6",
             "incipit": "Ego sum via veritas et ",
             "feast": null,
@@ -4329,6 +4612,7 @@ var data = {
         },
         {
             "id": "021r7",
+            "folio": "021r",
             "sequence": "7",
             "incipit": "Domine ostende*",
             "feast": null,
@@ -4344,6 +4628,7 @@ var data = {
         },
         {
             "id": "021r8",
+            "folio": "021r",
             "sequence": "8",
             "incipit": "Tristes eranti*",
             "feast": null,
@@ -4359,6 +4644,7 @@ var data = {
         },
         {
             "id": "021r9",
+            "folio": "021r",
             "sequence": "9",
             "incipit": "Pretiosa in conspectu*",
             "feast": null,
@@ -4374,6 +4660,7 @@ var data = {
         },
         {
             "id": "021r10",
+            "folio": "021r",
             "sequence": "10",
             "incipit": "Si manseritis in me ",
             "feast": null,
@@ -4389,6 +4676,7 @@ var data = {
         },
         {
             "id": "021r11",
+            "folio": "021r",
             "sequence": "11",
             "incipit": "O crux ave*",
             "feast": "Inventio Crucis",
@@ -4404,6 +4692,7 @@ var data = {
         },
         {
             "id": "021r12",
+            "folio": "021r",
             "sequence": "12",
             "incipit": "Hoc signum crucis",
             "feast": "Inventio Crucis",
@@ -4419,6 +4708,7 @@ var data = {
         },
         {
             "id": "021r13",
+            "folio": "021r",
             "sequence": "13",
             "incipit": "O crux splendidior cunctis",
             "feast": "Inventio Crucis",
@@ -4436,6 +4726,7 @@ var data = {
     "21v": [
         {
             "id": "021v1",
+            "folio": "021v",
             "sequence": "1",
             "incipit": "Adoramus te Christe",
             "feast": "Inventio Crucis",
@@ -4451,6 +4742,7 @@ var data = {
         },
         {
             "id": "021v2",
+            "folio": "021v",
             "sequence": "2",
             "incipit": "Dulce lignum dulces clavos",
             "feast": "Inventio Crucis",
@@ -4466,6 +4758,7 @@ var data = {
         },
         {
             "id": "021v3",
+            "folio": "021v",
             "sequence": "3",
             "incipit": "Hoc signum crucis erit",
             "feast": "Inventio Crucis",
@@ -4483,6 +4776,7 @@ var data = {
     "22r": [
         {
             "id": "022r1",
+            "folio": "022r",
             "sequence": "1",
             "incipit": "Hoc signum crucis erit",
             "feast": "Inventio Crucis",
@@ -4498,6 +4792,7 @@ var data = {
         },
         {
             "id": "022r2",
+            "folio": "022r",
             "sequence": "2",
             "incipit": "Cum sederit filius",
             "feast": "Inventio Crucis",
@@ -4513,6 +4808,7 @@ var data = {
         },
         {
             "id": "022r3",
+            "folio": "022r",
             "sequence": "3",
             "incipit": "Helena Constantini mater     ",
             "feast": "Inventio Crucis",
@@ -4528,6 +4824,7 @@ var data = {
         },
         {
             "id": "022r4",
+            "folio": "022r",
             "sequence": "4",
             "incipit": "Tunc praecepit eos omnes",
             "feast": "Inventio Crucis",
@@ -4543,6 +4840,7 @@ var data = {
         },
         {
             "id": "022r5",
+            "folio": "022r",
             "sequence": "5",
             "incipit": "Mors et vita apposita",
             "feast": "Inventio Crucis",
@@ -4558,6 +4856,7 @@ var data = {
         },
         {
             "id": "022r6",
+            "folio": "022r",
             "sequence": "6",
             "incipit": "Cumque ascendisset Judas",
             "feast": "Inventio Crucis",
@@ -4573,6 +4872,7 @@ var data = {
         },
         {
             "id": "022r7",
+            "folio": "022r",
             "sequence": "7",
             "incipit": "Orabat Judas deus deus meus",
             "feast": "Inventio Crucis",
@@ -4590,6 +4890,7 @@ var data = {
     "22v": [
         {
             "id": "022v1",
+            "folio": "022v",
             "sequence": "1",
             "incipit": "O crux ave*",
             "feast": "Inventio Crucis",
@@ -4605,6 +4906,7 @@ var data = {
         },
         {
             "id": "022v2",
+            "folio": "022v",
             "sequence": "2",
             "incipit": "Adoramus te Christe",
             "feast": "Inventio Crucis",
@@ -4620,6 +4922,7 @@ var data = {
         },
         {
             "id": "022v3",
+            "folio": "022v",
             "sequence": "3",
             "incipit": "Helena sancta dixit at Judam",
             "feast": "Inventio Crucis",
@@ -4635,6 +4938,7 @@ var data = {
         },
         {
             "id": "022v4",
+            "folio": "022v",
             "sequence": "4",
             "incipit": "Hoc signum crucis erit",
             "feast": "Inventio Crucis",
@@ -4650,6 +4954,7 @@ var data = {
         },
         {
             "id": "022v5",
+            "folio": "022v",
             "sequence": "5",
             "incipit": "Cum dominus ad judicandum",
             "feast": "Inventio Crucis",
@@ -4665,6 +4970,7 @@ var data = {
         },
         {
             "id": "022v6",
+            "folio": "022v",
             "sequence": "6",
             "incipit": "Adoramus te Christe",
             "feast": "Inventio Crucis",
@@ -4680,6 +4986,7 @@ var data = {
         },
         {
             "id": "022v7",
+            "folio": "022v",
             "sequence": "7",
             "incipit": "Adoramus te Christe",
             "feast": "Inventio Crucis",
@@ -4695,6 +5002,7 @@ var data = {
         },
         {
             "id": "022v8",
+            "folio": "022v",
             "sequence": "8",
             "incipit": "Quia per crucem tuam redemisti",
             "feast": "Inventio Crucis",
@@ -4710,6 +5018,7 @@ var data = {
         },
         {
             "id": "022v9",
+            "folio": "022v",
             "sequence": "9",
             "incipit": "Omnis terra adoret te",
             "feast": "Inventio Crucis",
@@ -4725,6 +5034,7 @@ var data = {
         },
         {
             "id": "022v10",
+            "folio": "022v",
             "sequence": "10",
             "incipit": "Omnis terra adoret te",
             "feast": "Inventio Crucis",
@@ -4740,6 +5050,7 @@ var data = {
         },
         {
             "id": "022v11",
+            "folio": "022v",
             "sequence": "11",
             "incipit": "Psalmum dicat nomini tuo",
             "feast": "Inventio Crucis",
@@ -4755,6 +5066,7 @@ var data = {
         },
         {
             "id": "022v12",
+            "folio": "022v",
             "sequence": "12",
             "incipit": "Hoc signum crucis",
             "feast": "Inventio Crucis",
@@ -4770,6 +5082,7 @@ var data = {
         },
         {
             "id": "022v13",
+            "folio": "022v",
             "sequence": "13",
             "incipit": "Helena Constantini mater     ",
             "feast": "Inventio Crucis",
@@ -4785,6 +5098,7 @@ var data = {
         },
         {
             "id": "022v14",
+            "folio": "022v",
             "sequence": "14",
             "incipit": "O crux ave*",
             "feast": "Inventio Crucis",
@@ -4800,6 +5114,7 @@ var data = {
         },
         {
             "id": "022v15",
+            "folio": "022v",
             "sequence": "15",
             "incipit": "Hoc signum crucis",
             "feast": "Inventio Crucis",
@@ -4815,6 +5130,7 @@ var data = {
         },
         {
             "id": "022v16",
+            "folio": "022v",
             "sequence": "16",
             "incipit": "Crucem sanctam subiit qui infernum",
             "feast": "Inventio Crucis",
@@ -4832,6 +5148,7 @@ var data = {
     "23r": [
         {
             "id": "023r1",
+            "folio": "023r",
             "sequence": "1",
             "incipit": "In ferventis olei dolium",
             "feast": "Joannis Port. Lat.",
@@ -4847,6 +5164,7 @@ var data = {
         },
         {
             "id": "023r2",
+            "folio": "023r",
             "sequence": "2",
             "incipit": "Tibi Christe splendor*",
             "feast": "Appar. Michaelis",
@@ -4862,6 +5180,7 @@ var data = {
         },
         {
             "id": "023r3",
+            "folio": "023r",
             "sequence": "3",
             "incipit": "Stetit angelus*",
             "feast": "Appar. Michaelis",
@@ -4877,6 +5196,7 @@ var data = {
         },
         {
             "id": "023r4",
+            "folio": "023r",
             "sequence": "4",
             "incipit": "Regem archangelorum*",
             "feast": "Appar. Michaelis",
@@ -4892,6 +5212,7 @@ var data = {
         },
         {
             "id": "023r5",
+            "folio": "023r",
             "sequence": "5",
             "incipit": "Tibi Christe splendor*",
             "feast": "Appar. Michaelis",
@@ -4907,6 +5228,7 @@ var data = {
         },
         {
             "id": "023r6",
+            "folio": "023r",
             "sequence": "6",
             "incipit": "Concussum est mare*",
             "feast": "Appar. Michaelis",
@@ -4922,6 +5244,7 @@ var data = {
         },
         {
             "id": "023r7",
+            "folio": "023r",
             "sequence": "7",
             "incipit": "Stetit angelus*",
             "feast": "Appar. Michaelis",
@@ -4937,6 +5260,7 @@ var data = {
         },
         {
             "id": "023r8",
+            "folio": "023r",
             "sequence": "8",
             "incipit": "Locutus est ad me* ",
             "feast": "Appar. Michaelis",
@@ -4952,6 +5276,7 @@ var data = {
         },
         {
             "id": "023r9",
+            "folio": "023r",
             "sequence": "9",
             "incipit": "Audivi vocem*",
             "feast": "Appar. Michaelis",
@@ -4967,6 +5292,7 @@ var data = {
         },
         {
             "id": "023r10",
+            "folio": "023r",
             "sequence": "10",
             "incipit": "Ostendit mihi angelus*",
             "feast": "Appar. Michaelis",
@@ -4982,6 +5308,7 @@ var data = {
         },
         {
             "id": "023r11",
+            "folio": "023r",
             "sequence": "11",
             "incipit": "Stetit angelus*",
             "feast": "Appar. Michaelis",
@@ -4997,6 +5324,7 @@ var data = {
         },
         {
             "id": "023r12",
+            "folio": "023r",
             "sequence": "12",
             "incipit": "Ipse praeibit ante illum",
             "feast": "Joannis Baptistae",
@@ -5012,6 +5340,7 @@ var data = {
         },
         {
             "id": "023r13",
+            "folio": "023r",
             "sequence": "13",
             "incipit": "Joannes est nomen ejus",
             "feast": "Joannis Baptistae",
@@ -5027,6 +5356,7 @@ var data = {
         },
         {
             "id": "023r14",
+            "folio": "023r",
             "sequence": "14",
             "incipit": "Ex utero senectutis",
             "feast": "Joannis Baptistae",
@@ -5042,6 +5372,7 @@ var data = {
         },
         {
             "id": "023r15",
+            "folio": "023r",
             "sequence": "15",
             "incipit": "Iste puer magnus coram",
             "feast": "Joannis Baptistae",
@@ -5059,6 +5390,7 @@ var data = {
     "23v": [
         {
             "id": "023v1",
+            "folio": "023v",
             "sequence": "1",
             "incipit": "Nazaraeus vocabitur puer",
             "feast": "Joannis Baptistae",
@@ -5074,6 +5406,7 @@ var data = {
         },
         {
             "id": "023v2",
+            "folio": "023v",
             "sequence": "2",
             "incipit": "Ut queant laxis*",
             "feast": "Joannis Baptistae",
@@ -5089,6 +5422,7 @@ var data = {
         },
         {
             "id": "023v3",
+            "folio": "023v",
             "sequence": "3",
             "incipit": "Fuit homo missus a deo",
             "feast": "Joannis Baptistae",
@@ -5104,6 +5438,7 @@ var data = {
         },
         {
             "id": "023v4",
+            "folio": "023v",
             "sequence": "4",
             "incipit": "Ingresso Zacharia templum",
             "feast": "Joannis Baptistae",
@@ -5119,6 +5454,7 @@ var data = {
         },
         {
             "id": "023v5",
+            "folio": "023v",
             "sequence": "5",
             "incipit": "Regem praecursoris dominum",
             "feast": "Joannis Baptistae",
@@ -5134,6 +5470,7 @@ var data = {
         },
         {
             "id": "023v6",
+            "folio": "023v",
             "sequence": "6",
             "incipit": "Antra deserti*",
             "feast": "Joannis Baptistae",
@@ -5149,6 +5486,7 @@ var data = {
         },
         {
             "id": "023v7",
+            "folio": "023v",
             "sequence": "7",
             "incipit": "Priusquam te formarem",
             "feast": "Joannis Baptistae",
@@ -5164,6 +5502,7 @@ var data = {
         },
         {
             "id": "023v8",
+            "folio": "023v",
             "sequence": "8",
             "incipit": "Ad omnia quae mittam",
             "feast": "Joannis Baptistae",
@@ -5179,6 +5518,7 @@ var data = {
         },
         {
             "id": "023v9",
+            "folio": "023v",
             "sequence": "9",
             "incipit": "Ne timeas a facie eorum",
             "feast": "Joannis Baptistae",
@@ -5196,6 +5536,7 @@ var data = {
     "24r": [
         {
             "id": "024r1",
+            "folio": "024r",
             "sequence": "1",
             "incipit": "Fuit homo missus a deo",
             "feast": "Joannis Baptistae",
@@ -5211,6 +5552,7 @@ var data = {
         },
         {
             "id": "024r2",
+            "folio": "024r",
             "sequence": "2",
             "incipit": "Fuit homo missus",
             "feast": "Joannis Baptistae",
@@ -5226,6 +5568,7 @@ var data = {
         },
         {
             "id": "024r3",
+            "folio": "024r",
             "sequence": "3",
             "incipit": "Erat Joannes in deserto",
             "feast": "Joannis Baptistae",
@@ -5241,6 +5584,7 @@ var data = {
         },
         {
             "id": "024r4",
+            "folio": "024r",
             "sequence": "4",
             "incipit": "Priusquam te formarem",
             "feast": "Joannis Baptistae",
@@ -5256,6 +5600,7 @@ var data = {
         },
         {
             "id": "024r5",
+            "folio": "024r",
             "sequence": "5",
             "incipit": "Vir dilectus a deo",
             "feast": "Joannis Baptistae",
@@ -5271,6 +5616,7 @@ var data = {
         },
         {
             "id": "024r6",
+            "folio": "024r",
             "sequence": "6",
             "incipit": "Elisabeth Zachariae magnum",
             "feast": "Joannis Baptistae",
@@ -5288,6 +5634,7 @@ var data = {
     "24v": [
         {
             "id": "024v4",
+            "folio": "024v",
             "sequence": "4",
             "incipit": "Damasci praepositus gentis",
             "feast": "Pauli",
@@ -5303,6 +5650,7 @@ var data = {
         },
         {
             "id": "024v7",
+            "folio": "024v",
             "sequence": "7",
             "incipit": "Fuit homo missus",
             "feast": "Joannis Baptistae",
@@ -5318,6 +5666,7 @@ var data = {
         },
         {
             "id": "024v8",
+            "folio": "024v",
             "sequence": "8",
             "incipit": "Misit dominus manum suam",
             "feast": "Joannis Baptistae",
@@ -5333,6 +5682,7 @@ var data = {
         },
         {
             "id": "024v9",
+            "folio": "024v",
             "sequence": "9",
             "incipit": "Ecce dedi verba in ore ",
             "feast": "Joannis Baptistae",
@@ -5348,6 +5698,7 @@ var data = {
         },
         {
             "id": "024v10",
+            "folio": "024v",
             "sequence": "10",
             "incipit": "Dominus ab utero vocavit me",
             "feast": "Joannis Baptistae",
@@ -5363,6 +5714,7 @@ var data = {
         },
         {
             "id": "024v11",
+            "folio": "024v",
             "sequence": "11",
             "incipit": "Inter natos mulierum",
             "feast": "Joannis Baptistae",
@@ -5378,6 +5730,7 @@ var data = {
         },
         {
             "id": "024v12",
+            "folio": "024v",
             "sequence": "12",
             "incipit": "Descendit angelus domini ad Zachariam",
             "feast": "Joannis Baptistae",
@@ -5395,6 +5748,7 @@ var data = {
     "25r": [
         {
             "id": "025r1",
+            "folio": "025r",
             "sequence": "1",
             "incipit": "Iste puer magnus coram",
             "feast": "Joannis Baptistae",
@@ -5410,6 +5764,7 @@ var data = {
         },
         {
             "id": "025r2",
+            "folio": "025r",
             "sequence": "2",
             "incipit": "Hic est praecursor dilectus",
             "feast": "Joannis Baptistae",
@@ -5425,6 +5780,7 @@ var data = {
         },
         {
             "id": "025r3",
+            "folio": "025r",
             "sequence": "3",
             "incipit": "Ipse praeibit ante illum",
             "feast": "Joannis Baptistae",
@@ -5440,6 +5796,7 @@ var data = {
         },
         {
             "id": "025r4",
+            "folio": "025r",
             "sequence": "4",
             "incipit": "Innuebant patri ejus",
             "feast": "Joannis Baptistae",
@@ -5457,6 +5814,7 @@ var data = {
     "25v": [
         {
             "id": "025v1",
+            "folio": "025v",
             "sequence": "1",
             "incipit": "Apertum est os Zachariae",
             "feast": "Joannis Baptistae",
@@ -5472,6 +5830,7 @@ var data = {
         },
         {
             "id": "025v2",
+            "folio": "025v",
             "sequence": "2",
             "incipit": "Posuit os meum dominus",
             "feast": "Joannis Baptistae",
@@ -5487,6 +5846,7 @@ var data = {
         },
         {
             "id": "025v3",
+            "folio": "025v",
             "sequence": "3",
             "incipit": "Formans me ex utero",
             "feast": "Joannis Baptistae",
@@ -5502,6 +5862,7 @@ var data = {
         },
         {
             "id": "025v4",
+            "folio": "025v",
             "sequence": "4",
             "incipit": "Reges videbunt et consurgent",
             "feast": "Joannis Baptistae",
@@ -5517,6 +5878,7 @@ var data = {
         },
         {
             "id": "025v5",
+            "folio": "025v",
             "sequence": "5",
             "incipit": "Praecursor domini venit",
             "feast": "Joannis Baptistae",
@@ -5532,6 +5894,7 @@ var data = {
         },
         {
             "id": "025v6",
+            "folio": "025v",
             "sequence": "6",
             "incipit": "Hic est enim propheta",
             "feast": "Joannis Baptistae",
@@ -5549,6 +5912,7 @@ var data = {
     "26r": [
         {
             "id": "026r1",
+            "folio": "026r",
             "sequence": "1",
             "incipit": "Gabriel angelus apparuit",
             "feast": "Joannis Baptistae",
@@ -5564,6 +5928,7 @@ var data = {
         },
         {
             "id": "026r2",
+            "folio": "026r",
             "sequence": "2",
             "incipit": "Erit enim magnus coram",
             "feast": "Joannis Baptistae",
@@ -5579,6 +5944,7 @@ var data = {
         },
         {
             "id": "026r3",
+            "folio": "026r",
             "sequence": "3",
             "incipit": "Ecce constitui te hodie",
             "feast": "Joannis Baptistae",
@@ -5594,6 +5960,7 @@ var data = {
         },
         {
             "id": "026r4",
+            "folio": "026r",
             "sequence": "4",
             "incipit": "Tu puer propheta altissimi",
             "feast": "Joannis Baptistae",
@@ -5609,6 +5976,7 @@ var data = {
         },
         {
             "id": "026r5",
+            "folio": "026r",
             "sequence": "5",
             "incipit": "Ipse praeibit ante illum",
             "feast": "Joannis Baptistae",
@@ -5626,6 +5994,7 @@ var data = {
     "26v": [
         {
             "id": "026v1",
+            "folio": "026v",
             "sequence": "1",
             "incipit": "Erit enim magnus coram",
             "feast": "Joannis Baptistae",
@@ -5641,6 +6010,7 @@ var data = {
         },
         {
             "id": "026v2",
+            "folio": "026v",
             "sequence": "2",
             "incipit": "Inter natos mulierum non",
             "feast": "Joannis Baptistae",
@@ -5656,6 +6026,7 @@ var data = {
         },
         {
             "id": "026v3",
+            "folio": "026v",
             "sequence": "3",
             "incipit": "Fuit homo missus a deo",
             "feast": "Joannis Baptistae",
@@ -5671,6 +6042,7 @@ var data = {
         },
         {
             "id": "026v4",
+            "folio": "026v",
             "sequence": "4",
             "incipit": "Elisabeth Zachariae magnum virum",
             "feast": "Joannis Baptistae",
@@ -5686,6 +6058,7 @@ var data = {
         },
         {
             "id": "026v5",
+            "folio": "026v",
             "sequence": "5",
             "incipit": "Innuebant patri ejus",
             "feast": "Joannis Baptistae",
@@ -5703,6 +6076,7 @@ var data = {
     "27r": [
         {
             "id": "027r1",
+            "folio": "027r",
             "sequence": "1",
             "incipit": "Joannes vocabitur nomen ejus",
             "feast": "Joannis Baptistae",
@@ -5718,6 +6092,7 @@ var data = {
         },
         {
             "id": "027r2",
+            "folio": "027r",
             "sequence": "2",
             "incipit": "Inter natos mulierum ",
             "feast": "Joannis Baptistae",
@@ -5733,6 +6108,7 @@ var data = {
         },
         {
             "id": "027r3",
+            "folio": "027r",
             "sequence": "3",
             "incipit": "Tu puer propheta altissimi",
             "feast": "Joannis Baptistae",
@@ -5748,6 +6124,7 @@ var data = {
         },
         {
             "id": "027r4",
+            "folio": "027r",
             "sequence": "4",
             "incipit": "O nimis felix*",
             "feast": "Joannis Baptistae",
@@ -5763,6 +6140,7 @@ var data = {
         },
         {
             "id": "027r5",
+            "folio": "027r",
             "sequence": "5",
             "incipit": "Iste puer magnus coram",
             "feast": "Joannis Baptistae",
@@ -5778,6 +6156,7 @@ var data = {
         },
         {
             "id": "027r6",
+            "folio": "027r",
             "sequence": "6",
             "incipit": "Apertum est os Zachariae",
             "feast": "Joannis Baptistae",
@@ -5793,6 +6172,7 @@ var data = {
         },
         {
             "id": "027r7",
+            "folio": "027r",
             "sequence": "7",
             "incipit": "Fuit homo missus a deo",
             "feast": "Joannis Baptistae",
@@ -5808,6 +6188,7 @@ var data = {
         },
         {
             "id": "027r8",
+            "folio": "027r",
             "sequence": "8",
             "incipit": "Cui nomen Joannes erat",
             "feast": "Joannis Baptistae",
@@ -5823,6 +6204,7 @@ var data = {
         },
         {
             "id": "027r9",
+            "folio": "027r",
             "sequence": "9",
             "incipit": "Inter natos mulierum non",
             "feast": "Joannis Baptistae",
@@ -5838,6 +6220,7 @@ var data = {
         },
         {
             "id": "027r10",
+            "folio": "027r",
             "sequence": "10",
             "incipit": "Inter natos mulierum",
             "feast": "Joannis Baptistae",
@@ -5853,6 +6236,7 @@ var data = {
         },
         {
             "id": "027r11",
+            "folio": "027r",
             "sequence": "11",
             "incipit": "Joanne baptista",
             "feast": "Joannis Baptistae",
@@ -5868,6 +6252,7 @@ var data = {
         },
         {
             "id": "027r12",
+            "folio": "027r",
             "sequence": "12",
             "incipit": "Elisabeth Zachariae magnum",
             "feast": "Joannis Baptistae",
@@ -5883,6 +6268,7 @@ var data = {
         },
         {
             "id": "027r13",
+            "folio": "027r",
             "sequence": "13",
             "incipit": "Elisabeth Zachariae magnum",
             "feast": "Joannis Baptistae",
@@ -5898,6 +6284,7 @@ var data = {
         },
         {
             "id": "027r14",
+            "folio": "027r",
             "sequence": "14",
             "incipit": "Joannem baptistam",
             "feast": "Joannis Baptistae",
@@ -5913,6 +6300,7 @@ var data = {
         },
         {
             "id": "027r15",
+            "folio": "027r",
             "sequence": "15",
             "incipit": "Iste puer magnus coram",
             "feast": "Joannis Baptistae",
@@ -5928,6 +6316,7 @@ var data = {
         },
         {
             "id": "027r16",
+            "folio": "027r",
             "sequence": "16",
             "incipit": "Elisabeth*",
             "feast": "Joannis Baptistae",
@@ -5943,6 +6332,7 @@ var data = {
         },
         {
             "id": "027r17",
+            "folio": "027r",
             "sequence": "17",
             "incipit": "Ut queant laxis*",
             "feast": "Joannis Baptistae",
@@ -5958,6 +6348,7 @@ var data = {
         },
         {
             "id": "027r18",
+            "folio": "027r",
             "sequence": "18",
             "incipit": "Iste puer magnus coram",
             "feast": "Joannis Baptistae",
@@ -5973,6 +6364,7 @@ var data = {
         },
         {
             "id": "027r19",
+            "folio": "027r",
             "sequence": "19",
             "incipit": "Puer qui natus est nobis",
             "feast": "Joannis Baptistae",
@@ -5990,6 +6382,7 @@ var data = {
     "27v": [
         {
             "id": "027v1",
+            "folio": "027v",
             "sequence": "1",
             "incipit": "Astiterunt justi ante dominum",
             "feast": "Joannis, Pauli",
@@ -6005,6 +6398,7 @@ var data = {
         },
         {
             "id": "027v2",
+            "folio": "027v",
             "sequence": "2",
             "incipit": "Isti sunt duo viri",
             "feast": "Joannis, Pauli",
@@ -6020,6 +6414,7 @@ var data = {
         },
         {
             "id": "027v3",
+            "folio": "027v",
             "sequence": "3",
             "incipit": "Isti sunt duae olivae",
             "feast": "Joannis, Pauli",
@@ -6035,6 +6430,7 @@ var data = {
         },
         {
             "id": "027v4",
+            "folio": "027v",
             "sequence": "4",
             "incipit": "Vidi conjunctos viros",
             "feast": "Joannis, Pauli",
@@ -6052,6 +6448,7 @@ var data = {
     "28r": [
         {
             "id": "028r1",
+            "folio": "028r",
             "sequence": "1",
             "incipit": "Vidi angelum dei fortem",
             "feast": "Joannis, Pauli",
@@ -6067,6 +6464,7 @@ var data = {
         },
         {
             "id": "028r2",
+            "folio": "028r",
             "sequence": "2",
             "incipit": "Viri sancti*",
             "feast": "Joannis, Pauli",
@@ -6082,6 +6480,7 @@ var data = {
         },
         {
             "id": "028r3",
+            "folio": "028r",
             "sequence": "3",
             "incipit": "Haec est vera*",
             "feast": "Joannis, Pauli",
@@ -6097,6 +6496,7 @@ var data = {
         },
         {
             "id": "028r4",
+            "folio": "028r",
             "sequence": "4",
             "incipit": "Paulus et Joannes dixerunt Juliano",
             "feast": "Joannis, Pauli",
@@ -6112,6 +6512,7 @@ var data = {
         },
         {
             "id": "028r5",
+            "folio": "028r",
             "sequence": "5",
             "incipit": "Paulus et Joannes dixerunt  ad ",
             "feast": "Joannis, Pauli",
@@ -6127,6 +6528,7 @@ var data = {
         },
         {
             "id": "028r6",
+            "folio": "028r",
             "sequence": "6",
             "incipit": "Joannes et Paulus cognoscentes",
             "feast": "Joannis, Pauli",
@@ -6142,6 +6544,7 @@ var data = {
         },
         {
             "id": "028r7",
+            "folio": "028r",
             "sequence": "7",
             "incipit": "Sancti spiritus et animae justorum",
             "feast": "Joannis, Pauli",
@@ -6159,6 +6562,7 @@ var data = {
     "28v": [
         {
             "id": "028v1",
+            "folio": "028v",
             "sequence": "1",
             "incipit": "Joannes et Paulus dixerunt ad ",
             "feast": "Joannis, Pauli",
@@ -6174,6 +6578,7 @@ var data = {
         },
         {
             "id": "028v2",
+            "folio": "028v",
             "sequence": "2",
             "incipit": "Isti sunt sancti qui pro ",
             "feast": "Joannis, Pauli",
@@ -6189,6 +6594,7 @@ var data = {
         },
         {
             "id": "028v3",
+            "folio": "028v",
             "sequence": "3",
             "incipit": "Isti sunt duae olivae",
             "feast": "Joannis, Pauli",
@@ -6204,6 +6610,7 @@ var data = {
         },
         {
             "id": "028v4",
+            "folio": "028v",
             "sequence": "4",
             "incipit": "Petrus et Joannes*",
             "feast": "Petri, Pauli",
@@ -6219,6 +6626,7 @@ var data = {
         },
         {
             "id": "028v5",
+            "folio": "028v",
             "sequence": "5",
             "incipit": "Aurea luce*",
             "feast": "Petri, Pauli",
@@ -6234,6 +6642,7 @@ var data = {
         },
         {
             "id": "028v6",
+            "folio": "028v",
             "sequence": "6",
             "incipit": "In omnem terram exivit sonus",
             "feast": "Petri, Pauli",
@@ -6249,6 +6658,7 @@ var data = {
         },
         {
             "id": "028v7",
+            "folio": "028v",
             "sequence": "7",
             "incipit": "Tu es pastor ovium",
             "feast": "Petri, Pauli",
@@ -6266,6 +6676,7 @@ var data = {
     "29r": [
         {
             "id": "029r1",
+            "folio": "029r",
             "sequence": "1",
             "incipit": "Regem apostolorum*",
             "feast": "Petri, Pauli",
@@ -6281,6 +6692,7 @@ var data = {
         },
         {
             "id": "029r2",
+            "folio": "029r",
             "sequence": "2",
             "incipit": "Aeterna Christi munera*",
             "feast": "Petri, Pauli",
@@ -6296,6 +6708,7 @@ var data = {
         },
         {
             "id": "029r3",
+            "folio": "029r",
             "sequence": "3",
             "incipit": "In omnem terram*",
             "feast": "Petri, Pauli",
@@ -6311,6 +6724,7 @@ var data = {
         },
         {
             "id": "029r4",
+            "folio": "029r",
             "sequence": "4",
             "incipit": "In omnem terram*",
             "feast": "Petri, Pauli",
@@ -6326,6 +6740,7 @@ var data = {
         },
         {
             "id": "029r5",
+            "folio": "029r",
             "sequence": "5",
             "incipit": "Simon Petre antequam de navi",
             "feast": "Petri, Pauli",
@@ -6341,6 +6756,7 @@ var data = {
         },
         {
             "id": "029r6",
+            "folio": "029r",
             "sequence": "6",
             "incipit": "Quodcumque ligaveris",
             "feast": "Petri, Pauli",
@@ -6356,6 +6772,7 @@ var data = {
         },
         {
             "id": "029r7",
+            "folio": "029r",
             "sequence": "7",
             "incipit": "Si diligis me Simon Petre",
             "feast": "Petri, Pauli",
@@ -6371,6 +6788,7 @@ var data = {
         },
         {
             "id": "029r8",
+            "folio": "029r",
             "sequence": "8",
             "incipit": "Si oportuerit me mori",
             "feast": "Petri, Pauli",
@@ -6388,6 +6806,7 @@ var data = {
     "29v": [
         {
             "id": "029v1",
+            "folio": "029v",
             "sequence": "1",
             "incipit": "Tu es Petrus",
             "feast": "Petri, Pauli",
@@ -6403,6 +6822,7 @@ var data = {
         },
         {
             "id": "029v2",
+            "folio": "029v",
             "sequence": "2",
             "incipit": "Quodcumque ligaveris",
             "feast": "Petri, Pauli",
@@ -6418,6 +6838,7 @@ var data = {
         },
         {
             "id": "029v3",
+            "folio": "029v",
             "sequence": "3",
             "incipit": "Domine si tu es jube ",
             "feast": "Petri, Pauli",
@@ -6433,6 +6854,7 @@ var data = {
         },
         {
             "id": "029v4",
+            "folio": "029v",
             "sequence": "4",
             "incipit": "Cumque vidisset ventum",
             "feast": "Petri, Pauli",
@@ -6448,6 +6870,7 @@ var data = {
         },
         {
             "id": "029v5",
+            "folio": "029v",
             "sequence": "5",
             "incipit": "Surge Petre et indue te",
             "feast": "Petri, Pauli",
@@ -6465,6 +6888,7 @@ var data = {
     "30r": [
         {
             "id": "030r1",
+            "folio": "030r",
             "sequence": "1",
             "incipit": "Angelus domini astitit",
             "feast": "Petri, Pauli",
@@ -6480,6 +6904,7 @@ var data = {
         },
         {
             "id": "030r2",
+            "folio": "030r",
             "sequence": "2",
             "incipit": "Tu es pastor ovium",
             "feast": "Petri, Pauli",
@@ -6495,6 +6920,7 @@ var data = {
         },
         {
             "id": "030r3",
+            "folio": "030r",
             "sequence": "3",
             "incipit": "Quodcumque ligaveris",
             "feast": "Petri, Pauli",
@@ -6510,6 +6936,7 @@ var data = {
         },
         {
             "id": "030r4",
+            "folio": "030r",
             "sequence": "4",
             "incipit": "Ego pro te rogavi Petre",
             "feast": "Petri, Pauli",
@@ -6527,6 +6954,7 @@ var data = {
     "30v": [
         {
             "id": "030v1",
+            "folio": "030v",
             "sequence": "1",
             "incipit": "Caro et sanguis non revelavit",
             "feast": "Petri, Pauli",
@@ -6542,6 +6970,7 @@ var data = {
         },
         {
             "id": "030v2",
+            "folio": "030v",
             "sequence": "2",
             "incipit": "Quem dicunt homines",
             "feast": "Petri, Pauli",
@@ -6557,6 +6986,7 @@ var data = {
         },
         {
             "id": "030v3",
+            "folio": "030v",
             "sequence": "3",
             "incipit": "Beatus es Simon bar Jona",
             "feast": "Petri, Pauli",
@@ -6572,6 +7002,7 @@ var data = {
         },
         {
             "id": "030v4",
+            "folio": "030v",
             "sequence": "4",
             "incipit": "Petre amas me tu scis",
             "feast": "Petri, Pauli",
@@ -6589,6 +7020,7 @@ var data = {
     "31r": [
         {
             "id": "031r1",
+            "folio": "031r",
             "sequence": "1",
             "incipit": "Simon Joannis diligis me",
             "feast": "Petri, Pauli",
@@ -6604,6 +7036,7 @@ var data = {
         },
         {
             "id": "031r2",
+            "folio": "031r",
             "sequence": "2",
             "incipit": "Solve jubente deo terrarum",
             "feast": "Petri, Pauli",
@@ -6619,6 +7052,7 @@ var data = {
         },
         {
             "id": "031r3",
+            "folio": "031r",
             "sequence": "3",
             "incipit": "Quodcumque ligaveris",
             "feast": "Petri, Pauli",
@@ -6634,6 +7068,7 @@ var data = {
         },
         {
             "id": "031r4",
+            "folio": "031r",
             "sequence": "4",
             "incipit": "Petrus et Joannes ascendebant",
             "feast": "Petri, Pauli",
@@ -6649,6 +7084,7 @@ var data = {
         },
         {
             "id": "031r5",
+            "folio": "031r",
             "sequence": "5",
             "incipit": "Argentum et aurum",
             "feast": "Petri, Pauli",
@@ -6664,6 +7100,7 @@ var data = {
         },
         {
             "id": "031r6",
+            "folio": "031r",
             "sequence": "6",
             "incipit": "Dixit angelus ad petrum",
             "feast": "Petri, Pauli",
@@ -6679,6 +7116,7 @@ var data = {
         },
         {
             "id": "031r7",
+            "folio": "031r",
             "sequence": "7",
             "incipit": "Misit dominus angelum",
             "feast": "Petri, Pauli",
@@ -6696,6 +7134,7 @@ var data = {
     "31v": [
         {
             "id": "031v1",
+            "folio": "031v",
             "sequence": "1",
             "incipit": "Tu es petrus",
             "feast": "Petri, Pauli",
@@ -6711,6 +7150,7 @@ var data = {
         },
         {
             "id": "031v2",
+            "folio": "031v",
             "sequence": "2",
             "incipit": "Jam bone pastor*",
             "feast": "Petri, Pauli",
@@ -6726,6 +7166,7 @@ var data = {
         },
         {
             "id": "031v3",
+            "folio": "031v",
             "sequence": "3",
             "incipit": "Annuntiaverunt opera dei*",
             "feast": "Petri, Pauli",
@@ -6741,6 +7182,7 @@ var data = {
         },
         {
             "id": "031v4",
+            "folio": "031v",
             "sequence": "4",
             "incipit": "Quodcumque ligaveris",
             "feast": "Petri, Pauli",
@@ -6756,6 +7198,7 @@ var data = {
         },
         {
             "id": "031v5",
+            "folio": "031v",
             "sequence": "5",
             "incipit": "Sancte Paule apostole ",
             "feast": "Petri, Pauli",
@@ -6771,6 +7214,7 @@ var data = {
         },
         {
             "id": "031v6",
+            "folio": "031v",
             "sequence": "6",
             "incipit": "Juravit dominus*",
             "feast": "Petri, Pauli",
@@ -6786,6 +7230,7 @@ var data = {
         },
         {
             "id": "031v7",
+            "folio": "031v",
             "sequence": "7",
             "incipit": "Aurea luce*",
             "feast": "Petri, Pauli",
@@ -6801,6 +7246,7 @@ var data = {
         },
         {
             "id": "031v8",
+            "folio": "031v",
             "sequence": "8",
             "incipit": "Annuntiaverunt opera dei*",
             "feast": "Petri, Pauli",
@@ -6816,6 +7262,7 @@ var data = {
         },
         {
             "id": "031v9",
+            "folio": "031v",
             "sequence": "9",
             "incipit": "Hodie Simon Petrus ascendit",
             "feast": "Petri, Pauli",
@@ -6833,6 +7280,7 @@ var data = {
     "32r": [
         {
             "id": "032r1",
+            "folio": "032r",
             "sequence": "1",
             "incipit": "Regem apostolorum*",
             "feast": "Pauli",
@@ -6848,6 +7296,7 @@ var data = {
         },
         {
             "id": "032r2",
+            "folio": "032r",
             "sequence": "2",
             "incipit": "Doctor egregie*",
             "feast": "Pauli",
@@ -6863,6 +7312,7 @@ var data = {
         },
         {
             "id": "032r3",
+            "folio": "032r",
             "sequence": "3",
             "incipit": "Qui op[er]atus est ",
             "feast": "Pauli",
@@ -6878,6 +7328,7 @@ var data = {
         },
         {
             "id": "032r4",
+            "folio": "032r",
             "sequence": "4",
             "incipit": "Qui me segregavit ex utero",
             "feast": "Pauli",
@@ -6893,6 +7344,7 @@ var data = {
         },
         {
             "id": "032r5",
+            "folio": "032r",
             "sequence": "5",
             "incipit": "Scio cui credidi et certus",
             "feast": "Pauli",
@@ -6908,6 +7360,7 @@ var data = {
         },
         {
             "id": "032r6",
+            "folio": "032r",
             "sequence": "6",
             "incipit": "De reliquo reposita",
             "feast": "Pauli",
@@ -6923,6 +7376,7 @@ var data = {
         },
         {
             "id": "032r7",
+            "folio": "032r",
             "sequence": "7",
             "incipit": "Mihi vivere Christus est",
             "feast": "Pauli",
@@ -6938,6 +7392,7 @@ var data = {
         },
         {
             "id": "032r8",
+            "folio": "032r",
             "sequence": "8",
             "incipit": "Per quem mihi mundus",
             "feast": "Pauli",
@@ -6953,6 +7408,7 @@ var data = {
         },
         {
             "id": "032r9",
+            "folio": "032r",
             "sequence": "9",
             "incipit": "In omnem terram exivit*",
             "feast": "Pauli",
@@ -6968,6 +7424,7 @@ var data = {
         },
         {
             "id": "032r10",
+            "folio": "032r",
             "sequence": "10",
             "incipit": "Qui op[er]atus est ",
             "feast": "Pauli",
@@ -6985,6 +7442,7 @@ var data = {
     "32v": [
         {
             "id": "032v1",
+            "folio": "032v",
             "sequence": "1",
             "incipit": "Gratia dei in me vacua",
             "feast": "Pauli",
@@ -7000,6 +7458,7 @@ var data = {
         },
         {
             "id": "032v2",
+            "folio": "032v",
             "sequence": "2",
             "incipit": "Bonum certamen certavi",
             "feast": "Pauli",
@@ -7015,6 +7474,7 @@ var data = {
         },
         {
             "id": "032v3",
+            "folio": "032v",
             "sequence": "3",
             "incipit": "Scio cui credidi et certus",
             "feast": "Pauli",
@@ -7030,6 +7490,7 @@ var data = {
         },
         {
             "id": "032v4",
+            "folio": "032v",
             "sequence": "4",
             "incipit": "Reposita est mihi corona",
             "feast": "Pauli",
@@ -7045,6 +7506,7 @@ var data = {
         },
         {
             "id": "032v5",
+            "folio": "032v",
             "sequence": "5",
             "incipit": "Scio cui credidi et certus",
             "feast": "Pauli",
@@ -7062,6 +7524,7 @@ var data = {
     "33r": [
         {
             "id": "033r1",
+            "folio": "033r",
             "sequence": "1",
             "incipit": "Tu es vas electionis",
             "feast": "Pauli",
@@ -7077,6 +7540,7 @@ var data = {
         },
         {
             "id": "033r2",
+            "folio": "033r",
             "sequence": "2",
             "incipit": "Per quem omnes gentes",
             "feast": "Pauli",
@@ -7092,6 +7556,7 @@ var data = {
         },
         {
             "id": "033r3",
+            "folio": "033r",
             "sequence": "3",
             "incipit": "Magnus sanctus Paulus",
             "feast": "Pauli",
@@ -7107,6 +7572,7 @@ var data = {
         },
         {
             "id": "033r4",
+            "folio": "033r",
             "sequence": "4",
             "incipit": "In regeneratione cum sederit",
             "feast": "Pauli",
@@ -7122,6 +7588,7 @@ var data = {
         },
         {
             "id": "033r5",
+            "folio": "033r",
             "sequence": "5",
             "incipit": "Bonum certamen certavi",
             "feast": "Pauli",
@@ -7137,6 +7604,7 @@ var data = {
         },
         {
             "id": "033r6",
+            "folio": "033r",
             "sequence": "6",
             "incipit": "De reliquo reposita est",
             "feast": "Pauli",
@@ -7152,6 +7620,7 @@ var data = {
         },
         {
             "id": "033r7",
+            "folio": "033r",
             "sequence": "7",
             "incipit": "Constitues eos principes",
             "feast": "Pauli",
@@ -7167,6 +7636,7 @@ var data = {
         },
         {
             "id": "033r8",
+            "folio": "033r",
             "sequence": "8",
             "incipit": "Tu es vas electionis",
             "feast": "Pauli",
@@ -7184,6 +7654,7 @@ var data = {
     "33v": [
         {
             "id": "033v1",
+            "folio": "033v",
             "sequence": "1",
             "incipit": "Intercede pro nobis",
             "feast": "Pauli",
@@ -7199,6 +7670,7 @@ var data = {
         },
         {
             "id": "033v2",
+            "folio": "033v",
             "sequence": "2",
             "incipit": "Gratia dei sum id quod ",
             "feast": "Pauli",
@@ -7214,6 +7686,7 @@ var data = {
         },
         {
             "id": "033v3",
+            "folio": "033v",
             "sequence": "3",
             "incipit": "Qui operatus est petro",
             "feast": "Pauli",
@@ -7229,6 +7702,7 @@ var data = {
         },
         {
             "id": "033v4",
+            "folio": "033v",
             "sequence": "4",
             "incipit": "Saulus qui et Paulus magnus",
             "feast": "Pauli",
@@ -7244,6 +7718,7 @@ var data = {
         },
         {
             "id": "033v5",
+            "folio": "033v",
             "sequence": "5",
             "incipit": "Ostendens quia hic est",
             "feast": "Pauli",
@@ -7261,6 +7736,7 @@ var data = {
     "34r": [
         {
             "id": "034r1",
+            "folio": "034r",
             "sequence": "1",
             "incipit": "Saulus qui et Paulus magnus",
             "feast": "Pauli",
@@ -7276,6 +7752,7 @@ var data = {
         },
         {
             "id": "034r2",
+            "folio": "034r",
             "sequence": "2",
             "incipit": "Ostendens quia hic est",
             "feast": "Pauli",
@@ -7291,6 +7768,7 @@ var data = {
         },
         {
             "id": "034r3",
+            "folio": "034r",
             "sequence": "3",
             "incipit": "Ne magnitudo revelationum",
             "feast": "Pauli",
@@ -7306,6 +7784,7 @@ var data = {
         },
         {
             "id": "034r4",
+            "folio": "034r",
             "sequence": "4",
             "incipit": "Nam virtus in infirmitate",
             "feast": "Pauli",
@@ -7321,6 +7800,7 @@ var data = {
         },
         {
             "id": "034r5",
+            "folio": "034r",
             "sequence": "5",
             "incipit": "Reposita est mihi corona",
             "feast": "Pauli",
@@ -7336,6 +7816,7 @@ var data = {
         },
         {
             "id": "034r6",
+            "folio": "034r",
             "sequence": "6",
             "incipit": "Cooperante in me gratia",
             "feast": "Pauli",
@@ -7353,6 +7834,7 @@ var data = {
     "34v": [
         {
             "id": "034v1",
+            "folio": "034v",
             "sequence": "1",
             "incipit": "Nimis honorati sunt",
             "feast": "Pauli",
@@ -7368,6 +7850,7 @@ var data = {
         },
         {
             "id": "034v2",
+            "folio": "034v",
             "sequence": "2",
             "incipit": "Sancte Paule apostole",
             "feast": "Pauli",
@@ -7383,6 +7866,7 @@ var data = {
         },
         {
             "id": "034v3",
+            "folio": "034v",
             "sequence": "3",
             "incipit": "Tu es vas electionis",
             "feast": "Pauli",
@@ -7398,6 +7882,7 @@ var data = {
         },
         {
             "id": "034v5",
+            "folio": "034v",
             "sequence": "5",
             "incipit": "Deus et pater domini",
             "feast": "Pauli",
@@ -7415,6 +7900,7 @@ var data = {
     "35r": [
         {
             "id": "035r1",
+            "folio": "035r",
             "sequence": "1",
             "incipit": "Magnus sanctus Paulus",
             "feast": "Pauli",
@@ -7430,6 +7916,7 @@ var data = {
         },
         {
             "id": "035r2",
+            "folio": "035r",
             "sequence": "2",
             "incipit": "A Christo de caelo vocatus",
             "feast": "Pauli",
@@ -7445,6 +7932,7 @@ var data = {
         },
         {
             "id": "035r3",
+            "folio": "035r",
             "sequence": "3",
             "incipit": "Ego plantavi Apollo rigavit",
             "feast": "Pauli",
@@ -7460,6 +7948,7 @@ var data = {
         },
         {
             "id": "035r4",
+            "folio": "035r",
             "sequence": "4",
             "incipit": "Unusquisque propriam mercedem",
             "feast": "Pauli",
@@ -7475,6 +7964,7 @@ var data = {
         },
         {
             "id": "035r5",
+            "folio": "035r",
             "sequence": "5",
             "incipit": "Libenter gloriabor",
             "feast": "Pauli",
@@ -7492,6 +7982,7 @@ var data = {
     "35v": [
         {
             "id": "035v1",
+            "folio": "035v",
             "sequence": "1",
             "incipit": "Quando enim infirmor",
             "feast": "Pauli",
@@ -7507,6 +7998,7 @@ var data = {
         },
         {
             "id": "035v2",
+            "folio": "035v",
             "sequence": "2",
             "incipit": "Gratia dei in me vacua",
             "feast": "Pauli",
@@ -7522,6 +8014,7 @@ var data = {
         },
         {
             "id": "035v3",
+            "folio": "035v",
             "sequence": "3",
             "incipit": "Gratia dei sum id quod ",
             "feast": "Pauli",
@@ -7537,6 +8030,7 @@ var data = {
         },
         {
             "id": "035v4",
+            "folio": "035v",
             "sequence": "4",
             "incipit": "Damasci praepositus gentis",
             "feast": "Pauli",
@@ -7552,6 +8046,7 @@ var data = {
         },
         {
             "id": "035v5",
+            "folio": "035v",
             "sequence": "5",
             "incipit": "Deus et pater domini",
             "feast": "Pauli",
@@ -7567,6 +8062,7 @@ var data = {
         },
         {
             "id": "035v6",
+            "folio": "035v",
             "sequence": "6",
             "incipit": "Ter virgis caesus sum",
             "feast": "Pauli",
@@ -7582,6 +8078,7 @@ var data = {
         },
         {
             "id": "035v7",
+            "folio": "035v",
             "sequence": "7",
             "incipit": "Nocte et die in profundum",
             "feast": "Pauli",
@@ -7597,6 +8094,7 @@ var data = {
         },
         {
             "id": "035v8",
+            "folio": "035v",
             "sequence": "8",
             "incipit": "Exsultet caelum*",
             "feast": "Pauli",
@@ -7612,6 +8110,7 @@ var data = {
         },
         {
             "id": "035v9",
+            "folio": "035v",
             "sequence": "9",
             "incipit": "Tu es vas electionis",
             "feast": "Pauli",
@@ -7627,6 +8126,7 @@ var data = {
         },
         {
             "id": "035v10",
+            "folio": "035v",
             "sequence": "10",
             "incipit": "Vos qui secuti estis me",
             "feast": "Pauli",
@@ -7644,6 +8144,7 @@ var data = {
     "36r": [
         {
             "id": "036r1",
+            "folio": "036r",
             "sequence": "1",
             "incipit": "Cum sederit filius",
             "feast": "Pauli",
@@ -7659,6 +8160,7 @@ var data = {
         },
         {
             "id": "036r2",
+            "folio": "036r",
             "sequence": "2",
             "incipit": "Gloriosi principes terrae",
             "feast": null,
@@ -7674,6 +8176,7 @@ var data = {
         },
         {
             "id": "036r3",
+            "folio": "036r",
             "sequence": "3",
             "incipit": "Petrus apostolus et Paulus doctor ",
             "feast": null,
@@ -7689,6 +8192,7 @@ var data = {
         },
         {
             "id": "036r4",
+            "folio": "036r",
             "sequence": "4",
             "incipit": "Juravit dominus*",
             "feast": null,
@@ -7704,6 +8208,7 @@ var data = {
         },
         {
             "id": "036r5",
+            "folio": "036r",
             "sequence": "5",
             "incipit": "Nardi Maria pistici*",
             "feast": null,
@@ -7719,6 +8224,7 @@ var data = {
         },
         {
             "id": "036r6",
+            "folio": "036r",
             "sequence": "6",
             "incipit": "Specie tua et pulchritudine*",
             "feast": null,
@@ -7734,6 +8240,7 @@ var data = {
         },
         {
             "id": "036r7",
+            "folio": "036r",
             "sequence": "7",
             "incipit": "In diebus illis mulier quae ",
             "feast": null,
@@ -7751,6 +8258,7 @@ var data = {
     "36v": [
         {
             "id": "036v1",
+            "folio": "036v",
             "sequence": "1",
             "incipit": "Laudemus deum nostrum in conversione",
             "feast": null,
@@ -7766,6 +8274,7 @@ var data = {
         },
         {
             "id": "036v2",
+            "folio": "036v",
             "sequence": "2",
             "incipit": "Nardi Maria pistici*",
             "feast": null,
@@ -7781,6 +8290,7 @@ var data = {
         },
         {
             "id": "036v3",
+            "folio": "036v",
             "sequence": "3",
             "incipit": "O quam pulchra*",
             "feast": null,
@@ -7796,6 +8306,7 @@ var data = {
         },
         {
             "id": "036v4",
+            "folio": "036v",
             "sequence": "4",
             "incipit": "Maria Magdalena*",
             "feast": null,
@@ -7811,6 +8322,7 @@ var data = {
         },
         {
             "id": "036v5",
+            "folio": "036v",
             "sequence": "5",
             "incipit": "Congratulamini*",
             "feast": null,
@@ -7826,6 +8338,7 @@ var data = {
         },
         {
             "id": "036v6",
+            "folio": "036v",
             "sequence": "6",
             "incipit": "Tulerunt dominum*",
             "feast": null,
@@ -7841,6 +8354,7 @@ var data = {
         },
         {
             "id": "036v7",
+            "folio": "036v",
             "sequence": "7",
             "incipit": "Diffusa est*",
             "feast": null,
@@ -7856,6 +8370,7 @@ var data = {
         },
         {
             "id": "036v8",
+            "folio": "036v",
             "sequence": "8",
             "incipit": "Specie tua*",
             "feast": null,
@@ -7871,6 +8386,7 @@ var data = {
         },
         {
             "id": "036v9",
+            "folio": "036v",
             "sequence": "9",
             "incipit": "Propter veritatem*",
             "feast": null,
@@ -7886,6 +8402,7 @@ var data = {
         },
         {
             "id": "036v10",
+            "folio": "036v",
             "sequence": "10",
             "incipit": "Dilexisti justitiam*",
             "feast": null,
@@ -7901,6 +8418,7 @@ var data = {
         },
         {
             "id": "036v11",
+            "folio": "036v",
             "sequence": "11",
             "incipit": "Regnum mundi et omnem",
             "feast": null,
@@ -7916,6 +8434,7 @@ var data = {
         },
         {
             "id": "036v12",
+            "folio": "036v",
             "sequence": "12",
             "incipit": "Eructavit cor meum",
             "feast": null,
@@ -7931,6 +8450,7 @@ var data = {
         },
         {
             "id": "036v13",
+            "folio": "036v",
             "sequence": "13",
             "incipit": "Gloria sit deo patri et ",
             "feast": null,
@@ -7948,6 +8468,7 @@ var data = {
     "37r": [
         {
             "id": "037r1",
+            "folio": "037r",
             "sequence": "1",
             "incipit": "Cum esset rex in accubitu ",
             "feast": null,
@@ -7963,6 +8484,7 @@ var data = {
         },
         {
             "id": "037r2",
+            "folio": "037r",
             "sequence": "2",
             "incipit": "In odore[m] unguentorum tuorum",
             "feast": null,
@@ -7978,6 +8500,7 @@ var data = {
         },
         {
             "id": "037r3",
+            "folio": "037r",
             "sequence": "3",
             "incipit": "Jam hiems transiit imber",
             "feast": null,
@@ -7993,6 +8516,7 @@ var data = {
         },
         {
             "id": "037r4",
+            "folio": "037r",
             "sequence": "4",
             "incipit": "Veni electa mea",
             "feast": null,
@@ -8008,6 +8532,7 @@ var data = {
         },
         {
             "id": "037r5",
+            "folio": "037r",
             "sequence": "5",
             "incipit": "Ista est speciosa",
             "feast": null,
@@ -8023,6 +8548,7 @@ var data = {
         },
         {
             "id": "037r6",
+            "folio": "037r",
             "sequence": "6",
             "incipit": "Hujus obtentu*",
             "feast": null,
@@ -8038,6 +8564,7 @@ var data = {
         },
         {
             "id": "037r7",
+            "folio": "037r",
             "sequence": "7",
             "incipit": "Elegit eam deus et*",
             "feast": null,
@@ -8053,6 +8580,7 @@ var data = {
         },
         {
             "id": "037r8",
+            "folio": "037r",
             "sequence": "8",
             "incipit": "Maria ergo unxit pedes Jesu",
             "feast": null,
@@ -8068,6 +8596,7 @@ var data = {
         },
         {
             "id": "037r9",
+            "folio": "037r",
             "sequence": "9",
             "incipit": "Dum esset rex*",
             "feast": null,
@@ -8083,6 +8612,7 @@ var data = {
         },
         {
             "id": "037r10",
+            "folio": "037r",
             "sequence": "10",
             "incipit": "Mulier quae erat in civitate",
             "feast": null,
@@ -8100,6 +8630,7 @@ var data = {
     "37v": [
         {
             "id": "037v1",
+            "folio": "037v",
             "sequence": "1",
             "incipit": "Petrus beatus*",
             "feast": "Vincula Petri",
@@ -8115,6 +8646,7 @@ var data = {
         },
         {
             "id": "037v2",
+            "folio": "037v",
             "sequence": "2",
             "incipit": "Tu es Petrus*",
             "feast": "Vincula Petri",
@@ -8130,6 +8662,7 @@ var data = {
         },
         {
             "id": "037v3",
+            "folio": "037v",
             "sequence": "3",
             "incipit": "Tu es pastor ovium*",
             "feast": "Vincula Petri",
@@ -8145,6 +8678,7 @@ var data = {
         },
         {
             "id": "037v4",
+            "folio": "037v",
             "sequence": "4",
             "incipit": "Regem apostolorum*",
             "feast": "Vincula Petri",
@@ -8160,6 +8694,7 @@ var data = {
         },
         {
             "id": "037v5",
+            "folio": "037v",
             "sequence": "5",
             "incipit": "Petrus beatus*",
             "feast": "Vincula Petri",
@@ -8175,6 +8710,7 @@ var data = {
         },
         {
             "id": "037v6",
+            "folio": "037v",
             "sequence": "6",
             "incipit": "In omnem terram*",
             "feast": "Vincula Petri",
@@ -8190,6 +8726,7 @@ var data = {
         },
         {
             "id": "037v7",
+            "folio": "037v",
             "sequence": "7",
             "incipit": "Simon Petre*",
             "feast": "Vincula Petri",
@@ -8205,6 +8742,7 @@ var data = {
         },
         {
             "id": "037v8",
+            "folio": "037v",
             "sequence": "8",
             "incipit": "Si diligis me*",
             "feast": "Vincula Petri",
@@ -8220,6 +8758,7 @@ var data = {
         },
         {
             "id": "037v9",
+            "folio": "037v",
             "sequence": "9",
             "incipit": "Tu es Petrus*",
             "feast": "Vincula Petri",
@@ -8235,6 +8774,7 @@ var data = {
         },
         {
             "id": "037v10",
+            "folio": "037v",
             "sequence": "10",
             "incipit": "Domine si tu es*",
             "feast": "Vincula Petri",
@@ -8250,6 +8790,7 @@ var data = {
         },
         {
             "id": "037v11",
+            "folio": "037v",
             "sequence": "11",
             "incipit": "Surge Petre*",
             "feast": "Vincula Petri",
@@ -8265,6 +8806,7 @@ var data = {
         },
         {
             "id": "037v12",
+            "folio": "037v",
             "sequence": "12",
             "incipit": "Tu es pastor*",
             "feast": "Vincula Petri",
@@ -8280,6 +8822,7 @@ var data = {
         },
         {
             "id": "037v13",
+            "folio": "037v",
             "sequence": "13",
             "incipit": "Quem dicunt*",
             "feast": "Vincula Petri",
@@ -8295,6 +8838,7 @@ var data = {
         },
         {
             "id": "037v14",
+            "folio": "037v",
             "sequence": "14",
             "incipit": "Solve jubente*",
             "feast": "Vincula Petri",
@@ -8310,6 +8854,7 @@ var data = {
         },
         {
             "id": "037v15",
+            "folio": "037v",
             "sequence": "15",
             "incipit": "Herodes rex apposuit",
             "feast": "Vincula Petri",
@@ -8325,6 +8870,7 @@ var data = {
         },
         {
             "id": "037v16",
+            "folio": "037v",
             "sequence": "16",
             "incipit": "Petrus quidem servabatur",
             "feast": "Vincula Petri",
@@ -8340,6 +8886,7 @@ var data = {
         },
         {
             "id": "037v17",
+            "folio": "037v",
             "sequence": "17",
             "incipit": "Dixit angelus ad Petrum*",
             "feast": "Vincula Petri",
@@ -8355,6 +8902,7 @@ var data = {
         },
         {
             "id": "037v18",
+            "folio": "037v",
             "sequence": "18",
             "incipit": "Misit dominus*",
             "feast": "Vincula Petri",
@@ -8370,6 +8918,7 @@ var data = {
         },
         {
             "id": "037v19",
+            "folio": "037v",
             "sequence": "19",
             "incipit": "Tu es Petrus*",
             "feast": "Vincula Petri",
@@ -8385,6 +8934,7 @@ var data = {
         },
         {
             "id": "037v20",
+            "folio": "037v",
             "sequence": "20",
             "incipit": "Jam bone pastor*",
             "feast": "Vincula Petri",
@@ -8400,6 +8950,7 @@ var data = {
         },
         {
             "id": "037v21",
+            "folio": "037v",
             "sequence": "21",
             "incipit": "Tu es Petrus*",
             "feast": "Vincula Petri",
@@ -8415,6 +8966,7 @@ var data = {
         },
         {
             "id": "037v22",
+            "folio": "037v",
             "sequence": "22",
             "incipit": "Quodcumque ligaveris*",
             "feast": "Vincula Petri",
@@ -8430,6 +8982,7 @@ var data = {
         },
         {
             "id": "037v23",
+            "folio": "037v",
             "sequence": "23",
             "incipit": "Petrus beatus*",
             "feast": "Vincula Petri",
@@ -8445,6 +8998,7 @@ var data = {
         },
         {
             "id": "037v24",
+            "folio": "037v",
             "sequence": "24",
             "incipit": "Tu es Petrus*",
             "feast": "Vincula Petri",
@@ -8460,6 +9014,7 @@ var data = {
         },
         {
             "id": "037v25",
+            "folio": "037v",
             "sequence": "25",
             "incipit": "Solve jubente deo terrarum",
             "feast": "Vincula Petri",
@@ -8475,6 +9030,7 @@ var data = {
         },
         {
             "id": "037v26",
+            "folio": "037v",
             "sequence": "26",
             "incipit": "Deus tuorum militum*",
             "feast": "Laurentii",
@@ -8490,6 +9046,7 @@ var data = {
         },
         {
             "id": "037v27",
+            "folio": "037v",
             "sequence": "27",
             "incipit": "Gloria et honore*",
             "feast": "Laurentii",
@@ -8505,6 +9062,7 @@ var data = {
         },
         {
             "id": "037v28",
+            "folio": "037v",
             "sequence": "28",
             "incipit": "Levita Laurentius bonum opus",
             "feast": "Laurentii",
@@ -8522,6 +9080,7 @@ var data = {
     "38r": [
         {
             "id": "038r1",
+            "folio": "038r",
             "sequence": "1",
             "incipit": "Beatus Laurentius Christi martyr",
             "feast": "Laurentii",
@@ -8537,6 +9096,7 @@ var data = {
         },
         {
             "id": "038r2",
+            "folio": "038r",
             "sequence": "2",
             "incipit": "Deus tuorum militum*",
             "feast": "Laurentii",
@@ -8552,6 +9112,7 @@ var data = {
         },
         {
             "id": "038r3",
+            "folio": "038r",
             "sequence": "3",
             "incipit": "Quo progrederis sine filio",
             "feast": "Laurentii",
@@ -8567,6 +9128,7 @@ var data = {
         },
         {
             "id": "038r4",
+            "folio": "038r",
             "sequence": "4",
             "incipit": "Beatus Laurentius dixit",
             "feast": "Laurentii",
@@ -8582,6 +9144,7 @@ var data = {
         },
         {
             "id": "038r5",
+            "folio": "038r",
             "sequence": "5",
             "incipit": "Noli me derelinquere",
             "feast": "Laurentii",
@@ -8597,6 +9160,7 @@ var data = {
         },
         {
             "id": "038r6",
+            "folio": "038r",
             "sequence": "6",
             "incipit": "Quid in me ergo displicuit",
             "feast": "Laurentii",
@@ -8612,6 +9176,7 @@ var data = {
         },
         {
             "id": "038r7",
+            "folio": "038r",
             "sequence": "7",
             "incipit": "Non ego te desero fili",
             "feast": "Laurentii",
@@ -8627,6 +9192,7 @@ var data = {
         },
         {
             "id": "038r8",
+            "folio": "038r",
             "sequence": "8",
             "incipit": "Beatus Sixtus dixit",
             "feast": "Laurentii",
@@ -8644,6 +9210,7 @@ var data = {
     "38v": [
         {
             "id": "038v1",
+            "folio": "038v",
             "sequence": "1",
             "incipit": "Gloria et honore*",
             "feast": "Laurentii",
@@ -8659,6 +9226,7 @@ var data = {
         },
         {
             "id": "038v2",
+            "folio": "038v",
             "sequence": "2",
             "incipit": "Levita Laurentius bonum opus",
             "feast": "Laurentii",
@@ -8674,6 +9242,7 @@ var data = {
         },
         {
             "id": "038v3",
+            "folio": "038v",
             "sequence": "3",
             "incipit": "Dispersit dedit pauperibus",
             "feast": "Laurentii",
@@ -8689,6 +9258,7 @@ var data = {
         },
         {
             "id": "038v4",
+            "folio": "038v",
             "sequence": "4",
             "incipit": "Puer meus noli timere",
             "feast": "Laurentii",
@@ -8704,6 +9274,7 @@ var data = {
         },
         {
             "id": "038v5",
+            "folio": "038v",
             "sequence": "5",
             "incipit": "Liberado te de manu",
             "feast": "Laurentii",
@@ -8721,6 +9292,7 @@ var data = {
     "39r": [
         {
             "id": "039r1",
+            "folio": "039r",
             "sequence": "1",
             "incipit": "Strinxerunt corporis membra",
             "feast": "Laurentii",
@@ -8736,6 +9308,7 @@ var data = {
         },
         {
             "id": "039r2",
+            "folio": "039r",
             "sequence": "2",
             "incipit": "Mea nox obscurum",
             "feast": "Laurentii",
@@ -8751,6 +9324,7 @@ var data = {
         },
         {
             "id": "039r3",
+            "folio": "039r",
             "sequence": "3",
             "incipit": "Beatus Laurentius orabat",
             "feast": "Laurentii",
@@ -8766,6 +9340,7 @@ var data = {
         },
         {
             "id": "039r4",
+            "folio": "039r",
             "sequence": "4",
             "incipit": "Quia accusatus non negavi",
             "feast": "Laurentii",
@@ -8781,6 +9356,7 @@ var data = {
         },
         {
             "id": "039r5",
+            "folio": "039r",
             "sequence": "5",
             "incipit": "Dixit Romanus ad beatum Laurentium",
             "feast": "Laurentii",
@@ -8798,6 +9374,7 @@ var data = {
     "39v": [
         {
             "id": "039v1",
+            "folio": "039v",
             "sequence": "1",
             "incipit": "Afferens autem urceum",
             "feast": "Laurentii",
@@ -8813,6 +9390,7 @@ var data = {
         },
         {
             "id": "039v2",
+            "folio": "039v",
             "sequence": "2",
             "incipit": "Beatus Laurentius dixit mea",
             "feast": "Laurentii",
@@ -8828,6 +9406,7 @@ var data = {
         },
         {
             "id": "039v3",
+            "folio": "039v",
             "sequence": "3",
             "incipit": "Quia ipse dominus novit",
             "feast": "Laurentii",
@@ -8843,6 +9422,7 @@ var data = {
         },
         {
             "id": "039v4",
+            "folio": "039v",
             "sequence": "4",
             "incipit": "Posuisti domine super caput*",
             "feast": "Laurentii",
@@ -8858,6 +9438,7 @@ var data = {
         },
         {
             "id": "039v5",
+            "folio": "039v",
             "sequence": "5",
             "incipit": "Quo progrederis sine filio",
             "feast": "Laurentii",
@@ -8873,6 +9454,7 @@ var data = {
         },
         {
             "id": "039v6",
+            "folio": "039v",
             "sequence": "6",
             "incipit": "Quid in me ergo displicuit",
             "feast": "Laurentii",
@@ -8890,6 +9472,7 @@ var data = {
     "40r": [
         {
             "id": "040r1",
+            "folio": "040r",
             "sequence": "1",
             "incipit": "Noli me derelinquere pater",
             "feast": "Laurentii",
@@ -8905,6 +9488,7 @@ var data = {
         },
         {
             "id": "040r2",
+            "folio": "040r",
             "sequence": "2",
             "incipit": "Nos quasi senes levioris",
             "feast": "Laurentii",
@@ -8920,6 +9504,7 @@ var data = {
         },
         {
             "id": "040r3",
+            "folio": "040r",
             "sequence": "3",
             "incipit": "Beatus Laurentius clamavit",
             "feast": "Laurentii",
@@ -8937,6 +9522,7 @@ var data = {
     "40v": [
         {
             "id": "040v1",
+            "folio": "040v",
             "sequence": "1",
             "incipit": "Mea nox obscurum non habet",
             "feast": "Laurentii",
@@ -8952,6 +9538,7 @@ var data = {
         },
         {
             "id": "040v2",
+            "folio": "040v",
             "sequence": "2",
             "incipit": "Strinxerunt corporis membra",
             "feast": "Laurentii",
@@ -8967,6 +9554,7 @@ var data = {
         },
         {
             "id": "040v3",
+            "folio": "040v",
             "sequence": "3",
             "incipit": "Carnifices vero urgentes",
             "feast": "Laurentii",
@@ -8982,6 +9570,7 @@ var data = {
         },
         {
             "id": "040v4",
+            "folio": "040v",
             "sequence": "4",
             "incipit": "Igne me examinasti",
             "feast": "Laurentii",
@@ -8997,6 +9586,7 @@ var data = {
         },
         {
             "id": "040v5",
+            "folio": "040v",
             "sequence": "5",
             "incipit": "Probasti domine cor meum",
             "feast": "Laurentii",
@@ -9012,6 +9602,7 @@ var data = {
         },
         {
             "id": "040v6",
+            "folio": "040v",
             "sequence": "6",
             "incipit": "Interrogatus te dominum",
             "feast": "Laurentii",
@@ -9027,6 +9618,7 @@ var data = {
         },
         {
             "id": "040v7",
+            "folio": "040v",
             "sequence": "7",
             "incipit": "Gracias tibi ago domine",
             "feast": "Laurentii",
@@ -9042,6 +9634,7 @@ var data = {
         },
         {
             "id": "040v8",
+            "folio": "040v",
             "sequence": "8",
             "incipit": "Magna est gloria ejus*",
             "feast": "Laurentii",
@@ -9057,6 +9650,7 @@ var data = {
         },
         {
             "id": "040v9",
+            "folio": "040v",
             "sequence": "9",
             "incipit": "In craticula te deum",
             "feast": "Laurentii",
@@ -9074,6 +9668,7 @@ var data = {
     "41r": [
         {
             "id": "041r1",
+            "folio": "041r",
             "sequence": "1",
             "incipit": "Probasti domine cor meum",
             "feast": "Laurentii",
@@ -9089,6 +9684,7 @@ var data = {
         },
         {
             "id": "041r2",
+            "folio": "041r",
             "sequence": "2",
             "incipit": "O Hippolyte si credis in ",
             "feast": "Laurentii",
@@ -9104,6 +9700,7 @@ var data = {
         },
         {
             "id": "041r3",
+            "folio": "041r",
             "sequence": "3",
             "incipit": "Beatus Laurentius Hippolyto",
             "feast": "Laurentii",
@@ -9119,6 +9716,7 @@ var data = {
         },
         {
             "id": "041r4",
+            "folio": "041r",
             "sequence": "4",
             "incipit": "Gaudeo plane quia hostia",
             "feast": "Laurentii",
@@ -9134,6 +9732,7 @@ var data = {
         },
         {
             "id": "041r5",
+            "folio": "041r",
             "sequence": "5",
             "incipit": "Probasti domine cor meum",
             "feast": "Laurentii",
@@ -9151,6 +9750,7 @@ var data = {
     "41v": [
         {
             "id": "041v1",
+            "folio": "041v",
             "sequence": "1",
             "incipit": "Voluit esse hostia levita",
             "feast": "Laurentii",
@@ -9166,6 +9766,7 @@ var data = {
         },
         {
             "id": "041v2",
+            "folio": "041v",
             "sequence": "2",
             "incipit": "Immola deo sacrificium laudis",
             "feast": "Laurentii",
@@ -9181,6 +9782,7 @@ var data = {
         },
         {
             "id": "041v3",
+            "folio": "041v",
             "sequence": "3",
             "incipit": "Laurentius ingressus est",
             "feast": "Laurentii",
@@ -9196,6 +9798,7 @@ var data = {
         },
         {
             "id": "041v4",
+            "folio": "041v",
             "sequence": "4",
             "incipit": "Laurentius bonum opus",
             "feast": "Laurentii",
@@ -9211,6 +9814,7 @@ var data = {
         },
         {
             "id": "041v5",
+            "folio": "041v",
             "sequence": "5",
             "incipit": "Adhaesit anima mea post te",
             "feast": "Laurentii",
@@ -9228,6 +9832,7 @@ var data = {
     "42r": [
         {
             "id": "042r1",
+            "folio": "042r",
             "sequence": "1",
             "incipit": "Misit dominus angelum suum",
             "feast": "Laurentii",
@@ -9243,6 +9848,7 @@ var data = {
         },
         {
             "id": "042r2",
+            "folio": "042r",
             "sequence": "2",
             "incipit": "Beatus Laurentius orabat",
             "feast": "Laurentii",
@@ -9258,6 +9864,7 @@ var data = {
         },
         {
             "id": "042r3",
+            "folio": "042r",
             "sequence": "3",
             "incipit": "Martyr dei qui unicum*",
             "feast": "Laurentii",
@@ -9273,6 +9880,7 @@ var data = {
         },
         {
             "id": "042r4",
+            "folio": "042r",
             "sequence": "4",
             "incipit": "Dispersit dedit pauperibus*",
             "feast": "Laurentii",
@@ -9288,6 +9896,7 @@ var data = {
         },
         {
             "id": "042r5",
+            "folio": "042r",
             "sequence": "5",
             "incipit": "In craticula te deum",
             "feast": "Laurentii",
@@ -9303,6 +9912,7 @@ var data = {
         },
         {
             "id": "042r6",
+            "folio": "042r",
             "sequence": "6",
             "incipit": "Laurentius*",
             "feast": "Laurentii",
@@ -9318,6 +9928,7 @@ var data = {
         },
         {
             "id": "042r7",
+            "folio": "042r",
             "sequence": "7",
             "incipit": "Levita Laurentius bonum opus*",
             "feast": "Laurentii",
@@ -9333,6 +9944,7 @@ var data = {
         },
         {
             "id": "042r8",
+            "folio": "042r",
             "sequence": "8",
             "incipit": "Beatus Laurentius dum in craticula",
             "feast": "Laurentii",
@@ -9350,6 +9962,7 @@ var data = {
     "42v": [
         {
             "id": "042v1",
+            "folio": "042v",
             "sequence": "1",
             "incipit": "Assumpta est*",
             "feast": "Assumptio Mariae",
@@ -9365,6 +9978,7 @@ var data = {
         },
         {
             "id": "042v2",
+            "folio": "042v",
             "sequence": "2",
             "incipit": "Ave maris stella*",
             "feast": "Assumptio Mariae",
@@ -9380,6 +9994,7 @@ var data = {
         },
         {
             "id": "042v3",
+            "folio": "042v",
             "sequence": "3",
             "incipit": "Exaltata es  sancta dei*",
             "feast": "Assumptio Mariae",
@@ -9395,6 +10010,7 @@ var data = {
         },
         {
             "id": "042v4",
+            "folio": "042v",
             "sequence": "4",
             "incipit": "Virgo prudentissima quo progrederis",
             "feast": "Assumptio Mariae",
@@ -9410,6 +10026,7 @@ var data = {
         },
         {
             "id": "042v5",
+            "folio": "042v",
             "sequence": "5",
             "incipit": "Venite adoremus regem regum",
             "feast": "Assumptio Mariae",
@@ -9425,6 +10042,7 @@ var data = {
         },
         {
             "id": "042v6",
+            "folio": "042v",
             "sequence": "6",
             "incipit": "Quem terra pontus*",
             "feast": "Assumptio Mariae",
@@ -9440,6 +10058,7 @@ var data = {
         },
         {
             "id": "042v7",
+            "folio": "042v",
             "sequence": "7",
             "incipit": "Exaltata est sancta dei",
             "feast": "Assumptio Mariae",
@@ -9455,6 +10074,7 @@ var data = {
         },
         {
             "id": "042v8",
+            "folio": "042v",
             "sequence": "8",
             "incipit": "Paradisi portae per te nobis",
             "feast": "Assumptio Mariae",
@@ -9470,6 +10090,7 @@ var data = {
         },
         {
             "id": "042v9",
+            "folio": "042v",
             "sequence": "9",
             "incipit": "Benedicta tu in mulieribus",
             "feast": "Assumptio Mariae",
@@ -9485,6 +10106,7 @@ var data = {
         },
         {
             "id": "042v10",
+            "folio": "042v",
             "sequence": "10",
             "incipit": "Exaltata es  sancta dei*",
             "feast": "Assumptio Mariae",
@@ -9500,6 +10122,7 @@ var data = {
         },
         {
             "id": "042v11",
+            "folio": "042v",
             "sequence": "11",
             "incipit": "Vidi speciosam sicut columbam",
             "feast": "Assumptio Mariae",
@@ -9517,6 +10140,7 @@ var data = {
     "43r": [
         {
             "id": "043r1",
+            "folio": "043r",
             "sequence": "1",
             "incipit": "Quae est ista quae ascendit",
             "feast": "Assumptio Mariae",
@@ -9532,6 +10156,7 @@ var data = {
         },
         {
             "id": "043r2",
+            "folio": "043r",
             "sequence": "2",
             "incipit": "Sicut cedrus exaltata sum",
             "feast": "Assumptio Mariae",
@@ -9547,6 +10172,7 @@ var data = {
         },
         {
             "id": "043r3",
+            "folio": "043r",
             "sequence": "3",
             "incipit": "Et sicut cinnamomum",
             "feast": "Assumptio Mariae",
@@ -9564,6 +10190,7 @@ var data = {
     "43v": [
         {
             "id": "043v1",
+            "folio": "043v",
             "sequence": "1",
             "incipit": "Quae est ista quae processit",
             "feast": "Assumptio Mariae",
@@ -9579,6 +10206,7 @@ var data = {
         },
         {
             "id": "043v2",
+            "folio": "043v",
             "sequence": "2",
             "incipit": "Et sicut dies verni",
             "feast": "Assumptio Mariae",
@@ -9594,6 +10222,7 @@ var data = {
         },
         {
             "id": "043v3",
+            "folio": "043v",
             "sequence": "3",
             "incipit": "Specie tua*",
             "feast": "Assumptio Mariae",
@@ -9609,6 +10238,7 @@ var data = {
         },
         {
             "id": "043v4",
+            "folio": "043v",
             "sequence": "4",
             "incipit": "Adjuvabit eam*",
             "feast": "Assumptio Mariae",
@@ -9624,6 +10254,7 @@ var data = {
         },
         {
             "id": "043v5",
+            "folio": "043v",
             "sequence": "5",
             "incipit": "Sicut laetantium*",
             "feast": "Assumptio Mariae",
@@ -9639,6 +10270,7 @@ var data = {
         },
         {
             "id": "043v6",
+            "folio": "043v",
             "sequence": "6",
             "incipit": "Assumpta est Maria*",
             "feast": "Assumptio Mariae",
@@ -9654,6 +10286,7 @@ var data = {
         },
         {
             "id": "043v7",
+            "folio": "043v",
             "sequence": "7",
             "incipit": "Ornatam in monilibus filiam",
             "feast": "Assumptio Mariae",
@@ -9669,6 +10302,7 @@ var data = {
         },
         {
             "id": "043v8",
+            "folio": "043v",
             "sequence": "8",
             "incipit": "Astitit regina a dextris tuis",
             "feast": "Assumptio Mariae",
@@ -9686,6 +10320,7 @@ var data = {
     "44r": [
         {
             "id": "044r1",
+            "folio": "044r",
             "sequence": "1",
             "incipit": "Beatam me dicent omnes",
             "feast": "Assumptio Mariae",
@@ -9701,6 +10336,7 @@ var data = {
         },
         {
             "id": "044r2",
+            "folio": "044r",
             "sequence": "2",
             "incipit": "Et misericordia ejus",
             "feast": "Assumptio Mariae",
@@ -9716,6 +10352,7 @@ var data = {
         },
         {
             "id": "044r3",
+            "folio": "044r",
             "sequence": "3",
             "incipit": "Beata es Maria quae dominum",
             "feast": "Assumptio Mariae",
@@ -9731,6 +10368,7 @@ var data = {
         },
         {
             "id": "044r4",
+            "folio": "044r",
             "sequence": "4",
             "incipit": "Ave maria gratia plena",
             "feast": "Assumptio Mariae",
@@ -9746,6 +10384,7 @@ var data = {
         },
         {
             "id": "044r5",
+            "folio": "044r",
             "sequence": "5",
             "incipit": "Gaude Maria*",
             "feast": "Assumptio Mariae",
@@ -9761,6 +10400,7 @@ var data = {
         },
         {
             "id": "044r6",
+            "folio": "044r",
             "sequence": "6",
             "incipit": "Dignare me*",
             "feast": "Assumptio Mariae",
@@ -9776,6 +10416,7 @@ var data = {
         },
         {
             "id": "044r7",
+            "folio": "044r",
             "sequence": "7",
             "incipit": "Post partum virgo*",
             "feast": "Assumptio Mariae",
@@ -9791,6 +10432,7 @@ var data = {
         },
         {
             "id": "044r8",
+            "folio": "044r",
             "sequence": "8",
             "incipit": "Maria virgo assumpta*",
             "feast": "Assumptio Mariae",
@@ -9806,6 +10448,7 @@ var data = {
         },
         {
             "id": "044r9",
+            "folio": "044r",
             "sequence": "9",
             "incipit": "Diffusa est gratia in labiis",
             "feast": "Assumptio Mariae",
@@ -9823,6 +10466,7 @@ var data = {
     "44v": [
         {
             "id": "044v1",
+            "folio": "044v",
             "sequence": "1",
             "incipit": "Myrrha et gutta et casia",
             "feast": "Assumptio Mariae",
@@ -9838,6 +10482,7 @@ var data = {
         },
         {
             "id": "044v2",
+            "folio": "044v",
             "sequence": "2",
             "incipit": "Beata es virgo Maria",
             "feast": "Assumptio Mariae",
@@ -9853,6 +10498,7 @@ var data = {
         },
         {
             "id": "044v3",
+            "folio": "044v",
             "sequence": "3",
             "incipit": "Ave Maria gratia plena",
             "feast": "Assumptio Mariae",
@@ -9868,6 +10514,7 @@ var data = {
         },
         {
             "id": "044v4",
+            "folio": "044v",
             "sequence": "4",
             "incipit": "O gloriosa femina excelsa",
             "feast": "Assumptio Mariae",
@@ -9885,6 +10532,7 @@ var data = {
     "45r": [
         {
             "id": "045r1",
+            "folio": "045r",
             "sequence": "1",
             "incipit": "Sola fuit mulier paruit",
             "feast": "Assumptio Mariae",
@@ -9900,6 +10548,7 @@ var data = {
         },
         {
             "id": "045r2",
+            "folio": "045r",
             "sequence": "2",
             "incipit": "Assumpta est Maria in caelum",
             "feast": "Assumptio Mariae",
@@ -9915,6 +10564,7 @@ var data = {
         },
         {
             "id": "045r3",
+            "folio": "045r",
             "sequence": "3",
             "incipit": "Maria virgo assumpta est",
             "feast": "Assumptio Mariae",
@@ -9930,6 +10580,7 @@ var data = {
         },
         {
             "id": "045r4",
+            "folio": "045r",
             "sequence": "4",
             "incipit": "In odore unguentorum tuorum",
             "feast": "Assumptio Mariae",
@@ -9945,6 +10596,7 @@ var data = {
         },
         {
             "id": "045r5",
+            "folio": "045r",
             "sequence": "5",
             "incipit": "Benedicta filia tu a domino",
             "feast": "Assumptio Mariae",
@@ -9962,6 +10614,7 @@ var data = {
     "45v": [
         {
             "id": "045v1",
+            "folio": "045v",
             "sequence": "1",
             "incipit": "Pulchra es et decora",
             "feast": "Assumptio Mariae",
@@ -9977,6 +10630,7 @@ var data = {
         },
         {
             "id": "045v2",
+            "folio": "045v",
             "sequence": "2",
             "incipit": "O gloriosa domina*",
             "feast": "Assumptio Mariae",
@@ -9992,6 +10646,7 @@ var data = {
         },
         {
             "id": "045v3",
+            "folio": "045v",
             "sequence": "3",
             "incipit": "Exaltata es  sancta dei*",
             "feast": "Assumptio Mariae",
@@ -10007,6 +10662,7 @@ var data = {
         },
         {
             "id": "045v4",
+            "folio": "045v",
             "sequence": "4",
             "incipit": "Quae est ista quae ascendit",
             "feast": "Assumptio Mariae",
@@ -10022,6 +10678,7 @@ var data = {
         },
         {
             "id": "045v5",
+            "folio": "045v",
             "sequence": "5",
             "incipit": "Exaltata es sancta dei",
             "feast": "Assumptio Mariae",
@@ -10037,6 +10694,7 @@ var data = {
         },
         {
             "id": "045v6",
+            "folio": "045v",
             "sequence": "6",
             "incipit": "Super choros angelorum",
             "feast": "Assumptio Mariae",
@@ -10052,6 +10710,7 @@ var data = {
         },
         {
             "id": "045v7",
+            "folio": "045v",
             "sequence": "7",
             "incipit": "Assumpta est Maria in caelum",
             "feast": "Assumptio Mariae",
@@ -10067,6 +10726,7 @@ var data = {
         },
         {
             "id": "045v8",
+            "folio": "045v",
             "sequence": "8",
             "incipit": "Assumpta est Maria in caelum",
             "feast": "Assumptio Mariae",
@@ -10082,6 +10742,7 @@ var data = {
         },
         {
             "id": "045v9",
+            "folio": "045v",
             "sequence": "9",
             "incipit": "Laudantes benedicunt dominum",
             "feast": "Assumptio Mariae",
@@ -10097,6 +10758,7 @@ var data = {
         },
         {
             "id": "045v10",
+            "folio": "045v",
             "sequence": "10",
             "incipit": "Maria virgo assumpta est",
             "feast": "Assumptio Mariae",
@@ -10112,6 +10774,7 @@ var data = {
         },
         {
             "id": "045v11",
+            "folio": "045v",
             "sequence": "11",
             "incipit": "Maria virgo assumpta est",
             "feast": "Assumptio Mariae",
@@ -10127,6 +10790,7 @@ var data = {
         },
         {
             "id": "045v12",
+            "folio": "045v",
             "sequence": "12",
             "incipit": "In quo rex regum",
             "feast": "Assumptio Mariae",
@@ -10142,6 +10806,7 @@ var data = {
         },
         {
             "id": "045v13",
+            "folio": "045v",
             "sequence": "13",
             "incipit": "Dignare  me laudare te*",
             "feast": "Assumptio Mariae",
@@ -10157,6 +10822,7 @@ var data = {
         },
         {
             "id": "045v14",
+            "folio": "045v",
             "sequence": "14",
             "incipit": "Assumpta est*",
             "feast": "Assumptio Mariae",
@@ -10172,6 +10838,7 @@ var data = {
         },
         {
             "id": "045v15",
+            "folio": "045v",
             "sequence": "15",
             "incipit": "Ave maris stella*",
             "feast": "Assumptio Mariae",
@@ -10187,6 +10854,7 @@ var data = {
         },
         {
             "id": "045v16",
+            "folio": "045v",
             "sequence": "16",
             "incipit": "Exaltata es  sancta dei genetrix",
             "feast": "Assumptio Mariae",
@@ -10202,6 +10870,7 @@ var data = {
         },
         {
             "id": "045v17",
+            "folio": "045v",
             "sequence": "17",
             "incipit": "Hodie Maria virgo caelos ascendit",
             "feast": "Assumptio Mariae",
@@ -10219,6 +10888,7 @@ var data = {
     "46r": [
         {
             "id": "046r1",
+            "folio": "046r",
             "sequence": "1",
             "incipit": "Sacerdos in aeternum",
             "feast": "Corporis Christi",
@@ -10234,6 +10904,7 @@ var data = {
         },
         {
             "id": "046r2",
+            "folio": "046r",
             "sequence": "2",
             "incipit": "Miserator dominus",
             "feast": "Corporis Christi",
@@ -10249,6 +10920,7 @@ var data = {
         },
         {
             "id": "046r3",
+            "folio": "046r",
             "sequence": "3",
             "incipit": "Calicem salutaris",
             "feast": "Corporis Christi",
@@ -10264,6 +10936,7 @@ var data = {
         },
         {
             "id": "046r4",
+            "folio": "046r",
             "sequence": "4",
             "incipit": "Sicut novellae olivarum",
             "feast": "Corporis Christi",
@@ -10279,6 +10952,7 @@ var data = {
         },
         {
             "id": "046r5",
+            "folio": "046r",
             "sequence": "5",
             "incipit": "Qui pacem ponit fines",
             "feast": "Corporis Christi",
@@ -10294,6 +10968,7 @@ var data = {
         },
         {
             "id": "046r6",
+            "folio": "046r",
             "sequence": "6",
             "incipit": "Pange lingua*",
             "feast": "Corporis Christi",
@@ -10309,6 +10984,7 @@ var data = {
         },
         {
             "id": "046r7",
+            "folio": "046r",
             "sequence": "7",
             "incipit": "Panem de caelo praestitisti",
             "feast": "Corporis Christi",
@@ -10324,6 +11000,7 @@ var data = {
         },
         {
             "id": "046r8",
+            "folio": "046r",
             "sequence": "8",
             "incipit": "O quam suavis est domine",
             "feast": "Corporis Christi",
@@ -10341,6 +11018,7 @@ var data = {
     "46v": [
         {
             "id": "046v1",
+            "folio": "046v",
             "sequence": "1",
             "incipit": "Christum regem adoremus",
             "feast": "Corporis Christi",
@@ -10356,6 +11034,7 @@ var data = {
         },
         {
             "id": "046v2",
+            "folio": "046v",
             "sequence": "2",
             "incipit": "Sacris sollemniis*",
             "feast": "Corporis Christi",
@@ -10371,6 +11050,7 @@ var data = {
         },
         {
             "id": "046v3",
+            "folio": "046v",
             "sequence": "3",
             "incipit": "Fructum salutiferum gustandum",
             "feast": "Corporis Christi",
@@ -10386,6 +11066,7 @@ var data = {
         },
         {
             "id": "046v4",
+            "folio": "046v",
             "sequence": "4",
             "incipit": "A fructu frumenti et vini",
             "feast": "Corporis Christi",
@@ -10401,6 +11082,7 @@ var data = {
         },
         {
             "id": "046v5",
+            "folio": "046v",
             "sequence": "5",
             "incipit": "Communione calicis quo deus",
             "feast": "Corporis Christi",
@@ -10416,6 +11098,7 @@ var data = {
         },
         {
             "id": "046v6",
+            "folio": "046v",
             "sequence": "6",
             "incipit": "Panem caeli dedit eis",
             "feast": "Corporis Christi",
@@ -10431,6 +11114,7 @@ var data = {
         },
         {
             "id": "046v7",
+            "folio": "046v",
             "sequence": "7",
             "incipit": "Immolabit haedum multitudo",
             "feast": "Corporis Christi",
@@ -10446,6 +11130,7 @@ var data = {
         },
         {
             "id": "046v8",
+            "folio": "046v",
             "sequence": "8",
             "incipit": "Pascha nostrum immolatus est",
             "feast": "Corporis Christi",
@@ -10463,6 +11148,7 @@ var data = {
     "47r": [
         {
             "id": "047r1",
+            "folio": "047r",
             "sequence": "1",
             "incipit": "Comedetis carnes et saturabimini",
             "feast": "Corporis Christi",
@@ -10478,6 +11164,7 @@ var data = {
         },
         {
             "id": "047r2",
+            "folio": "047r",
             "sequence": "2",
             "incipit": "Non Moyses dedit vobis panem",
             "feast": "Corporis Christi",
@@ -10493,6 +11180,7 @@ var data = {
         },
         {
             "id": "047r3",
+            "folio": "047r",
             "sequence": "3",
             "incipit": "Respexit Elias ad caput suum",
             "feast": "Corporis Christi",
@@ -10508,6 +11196,7 @@ var data = {
         },
         {
             "id": "047r4",
+            "folio": "047r",
             "sequence": "4",
             "incipit": "Si quis manducaverit",
             "feast": "Corporis Christi",
@@ -10523,6 +11212,7 @@ var data = {
         },
         {
             "id": "047r5",
+            "folio": "047r",
             "sequence": "5",
             "incipit": "Gloria patri et filio",
             "feast": "Corporis Christi",
@@ -10540,6 +11230,7 @@ var data = {
     "47v": [
         {
             "id": "047v1",
+            "folio": "047v",
             "sequence": "1",
             "incipit": "Memor sit dominus sacrificii             ",
             "feast": "Corporis Christi",
@@ -10555,6 +11246,7 @@ var data = {
         },
         {
             "id": "047v2",
+            "folio": "047v",
             "sequence": "2",
             "incipit": "Paratur nobis mensa domini",
             "feast": "Corporis Christi",
@@ -10570,6 +11262,7 @@ var data = {
         },
         {
             "id": "047v3",
+            "folio": "047v",
             "sequence": "3",
             "incipit": "In voce exsultationis",
             "feast": "Corporis Christi",
@@ -10585,6 +11278,7 @@ var data = {
         },
         {
             "id": "047v4",
+            "folio": "047v",
             "sequence": "4",
             "incipit": "Cibavit illos nos dominus ex",
             "feast": "Corporis Christi",
@@ -10600,6 +11294,7 @@ var data = {
         },
         {
             "id": "047v5",
+            "folio": "047v",
             "sequence": "5",
             "incipit": "Panis quem ego dabo caro ",
             "feast": "Corporis Christi",
@@ -10615,6 +11310,7 @@ var data = {
         },
         {
             "id": "047v6",
+            "folio": "047v",
             "sequence": "6",
             "incipit": "Locutus est populus contra",
             "feast": "Corporis Christi",
@@ -10630,6 +11326,7 @@ var data = {
         },
         {
             "id": "047v7",
+            "folio": "047v",
             "sequence": "7",
             "incipit": "Cenantibus illis accepit",
             "feast": "Corporis Christi",
@@ -10647,6 +11344,7 @@ var data = {
     "48r": [
         {
             "id": "048r1",
+            "folio": "048r",
             "sequence": "1",
             "incipit": "Dixerunt viri tabernaculi mei",
             "feast": "Corporis Christi",
@@ -10662,6 +11360,7 @@ var data = {
         },
         {
             "id": "048r2",
+            "folio": "048r",
             "sequence": "2",
             "incipit": "Accepit Jesus calicem        ",
             "feast": "Corporis Christi",
@@ -10677,6 +11376,7 @@ var data = {
         },
         {
             "id": "048r3",
+            "folio": "048r",
             "sequence": "3",
             "incipit": "Memoria memor ero et tabescet",
             "feast": "Corporis Christi",
@@ -10692,6 +11392,7 @@ var data = {
         },
         {
             "id": "048r4",
+            "folio": "048r",
             "sequence": "4",
             "incipit": "Gloria patri  et filio  ",
             "feast": "Corporis Christi",
@@ -10707,6 +11408,7 @@ var data = {
         },
         {
             "id": "048r5",
+            "folio": "048r",
             "sequence": "5",
             "incipit": "Introibo ad altare dei",
             "feast": "Corporis Christi",
@@ -10722,6 +11424,7 @@ var data = {
         },
         {
             "id": "048r6",
+            "folio": "048r",
             "sequence": "6",
             "incipit": "Cibavit nos dominus ex adipe",
             "feast": "Corporis Christi",
@@ -10737,6 +11440,7 @@ var data = {
         },
         {
             "id": "048r7",
+            "folio": "048r",
             "sequence": "7",
             "incipit": "Ex altari tuo domine Christum",
             "feast": "Corporis Christi",
@@ -10752,6 +11456,7 @@ var data = {
         },
         {
             "id": "048r8",
+            "folio": "048r",
             "sequence": "8",
             "incipit": "Educas panem de terra ",
             "feast": "Corporis Christi",
@@ -10767,6 +11472,7 @@ var data = {
         },
         {
             "id": "048r9",
+            "folio": "048r",
             "sequence": "9",
             "incipit": "Qui manducat meam carnem                 ",
             "feast": "Corporis Christi",
@@ -10784,6 +11490,7 @@ var data = {
     "48v": [
         {
             "id": "048v1",
+            "folio": "048v",
             "sequence": "1",
             "incipit": "Non est alia natio ",
             "feast": "Corporis Christi",
@@ -10799,6 +11506,7 @@ var data = {
         },
         {
             "id": "048v2",
+            "folio": "048v",
             "sequence": "2",
             "incipit": "Misit me pater vivens et ",
             "feast": "Corporis Christi",
@@ -10814,6 +11522,7 @@ var data = {
         },
         {
             "id": "048v3",
+            "folio": "048v",
             "sequence": "3",
             "incipit": "Cibavit eum dominus pane",
             "feast": "Corporis Christi",
@@ -10829,6 +11538,7 @@ var data = {
         },
         {
             "id": "048v4",
+            "folio": "048v",
             "sequence": "4",
             "incipit": "Unus panis et unum corpus                               ",
             "feast": "Corporis Christi",
@@ -10844,6 +11554,7 @@ var data = {
         },
         {
             "id": "048v5",
+            "folio": "048v",
             "sequence": "5",
             "incipit": "Parasti in dulcedine tua",
             "feast": "Corporis Christi",
@@ -10861,6 +11572,7 @@ var data = {
     "49r": [
         {
             "id": "049r1",
+            "folio": "049r",
             "sequence": "1",
             "incipit": "Gloria patri et filio",
             "feast": "Corporis Christi",
@@ -10876,6 +11588,7 @@ var data = {
         },
         {
             "id": "049r2",
+            "folio": "049r",
             "sequence": "2",
             "incipit": "Sapientia aedificavit sibi               ",
             "feast": "Corporis Christi",
@@ -10891,6 +11604,7 @@ var data = {
         },
         {
             "id": "049r3",
+            "folio": "049r",
             "sequence": "3",
             "incipit": "Angelorum esca nutrivisti                ",
             "feast": "Corporis Christi",
@@ -10906,6 +11620,7 @@ var data = {
         },
         {
             "id": "049r4",
+            "folio": "049r",
             "sequence": "4",
             "incipit": "Pinguis est panis Christi  ",
             "feast": "Corporis Christi",
@@ -10921,6 +11636,7 @@ var data = {
         },
         {
             "id": "049r5",
+            "folio": "049r",
             "sequence": "5",
             "incipit": "Sacerdotes sancti incensum ",
             "feast": "Corporis Christi",
@@ -10936,6 +11652,7 @@ var data = {
         },
         {
             "id": "049r6",
+            "folio": "049r",
             "sequence": "6",
             "incipit": "Vincenti dabo manna                      ",
             "feast": "Corporis Christi",
@@ -10951,6 +11668,7 @@ var data = {
         },
         {
             "id": "049r7",
+            "folio": "049r",
             "sequence": "7",
             "incipit": "Posuit fines tuos*",
             "feast": "Corporis Christi",
@@ -10966,6 +11684,7 @@ var data = {
         },
         {
             "id": "049r8",
+            "folio": "049r",
             "sequence": "8",
             "incipit": "Ego sum panis vivus         ",
             "feast": "Corporis Christi",
@@ -10981,6 +11700,7 @@ var data = {
         },
         {
             "id": "049r9",
+            "folio": "049r",
             "sequence": "9",
             "incipit": "Sapientia aedificavit*            ",
             "feast": "Corporis Christi",
@@ -10998,6 +11718,7 @@ var data = {
     "49v": [
         {
             "id": "049v1",
+            "folio": "049v",
             "sequence": "1",
             "incipit": "O sacrum convivium ",
             "feast": "Corporis Christi",
@@ -11013,6 +11734,7 @@ var data = {
         },
         {
             "id": "049v2",
+            "folio": "049v",
             "sequence": "2",
             "incipit": "Misso Herodes spiculatore",
             "feast": "Decoll. Jo. Bapt.",
@@ -11028,6 +11750,7 @@ var data = {
         },
         {
             "id": "049v3",
+            "folio": "049v",
             "sequence": "3",
             "incipit": "Misit Herodes rex manus",
             "feast": "Decoll. Jo. Bapt.",
@@ -11045,6 +11768,7 @@ var data = {
     "50r": [
         {
             "id": "050r1",
+            "folio": "050r",
             "sequence": "1",
             "incipit": "Arguebat Herodem Joannes",
             "feast": "Decoll. Jo. Bapt.",
@@ -11060,6 +11784,7 @@ var data = {
         },
         {
             "id": "050r2",
+            "folio": "050r",
             "sequence": "2",
             "incipit": "Joannes Baptista arguebat",
             "feast": "Decoll. Jo. Bapt.",
@@ -11075,6 +11800,7 @@ var data = {
         },
         {
             "id": "050r3",
+            "folio": "050r",
             "sequence": "3",
             "incipit": "Misso Herodes spiculatore",
             "feast": "Decoll. Jo. Bapt.",
@@ -11090,6 +11816,7 @@ var data = {
         },
         {
             "id": "050r4",
+            "folio": "050r",
             "sequence": "4",
             "incipit": "Puellae saltanti imperavit",
             "feast": "Decoll. Jo. Bapt.",
@@ -11105,6 +11832,7 @@ var data = {
         },
         {
             "id": "050r5",
+            "folio": "050r",
             "sequence": "5",
             "incipit": "Ait puella matri suae",
             "feast": "Decoll. Jo. Bapt.",
@@ -11120,6 +11848,7 @@ var data = {
         },
         {
             "id": "050r6",
+            "folio": "050r",
             "sequence": "6",
             "incipit": "Justus germinavit*",
             "feast": "Decoll. Jo. Bapt.",
@@ -11137,6 +11866,7 @@ var data = {
     "50v": [
         {
             "id": "050v1",
+            "folio": "050v",
             "sequence": "1",
             "incipit": "Herodes enim tenuit",
             "feast": "Decoll. Jo. Bapt.",
@@ -11152,6 +11882,7 @@ var data = {
         },
         {
             "id": "050v2",
+            "folio": "050v",
             "sequence": "2",
             "incipit": "Domine mi rex da mihi",
             "feast": "Decoll. Jo. Bapt.",
@@ -11167,6 +11898,7 @@ var data = {
         },
         {
             "id": "050v3",
+            "folio": "050v",
             "sequence": "3",
             "incipit": "Puellae saltanti imperavit",
             "feast": "Decoll. Jo. Bapt.",
@@ -11182,6 +11914,7 @@ var data = {
         },
         {
             "id": "050v4",
+            "folio": "050v",
             "sequence": "4",
             "incipit": "Arguebat Herodem Joannes",
             "feast": "Decoll. Jo. Bapt.",
@@ -11197,6 +11930,7 @@ var data = {
         },
         {
             "id": "050v5",
+            "folio": "050v",
             "sequence": "5",
             "incipit": "Da mihi in disco caput",
             "feast": "Decoll. Jo. Bapt.",
@@ -11212,6 +11946,7 @@ var data = {
         },
         {
             "id": "050v6",
+            "folio": "050v",
             "sequence": "6",
             "incipit": "Misso Herodes*",
             "feast": "Decoll. Jo. Bapt.",
@@ -11227,6 +11962,7 @@ var data = {
         },
         {
             "id": "050v7",
+            "folio": "050v",
             "sequence": "7",
             "incipit": "Misit rex incedulus ministros",
             "feast": "Decoll. Jo. Bapt.",
@@ -11244,6 +11980,7 @@ var data = {
     "51r": [
         {
             "id": "051r1",
+            "folio": "051r",
             "sequence": "1",
             "incipit": "Nativitas gloriosae*",
             "feast": "Nativitas Mariae",
@@ -11259,6 +11996,7 @@ var data = {
         },
         {
             "id": "051r2",
+            "folio": "051r",
             "sequence": "2",
             "incipit": "Ave maris stella*",
             "feast": "Nativitas Mariae",
@@ -11274,6 +12012,7 @@ var data = {
         },
         {
             "id": "051r3",
+            "folio": "051r",
             "sequence": "3",
             "incipit": "Nativitas est hodie sanctae",
             "feast": "Nativitas Mariae",
@@ -11289,6 +12028,7 @@ var data = {
         },
         {
             "id": "051r4",
+            "folio": "051r",
             "sequence": "4",
             "incipit": "Gloriosae virginis Mariae",
             "feast": "Nativitas Mariae",
@@ -11304,6 +12044,7 @@ var data = {
         },
         {
             "id": "051r5",
+            "folio": "051r",
             "sequence": "5",
             "incipit": "Nativitatem virginis Mariae",
             "feast": "Nativitas Mariae",
@@ -11319,6 +12060,7 @@ var data = {
         },
         {
             "id": "051r6",
+            "folio": "051r",
             "sequence": "6",
             "incipit": "Quem terra pontus*",
             "feast": "Nativitas Mariae",
@@ -11334,6 +12076,7 @@ var data = {
         },
         {
             "id": "051r7",
+            "folio": "051r",
             "sequence": "7",
             "incipit": "Hodie nata est beata virgo",
             "feast": "Nativitas Mariae",
@@ -11349,6 +12092,7 @@ var data = {
         },
         {
             "id": "051r8",
+            "folio": "051r",
             "sequence": "8",
             "incipit": "Nativitatem beata virginis",
             "feast": "Nativitas Mariae",
@@ -11366,6 +12110,7 @@ var data = {
     "51v": [
         {
             "id": "051v1",
+            "folio": "051v",
             "sequence": "1",
             "incipit": "Beatissimae virginis Mariae",
             "feast": "Nativitas Mariae",
@@ -11381,6 +12126,7 @@ var data = {
         },
         {
             "id": "051v2",
+            "folio": "051v",
             "sequence": "2",
             "incipit": "Cum jucunditate nativitatem",
             "feast": "Nativitas Mariae",
@@ -11396,6 +12142,7 @@ var data = {
         },
         {
             "id": "051v3",
+            "folio": "051v",
             "sequence": "3",
             "incipit": "Gloriosae virginis Mariae",
             "feast": "Nativitas Mariae",
@@ -11411,6 +12158,7 @@ var data = {
         },
         {
             "id": "051v4",
+            "folio": "051v",
             "sequence": "4",
             "incipit": "Beatissimae virginis Mariae",
             "feast": "Nativitas Mariae",
@@ -11426,6 +12174,7 @@ var data = {
         },
         {
             "id": "051v5",
+            "folio": "051v",
             "sequence": "5",
             "incipit": "Nativitas gloriosae virginis",
             "feast": "Nativitas Mariae",
@@ -11443,6 +12192,7 @@ var data = {
     "52r": [
         {
             "id": "052r1",
+            "folio": "052r",
             "sequence": "1",
             "incipit": "Hodie nata est beata virgo",
             "feast": "Nativitas Mariae",
@@ -11458,6 +12208,7 @@ var data = {
         },
         {
             "id": "052r2",
+            "folio": "052r",
             "sequence": "2",
             "incipit": "Cum jucunditate nativitatem",
             "feast": "Nativitas Mariae",
@@ -11473,6 +12224,7 @@ var data = {
         },
         {
             "id": "052r3",
+            "folio": "052r",
             "sequence": "3",
             "incipit": "Corde et animo Christo",
             "feast": "Nativitas Mariae",
@@ -11488,6 +12240,7 @@ var data = {
         },
         {
             "id": "052r4",
+            "folio": "052r",
             "sequence": "4",
             "incipit": "Nativitas tua dei genetrix",
             "feast": "Nativitas Mariae",
@@ -11505,6 +12258,7 @@ var data = {
     "52v": [
         {
             "id": "052v1",
+            "folio": "052v",
             "sequence": "1",
             "incipit": "Benedicta tu in mulieribus",
             "feast": "Nativitas Mariae",
@@ -11520,6 +12274,7 @@ var data = {
         },
         {
             "id": "052v2",
+            "folio": "052v",
             "sequence": "2",
             "incipit": "Felix namque es sacra virgo",
             "feast": "Nativitas Mariae",
@@ -11535,6 +12290,7 @@ var data = {
         },
         {
             "id": "052v3",
+            "folio": "052v",
             "sequence": "3",
             "incipit": "Ora pro populo interveni",
             "feast": "Nativitas Mariae",
@@ -11552,6 +12308,7 @@ var data = {
     "53r": [
         {
             "id": "053r1",
+            "folio": "053r",
             "sequence": "1",
             "incipit": "Nativitas gloriosae virginis",
             "feast": "Nativitas Mariae",
@@ -11567,6 +12324,7 @@ var data = {
         },
         {
             "id": "053r2",
+            "folio": "053r",
             "sequence": "2",
             "incipit": "Nativitas est hodie sanctae",
             "feast": "Nativitas Mariae",
@@ -11582,6 +12340,7 @@ var data = {
         },
         {
             "id": "053r3",
+            "folio": "053r",
             "sequence": "3",
             "incipit": "Regali ex progenie Maria",
             "feast": "Nativitas Mariae",
@@ -11597,6 +12356,7 @@ var data = {
         },
         {
             "id": "053r4",
+            "folio": "053r",
             "sequence": "4",
             "incipit": "Corde et animo Christo",
             "feast": "Nativitas Mariae",
@@ -11612,6 +12372,7 @@ var data = {
         },
         {
             "id": "053r5",
+            "folio": "053r",
             "sequence": "5",
             "incipit": "Cum jocunditate nativitatem",
             "feast": "Nativitas Mariae",
@@ -11629,6 +12390,7 @@ var data = {
     "53v": [
         {
             "id": "053v1",
+            "folio": "053v",
             "sequence": "1",
             "incipit": "O gloriosa domina*",
             "feast": "Nativitas Mariae",
@@ -11644,6 +12406,7 @@ var data = {
         },
         {
             "id": "053v2",
+            "folio": "053v",
             "sequence": "2",
             "incipit": "Nativitas est hodie sanctae",
             "feast": "Nativitas Mariae",
@@ -11659,6 +12422,7 @@ var data = {
         },
         {
             "id": "053v3",
+            "folio": "053v",
             "sequence": "3",
             "incipit": "Nativitatem hodiernam",
             "feast": "Nativitas Mariae",
@@ -11674,6 +12438,7 @@ var data = {
         },
         {
             "id": "053v4",
+            "folio": "053v",
             "sequence": "4",
             "incipit": "Nativitas gloriosae*",
             "feast": "Nativitas Mariae",
@@ -11689,6 +12454,7 @@ var data = {
         },
         {
             "id": "053v5",
+            "folio": "053v",
             "sequence": "5",
             "incipit": "Ave maris stella*",
             "feast": "Nativitas Mariae",
@@ -11704,6 +12470,7 @@ var data = {
         },
         {
             "id": "053v6",
+            "folio": "053v",
             "sequence": "6",
             "incipit": "Nativitas est hodie sanctae",
             "feast": "Nativitas Mariae",
@@ -11719,6 +12486,7 @@ var data = {
         },
         {
             "id": "053v7",
+            "folio": "053v",
             "sequence": "7",
             "incipit": "Nativitas tua dei genetrix",
             "feast": "Nativitas Mariae",
@@ -11734,6 +12502,7 @@ var data = {
         },
         {
             "id": "053v8",
+            "folio": "053v",
             "sequence": "8",
             "incipit": "O crux ave*",
             "feast": "Exaltatio Crucis",
@@ -11749,6 +12518,7 @@ var data = {
         },
         {
             "id": "053v9",
+            "folio": "053v",
             "sequence": "9",
             "incipit": "Hoc signum crucis*",
             "feast": "Exaltatio Crucis",
@@ -11764,6 +12534,7 @@ var data = {
         },
         {
             "id": "053v10",
+            "folio": "053v",
             "sequence": "10",
             "incipit": "O crux splendidior*",
             "feast": "Exaltatio Crucis",
@@ -11779,6 +12550,7 @@ var data = {
         },
         {
             "id": "053v11",
+            "folio": "053v",
             "sequence": "11",
             "incipit": "Regem martyrum*",
             "feast": "Cornelii, Cypriani",
@@ -11794,6 +12566,7 @@ var data = {
         },
         {
             "id": "053v12",
+            "folio": "053v",
             "sequence": "12",
             "incipit": "Adoramus te Christe et benedicimus",
             "feast": "Exaltatio Crucis",
@@ -11811,6 +12584,7 @@ var data = {
     "54r": [
         {
             "id": "054r1",
+            "folio": "054r",
             "sequence": "1",
             "incipit": "Propter lignum servi facti",
             "feast": "Exaltatio Crucis",
@@ -11826,6 +12600,7 @@ var data = {
         },
         {
             "id": "054r2",
+            "folio": "054r",
             "sequence": "2",
             "incipit": "Salvator mundi salva nos",
             "feast": "Exaltatio Crucis",
@@ -11841,6 +12616,7 @@ var data = {
         },
         {
             "id": "054r3",
+            "folio": "054r",
             "sequence": "3",
             "incipit": "Hoc signum crucis*",
             "feast": "Exaltatio Crucis",
@@ -11856,6 +12632,7 @@ var data = {
         },
         {
             "id": "054r4",
+            "folio": "054r",
             "sequence": "4",
             "incipit": "Dulce lignum*",
             "feast": "Exaltatio Crucis",
@@ -11871,6 +12648,7 @@ var data = {
         },
         {
             "id": "054r5",
+            "folio": "054r",
             "sequence": "5",
             "incipit": "Hoc signum crucis*",
             "feast": "Exaltatio Crucis",
@@ -11886,6 +12664,7 @@ var data = {
         },
         {
             "id": "054r6",
+            "folio": "054r",
             "sequence": "6",
             "incipit": "O magnum pietatis",
             "feast": "Exaltatio Crucis",
@@ -11901,6 +12680,7 @@ var data = {
         },
         {
             "id": "054r7",
+            "folio": "054r",
             "sequence": "7",
             "incipit": "Salva nos Christe salvator   ",
             "feast": "Exaltatio Crucis",
@@ -11916,6 +12696,7 @@ var data = {
         },
         {
             "id": "054r8",
+            "folio": "054r",
             "sequence": "8",
             "incipit": "Ecce crucem domini fugite    ",
             "feast": "Exaltatio Crucis",
@@ -11933,6 +12714,7 @@ var data = {
     "54v": [
         {
             "id": "054v1",
+            "folio": "054v",
             "sequence": "1",
             "incipit": "Nos autem gloriari oportet",
             "feast": "Exaltatio Crucis",
@@ -11948,6 +12730,7 @@ var data = {
         },
         {
             "id": "054v2",
+            "folio": "054v",
             "sequence": "2",
             "incipit": "Per signum crucis de inimicis",
             "feast": "Exaltatio Crucis",
@@ -11963,6 +12746,7 @@ var data = {
         },
         {
             "id": "054v3",
+            "folio": "054v",
             "sequence": "3",
             "incipit": "O crux ave*",
             "feast": "Exaltatio Crucis",
@@ -11978,6 +12762,7 @@ var data = {
         },
         {
             "id": "054v4",
+            "folio": "054v",
             "sequence": "4",
             "incipit": "Adoramus te Christe et benedicimus",
             "feast": "Exaltatio Crucis",
@@ -11993,6 +12778,7 @@ var data = {
         },
         {
             "id": "054v5",
+            "folio": "054v",
             "sequence": "5",
             "incipit": "Super omnia ligna cedrorum",
             "feast": "Exaltatio Crucis",
@@ -12008,6 +12794,7 @@ var data = {
         },
         {
             "id": "054v6",
+            "folio": "054v",
             "sequence": "6",
             "incipit": "O crux benedicta quae sola",
             "feast": "Exaltatio Crucis",
@@ -12023,6 +12810,7 @@ var data = {
         },
         {
             "id": "054v7",
+            "folio": "054v",
             "sequence": "7",
             "incipit": "Tibi Christe splendor*",
             "feast": "Michaelis",
@@ -12038,6 +12826,7 @@ var data = {
         },
         {
             "id": "054v8",
+            "folio": "054v",
             "sequence": "8",
             "incipit": "Stetit angelus juxta aram",
             "feast": "Michaelis",
@@ -12053,6 +12842,7 @@ var data = {
         },
         {
             "id": "054v9",
+            "folio": "054v",
             "sequence": "9",
             "incipit": "Dum sacrum mysterium cerneret",
             "feast": "Michaelis",
@@ -12070,6 +12860,7 @@ var data = {
     "55r": [
         {
             "id": "055r1",
+            "folio": "055r",
             "sequence": "1",
             "incipit": "Regem archangelorum dominum",
             "feast": "Michaelis",
@@ -12085,6 +12876,7 @@ var data = {
         },
         {
             "id": "055r2",
+            "folio": "055r",
             "sequence": "2",
             "incipit": "Concussum est mare",
             "feast": "Michaelis",
@@ -12100,6 +12892,7 @@ var data = {
         },
         {
             "id": "055r3",
+            "folio": "055r",
             "sequence": "3",
             "incipit": "Laudemus dominum quem laudant",
             "feast": "Michaelis",
@@ -12115,6 +12908,7 @@ var data = {
         },
         {
             "id": "055r4",
+            "folio": "055r",
             "sequence": "4",
             "incipit": "Ascendit fumus aromatum",
             "feast": "Michaelis",
@@ -12130,6 +12924,7 @@ var data = {
         },
         {
             "id": "055r5",
+            "folio": "055r",
             "sequence": "5",
             "incipit": "Stetit angelus juxta aram",
             "feast": "Michaelis",
@@ -12145,6 +12940,7 @@ var data = {
         },
         {
             "id": "055r6",
+            "folio": "055r",
             "sequence": "6",
             "incipit": "Factum est silentium in caelo",
             "feast": "Michaelis",
@@ -12162,6 +12958,7 @@ var data = {
     "55v": [
         {
             "id": "055v1",
+            "folio": "055v",
             "sequence": "1",
             "incipit": "Milia milium ministrabant ei",
             "feast": "Michaelis",
@@ -12177,6 +12974,7 @@ var data = {
         },
         {
             "id": "055v2",
+            "folio": "055v",
             "sequence": "2",
             "incipit": "Stetit angelus juxta aram",
             "feast": "Michaelis",
@@ -12192,6 +12990,7 @@ var data = {
         },
         {
             "id": "055v3",
+            "folio": "055v",
             "sequence": "3",
             "incipit": "In conspectu angelorum",
             "feast": "Michaelis",
@@ -12207,6 +13006,7 @@ var data = {
         },
         {
             "id": "055v4",
+            "folio": "055v",
             "sequence": "4",
             "incipit": "In conspectu angelorum",
             "feast": "Michaelis",
@@ -12224,6 +13024,7 @@ var data = {
     "56r": [
         {
             "id": "056r1",
+            "folio": "056r",
             "sequence": "1",
             "incipit": "Super misericordiam tuam",
             "feast": "Michaelis",
@@ -12239,6 +13040,7 @@ var data = {
         },
         {
             "id": "056r2",
+            "folio": "056r",
             "sequence": "2",
             "incipit": "Michael archangele veni ",
             "feast": "Michaelis",
@@ -12254,6 +13056,7 @@ var data = {
         },
         {
             "id": "056r3",
+            "folio": "056r",
             "sequence": "3",
             "incipit": "Michael praepositus paradisi",
             "feast": "Michaelis",
@@ -12269,6 +13072,7 @@ var data = {
         },
         {
             "id": "056r4",
+            "folio": "056r",
             "sequence": "4",
             "incipit": "Gloriosus apparuisti in conspectu",
             "feast": "Michaelis",
@@ -12284,6 +13088,7 @@ var data = {
         },
         {
             "id": "056r5",
+            "folio": "056r",
             "sequence": "5",
             "incipit": "Ascendit fumus aromatum",
             "feast": "Michaelis",
@@ -12299,6 +13104,7 @@ var data = {
         },
         {
             "id": "056r6",
+            "folio": "056r",
             "sequence": "6",
             "incipit": "In conspectu gentium nolite",
             "feast": "Michaelis",
@@ -12316,6 +13122,7 @@ var data = {
     "56v": [
         {
             "id": "056v1",
+            "folio": "056v",
             "sequence": "1",
             "incipit": "Stetit angelus juxta aram",
             "feast": "Michaelis",
@@ -12331,6 +13138,7 @@ var data = {
         },
         {
             "id": "056v2",
+            "folio": "056v",
             "sequence": "2",
             "incipit": "Hic est Michael archangelus",
             "feast": "Michaelis",
@@ -12346,6 +13154,7 @@ var data = {
         },
         {
             "id": "056v3",
+            "folio": "056v",
             "sequence": "3",
             "incipit": "Archangelus Michael",
             "feast": "Michaelis",
@@ -12361,6 +13170,7 @@ var data = {
         },
         {
             "id": "056v4",
+            "folio": "056v",
             "sequence": "4",
             "incipit": "Venit Michael archangelus",
             "feast": "Michaelis",
@@ -12378,6 +13188,7 @@ var data = {
     "57r": [
         {
             "id": "057r1",
+            "folio": "057r",
             "sequence": "1",
             "incipit": "Emitte domine spiritum",
             "feast": "Michaelis",
@@ -12393,6 +13204,7 @@ var data = {
         },
         {
             "id": "057r2",
+            "folio": "057r",
             "sequence": "2",
             "incipit": "Angelus archangelus Michael",
             "feast": "Michaelis",
@@ -12408,6 +13220,7 @@ var data = {
         },
         {
             "id": "057r3",
+            "folio": "057r",
             "sequence": "3",
             "incipit": "Data sunt ei incensa",
             "feast": "Michaelis",
@@ -12423,6 +13236,7 @@ var data = {
         },
         {
             "id": "057r4",
+            "folio": "057r",
             "sequence": "4",
             "incipit": "Magna magnalia de Michaele",
             "feast": "Michaelis",
@@ -12438,6 +13252,7 @@ var data = {
         },
         {
             "id": "057r5",
+            "folio": "057r",
             "sequence": "5",
             "incipit": "In conspectu angelorum",
             "feast": "Michaelis",
@@ -12453,6 +13268,7 @@ var data = {
         },
         {
             "id": "057r6",
+            "folio": "057r",
             "sequence": "6",
             "incipit": "In tempore illo consurget",
             "feast": "Michaelis",
@@ -12470,6 +13286,7 @@ var data = {
     "57v": [
         {
             "id": "057v1",
+            "folio": "057v",
             "sequence": "1",
             "incipit": "In tempore illo salvabitur",
             "feast": "Michaelis",
@@ -12485,6 +13302,7 @@ var data = {
         },
         {
             "id": "057v2",
+            "folio": "057v",
             "sequence": "2",
             "incipit": "Michael archangelus venit",
             "feast": "Michaelis",
@@ -12500,6 +13318,7 @@ var data = {
         },
         {
             "id": "057v3",
+            "folio": "057v",
             "sequence": "3",
             "incipit": "Stetit angelus juxta aram",
             "feast": "Michaelis",
@@ -12515,6 +13334,7 @@ var data = {
         },
         {
             "id": "057v4",
+            "folio": "057v",
             "sequence": "4",
             "incipit": "Fidelis sermo et omni",
             "feast": "Michaelis",
@@ -12532,6 +13352,7 @@ var data = {
     "58r": [
         {
             "id": "058r1",
+            "folio": "058r",
             "sequence": "1",
             "incipit": "Gaudent angeli laetantur",
             "feast": "Michaelis",
@@ -12547,6 +13368,7 @@ var data = {
         },
         {
             "id": "058r2",
+            "folio": "058r",
             "sequence": "2",
             "incipit": "Stetit angelus juxta aram",
             "feast": "Michaelis",
@@ -12562,6 +13384,7 @@ var data = {
         },
         {
             "id": "058r3",
+            "folio": "058r",
             "sequence": "3",
             "incipit": "Dum proeliaretur Michael",
             "feast": "Michaelis",
@@ -12577,6 +13400,7 @@ var data = {
         },
         {
             "id": "058r4",
+            "folio": "058r",
             "sequence": "4",
             "incipit": "Archangele Michael constitui",
             "feast": "Michaelis",
@@ -12592,6 +13416,7 @@ var data = {
         },
         {
             "id": "058r5",
+            "folio": "058r",
             "sequence": "5",
             "incipit": "Angeli domini dominum",
             "feast": "Michaelis",
@@ -12607,6 +13432,7 @@ var data = {
         },
         {
             "id": "058r6",
+            "folio": "058r",
             "sequence": "6",
             "incipit": "Angeli archangeli throni",
             "feast": "Michaelis",
@@ -12624,6 +13450,7 @@ var data = {
     "58v": [
         {
             "id": "058v1",
+            "folio": "058v",
             "sequence": "1",
             "incipit": "Christe sanctorum*",
             "feast": "Michaelis",
@@ -12639,6 +13466,7 @@ var data = {
         },
         {
             "id": "058v2",
+            "folio": "058v",
             "sequence": "2",
             "incipit": "Stetit angelus juxta aram",
             "feast": "Michaelis",
@@ -12654,6 +13482,7 @@ var data = {
         },
         {
             "id": "058v3",
+            "folio": "058v",
             "sequence": "3",
             "incipit": "Factum est silentium in caelo",
             "feast": "Michaelis",
@@ -12669,6 +13498,7 @@ var data = {
         },
         {
             "id": "058v4",
+            "folio": "058v",
             "sequence": "4",
             "incipit": "Stetit angelus juxta aram",
             "feast": "Michaelis",
@@ -12684,6 +13514,7 @@ var data = {
         },
         {
             "id": "058v5",
+            "folio": "058v",
             "sequence": "5",
             "incipit": "Habens thuribulum aureum",
             "feast": "Michaelis",
@@ -12699,6 +13530,7 @@ var data = {
         },
         {
             "id": "058v6",
+            "folio": "058v",
             "sequence": "6",
             "incipit": "Gloria*",
             "feast": "Michaelis",
@@ -12714,6 +13546,7 @@ var data = {
         },
         {
             "id": "058v7",
+            "folio": "058v",
             "sequence": "7",
             "incipit": "Ascendit fumus aromatum",
             "feast": "Michaelis",
@@ -12729,6 +13562,7 @@ var data = {
         },
         {
             "id": "058v8",
+            "folio": "058v",
             "sequence": "8",
             "incipit": "Ascendit fumus aromatum",
             "feast": "Michaelis",
@@ -12744,6 +13578,7 @@ var data = {
         },
         {
             "id": "058v9",
+            "folio": "058v",
             "sequence": "9",
             "incipit": "De manu angeli",
             "feast": "Michaelis",
@@ -12759,6 +13594,7 @@ var data = {
         },
         {
             "id": "058v10",
+            "folio": "058v",
             "sequence": "10",
             "incipit": "In conspectu angelorum*",
             "feast": "Michaelis",
@@ -12774,6 +13610,7 @@ var data = {
         },
         {
             "id": "058v11",
+            "folio": "058v",
             "sequence": "11",
             "incipit": "In conspectu angelorum",
             "feast": "Michaelis",
@@ -12789,6 +13626,7 @@ var data = {
         },
         {
             "id": "058v12",
+            "folio": "058v",
             "sequence": "12",
             "incipit": "Adorabo ad templum sanctam",
             "feast": "Michaelis",
@@ -12804,6 +13642,7 @@ var data = {
         },
         {
             "id": "058v13",
+            "folio": "058v",
             "sequence": "13",
             "incipit": "Adorate dominum omnes angeli",
             "feast": "Michaelis",
@@ -12819,6 +13658,7 @@ var data = {
         },
         {
             "id": "058v14",
+            "folio": "058v",
             "sequence": "14",
             "incipit": "Stetit angelus*",
             "feast": "Michaelis",
@@ -12834,6 +13674,7 @@ var data = {
         },
         {
             "id": "058v15",
+            "folio": "058v",
             "sequence": "15",
             "incipit": "Tibi Christe splendor*",
             "feast": "Michaelis",
@@ -12849,6 +13690,7 @@ var data = {
         },
         {
             "id": "058v16",
+            "folio": "058v",
             "sequence": "16",
             "incipit": "In conspectu angelorum*",
             "feast": "Michaelis",
@@ -12864,6 +13706,7 @@ var data = {
         },
         {
             "id": "058v17",
+            "folio": "058v",
             "sequence": "17",
             "incipit": "Princeps gloriossime Michael",
             "feast": "Michaelis",
@@ -12881,6 +13724,7 @@ var data = {
     "59r": [
         {
             "id": "059r1",
+            "folio": "059r",
             "sequence": "1",
             "incipit": "Franciscus vir catholicus ",
             "feast": "Francisci",
@@ -12896,6 +13740,7 @@ var data = {
         },
         {
             "id": "059r2",
+            "folio": "059r",
             "sequence": "2",
             "incipit": "Coepit sub innocentio                    ",
             "feast": "Francisci",
@@ -12911,6 +13756,7 @@ var data = {
         },
         {
             "id": "059r3",
+            "folio": "059r",
             "sequence": "3",
             "incipit": "Hunc sanctus praeelegerat",
             "feast": "Francisci",
@@ -12926,6 +13772,7 @@ var data = {
         },
         {
             "id": "059r4",
+            "folio": "059r",
             "sequence": "4",
             "incipit": "Franciscus evangelicum nec apicem",
             "feast": "Francisci",
@@ -12943,6 +13790,7 @@ var data = {
     "59v": [
         {
             "id": "059v1",
+            "folio": "059v",
             "sequence": "1",
             "incipit": "Hic creaturis imperat qui nutui               ",
             "feast": "Francisci",
@@ -12958,6 +13806,7 @@ var data = {
         },
         {
             "id": "059v2",
+            "folio": "059v",
             "sequence": "2",
             "incipit": "Proles de caelo prodiit*",
             "feast": "Francisci",
@@ -12973,6 +13822,7 @@ var data = {
         },
         {
             "id": "059v3",
+            "folio": "059v",
             "sequence": "3",
             "incipit": "Ora pro nobis beate Francisce",
             "feast": "Francisci",
@@ -12988,6 +13838,7 @@ var data = {
         },
         {
             "id": "059v4",
+            "folio": "059v",
             "sequence": "4",
             "incipit": "O stupor et gaudium",
             "feast": "Francisci",
@@ -13005,6 +13856,7 @@ var data = {
     "60r": [
         {
             "id": "060r1",
+            "folio": "060r",
             "sequence": "1",
             "incipit": "Regi quae fecit opera Christo            ",
             "feast": "Francisci",
@@ -13020,6 +13872,7 @@ var data = {
         },
         {
             "id": "060r2",
+            "folio": "060r",
             "sequence": "2",
             "incipit": "In caelestis collegio*",
             "feast": "Francisci",
@@ -13035,6 +13888,7 @@ var data = {
         },
         {
             "id": "060r3",
+            "folio": "060r",
             "sequence": "3",
             "incipit": "Hic vir in vanitatibus",
             "feast": "Francisci",
@@ -13050,6 +13904,7 @@ var data = {
         },
         {
             "id": "060r4",
+            "folio": "060r",
             "sequence": "4",
             "incipit": "Excelsi dextrae gratia                  ",
             "feast": "Francisci",
@@ -13065,6 +13920,7 @@ var data = {
         },
         {
             "id": "060r5",
+            "folio": "060r",
             "sequence": "5",
             "incipit": "Mansuescit sed non penitus               ",
             "feast": "Francisci",
@@ -13082,6 +13938,7 @@ var data = {
     "60v": [
         {
             "id": "060v1",
+            "folio": "060v",
             "sequence": "1",
             "incipit": "Amavit eum dominus",
             "feast": "Francisci",
@@ -13097,6 +13954,7 @@ var data = {
         },
         {
             "id": "060v2",
+            "folio": "060v",
             "sequence": "2",
             "incipit": "Franciscus ut in publicum              ",
             "feast": "Francisci",
@@ -13112,6 +13970,7 @@ var data = {
         },
         {
             "id": "060v3",
+            "folio": "060v",
             "sequence": "3",
             "incipit": "Deum quid agat unicum",
             "feast": "Francisci",
@@ -13127,6 +13986,7 @@ var data = {
         },
         {
             "id": "060v4",
+            "folio": "060v",
             "sequence": "4",
             "incipit": "In dei fervens opere statim",
             "feast": "Francisci",
@@ -13144,6 +14004,7 @@ var data = {
     "61r": [
         {
             "id": "061r1",
+            "folio": "061r",
             "sequence": "1",
             "incipit": "Quam formidante paupere",
             "feast": "Francisci",
@@ -13159,6 +14020,7 @@ var data = {
         },
         {
             "id": "061r2",
+            "folio": "061r",
             "sequence": "2",
             "incipit": "Dum pater hunc persequitur            ",
             "feast": "Francisci",
@@ -13174,6 +14036,7 @@ var data = {
         },
         {
             "id": "061r3",
+            "folio": "061r",
             "sequence": "3",
             "incipit": "Luto saxis impetitur",
             "feast": "Francisci",
@@ -13189,6 +14052,7 @@ var data = {
         },
         {
             "id": "061r4",
+            "folio": "061r",
             "sequence": "4",
             "incipit": "Gloria patri et filio",
             "feast": "Francisci",
@@ -13204,6 +14068,7 @@ var data = {
         },
         {
             "id": "061r5",
+            "folio": "061r",
             "sequence": "5",
             "incipit": "Pertractum domi verberat",
             "feast": "Francisci",
@@ -13221,6 +14086,7 @@ var data = {
     "61v": [
         {
             "id": "061v1",
+            "folio": "061v",
             "sequence": "1",
             "incipit": "Jam libet patris furiae",
             "feast": "Francisci",
@@ -13236,6 +14102,7 @@ var data = {
         },
         {
             "id": "061v2",
+            "folio": "061v",
             "sequence": "2",
             "incipit": "Ductus ad loci praesulem",
             "feast": "Francisci",
@@ -13251,6 +14118,7 @@ var data = {
         },
         {
             "id": "061v3",
+            "folio": "061v",
             "sequence": "3",
             "incipit": "Os justi meditabitur",
             "feast": "Francisci",
@@ -13266,6 +14134,7 @@ var data = {
         },
         {
             "id": "061v4",
+            "folio": "061v",
             "sequence": "4",
             "incipit": "Dum seminudo corpore laudes",
             "feast": "Francisci",
@@ -13281,6 +14150,7 @@ var data = {
         },
         {
             "id": "061v5",
+            "folio": "061v",
             "sequence": "5",
             "incipit": "Audit in nivis frigore",
             "feast": "Francisci",
@@ -13296,6 +14166,7 @@ var data = {
         },
         {
             "id": "061v6",
+            "folio": "061v",
             "sequence": "6",
             "incipit": "Gloria patri et filio",
             "feast": "Francisci",
@@ -13311,6 +14182,7 @@ var data = {
         },
         {
             "id": "061v7",
+            "folio": "061v",
             "sequence": "7",
             "incipit": "Amicum quaerit pristinum",
             "feast": "Francisci",
@@ -13328,6 +14200,7 @@ var data = {
     "62r": [
         {
             "id": "062r1",
+            "folio": "062r",
             "sequence": "1",
             "incipit": "Sub typo trium ordinum",
             "feast": "Francisci",
@@ -13343,6 +14216,7 @@ var data = {
         },
         {
             "id": "062r2",
+            "folio": "062r",
             "sequence": "2",
             "incipit": "Gloria patri et filio",
             "feast": "Francisci",
@@ -13358,6 +14232,7 @@ var data = {
         },
         {
             "id": "062r2",
+            "folio": "062r",
             "sequence": "2",
             "incipit": "Gloria patri et filio",
             "feast": "Francisci",
@@ -13373,6 +14248,7 @@ var data = {
         },
         {
             "id": "062r3",
+            "folio": "062r",
             "sequence": "3",
             "incipit": "Audit in evangelio",
             "feast": "Francisci",
@@ -13388,6 +14264,7 @@ var data = {
         },
         {
             "id": "062r4",
+            "folio": "062r",
             "sequence": "4",
             "incipit": "Non utens virga calceo",
             "feast": "Francisci",
@@ -13405,6 +14282,7 @@ var data = {
     "62v": [
         {
             "id": "062v1",
+            "folio": "062v",
             "sequence": "1",
             "incipit": "Gloria patri et filio",
             "feast": "Francisci",
@@ -13420,6 +14298,7 @@ var data = {
         },
         {
             "id": "062v2",
+            "folio": "062v",
             "sequence": "2",
             "incipit": "Cor verbis novae gratiae                 ",
             "feast": "Francisci",
@@ -13435,6 +14314,7 @@ var data = {
         },
         {
             "id": "062v3",
+            "folio": "062v",
             "sequence": "3",
             "incipit": "Pacem salutem nuntiat",
             "feast": "Francisci",
@@ -13450,6 +14330,7 @@ var data = {
         },
         {
             "id": "062v4",
+            "folio": "062v",
             "sequence": "4",
             "incipit": "Ut novis sancti merita                   ",
             "feast": "Francisci",
@@ -13465,6 +14346,7 @@ var data = {
         },
         {
             "id": "062v5",
+            "folio": "062v",
             "sequence": "5",
             "incipit": "Lex dei ejus",
             "feast": "Francisci",
@@ -13480,6 +14362,7 @@ var data = {
         },
         {
             "id": "062v6",
+            "folio": "062v",
             "sequence": "6",
             "incipit": "Carnis spicam contemptus area",
             "feast": "Francisci",
@@ -13497,6 +14380,7 @@ var data = {
     "63r": [
         {
             "id": "063r1",
+            "folio": "063r",
             "sequence": "1",
             "incipit": "Vivo pani morte junctus vita",
             "feast": "Francisci",
@@ -13512,6 +14396,7 @@ var data = {
         },
         {
             "id": "063r3",
+            "folio": "063r",
             "sequence": "3",
             "incipit": "De paupertatis horreo         ",
             "feast": "Francisci",
@@ -13527,6 +14412,7 @@ var data = {
         },
         {
             "id": "063r4",
+            "folio": "063r",
             "sequence": "4",
             "incipit": "Pro paupertatis copia",
             "feast": "Francisci",
@@ -13544,6 +14430,7 @@ var data = {
     "63v": [
         {
             "id": "063v1",
+            "folio": "063v",
             "sequence": "1",
             "incipit": "Gloria patri et filio",
             "feast": "Francisci",
@@ -13559,6 +14446,7 @@ var data = {
         },
         {
             "id": "063v2",
+            "folio": "063v",
             "sequence": "2",
             "incipit": "Sex fratrum pater septimus",
             "feast": "Francisci",
@@ -13574,6 +14462,7 @@ var data = {
         },
         {
             "id": "063v3",
+            "folio": "063v",
             "sequence": "3",
             "incipit": "Quadrans quoque novissimus",
             "feast": "Francisci",
@@ -13589,6 +14478,7 @@ var data = {
         },
         {
             "id": "063v4",
+            "folio": "063v",
             "sequence": "4",
             "incipit": "Gloria patri et filio",
             "feast": "Francisci",
@@ -13604,6 +14494,7 @@ var data = {
         },
         {
             "id": "063v5",
+            "folio": "063v",
             "sequence": "5",
             "incipit": "Arcana suis reserans octavum",
             "feast": "Francisci",
@@ -13621,6 +14512,7 @@ var data = {
     "64r": [
         {
             "id": "064r1",
+            "folio": "064r",
             "sequence": "1",
             "incipit": "Grex procidit obtemperans",
             "feast": "Francisci",
@@ -13636,6 +14528,7 @@ var data = {
         },
         {
             "id": "064r2",
+            "folio": "064r",
             "sequence": "2",
             "incipit": "Gloria patri et filio",
             "feast": "Francisci",
@@ -13651,6 +14544,7 @@ var data = {
         },
         {
             "id": "064r3",
+            "folio": "064r",
             "sequence": "3",
             "incipit": "Euntes inquit in eum",
             "feast": "Francisci",
@@ -13666,6 +14560,7 @@ var data = {
         },
         {
             "id": "064r4",
+            "folio": "064r",
             "sequence": "4",
             "incipit": "Sic curis cor extraneum",
             "feast": "Francisci",
@@ -13683,6 +14578,7 @@ var data = {
     "64v": [
         {
             "id": "064v1",
+            "folio": "064v",
             "sequence": "1",
             "incipit": "Gloria patri et filio",
             "feast": "Francisci",
@@ -13698,6 +14594,7 @@ var data = {
         },
         {
             "id": "064v2",
+            "folio": "064v",
             "sequence": "2",
             "incipit": "Regressis quos emiserat                ",
             "feast": "Francisci",
@@ -13713,6 +14610,7 @@ var data = {
         },
         {
             "id": "064v3",
+            "folio": "064v",
             "sequence": "3",
             "incipit": "In vina Franciscus foenerat",
             "feast": "Francisci",
@@ -13728,6 +14626,7 @@ var data = {
         },
         {
             "id": "064v4",
+            "folio": "064v",
             "sequence": "4",
             "incipit": "Gloria patri et filio",
             "feast": "Francisci",
@@ -13743,6 +14642,7 @@ var data = {
         },
         {
             "id": "064v5",
+            "folio": "064v",
             "sequence": "5",
             "incipit": "Sanctus Franciscus praeviis",
             "feast": "Francisci",
@@ -13760,6 +14660,7 @@ var data = {
     "65r": [
         {
             "id": "065r1",
+            "folio": "065r",
             "sequence": "1",
             "incipit": "Hic praedicando circuit",
             "feast": "Francisci",
@@ -13775,6 +14676,7 @@ var data = {
         },
         {
             "id": "065r2",
+            "folio": "065r",
             "sequence": "2",
             "incipit": "Tres ordines hic ordinat",
             "feast": "Francisci",
@@ -13790,6 +14692,7 @@ var data = {
         },
         {
             "id": "065r3",
+            "folio": "065r",
             "sequence": "3",
             "incipit": "Doctus doctrice gratia doctus",
             "feast": "Francisci",
@@ -13805,6 +14708,7 @@ var data = {
         },
         {
             "id": "065r4",
+            "folio": "065r",
             "sequence": "4",
             "incipit": "Laudans laudare monuit",
             "feast": "Francisci",
@@ -13822,6 +14726,7 @@ var data = {
     "65v": [
         {
             "id": "065v1",
+            "folio": "065v",
             "sequence": "1",
             "incipit": "Plaude turba paupercula*",
             "feast": "Francisci",
@@ -13837,6 +14742,7 @@ var data = {
         },
         {
             "id": "065v2",
+            "folio": "065v",
             "sequence": "2",
             "incipit": "Ora pro nobis beate Francisce",
             "feast": "Francisci",
@@ -13852,6 +14758,7 @@ var data = {
         },
         {
             "id": "065v3",
+            "folio": "065v",
             "sequence": "3",
             "incipit": "O martyr desiderio",
             "feast": "Francisci",
@@ -13869,6 +14776,7 @@ var data = {
     "66r": [
         {
             "id": "066r1",
+            "folio": "066r",
             "sequence": "1",
             "incipit": "O virum mirabilem in signis",
             "feast": "Francisci",
@@ -13884,6 +14792,7 @@ var data = {
         },
         {
             "id": "066r2",
+            "folio": "066r",
             "sequence": "2",
             "incipit": "Sancte Francisce propere veni",
             "feast": "Francisci",
@@ -13901,6 +14810,7 @@ var data = {
     "66v": [
         {
             "id": "066v1",
+            "folio": "066v",
             "sequence": "1",
             "incipit": "Plange turba paupercula",
             "feast": "Francisci",
@@ -13916,6 +14826,7 @@ var data = {
         },
         {
             "id": "066v2",
+            "folio": "066v",
             "sequence": "2",
             "incipit": "Salve sancte pater patriae",
             "feast": "Francisci",
@@ -13931,6 +14842,7 @@ var data = {
         },
         {
             "id": "066v3",
+            "folio": "066v",
             "sequence": "3",
             "incipit": "Caelorum candor splenduit                ",
             "feast": "Francisci",
@@ -13948,6 +14860,7 @@ var data = {
     "67r": [
         {
             "id": "067r1",
+            "folio": "067r",
             "sequence": "1",
             "incipit": "Vidi turbam magnam*",
             "feast": "Omnium Sanctorum",
@@ -13963,6 +14876,7 @@ var data = {
         },
         {
             "id": "067r2",
+            "folio": "067r",
             "sequence": "2",
             "incipit": "Christe redemptor*",
             "feast": "Omnium Sanctorum",
@@ -13978,6 +14892,7 @@ var data = {
         },
         {
             "id": "067r3",
+            "folio": "067r",
             "sequence": "3",
             "incipit": "Angeli archangeli throni",
             "feast": "Omnium Sanctorum",
@@ -13993,6 +14908,7 @@ var data = {
         },
         {
             "id": "067r4",
+            "folio": "067r",
             "sequence": "4",
             "incipit": "Regem regum dominum venite",
             "feast": "Omnium Sanctorum",
@@ -14008,6 +14924,7 @@ var data = {
         },
         {
             "id": "067r5",
+            "folio": "067r",
             "sequence": "5",
             "incipit": "Christe redemptor omnium*",
             "feast": "Omnium Sanctorum",
@@ -14023,6 +14940,7 @@ var data = {
         },
         {
             "id": "067r6",
+            "folio": "067r",
             "sequence": "6",
             "incipit": "Novit dominus viam justorum",
             "feast": "Omnium Sanctorum",
@@ -14040,6 +14958,7 @@ var data = {
     "67v": [
         {
             "id": "067v1",
+            "folio": "067v",
             "sequence": "1",
             "incipit": "Mirificavit dominus sanctos",
             "feast": "Omnium Sanctorum",
@@ -14055,6 +14974,7 @@ var data = {
         },
         {
             "id": "067v2",
+            "folio": "067v",
             "sequence": "2",
             "incipit": "Admirabile est nomen tuum",
             "feast": "Omnium Sanctorum",
@@ -14070,6 +14990,7 @@ var data = {
         },
         {
             "id": "067v3",
+            "folio": "067v",
             "sequence": "3",
             "incipit": "Laetamini in domino*",
             "feast": "Omnium Sanctorum",
@@ -14085,6 +15006,7 @@ var data = {
         },
         {
             "id": "067v4",
+            "folio": "067v",
             "sequence": "4",
             "incipit": "In dedicatione templi",
             "feast": "Omnium Sanctorum",
@@ -14100,6 +15022,7 @@ var data = {
         },
         {
             "id": "067v5",
+            "folio": "067v",
             "sequence": "5",
             "incipit": "Fundata est domus domini",
             "feast": "Omnium Sanctorum",
@@ -14115,6 +15038,7 @@ var data = {
         },
         {
             "id": "067v6",
+            "folio": "067v",
             "sequence": "6",
             "incipit": "Vidi dominum sedentem super",
             "feast": "Omnium Sanctorum",
@@ -14132,6 +15056,7 @@ var data = {
     "68r": [
         {
             "id": "068r1",
+            "folio": "068r",
             "sequence": "1",
             "incipit": "Seraphim stabant super illud",
             "feast": "Omnium Sanctorum",
@@ -14147,6 +15072,7 @@ var data = {
         },
         {
             "id": "068r2",
+            "folio": "068r",
             "sequence": "2",
             "incipit": "Sancta et immaculata",
             "feast": "Omnium Sanctorum",
@@ -14162,6 +15088,7 @@ var data = {
         },
         {
             "id": "068r3",
+            "folio": "068r",
             "sequence": "3",
             "incipit": "Benedicta tu in mulieribus",
             "feast": "Omnium Sanctorum",
@@ -14177,6 +15104,7 @@ var data = {
         },
         {
             "id": "068r4",
+            "folio": "068r",
             "sequence": "4",
             "incipit": "Domine qui operati sunt",
             "feast": "Omnium Sanctorum",
@@ -14194,6 +15122,7 @@ var data = {
     "68v": [
         {
             "id": "068v1",
+            "folio": "068v",
             "sequence": "1",
             "incipit": "Haec est generatio quaerentium dominum ",
             "feast": "Omnium Sanctorum",
@@ -14209,6 +15138,7 @@ var data = {
         },
         {
             "id": "068v2",
+            "folio": "068v",
             "sequence": "2",
             "incipit": "Laetamini in domino",
             "feast": "Omnium Sanctorum",
@@ -14224,6 +15154,7 @@ var data = {
         },
         {
             "id": "068v3",
+            "folio": "068v",
             "sequence": "3",
             "incipit": "In conspectu angelorum",
             "feast": "Omnium Sanctorum",
@@ -14239,6 +15170,7 @@ var data = {
         },
         {
             "id": "068v4",
+            "folio": "068v",
             "sequence": "4",
             "incipit": "Super misericordiam tuam",
             "feast": "Omnium Sanctorum",
@@ -14256,6 +15188,7 @@ var data = {
     "69r": [
         {
             "id": "069r1",
+            "folio": "069r",
             "sequence": "1",
             "incipit": "Praecursor domini venit",
             "feast": "Omnium Sanctorum",
@@ -14271,6 +15204,7 @@ var data = {
         },
         {
             "id": "069r2",
+            "folio": "069r",
             "sequence": "2",
             "incipit": "Hic est enim propheta",
             "feast": "Omnium Sanctorum",
@@ -14286,6 +15220,7 @@ var data = {
         },
         {
             "id": "069r3",
+            "folio": "069r",
             "sequence": "3",
             "incipit": "Isti sunt qui viventes",
             "feast": "Omnium Sanctorum",
@@ -14301,6 +15236,7 @@ var data = {
         },
         {
             "id": "069r4",
+            "folio": "069r",
             "sequence": "4",
             "incipit": "In omnem terram exivit sonus",
             "feast": "Omnium Sanctorum",
@@ -14316,6 +15252,7 @@ var data = {
         },
         {
             "id": "069r5",
+            "folio": "069r",
             "sequence": "5",
             "incipit": "Timete dominum omnes sancti",
             "feast": "Omnium Sanctorum",
@@ -14333,6 +15270,7 @@ var data = {
     "69v": [
         {
             "id": "069v1",
+            "folio": "069v",
             "sequence": "1",
             "incipit": "Domine spes sanctorum",
             "feast": "Omnium Sanctorum",
@@ -14348,6 +15286,7 @@ var data = {
         },
         {
             "id": "069v2",
+            "folio": "069v",
             "sequence": "2",
             "incipit": "Qui diligitis dominum laetamini",
             "feast": "Omnium Sanctorum",
@@ -14363,6 +15302,7 @@ var data = {
         },
         {
             "id": "069v3",
+            "folio": "069v",
             "sequence": "3",
             "incipit": "Sancti mei qui in carne",
             "feast": "Omnium Sanctorum",
@@ -14378,6 +15318,7 @@ var data = {
         },
         {
             "id": "069v4",
+            "folio": "069v",
             "sequence": "4",
             "incipit": "Venite benedicti patris mei",
             "feast": "Omnium Sanctorum",
@@ -14395,6 +15336,7 @@ var data = {
     "70r": [
         {
             "id": "070r1",
+            "folio": "070r",
             "sequence": "1",
             "incipit": "Sint lumbi vestri praecincti",
             "feast": "Omnium Sanctorum",
@@ -14410,6 +15352,7 @@ var data = {
         },
         {
             "id": "070r2",
+            "folio": "070r",
             "sequence": "2",
             "incipit": "Vigilate ergo quia nescitis",
             "feast": "Omnium Sanctorum",
@@ -14425,6 +15368,7 @@ var data = {
         },
         {
             "id": "070r3",
+            "folio": "070r",
             "sequence": "3",
             "incipit": "Vidi turbam magnam",
             "feast": "Omnium Sanctorum",
@@ -14440,6 +15384,7 @@ var data = {
         },
         {
             "id": "070r4",
+            "folio": "070r",
             "sequence": "4",
             "incipit": "Et omnes angeli stabant",
             "feast": "Omnium Sanctorum",
@@ -14457,6 +15402,7 @@ var data = {
     "70v": [
         {
             "id": "070v1",
+            "folio": "070v",
             "sequence": "1",
             "incipit": "Redemisti nos domine deus",
             "feast": "Omnium Sanctorum",
@@ -14472,6 +15418,7 @@ var data = {
         },
         {
             "id": "070v2",
+            "folio": "070v",
             "sequence": "2",
             "incipit": "Benedicite dominum omnes",
             "feast": "Omnium Sanctorum",
@@ -14487,6 +15434,7 @@ var data = {
         },
         {
             "id": "070v3",
+            "folio": "070v",
             "sequence": "3",
             "incipit": "Hymnus omnibus sanctis",
             "feast": "Omnium Sanctorum",
@@ -14502,6 +15450,7 @@ var data = {
         },
         {
             "id": "070v4",
+            "folio": "070v",
             "sequence": "4",
             "incipit": "Jesu salvator saeculi*",
             "feast": "Omnium Sanctorum",
@@ -14517,6 +15466,7 @@ var data = {
         },
         {
             "id": "070v5",
+            "folio": "070v",
             "sequence": "5",
             "incipit": "Exsultabunt sancti in gloria*",
             "feast": "Omnium Sanctorum",
@@ -14532,6 +15482,7 @@ var data = {
         },
         {
             "id": "070v6",
+            "folio": "070v",
             "sequence": "6",
             "incipit": "Te gloriosus apostolorum",
             "feast": "Omnium Sanctorum",
@@ -14549,6 +15500,7 @@ var data = {
     "71r": [
         {
             "id": "071r1",
+            "folio": "071r",
             "sequence": "1",
             "incipit": "Vidi turbam magnam*",
             "feast": "Omnium Sanctorum",
@@ -14564,6 +15516,7 @@ var data = {
         },
         {
             "id": "071r2",
+            "folio": "071r",
             "sequence": "2",
             "incipit": "Christe redemptor*",
             "feast": "Omnium Sanctorum",
@@ -14579,6 +15532,7 @@ var data = {
         },
         {
             "id": "071r3",
+            "folio": "071r",
             "sequence": "3",
             "incipit": "Exsultabunt sancti in*",
             "feast": "Omnium Sanctorum",
@@ -14594,6 +15548,7 @@ var data = {
         },
         {
             "id": "071r4",
+            "folio": "071r",
             "sequence": "4",
             "incipit": "O quam gloriosum est regnum",
             "feast": "Omnium Sanctorum",
@@ -14609,6 +15564,7 @@ var data = {
         },
         {
             "id": "071r5",
+            "folio": "071r",
             "sequence": "5",
             "incipit": "O beatum virum cujus anima",
             "feast": "Martini",
@@ -14624,6 +15580,7 @@ var data = {
         },
         {
             "id": "071r6",
+            "folio": "071r",
             "sequence": "6",
             "incipit": "Laudemus deum nostrum",
             "feast": "Martini",
@@ -14639,6 +15596,7 @@ var data = {
         },
         {
             "id": "071r7",
+            "folio": "071r",
             "sequence": "7",
             "incipit": "Martinus adhuc catechumenus",
             "feast": "Martini",
@@ -14656,6 +15614,7 @@ var data = {
     "71v": [
         {
             "id": "071v1",
+            "folio": "071v",
             "sequence": "1",
             "incipit": "Sanctae trinitatis fidem",
             "feast": "Martini",
@@ -14671,6 +15630,7 @@ var data = {
         },
         {
             "id": "071v2",
+            "folio": "071v",
             "sequence": "2",
             "incipit": "Ego signo crucis non clipeo",
             "feast": "Martini",
@@ -14686,6 +15646,7 @@ var data = {
         },
         {
             "id": "071v3",
+            "folio": "071v",
             "sequence": "3",
             "incipit": "Hic est Martinus electus dei",
             "feast": "Martini",
@@ -14701,6 +15662,7 @@ var data = {
         },
         {
             "id": "071v4",
+            "folio": "071v",
             "sequence": "4",
             "incipit": "Sanctae trinitatis fidem",
             "feast": "Martini",
@@ -14718,6 +15680,7 @@ var data = {
     "72r": [
         {
             "id": "072r1",
+            "folio": "072r",
             "sequence": "1",
             "incipit": "Domine si adhuc populo tuo",
             "feast": "Martini",
@@ -14733,6 +15696,7 @@ var data = {
         },
         {
             "id": "072r2",
+            "folio": "072r",
             "sequence": "2",
             "incipit": "Oculis ac manibus in caelum",
             "feast": "Martini",
@@ -14748,6 +15712,7 @@ var data = {
         },
         {
             "id": "072r3",
+            "folio": "072r",
             "sequence": "3",
             "incipit": "O beatum virum Martinum",
             "feast": "Martini",
@@ -14763,6 +15728,7 @@ var data = {
         },
         {
             "id": "072r4",
+            "folio": "072r",
             "sequence": "4",
             "incipit": "Domine si adhuc populo tuo",
             "feast": "Martini",
@@ -14778,6 +15744,7 @@ var data = {
         },
         {
             "id": "072r5",
+            "folio": "072r",
             "sequence": "5",
             "incipit": "Confido in domino quod filia",
             "feast": "Martini",
@@ -14795,6 +15762,7 @@ var data = {
     "72v": [
         {
             "id": "072v1",
+            "folio": "072v",
             "sequence": "1",
             "incipit": "Tetradius cognita dei virtute",
             "feast": "Martini",
@@ -14810,6 +15778,7 @@ var data = {
         },
         {
             "id": "072v2",
+            "folio": "072v",
             "sequence": "2",
             "incipit": "O ineffabilem virum per quem ",
             "feast": "Martini",
@@ -14825,6 +15794,7 @@ var data = {
         },
         {
             "id": "072v3",
+            "folio": "072v",
             "sequence": "3",
             "incipit": "Oculis ac manibus in caelum",
             "feast": "Martini",
@@ -14840,6 +15810,7 @@ var data = {
         },
         {
             "id": "072v4",
+            "folio": "072v",
             "sequence": "4",
             "incipit": "Dum sacramenta offerret",
             "feast": "Martini",
@@ -14855,6 +15826,7 @@ var data = {
         },
         {
             "id": "072v5",
+            "folio": "072v",
             "sequence": "5",
             "incipit": "Beatus Martinus obitum suum",
             "feast": "Martini",
@@ -14872,6 +15844,7 @@ var data = {
     "73r": [
         {
             "id": "073r1",
+            "folio": "073r",
             "sequence": "1",
             "incipit": "Viribus corporis coepit",
             "feast": "Martini",
@@ -14887,6 +15860,7 @@ var data = {
         },
         {
             "id": "073r2",
+            "folio": "073r",
             "sequence": "2",
             "incipit": "Dixerunt discipuli ad beatum",
             "feast": "Martini",
@@ -14902,6 +15876,7 @@ var data = {
         },
         {
             "id": "073r3",
+            "folio": "073r",
             "sequence": "3",
             "incipit": "Scimus quidem desiderare",
             "feast": "Martini",
@@ -14917,6 +15892,7 @@ var data = {
         },
         {
             "id": "073r4",
+            "folio": "073r",
             "sequence": "4",
             "incipit": "Dominus Jesus Christus non se ",
             "feast": "Martini",
@@ -14934,6 +15910,7 @@ var data = {
     "73v": [
         {
             "id": "073v1",
+            "folio": "073v",
             "sequence": "1",
             "incipit": "Sacerdos dei Martine aperti",
             "feast": "Martini",
@@ -14949,6 +15926,7 @@ var data = {
         },
         {
             "id": "073v2",
+            "folio": "073v",
             "sequence": "2",
             "incipit": "Sacerdos dei Martine pastor",
             "feast": "Martini",
@@ -14964,6 +15942,7 @@ var data = {
         },
         {
             "id": "073v3",
+            "folio": "073v",
             "sequence": "3",
             "incipit": "O beatum virum in cujus",
             "feast": "Martini",
@@ -14979,6 +15958,7 @@ var data = {
         },
         {
             "id": "073v4",
+            "folio": "073v",
             "sequence": "4",
             "incipit": "Ecclesia virtute roboratur",
             "feast": "Martini",
@@ -14994,6 +15974,7 @@ var data = {
         },
         {
             "id": "073v5",
+            "folio": "073v",
             "sequence": "5",
             "incipit": "Martinus Abrahae sinu laetus",
             "feast": "Martini",
@@ -15011,6 +15992,7 @@ var data = {
     "74r": [
         {
             "id": "074r1",
+            "folio": "074r",
             "sequence": "1",
             "incipit": "Martinus episcopus migravit",
             "feast": "Martini",
@@ -15026,6 +16008,7 @@ var data = {
         },
         {
             "id": "074r2",
+            "folio": "074r",
             "sequence": "2",
             "incipit": "O quantus erat luctus",
             "feast": "Martini",
@@ -15041,6 +16024,7 @@ var data = {
         },
         {
             "id": "074r3",
+            "folio": "074r",
             "sequence": "3",
             "incipit": "Beati viri corpus usque",
             "feast": "Martini",
@@ -15056,6 +16040,7 @@ var data = {
         },
         {
             "id": "074r4",
+            "folio": "074r",
             "sequence": "4",
             "incipit": "Dixerunt discipuli ad beatum",
             "feast": "Martini",
@@ -15073,6 +16058,7 @@ var data = {
     "74v": [
         {
             "id": "074v1",
+            "folio": "074v",
             "sequence": "1",
             "incipit": "Domine si adhuc populo tuo",
             "feast": "Martini",
@@ -15088,6 +16074,7 @@ var data = {
         },
         {
             "id": "074v2",
+            "folio": "074v",
             "sequence": "2",
             "incipit": "O virum ineffabilem nec labore",
             "feast": "Martini",
@@ -15103,6 +16090,7 @@ var data = {
         },
         {
             "id": "074v3",
+            "folio": "074v",
             "sequence": "3",
             "incipit": "Oculis ac manibus in caelum",
             "feast": "Martini",
@@ -15118,6 +16106,7 @@ var data = {
         },
         {
             "id": "074v4",
+            "folio": "074v",
             "sequence": "4",
             "incipit": "Martinus Abrahae sinu laetus",
             "feast": "Martini",
@@ -15135,6 +16124,7 @@ var data = {
     "75r": [
         {
             "id": "075r1",
+            "folio": "075r",
             "sequence": "1",
             "incipit": "O quantus luctus omnium      ",
             "feast": "Martini",
@@ -15150,6 +16140,7 @@ var data = {
         },
         {
             "id": "075r2",
+            "folio": "075r",
             "sequence": "2",
             "incipit": "O beatum pontificem qui totis",
             "feast": "Martini",
@@ -15165,6 +16156,7 @@ var data = {
         },
         {
             "id": "075r3",
+            "folio": "075r",
             "sequence": "3",
             "incipit": "Est secretum Valeriane",
             "feast": null,
@@ -15182,6 +16174,7 @@ var data = {
     "75v": [
         {
             "id": "075v1",
+            "folio": "075v",
             "sequence": "1",
             "incipit": "Caecilia virgo Almachium     ",
             "feast": null,
@@ -15197,6 +16190,7 @@ var data = {
         },
         {
             "id": "075v2",
+            "folio": "075v",
             "sequence": "2",
             "incipit": "Expansis manibus orabat",
             "feast": null,
@@ -15212,6 +16206,7 @@ var data = {
         },
         {
             "id": "075v3",
+            "folio": "075v",
             "sequence": "3",
             "incipit": "Cilicio Caecilia membra",
             "feast": null,
@@ -15227,6 +16222,7 @@ var data = {
         },
         {
             "id": "075v4",
+            "folio": "075v",
             "sequence": "4",
             "incipit": "Cantantibus organis Caecilia",
             "feast": null,
@@ -15242,6 +16238,7 @@ var data = {
         },
         {
             "id": "075v5",
+            "folio": "075v",
             "sequence": "5",
             "incipit": "Biduanis ac triduanis",
             "feast": null,
@@ -15259,6 +16256,7 @@ var data = {
     "76r": [
         {
             "id": "076r1",
+            "folio": "076r",
             "sequence": "1",
             "incipit": "O beata Caecilia quae duos",
             "feast": null,
@@ -15274,6 +16272,7 @@ var data = {
         },
         {
             "id": "076r2",
+            "folio": "076r",
             "sequence": "2",
             "incipit": "Caecilia me misit ad vos",
             "feast": null,
@@ -15289,6 +16288,7 @@ var data = {
         },
         {
             "id": "076r3",
+            "folio": "076r",
             "sequence": "3",
             "incipit": "Virgo gloriosa semper       ",
             "feast": null,
@@ -15304,6 +16304,7 @@ var data = {
         },
         {
             "id": "076r4",
+            "folio": "076r",
             "sequence": "4",
             "incipit": "Est secretum Valeriane",
             "feast": null,
@@ -15321,6 +16322,7 @@ var data = {
     "76v": [
         {
             "id": "076v1",
+            "folio": "076v",
             "sequence": "1",
             "incipit": "Domine Jesu Christe seminator",
             "feast": null,
@@ -15336,6 +16338,7 @@ var data = {
         },
         {
             "id": "076v2",
+            "folio": "076v",
             "sequence": "2",
             "incipit": "Beata Caecilia dixit",
             "feast": null,
@@ -15351,6 +16354,7 @@ var data = {
         },
         {
             "id": "076v3",
+            "folio": "076v",
             "sequence": "3",
             "incipit": "Fiat domine cor meum",
             "feast": null,
@@ -15366,6 +16370,7 @@ var data = {
         },
         {
             "id": "076v4",
+            "folio": "076v",
             "sequence": "4",
             "incipit": "Cilicio Caecilia membra            ",
             "feast": null,
@@ -15383,6 +16388,7 @@ var data = {
     "77r": [
         {
             "id": "077r1",
+            "folio": "077r",
             "sequence": "1",
             "incipit": "Haec est virgo sapiens et ",
             "feast": null,
@@ -15398,6 +16404,7 @@ var data = {
         },
         {
             "id": "077r2",
+            "folio": "077r",
             "sequence": "2",
             "incipit": "Caeciliam intra cubiculum",
             "feast": null,
@@ -15413,6 +16420,7 @@ var data = {
         },
         {
             "id": "077r3",
+            "folio": "077r",
             "sequence": "3",
             "incipit": "Angelus domini descendit",
             "feast": null,
@@ -15428,6 +16436,7 @@ var data = {
         },
         {
             "id": "077r4",
+            "folio": "077r",
             "sequence": "4",
             "incipit": "Domine Jesu Christe pastor",
             "feast": null,
@@ -15445,6 +16454,7 @@ var data = {
     "77v": [
         {
             "id": "077v1",
+            "folio": "077v",
             "sequence": "1",
             "incipit": "Nam sponsum quem quasi leonem",
             "feast": null,
@@ -15460,6 +16470,7 @@ var data = {
         },
         {
             "id": "077v2",
+            "folio": "077v",
             "sequence": "2",
             "incipit": "Credimus Christum filium dei",
             "feast": null,
@@ -15475,6 +16486,7 @@ var data = {
         },
         {
             "id": "077v3",
+            "folio": "077v",
             "sequence": "3",
             "incipit": "Nos scientes sanctum nomen",
             "feast": null,
@@ -15490,6 +16502,7 @@ var data = {
         },
         {
             "id": "077v4",
+            "folio": "077v",
             "sequence": "4",
             "incipit": "Tunc Valerianus perrexit",
             "feast": null,
@@ -15505,6 +16518,7 @@ var data = {
         },
         {
             "id": "077v5",
+            "folio": "077v",
             "sequence": "5",
             "incipit": "Beata Caecilia dixit Tiburtio",
             "feast": null,
@@ -15522,6 +16536,7 @@ var data = {
     "78r": [
         {
             "id": "078r1",
+            "folio": "078r",
             "sequence": "1",
             "incipit": "Sicut enim amor dei mihi",
             "feast": null,
@@ -15537,6 +16552,7 @@ var data = {
         },
         {
             "id": "078r2",
+            "folio": "078r",
             "sequence": "2",
             "incipit": "Caecilia me misit ad vos",
             "feast": null,
@@ -15552,6 +16568,7 @@ var data = {
         },
         {
             "id": "078r3",
+            "folio": "078r",
             "sequence": "3",
             "incipit": "Tunc Valerianus perrexit",
             "feast": null,
@@ -15567,6 +16584,7 @@ var data = {
         },
         {
             "id": "078r4",
+            "folio": "078r",
             "sequence": "4",
             "incipit": "Dum aurora finem daret",
             "feast": null,
@@ -15584,6 +16602,7 @@ var data = {
     "78v": [
         {
             "id": "078v1",
+            "folio": "078v",
             "sequence": "1",
             "incipit": "Caecilia valedicens fratribus",
             "feast": null,
@@ -15599,6 +16618,7 @@ var data = {
         },
         {
             "id": "078v2",
+            "folio": "078v",
             "sequence": "2",
             "incipit": "Cantantibus organis Caecilia",
             "feast": null,
@@ -15614,6 +16634,7 @@ var data = {
         },
         {
             "id": "078v3",
+            "folio": "078v",
             "sequence": "3",
             "incipit": "Valerianus in cubiculo",
             "feast": null,
@@ -15629,6 +16650,7 @@ var data = {
         },
         {
             "id": "078v4",
+            "folio": "078v",
             "sequence": "4",
             "incipit": "Caecilia famula tua domine",
             "feast": null,
@@ -15644,6 +16666,7 @@ var data = {
         },
         {
             "id": "078v5",
+            "folio": "078v",
             "sequence": "5",
             "incipit": "Benedico te pater domini",
             "feast": null,
@@ -15659,6 +16682,7 @@ var data = {
         },
         {
             "id": "078v6",
+            "folio": "078v",
             "sequence": "6",
             "incipit": "Triduanas a domino poposci",
             "feast": null,
@@ -15676,6 +16700,7 @@ var data = {
     "79r": [
         {
             "id": "079r1",
+            "folio": "079r",
             "sequence": "1",
             "incipit": "Dum aurora finem daret",
             "feast": null,
@@ -15691,6 +16716,7 @@ var data = {
         },
         {
             "id": "079r2",
+            "folio": "079r",
             "sequence": "2",
             "incipit": "Cantantibus*",
             "feast": null,
@@ -15706,6 +16732,7 @@ var data = {
         },
         {
             "id": "079r3",
+            "folio": "079r",
             "sequence": "3",
             "incipit": "Oremus omnes ad dominum Jesum",
             "feast": "Clementis",
@@ -15721,6 +16748,7 @@ var data = {
         },
         {
             "id": "079r4",
+            "folio": "079r",
             "sequence": "4",
             "incipit": "Virgo gloriosa semper evangelium",
             "feast": null,
@@ -15736,6 +16764,7 @@ var data = {
         },
         {
             "id": "079r5",
+            "folio": "079r",
             "sequence": "5",
             "incipit": "Orante sancto Clemente",
             "feast": "Clementis",
@@ -15753,6 +16782,7 @@ var data = {
     "79v": [
         {
             "id": "079v1",
+            "folio": "079v",
             "sequence": "1",
             "incipit": "Vidi supra montem agnum",
             "feast": "Clementis",
@@ -15768,6 +16798,7 @@ var data = {
         },
         {
             "id": "079v2",
+            "folio": "079v",
             "sequence": "2",
             "incipit": "Ora pro nobis beate Clemens",
             "feast": "Clementis",
@@ -15783,6 +16814,7 @@ var data = {
         },
         {
             "id": "079v3",
+            "folio": "079v",
             "sequence": "3",
             "incipit": "Tu autem martyr Christi",
             "feast": "Clementis",
@@ -15798,6 +16830,7 @@ var data = {
         },
         {
             "id": "079v4",
+            "folio": "079v",
             "sequence": "4",
             "incipit": "Dedisti domine habitaculum",
             "feast": "Clementis",
@@ -15815,6 +16848,7 @@ var data = {
     "80r": [
         {
             "id": "080r1",
+            "folio": "080r",
             "sequence": "1",
             "incipit": "Dedisti domine sanctis tuis",
             "feast": "Clementis",
@@ -15830,6 +16864,7 @@ var data = {
         },
         {
             "id": "080r2",
+            "folio": "080r",
             "sequence": "2",
             "incipit": "Justus germinavit*",
             "feast": "Clementis",
@@ -15845,6 +16880,7 @@ var data = {
         },
         {
             "id": "080r3",
+            "folio": "080r",
             "sequence": "3",
             "incipit": "Orante sancto Clemente",
             "feast": "Clementis",
@@ -15860,6 +16896,7 @@ var data = {
         },
         {
             "id": "080r4",
+            "folio": "080r",
             "sequence": "4",
             "incipit": "Non meis meritis ad vos",
             "feast": "Clementis",
@@ -15875,6 +16912,7 @@ var data = {
         },
         {
             "id": "080r5",
+            "folio": "080r",
             "sequence": "5",
             "incipit": "Vidi supra montem agnum",
             "feast": "Clementis",
@@ -15890,6 +16928,7 @@ var data = {
         },
         {
             "id": "080r6",
+            "folio": "080r",
             "sequence": "6",
             "incipit": "De sub cujus pede fons ",
             "feast": "Clementis",
@@ -15905,6 +16944,7 @@ var data = {
         },
         {
             "id": "080r7",
+            "folio": "080r",
             "sequence": "7",
             "incipit": "Omnes gentes per gyrum",
             "feast": "Clementis",
@@ -15920,6 +16960,7 @@ var data = {
         },
         {
             "id": "080r8",
+            "folio": "080r",
             "sequence": "8",
             "incipit": "Dum iter per mare coepisset",
             "feast": "Clementis",
@@ -15937,6 +16978,7 @@ var data = {
     "80v": [
         {
             "id": "080v1",
+            "folio": "080v",
             "sequence": "1",
             "incipit": "Orante sancto Clemente",
             "feast": "Clementis",
@@ -15952,6 +16994,7 @@ var data = {
         },
         {
             "id": "080v2",
+            "folio": "080v",
             "sequence": "2",
             "incipit": "Dedisti domine habitaculum",
             "feast": "Clementis",
@@ -15967,6 +17010,7 @@ var data = {
         },
         {
             "id": "080v3",
+            "folio": "080v",
             "sequence": "3",
             "incipit": "Placebo domino in regione vivorum",
             "feast": "Pro Defunctis",
@@ -15982,6 +17026,7 @@ var data = {
         },
         {
             "id": "080v4",
+            "folio": "080v",
             "sequence": "4",
             "incipit": "Heu mihi quia incolatus meus",
             "feast": "Pro Defunctis",
@@ -15997,6 +17042,7 @@ var data = {
         },
         {
             "id": "080v5",
+            "folio": "080v",
             "sequence": "5",
             "incipit": "Dominus custodit te ab omni ",
             "feast": "Pro Defunctis",
@@ -16012,6 +17058,7 @@ var data = {
         },
         {
             "id": "080v6",
+            "folio": "080v",
             "sequence": "6",
             "incipit": "Si iniquitates observaveris",
             "feast": "Pro Defunctis",
@@ -16029,6 +17076,7 @@ var data = {
     "81r": [
         {
             "id": "081r1",
+            "folio": "081r",
             "sequence": "1",
             "incipit": "Opera manuum tuarum",
             "feast": "Pro Defunctis",
@@ -16044,6 +17092,7 @@ var data = {
         },
         {
             "id": "081r2",
+            "folio": "081r",
             "sequence": "2",
             "incipit": "Audivi vocem de caelo",
             "feast": "Pro Defunctis",
@@ -16059,6 +17108,7 @@ var data = {
         },
         {
             "id": "081r3",
+            "folio": "081r",
             "sequence": "3",
             "incipit": "Omne quod dat mihi pater",
             "feast": "Pro Defunctis",
@@ -16074,6 +17124,7 @@ var data = {
         },
         {
             "id": "081r4",
+            "folio": "081r",
             "sequence": "4",
             "incipit": "Dirige domine deus meus",
             "feast": "Pro Defunctis",
@@ -16089,6 +17140,7 @@ var data = {
         },
         {
             "id": "081r5",
+            "folio": "081r",
             "sequence": "5",
             "incipit": "Convertere domine et eripe animam",
             "feast": "Pro Defunctis",
@@ -16104,6 +17156,7 @@ var data = {
         },
         {
             "id": "081r6",
+            "folio": "081r",
             "sequence": "6",
             "incipit": "Nequando rapiat ut leo animam",
             "feast": "Pro Defunctis",
@@ -16119,6 +17172,7 @@ var data = {
         },
         {
             "id": "081r7",
+            "folio": "081r",
             "sequence": "7",
             "incipit": "Dirige domine deus meus",
             "feast": "Pro Defunctis",
@@ -16134,6 +17188,7 @@ var data = {
         },
         {
             "id": "081r8",
+            "folio": "081r",
             "sequence": "8",
             "incipit": "Credo quod redemptor meus",
             "feast": "Pro Defunctis",
@@ -16151,6 +17206,7 @@ var data = {
     "81v": [
         {
             "id": "081v1",
+            "folio": "081v",
             "sequence": "1",
             "incipit": "Quem visurus sum ego",
             "feast": "Pro Defunctis",
@@ -16166,6 +17222,7 @@ var data = {
         },
         {
             "id": "081v2",
+            "folio": "081v",
             "sequence": "2",
             "incipit": "Qui Lazarum resuscitasti",
             "feast": "Pro Defunctis",
@@ -16181,6 +17238,7 @@ var data = {
         },
         {
             "id": "081v3",
+            "folio": "081v",
             "sequence": "3",
             "incipit": "Qui venturus est judicare",
             "feast": "Pro Defunctis",
@@ -16196,6 +17254,7 @@ var data = {
         },
         {
             "id": "081v4",
+            "folio": "081v",
             "sequence": "4",
             "incipit": "Domine quando veneris",
             "feast": "Pro Defunctis",
@@ -16213,6 +17272,7 @@ var data = {
     "82r": [
         {
             "id": "082r1",
+            "folio": "082r",
             "sequence": "1",
             "incipit": "Commissa mea pavesco",
             "feast": "Pro Defunctis",
@@ -16228,6 +17288,7 @@ var data = {
         },
         {
             "id": "082r2",
+            "folio": "082r",
             "sequence": "2",
             "incipit": "In loco pascuae ibi me",
             "feast": "Pro Defunctis",
@@ -16243,6 +17304,7 @@ var data = {
         },
         {
             "id": "082r3",
+            "folio": "082r",
             "sequence": "3",
             "incipit": "Delicta juventutis et ignorantias",
             "feast": "Pro Defunctis",
@@ -16258,6 +17320,7 @@ var data = {
         },
         {
             "id": "082r4",
+            "folio": "082r",
             "sequence": "4",
             "incipit": "Credo videre bona domini",
             "feast": "Pro Defunctis",
@@ -16273,6 +17336,7 @@ var data = {
         },
         {
             "id": "082r5",
+            "folio": "082r",
             "sequence": "5",
             "incipit": "Memento mei deus quia ventus",
             "feast": "Pro Defunctis",
@@ -16288,6 +17352,7 @@ var data = {
         },
         {
             "id": "082r6",
+            "folio": "082r",
             "sequence": "6",
             "incipit": "De profundis clamavi",
             "feast": "Pro Defunctis",
@@ -16303,6 +17368,7 @@ var data = {
         },
         {
             "id": "082r7",
+            "folio": "082r",
             "sequence": "7",
             "incipit": "Heu mihi domine",
             "feast": "Pro Defunctis",
@@ -16320,6 +17386,7 @@ var data = {
     "82v": [
         {
             "id": "082v1",
+            "folio": "082v",
             "sequence": "1",
             "incipit": "Anima mea turbata est",
             "feast": "Pro Defunctis",
@@ -16335,6 +17402,7 @@ var data = {
         },
         {
             "id": "082v2",
+            "folio": "082v",
             "sequence": "2",
             "incipit": "Ne recorderis peccata mea",
             "feast": "Pro Defunctis",
@@ -16350,6 +17418,7 @@ var data = {
         },
         {
             "id": "082v3",
+            "folio": "082v",
             "sequence": "3",
             "incipit": "Dirige domine deus meus",
             "feast": "Pro Defunctis",
@@ -16365,6 +17434,7 @@ var data = {
         },
         {
             "id": "082v4",
+            "folio": "082v",
             "sequence": "4",
             "incipit": "Complaceat tibi domine",
             "feast": "Pro Defunctis",
@@ -16380,6 +17450,7 @@ var data = {
         },
         {
             "id": "082v5",
+            "folio": "082v",
             "sequence": "5",
             "incipit": "Sana domine animam meam",
             "feast": "Pro Defunctis",
@@ -16395,6 +17466,7 @@ var data = {
         },
         {
             "id": "082v6",
+            "folio": "082v",
             "sequence": "6",
             "incipit": "Sitivit anima mea ad deum",
             "feast": "Pro Defunctis",
@@ -16410,6 +17482,7 @@ var data = {
         },
         {
             "id": "082v7",
+            "folio": "082v",
             "sequence": "7",
             "incipit": "Ne tradas bestiis animas",
             "feast": "Pro Defunctis",
@@ -16427,6 +17500,7 @@ var data = {
     "83r": [
         {
             "id": "083r1",
+            "folio": "083r",
             "sequence": "1",
             "incipit": "Peccantem me cottidie et non",
             "feast": "Pro Defunctis",
@@ -16442,6 +17516,7 @@ var data = {
         },
         {
             "id": "083r2",
+            "folio": "083r",
             "sequence": "2",
             "incipit": "Deus in [no]mine tuo ",
             "feast": "Pro Defunctis",
@@ -16457,6 +17532,7 @@ var data = {
         },
         {
             "id": "083r3",
+            "folio": "083r",
             "sequence": "3",
             "incipit": "Domine secundum actum meum",
             "feast": "Pro Defunctis",
@@ -16472,6 +17548,7 @@ var data = {
         },
         {
             "id": "083r4",
+            "folio": "083r",
             "sequence": "4",
             "incipit": "Amplius lava me domine",
             "feast": "Pro Defunctis",
@@ -16489,6 +17566,7 @@ var data = {
     "83v": [
         {
             "id": "083v1",
+            "folio": "083v",
             "sequence": "1",
             "incipit": "Libera me domine de morte",
             "feast": "Pro Defunctis",
@@ -16504,6 +17582,7 @@ var data = {
         },
         {
             "id": "083v2",
+            "folio": "083v",
             "sequence": "2",
             "incipit": "Tremens factus sum ego",
             "feast": "Pro Defunctis",
@@ -16519,6 +17598,7 @@ var data = {
         },
         {
             "id": "083v3",
+            "folio": "083v",
             "sequence": "3",
             "incipit": "Dies illa dies irae",
             "feast": "Pro Defunctis",
@@ -16534,6 +17614,7 @@ var data = {
         },
         {
             "id": "083v4",
+            "folio": "083v",
             "sequence": "4",
             "incipit": "Requiem aeternum dona eis",
             "feast": "Pro Defunctis",
@@ -16549,6 +17630,7 @@ var data = {
         },
         {
             "id": "083v5",
+            "folio": "083v",
             "sequence": "5",
             "incipit": "Exsultabunt domino ossa humilitata",
             "feast": "Pro Defunctis",
@@ -16564,6 +17646,7 @@ var data = {
         },
         {
             "id": "083v6",
+            "folio": "083v",
             "sequence": "6",
             "incipit": "Exaudi domine orationem meam",
             "feast": "Pro Defunctis",
@@ -16581,6 +17664,7 @@ var data = {
     "84r": [
         {
             "id": "084r1",
+            "folio": "084r",
             "sequence": "1",
             "incipit": "Me suscepit dextera tua",
             "feast": "Pro Defunctis",
@@ -16596,6 +17680,7 @@ var data = {
         },
         {
             "id": "084r2",
+            "folio": "084r",
             "sequence": "2",
             "incipit": "A porta inferi erue domine",
             "feast": "Pro Defunctis",
@@ -16611,6 +17696,7 @@ var data = {
         },
         {
             "id": "084r3",
+            "folio": "084r",
             "sequence": "3",
             "incipit": "Omnis spiritus laudet",
             "feast": "Pro Defunctis",
@@ -16626,6 +17712,7 @@ var data = {
         },
         {
             "id": "084r4",
+            "folio": "084r",
             "sequence": "4",
             "incipit": "Audivi vocem de caelo",
             "feast": "Pro Defunctis",
@@ -16641,6 +17728,7 @@ var data = {
         },
         {
             "id": "084r5",
+            "folio": "084r",
             "sequence": "5",
             "incipit": "Ego sum resurrectio et vita",
             "feast": "Pro Defunctis",
@@ -16656,6 +17744,7 @@ var data = {
         },
         {
             "id": "084r6",
+            "folio": "084r",
             "sequence": "6",
             "incipit": "Jam sanctae Clarae claritas",
             "feast": "Clarae",
@@ -16671,6 +17760,7 @@ var data = {
         },
         {
             "id": "084r7",
+            "folio": "084r",
             "sequence": "7",
             "incipit": "Mundi totius gloriam",
             "feast": "Clarae",
@@ -16688,6 +17778,7 @@ var data = {
     "84v": [
         {
             "id": "084v1",
+            "folio": "084v",
             "sequence": "1",
             "incipit": "Haec in paternis laribus",
             "feast": "Clarae",
@@ -16703,6 +17794,7 @@ var data = {
         },
         {
             "id": "084v2",
+            "folio": "084v",
             "sequence": "2",
             "incipit": "Sancta spirat infantia",
             "feast": "Clarae",
@@ -16718,6 +17810,7 @@ var data = {
         },
         {
             "id": "084v3",
+            "folio": "084v",
             "sequence": "3",
             "incipit": "Hanc et papa Gregorius",
             "feast": "Clarae",
@@ -16735,6 +17828,7 @@ var data = {
     "85r": [
         {
             "id": "085r1",
+            "folio": "085r",
             "sequence": "1",
             "incipit": "Concinat plebs*",
             "feast": "Clarae",
@@ -16750,6 +17844,7 @@ var data = {
         },
         {
             "id": "085r2",
+            "folio": "085r",
             "sequence": "2",
             "incipit": "Ora pro nobis beata Clara",
             "feast": "Clarae",
@@ -16765,6 +17860,7 @@ var data = {
         },
         {
             "id": "085r3",
+            "folio": "085r",
             "sequence": "3",
             "incipit": "O decus et gaudium o ",
             "feast": "Clarae",
@@ -16780,6 +17876,7 @@ var data = {
         },
         {
             "id": "085r4",
+            "folio": "085r",
             "sequence": "4",
             "incipit": "Regi qui carnem induit",
             "feast": "Clarae",
@@ -16795,6 +17892,7 @@ var data = {
         },
         {
             "id": "085r5",
+            "folio": "085r",
             "sequence": "5",
             "incipit": "Concinat*",
             "feast": "Clarae",
@@ -16810,6 +17908,7 @@ var data = {
         },
         {
             "id": "085r6",
+            "folio": "085r",
             "sequence": "6",
             "incipit": "Haec una de prudentibus                  ",
             "feast": "Clarae",
@@ -16827,6 +17926,7 @@ var data = {
     "85v": [
         {
             "id": "085v1",
+            "folio": "085v",
             "sequence": "1",
             "incipit": "Excelsi servus virginem",
             "feast": "Clarae",
@@ -16842,6 +17942,7 @@ var data = {
         },
         {
             "id": "085v2",
+            "folio": "085v",
             "sequence": "2",
             "incipit": "Cuncta pro Christi nomine                ",
             "feast": "Clarae",
@@ -16857,6 +17958,7 @@ var data = {
         },
         {
             "id": "085v3",
+            "folio": "085v",
             "sequence": "3",
             "incipit": "Francisci pia plantula mire",
             "feast": "Clarae",
@@ -16872,6 +17974,7 @@ var data = {
         },
         {
             "id": "085v4",
+            "folio": "085v",
             "sequence": "4",
             "incipit": "Virgo sub sacra regula",
             "feast": "Clarae",
@@ -16889,6 +17992,7 @@ var data = {
     "86r": [
         {
             "id": "086r1",
+            "folio": "086r",
             "sequence": "1",
             "incipit": "In via paenitentiae glebas",
             "feast": "Clarae",
@@ -16904,6 +18008,7 @@ var data = {
         },
         {
             "id": "086r2",
+            "folio": "086r",
             "sequence": "2",
             "incipit": "Cujus ferventes gressus devote",
             "feast": "Clarae",
@@ -16919,6 +18024,7 @@ var data = {
         },
         {
             "id": "086r3",
+            "folio": "086r",
             "sequence": "3",
             "incipit": "Hic paupertatis titulo pollens",
             "feast": "Clarae",
@@ -16934,6 +18040,7 @@ var data = {
         },
         {
             "id": "086r4",
+            "folio": "086r",
             "sequence": "4",
             "incipit": "In paupertatis modulo nostri",
             "feast": "Clarae",
@@ -16949,6 +18056,7 @@ var data = {
         },
         {
             "id": "086r5",
+            "folio": "086r",
             "sequence": "5",
             "incipit": "Gloria patri et filio",
             "feast": "Clarae",
@@ -16964,6 +18072,7 @@ var data = {
         },
         {
             "id": "086r6",
+            "folio": "086r",
             "sequence": "6",
             "incipit": "Oblata per Gregorium",
             "feast": "Clarae",
@@ -16981,6 +18090,7 @@ var data = {
     "86v": [
         {
             "id": "086v1",
+            "folio": "086v",
             "sequence": "1",
             "incipit": "Parat magistra vasculum",
             "feast": "Clarae",
@@ -16996,6 +18106,7 @@ var data = {
         },
         {
             "id": "086v2",
+            "folio": "086v",
             "sequence": "2",
             "incipit": "Hortatur haec ut pauperes",
             "feast": "Clarae",
@@ -17011,6 +18122,7 @@ var data = {
         },
         {
             "id": "086v3",
+            "folio": "086v",
             "sequence": "3",
             "incipit": "A civibus obsidio removetur",
             "feast": "Clarae",
@@ -17026,6 +18138,7 @@ var data = {
         },
         {
             "id": "086v4",
+            "folio": "086v",
             "sequence": "4",
             "incipit": "Orationum studio meretur",
             "feast": "Clarae",
@@ -17041,6 +18154,7 @@ var data = {
         },
         {
             "id": "086v5",
+            "folio": "086v",
             "sequence": "5",
             "incipit": "Amica crucis plangere",
             "feast": "Clarae",
@@ -17058,6 +18172,7 @@ var data = {
     "87r": [
         {
             "id": "087r1",
+            "folio": "087r",
             "sequence": "1",
             "incipit": "Haec Christi sui munere",
             "feast": "Clarae",
@@ -17073,6 +18188,7 @@ var data = {
         },
         {
             "id": "087r2",
+            "folio": "087r",
             "sequence": "2",
             "incipit": "Vivens in mundo labili",
             "feast": "Clarae",
@@ -17088,6 +18204,7 @@ var data = {
         },
         {
             "id": "087r3",
+            "folio": "087r",
             "sequence": "3",
             "incipit": "Sic in rota versatili",
             "feast": "Clarae",
@@ -17103,6 +18220,7 @@ var data = {
         },
         {
             "id": "087r4",
+            "folio": "087r",
             "sequence": "4",
             "incipit": "Gloria patri et filio",
             "feast": "Clarae",
@@ -17118,6 +18236,7 @@ var data = {
         },
         {
             "id": "087r5",
+            "folio": "087r",
             "sequence": "5",
             "incipit": "Cor verbis sapientiae",
             "feast": "Clarae",
@@ -17135,6 +18254,7 @@ var data = {
     "87v": [
         {
             "id": "087v1",
+            "folio": "087v",
             "sequence": "1",
             "incipit": "Trahit de testa nucleum",
             "feast": "Clarae",
@@ -17150,6 +18270,7 @@ var data = {
         },
         {
             "id": "087v2",
+            "folio": "087v",
             "sequence": "2",
             "incipit": "Format Clara discipulas",
             "feast": "Clarae",
@@ -17165,6 +18286,7 @@ var data = {
         },
         {
             "id": "087v3",
+            "folio": "087v",
             "sequence": "3",
             "incipit": "Carnis templo soluto spiritus",
             "feast": "Clarae",
@@ -17180,6 +18302,7 @@ var data = {
         },
         {
             "id": "087v4",
+            "folio": "087v",
             "sequence": "4",
             "incipit": "Vivo pane morte juncta",
             "feast": "Clarae",
@@ -17197,6 +18320,7 @@ var data = {
     "88r": [
         {
             "id": "088r1",
+            "folio": "088r",
             "sequence": "1",
             "incipit": "De pane pascit unico",
             "feast": "Clarae",
@@ -17212,6 +18336,7 @@ var data = {
         },
         {
             "id": "088r2",
+            "folio": "088r",
             "sequence": "2",
             "incipit": "Pro tenui viatico turba",
             "feast": "Clarae",
@@ -17227,6 +18352,7 @@ var data = {
         },
         {
             "id": "088r3",
+            "folio": "088r",
             "sequence": "3",
             "incipit": "Gloria patri et filio",
             "feast": "Clarae",
@@ -17242,6 +18368,7 @@ var data = {
         },
         {
             "id": "088r4",
+            "folio": "088r",
             "sequence": "4",
             "incipit": "Post vitae Clarae terminum               ",
             "feast": "Clarae",
@@ -17259,6 +18386,7 @@ var data = {
     "88v": [
         {
             "id": "088v1",
+            "folio": "088v",
             "sequence": "1",
             "incipit": "Agnes ad agni nuptias",
             "feast": "Clarae",
@@ -17274,6 +18402,7 @@ var data = {
         },
         {
             "id": "088v2",
+            "folio": "088v",
             "sequence": "2",
             "incipit": "Sicut sorore praevia",
             "feast": "Clarae",
@@ -17289,6 +18418,7 @@ var data = {
         },
         {
             "id": "088v3",
+            "folio": "088v",
             "sequence": "3",
             "incipit": "Honorat Christi dextera",
             "feast": "Clarae",
@@ -17304,6 +18434,7 @@ var data = {
         },
         {
             "id": "088v4",
+            "folio": "088v",
             "sequence": "4",
             "incipit": "Laudans laudare studeat",
             "feast": "Clarae",
@@ -17321,6 +18452,7 @@ var data = {
     "89r": [
         {
             "id": "089r1",
+            "folio": "089r",
             "sequence": "1",
             "incipit": "Generat virgo*",
             "feast": "Clarae",
@@ -17336,6 +18468,7 @@ var data = {
         },
         {
             "id": "089r2",
+            "folio": "089r",
             "sequence": "2",
             "incipit": "Novum sidus emicuit",
             "feast": "Clarae",
@@ -17351,6 +18484,7 @@ var data = {
         },
         {
             "id": "089r3",
+            "folio": "089r",
             "sequence": "3",
             "incipit": "Duce caelesti numine",
             "feast": "Clarae",
@@ -17368,6 +18502,7 @@ var data = {
     "89v": [
         {
             "id": "089v1",
+            "folio": "089v",
             "sequence": "1",
             "incipit": "Caeli solem imitantes",
             "feast": null,
@@ -17385,6 +18520,7 @@ var data = {
     "90r": [
         {
             "id": "090r1",
+            "folio": "090r",
             "sequence": "1",
             "incipit": "Veni sancte spiritus et emitte ",
             "feast": null,
@@ -17402,6 +18538,7 @@ var data = {
     "90v": [
         {
             "id": "090v1",
+            "folio": "090v",
             "sequence": "1",
             "incipit": "Orbis totus gratuletur christianus",
             "feast": null,
@@ -17419,6 +18556,7 @@ var data = {
     "91r": [
         {
             "id": "091r2",
+            "folio": "091r",
             "sequence": "2",
             "incipit": "Tradent enim vos in conciliis",
             "feast": "Comm. Apostolorum",
@@ -17434,6 +18572,7 @@ var data = {
         },
         {
             "id": "091r3",
+            "folio": "091r",
             "sequence": "3",
             "incipit": "Regem apostolorum dominum",
             "feast": "Comm. Apostolorum",
@@ -17449,6 +18588,7 @@ var data = {
         },
         {
             "id": "091r4",
+            "folio": "091r",
             "sequence": "4",
             "incipit": "Aeterna Christi* ",
             "feast": "Comm. Apostolorum",
@@ -17464,6 +18604,7 @@ var data = {
         },
         {
             "id": "091r5",
+            "folio": "091r",
             "sequence": "5",
             "incipit": "In omnem terram exivit",
             "feast": "Comm. Apostolorum",
@@ -17479,6 +18620,7 @@ var data = {
         },
         {
             "id": "091r6",
+            "folio": "091r",
             "sequence": "6",
             "incipit": "Clamaverunt justi et dominus",
             "feast": "Comm. Apostolorum",
@@ -17494,6 +18636,7 @@ var data = {
         },
         {
             "id": "091r7",
+            "folio": "091r",
             "sequence": "7",
             "incipit": "Constitues eos principes",
             "feast": "Comm. Apostolorum",
@@ -17509,6 +18652,7 @@ var data = {
         },
         {
             "id": "091r8",
+            "folio": "091r",
             "sequence": "8",
             "incipit": "In omnem terram exivit sonus",
             "feast": "Comm. Apostolorum",
@@ -17524,6 +18668,7 @@ var data = {
         },
         {
             "id": "091r9",
+            "folio": "091r",
             "sequence": "9",
             "incipit": "Ecce ego mitto vos sicut ",
             "feast": "Comm. Apostolorum",
@@ -17541,6 +18686,7 @@ var data = {
     "91v": [
         {
             "id": "091v1",
+            "folio": "091v",
             "sequence": "1",
             "incipit": "Dum lucem habetis credite",
             "feast": "Comm. Apostolorum",
@@ -17556,6 +18702,7 @@ var data = {
         },
         {
             "id": "091v2",
+            "folio": "091v",
             "sequence": "2",
             "incipit": "Tollite jugum meum",
             "feast": "Comm. Apostolorum",
@@ -17571,6 +18718,7 @@ var data = {
         },
         {
             "id": "091v3",
+            "folio": "091v",
             "sequence": "3",
             "incipit": "Et invenietis requiem",
             "feast": "Comm. Apostolorum",
@@ -17586,6 +18734,7 @@ var data = {
         },
         {
             "id": "091v4",
+            "folio": "091v",
             "sequence": "4",
             "incipit": "Dum steteritis ante reges",
             "feast": "Comm. Apostolorum",
@@ -17601,6 +18750,7 @@ var data = {
         },
         {
             "id": "091v5",
+            "folio": "091v",
             "sequence": "5",
             "incipit": "Non enim vos estis",
             "feast": "Comm. Apostolorum",
@@ -17618,6 +18768,7 @@ var data = {
     "92r": [
         {
             "id": "092r1",
+            "folio": "092r",
             "sequence": "1",
             "incipit": "Principes populorum",
             "feast": "Comm. Apostolorum",
@@ -17633,6 +18784,7 @@ var data = {
         },
         {
             "id": "092r2",
+            "folio": "092r",
             "sequence": "2",
             "incipit": "Dedisti hereditatem",
             "feast": "Comm. Apostolorum",
@@ -17648,6 +18800,7 @@ var data = {
         },
         {
             "id": "092r3",
+            "folio": "092r",
             "sequence": "3",
             "incipit": "Annuntiaverunt opera dei",
             "feast": "Comm. Apostolorum",
@@ -17663,6 +18816,7 @@ var data = {
         },
         {
             "id": "092r4",
+            "folio": "092r",
             "sequence": "4",
             "incipit": "Constitues eos principes*",
             "feast": "Comm. Apostolorum",
@@ -17678,6 +18832,7 @@ var data = {
         },
         {
             "id": "092r5",
+            "folio": "092r",
             "sequence": "5",
             "incipit": "Vidi conjunctos viros",
             "feast": "Comm. Apostolorum",
@@ -17693,6 +18848,7 @@ var data = {
         },
         {
             "id": "092r6",
+            "folio": "092r",
             "sequence": "6",
             "incipit": "Vidi angelum dei fortem",
             "feast": "Comm. Apostolorum",
@@ -17710,6 +18866,7 @@ var data = {
     "92v": [
         {
             "id": "092v1",
+            "folio": "092v",
             "sequence": "1",
             "incipit": "Beati eritis cum maledixerint",
             "feast": "Comm. Apostolorum",
@@ -17725,6 +18882,7 @@ var data = {
         },
         {
             "id": "092v2",
+            "folio": "092v",
             "sequence": "2",
             "incipit": "Cum vos oderint homines",
             "feast": "Comm. Apostolorum",
@@ -17740,6 +18898,7 @@ var data = {
         },
         {
             "id": "092v3",
+            "folio": "092v",
             "sequence": "3",
             "incipit": "Isti sunt triumphatores",
             "feast": "Comm. Apostolorum",
@@ -17755,6 +18914,7 @@ var data = {
         },
         {
             "id": "092v4",
+            "folio": "092v",
             "sequence": "4",
             "incipit": "Isti sunt qui venerunt",
             "feast": "Comm. Apostolorum",
@@ -17772,6 +18932,7 @@ var data = {
     "93r": [
         {
             "id": "093r1",
+            "folio": "093r",
             "sequence": "1",
             "incipit": "Exaltabuntur cornua justi",
             "feast": "Comm. Apostolorum",
@@ -17787,6 +18948,7 @@ var data = {
         },
         {
             "id": "093r2",
+            "folio": "093r",
             "sequence": "2",
             "incipit": "Lux orta est justo",
             "feast": "Comm. Apostolorum",
@@ -17802,6 +18964,7 @@ var data = {
         },
         {
             "id": "093r3",
+            "folio": "093r",
             "sequence": "3",
             "incipit": "Custodiebant testimonia ejus",
             "feast": "Comm. Apostolorum",
@@ -17817,6 +18980,7 @@ var data = {
         },
         {
             "id": "093r4",
+            "folio": "093r",
             "sequence": "4",
             "incipit": "Nimis honorati*",
             "feast": "Comm. Apostolorum",
@@ -17832,6 +18996,7 @@ var data = {
         },
         {
             "id": "093r5",
+            "folio": "093r",
             "sequence": "5",
             "incipit": "Isti sunt qui viventes",
             "feast": "Comm. Apostolorum",
@@ -17847,6 +19012,7 @@ var data = {
         },
         {
             "id": "093r6",
+            "folio": "093r",
             "sequence": "6",
             "incipit": "In omnem terram exivit",
             "feast": "Comm. Apostolorum",
@@ -17864,6 +19030,7 @@ var data = {
     "93v": [
         {
             "id": "093v1",
+            "folio": "093v",
             "sequence": "1",
             "incipit": "Isti sunt viri sancti",
             "feast": "Comm. Apostolorum",
@@ -17879,6 +19046,7 @@ var data = {
         },
         {
             "id": "093v2",
+            "folio": "093v",
             "sequence": "2",
             "incipit": "Sancti per fidem vicerunt",
             "feast": "Comm. Apostolorum",
@@ -17894,6 +19062,7 @@ var data = {
         },
         {
             "id": "093v3",
+            "folio": "093v",
             "sequence": "3",
             "incipit": "Fuerunt sine querela",
             "feast": "Comm. Apostolorum",
@@ -17909,6 +19078,7 @@ var data = {
         },
         {
             "id": "093v4",
+            "folio": "093v",
             "sequence": "4",
             "incipit": "Tradiderunt corpora sua",
             "feast": "Comm. Apostolorum",
@@ -17924,6 +19094,7 @@ var data = {
         },
         {
             "id": "093v5",
+            "folio": "093v",
             "sequence": "5",
             "incipit": "Hoc est praeceptum meum",
             "feast": "Comm. Apostolorum",
@@ -17939,6 +19110,7 @@ var data = {
         },
         {
             "id": "093v6",
+            "folio": "093v",
             "sequence": "6",
             "incipit": "Majorem caritatem nemo habet",
             "feast": "Comm. Apostolorum",
@@ -17956,6 +19128,7 @@ var data = {
     "94r": [
         {
             "id": "094r1",
+            "folio": "094r",
             "sequence": "1",
             "incipit": "Exsultet caelum*",
             "feast": "Comm. Apostolorum",
@@ -17971,6 +19144,7 @@ var data = {
         },
         {
             "id": "094r1",
+            "folio": "094r",
             "sequence": "1",
             "incipit": "Vos amici mei estis",
             "feast": "Comm. Apostolorum",
@@ -17986,6 +19160,7 @@ var data = {
         },
         {
             "id": "094r2",
+            "folio": "094r",
             "sequence": "2",
             "incipit": "Beati pacifici beati mundo",
             "feast": "Comm. Apostolorum",
@@ -18001,6 +19176,7 @@ var data = {
         },
         {
             "id": "094r2",
+            "folio": "094r",
             "sequence": "2",
             "incipit": "Annuntiaverunt*",
             "feast": "Comm. Apostolorum",
@@ -18016,6 +19192,7 @@ var data = {
         },
         {
             "id": "094r3",
+            "folio": "094r",
             "sequence": "3",
             "incipit": "In patientia vestra",
             "feast": "Comm. Apostolorum",
@@ -18031,6 +19208,7 @@ var data = {
         },
         {
             "id": "094r4",
+            "folio": "094r",
             "sequence": "4",
             "incipit": "Exsultet caelum*",
             "feast": "Comm. Apostolorum",
@@ -18046,6 +19224,7 @@ var data = {
         },
         {
             "id": "094r5",
+            "folio": "094r",
             "sequence": "5",
             "incipit": "Annuntiaverunt*",
             "feast": "Comm. Apostolorum",
@@ -18061,6 +19240,7 @@ var data = {
         },
         {
             "id": "094r6",
+            "folio": "094r",
             "sequence": "6",
             "incipit": "Vos qui reliquistis omnia",
             "feast": "Comm. Apostolorum",
@@ -18076,6 +19256,7 @@ var data = {
         },
         {
             "id": "094r7",
+            "folio": "094r",
             "sequence": "7",
             "incipit": "In omnem terram",
             "feast": "Comm. Apostolorum",
@@ -18091,6 +19272,7 @@ var data = {
         },
         {
             "id": "094r8",
+            "folio": "094r",
             "sequence": "8",
             "incipit": "Et in fines orbis",
             "feast": "Comm. Apostolorum",
@@ -18106,6 +19288,7 @@ var data = {
         },
         {
             "id": "094r9",
+            "folio": "094r",
             "sequence": "9",
             "incipit": "Constitues eos principes",
             "feast": "Comm. Apostolorum",
@@ -18121,6 +19304,7 @@ var data = {
         },
         {
             "id": "094r10",
+            "folio": "094r",
             "sequence": "10",
             "incipit": "Memores erunt nominis",
             "feast": "Comm. Apostolorum",
@@ -18136,6 +19320,7 @@ var data = {
         },
         {
             "id": "094r11",
+            "folio": "094r",
             "sequence": "11",
             "incipit": "Nimis honorati*",
             "feast": "Comm. Apostolorum",
@@ -18151,6 +19336,7 @@ var data = {
         },
         {
             "id": "094r12",
+            "folio": "094r",
             "sequence": "12",
             "incipit": "Nimis honorati sunt",
             "feast": "Comm. Apostolorum",
@@ -18166,6 +19352,7 @@ var data = {
         },
         {
             "id": "094r13",
+            "folio": "094r",
             "sequence": "13",
             "incipit": "Nimis confortatus est",
             "feast": "Comm. Apostolorum",
@@ -18181,6 +19368,7 @@ var data = {
         },
         {
             "id": "094r14",
+            "folio": "094r",
             "sequence": "14",
             "incipit": "Annuntiaverunt opera dei*",
             "feast": "Comm. Apostolorum",
@@ -18198,6 +19386,7 @@ var data = {
     "94v": [
         {
             "id": "094v1",
+            "folio": "094v",
             "sequence": "1",
             "incipit": "Estote fortes in bello",
             "feast": "Comm. Apostolorum",
@@ -18213,6 +19402,7 @@ var data = {
         },
         {
             "id": "094v1",
+            "folio": "094v",
             "sequence": "1",
             "incipit": "Juravit dominus et non",
             "feast": "Comm. Apostolorum",
@@ -18228,6 +19418,7 @@ var data = {
         },
         {
             "id": "094v2",
+            "folio": "094v",
             "sequence": "2",
             "incipit": "Deus tuorum*",
             "feast": null,
@@ -18243,6 +19434,7 @@ var data = {
         },
         {
             "id": "094v2",
+            "folio": "094v",
             "sequence": "2",
             "incipit": "Collocet eum dominus",
             "feast": "Comm. Apostolorum",
@@ -18258,6 +19450,7 @@ var data = {
         },
         {
             "id": "094v3",
+            "folio": "094v",
             "sequence": "3",
             "incipit": "Gloria et honore*",
             "feast": null,
@@ -18273,6 +19466,7 @@ var data = {
         },
         {
             "id": "094v3",
+            "folio": "094v",
             "sequence": "3",
             "incipit": "Dirupisti domine vincula mea",
             "feast": "Comm. Apostolorum",
@@ -18288,6 +19482,7 @@ var data = {
         },
         {
             "id": "094v4",
+            "folio": "094v",
             "sequence": "4",
             "incipit": "Iste sanctus pro lege dei",
             "feast": null,
@@ -18303,6 +19498,7 @@ var data = {
         },
         {
             "id": "094v4",
+            "folio": "094v",
             "sequence": "4",
             "incipit": "Euntes ibant et flebant",
             "feast": "Comm. Apostolorum",
@@ -18318,6 +19514,7 @@ var data = {
         },
         {
             "id": "094v5",
+            "folio": "094v",
             "sequence": "5",
             "incipit": "Confortatus est principatus",
             "feast": "Comm. Apostolorum",
@@ -18335,6 +19532,7 @@ var data = {
     "95r": [
         {
             "id": "095r1",
+            "folio": "095r",
             "sequence": "1",
             "incipit": "Regem martyrum dominum",
             "feast": null,
@@ -18350,6 +19548,7 @@ var data = {
         },
         {
             "id": "095r2",
+            "folio": "095r",
             "sequence": "2",
             "incipit": "Deus tuorum*",
             "feast": null,
@@ -18365,6 +19564,7 @@ var data = {
         },
         {
             "id": "095r3",
+            "folio": "095r",
             "sequence": "3",
             "incipit": "In lege domini fuit voluntas",
             "feast": null,
@@ -18380,6 +19580,7 @@ var data = {
         },
         {
             "id": "095r4",
+            "folio": "095r",
             "sequence": "4",
             "incipit": "Praedicans praeceptum domini",
             "feast": null,
@@ -18395,6 +19596,7 @@ var data = {
         },
         {
             "id": "095r5",
+            "folio": "095r",
             "sequence": "5",
             "incipit": "Voce mea ad dominum clamavi",
             "feast": null,
@@ -18410,6 +19612,7 @@ var data = {
         },
         {
             "id": "095r6",
+            "folio": "095r",
             "sequence": "6",
             "incipit": "Gloria et honore*",
             "feast": null,
@@ -18425,6 +19628,7 @@ var data = {
         },
         {
             "id": "095r7",
+            "folio": "095r",
             "sequence": "7",
             "incipit": "Iste sanctus pro lege dei",
             "feast": null,
@@ -18440,6 +19644,7 @@ var data = {
         },
         {
             "id": "095r8",
+            "folio": "095r",
             "sequence": "8",
             "incipit": "Iste est qui contempsit",
             "feast": null,
@@ -18457,6 +19662,7 @@ var data = {
     "95v": [
         {
             "id": "095v1",
+            "folio": "095v",
             "sequence": "1",
             "incipit": "Justus germinavit sicut lilium",
             "feast": null,
@@ -18472,6 +19678,7 @@ var data = {
         },
         {
             "id": "095v2",
+            "folio": "095v",
             "sequence": "2",
             "incipit": "Plantatus in domo domini",
             "feast": null,
@@ -18487,6 +19694,7 @@ var data = {
         },
         {
             "id": "095v3",
+            "folio": "095v",
             "sequence": "3",
             "incipit": "Iste cognovit justitiam",
             "feast": null,
@@ -18502,6 +19710,7 @@ var data = {
         },
         {
             "id": "095v4",
+            "folio": "095v",
             "sequence": "4",
             "incipit": "Iste est qui contempsit vitam",
             "feast": null,
@@ -18517,6 +19726,7 @@ var data = {
         },
         {
             "id": "095v5",
+            "folio": "095v",
             "sequence": "5",
             "incipit": "Filii hominum scitote",
             "feast": null,
@@ -18532,6 +19742,7 @@ var data = {
         },
         {
             "id": "095v6",
+            "folio": "095v",
             "sequence": "6",
             "incipit": "Scuto bonae voluntatis",
             "feast": null,
@@ -18547,6 +19758,7 @@ var data = {
         },
         {
             "id": "095v7",
+            "folio": "095v",
             "sequence": "7",
             "incipit": "In universa terra gloria",
             "feast": null,
@@ -18562,6 +19774,7 @@ var data = {
         },
         {
             "id": "095v8",
+            "folio": "095v",
             "sequence": "8",
             "incipit": "Posuisti domine*",
             "feast": null,
@@ -18579,6 +19792,7 @@ var data = {
     "96r": [
         {
             "id": "096r1",
+            "folio": "096r",
             "sequence": "1",
             "incipit": "Honestum fecit illum dominus",
             "feast": null,
@@ -18594,6 +19808,7 @@ var data = {
         },
         {
             "id": "096r2",
+            "folio": "096r",
             "sequence": "2",
             "incipit": "Descenditque cum illo",
             "feast": null,
@@ -18609,6 +19824,7 @@ var data = {
         },
         {
             "id": "096r3",
+            "folio": "096r",
             "sequence": "3",
             "incipit": "Desiderium animae ejus",
             "feast": null,
@@ -18624,6 +19840,7 @@ var data = {
         },
         {
             "id": "096r4",
+            "folio": "096r",
             "sequence": "4",
             "incipit": "Quoniam praevenisti eum",
             "feast": null,
@@ -18639,6 +19856,7 @@ var data = {
         },
         {
             "id": "096r5",
+            "folio": "096r",
             "sequence": "5",
             "incipit": "Stolam jucunditatis induit",
             "feast": null,
@@ -18656,6 +19874,7 @@ var data = {
     "96v": [
         {
             "id": "096v1",
+            "folio": "096v",
             "sequence": "1",
             "incipit": "Cibavit illum dominus pane",
             "feast": null,
@@ -18671,6 +19890,7 @@ var data = {
         },
         {
             "id": "096v2",
+            "folio": "096v",
             "sequence": "2",
             "incipit": "Justus dominus et justitias     ",
             "feast": null,
@@ -18686,6 +19906,7 @@ var data = {
         },
         {
             "id": "096v3",
+            "folio": "096v",
             "sequence": "3",
             "incipit": "Habitabit in tabernaculo tuo",
             "feast": null,
@@ -18701,6 +19922,7 @@ var data = {
         },
         {
             "id": "096v4",
+            "folio": "096v",
             "sequence": "4",
             "incipit": "Posuisti domine super caput",
             "feast": null,
@@ -18716,6 +19938,7 @@ var data = {
         },
         {
             "id": "096v5",
+            "folio": "096v",
             "sequence": "5",
             "incipit": "Magna est gloria ejus*",
             "feast": null,
@@ -18731,6 +19954,7 @@ var data = {
         },
         {
             "id": "096v6",
+            "folio": "096v",
             "sequence": "6",
             "incipit": "Corona aurea super caput",
             "feast": null,
@@ -18746,6 +19970,7 @@ var data = {
         },
         {
             "id": "096v7",
+            "folio": "096v",
             "sequence": "7",
             "incipit": "Quoniam praevenisti eum",
             "feast": null,
@@ -18763,6 +19988,7 @@ var data = {
     "97r": [
         {
             "id": "097r1",
+            "folio": "097r",
             "sequence": "1",
             "incipit": "Hic est vere martyr",
             "feast": null,
@@ -18778,6 +20004,7 @@ var data = {
         },
         {
             "id": "097r2",
+            "folio": "097r",
             "sequence": "2",
             "incipit": "Justum deduxit dominus",
             "feast": null,
@@ -18793,6 +20020,7 @@ var data = {
         },
         {
             "id": "097r3",
+            "folio": "097r",
             "sequence": "3",
             "incipit": "Domine praevenisti eum",
             "feast": null,
@@ -18808,6 +20036,7 @@ var data = {
         },
         {
             "id": "097r4",
+            "folio": "097r",
             "sequence": "4",
             "incipit": "Vitam petiit a te tribuisti",
             "feast": null,
@@ -18823,6 +20052,7 @@ var data = {
         },
         {
             "id": "097r5",
+            "folio": "097r",
             "sequence": "5",
             "incipit": "Qui me confessus fuerit coram",
             "feast": null,
@@ -18840,6 +20070,7 @@ var data = {
     "97v": [
         {
             "id": "097v1",
+            "folio": "097v",
             "sequence": "1",
             "incipit": "Qui sequitur me non ambulat",
             "feast": null,
@@ -18855,6 +20086,7 @@ var data = {
         },
         {
             "id": "097v2",
+            "folio": "097v",
             "sequence": "2",
             "incipit": "Qui mihi ministrat me",
             "feast": null,
@@ -18870,6 +20102,7 @@ var data = {
         },
         {
             "id": "097v3",
+            "folio": "097v",
             "sequence": "3",
             "incipit": "Si quis mihi ministraverit",
             "feast": null,
@@ -18885,6 +20118,7 @@ var data = {
         },
         {
             "id": "097v4",
+            "folio": "097v",
             "sequence": "4",
             "incipit": "Volo pater ut ubi ego ",
             "feast": null,
@@ -18900,6 +20134,7 @@ var data = {
         },
         {
             "id": "097v5",
+            "folio": "097v",
             "sequence": "5",
             "incipit": "Martyr dei*",
             "feast": null,
@@ -18915,6 +20150,7 @@ var data = {
         },
         {
             "id": "097v6",
+            "folio": "097v",
             "sequence": "6",
             "incipit": "Justus ut palma*",
             "feast": null,
@@ -18930,6 +20166,7 @@ var data = {
         },
         {
             "id": "097v7",
+            "folio": "097v",
             "sequence": "7",
             "incipit": "Qui odit animam suam",
             "feast": null,
@@ -18945,6 +20182,7 @@ var data = {
         },
         {
             "id": "097v8",
+            "folio": "097v",
             "sequence": "8",
             "incipit": "Gloria et honore coronasti",
             "feast": null,
@@ -18960,6 +20198,7 @@ var data = {
         },
         {
             "id": "097v9",
+            "folio": "097v",
             "sequence": "9",
             "incipit": "Et constituisti eum super",
             "feast": null,
@@ -18975,6 +20214,7 @@ var data = {
         },
         {
             "id": "097v10",
+            "folio": "097v",
             "sequence": "10",
             "incipit": "Posuisti domine*",
             "feast": null,
@@ -18990,6 +20230,7 @@ var data = {
         },
         {
             "id": "097v11",
+            "folio": "097v",
             "sequence": "11",
             "incipit": "Posuisti domine super caput",
             "feast": null,
@@ -19005,6 +20246,7 @@ var data = {
         },
         {
             "id": "097v12",
+            "folio": "097v",
             "sequence": "12",
             "incipit": "Coronam de lapide pretioso",
             "feast": null,
@@ -19022,6 +20264,7 @@ var data = {
     "98r": [
         {
             "id": "098r1",
+            "folio": "098r",
             "sequence": "1",
             "incipit": "Magna est gloria*",
             "feast": null,
@@ -19037,6 +20280,7 @@ var data = {
         },
         {
             "id": "098r2",
+            "folio": "098r",
             "sequence": "2",
             "incipit": "Magna est gloria ejus",
             "feast": null,
@@ -19052,6 +20296,7 @@ var data = {
         },
         {
             "id": "098r3",
+            "folio": "098r",
             "sequence": "3",
             "incipit": "Gloriam et magnum decorem",
             "feast": null,
@@ -19067,6 +20312,7 @@ var data = {
         },
         {
             "id": "098r4",
+            "folio": "098r",
             "sequence": "4",
             "incipit": "Justus ut palma*",
             "feast": null,
@@ -19082,6 +20328,7 @@ var data = {
         },
         {
             "id": "098r5",
+            "folio": "098r",
             "sequence": "5",
             "incipit": "Deus tuorum*",
             "feast": null,
@@ -19097,6 +20344,7 @@ var data = {
         },
         {
             "id": "098r6",
+            "folio": "098r",
             "sequence": "6",
             "incipit": "Justus ut palma*",
             "feast": null,
@@ -19112,6 +20360,7 @@ var data = {
         },
         {
             "id": "098r7",
+            "folio": "098r",
             "sequence": "7",
             "incipit": "Qui vult venire post me",
             "feast": null,
@@ -19127,6 +20376,7 @@ var data = {
         },
         {
             "id": "098r8",
+            "folio": "098r",
             "sequence": "8",
             "incipit": "Sanctorum meritis*",
             "feast": "Comm. plur. Mart.",
@@ -19142,6 +20392,7 @@ var data = {
         },
         {
             "id": "098r9",
+            "folio": "098r",
             "sequence": "9",
             "incipit": "Laetamini in domino*",
             "feast": "Comm. plur. Mart.",
@@ -19157,6 +20408,7 @@ var data = {
         },
         {
             "id": "098r10",
+            "folio": "098r",
             "sequence": "10",
             "incipit": "Istorum est enim regnum",
             "feast": "Comm. plur. Mart.",
@@ -19172,6 +20424,7 @@ var data = {
         },
         {
             "id": "098r11",
+            "folio": "098r",
             "sequence": "11",
             "incipit": "Regem martyrum dominum",
             "feast": "Comm. plur. Mart.",
@@ -19187,6 +20440,7 @@ var data = {
         },
         {
             "id": "098r12",
+            "folio": "098r",
             "sequence": "12",
             "incipit": "Aeterna Christi* ",
             "feast": "Comm. plur. Mart.",
@@ -19202,6 +20456,7 @@ var data = {
         },
         {
             "id": "098r13",
+            "folio": "098r",
             "sequence": "13",
             "incipit": "Secus decursus aquarum",
             "feast": "Comm. plur. Mart.",
@@ -19217,6 +20472,7 @@ var data = {
         },
         {
             "id": "098r14",
+            "folio": "098r",
             "sequence": "14",
             "incipit": "Tamquam aurum in fornace",
             "feast": "Comm. plur. Mart.",
@@ -19234,6 +20490,7 @@ var data = {
     "98v": [
         {
             "id": "098v1",
+            "folio": "098v",
             "sequence": "1",
             "incipit": "Si coram hominibus tormenta",
             "feast": "Comm. plur. Mart.",
@@ -19249,6 +20506,7 @@ var data = {
         },
         {
             "id": "098v2",
+            "folio": "098v",
             "sequence": "2",
             "incipit": "Laetamini in domino*",
             "feast": "Comm. plur. Mart.",
@@ -19264,6 +20522,7 @@ var data = {
         },
         {
             "id": "098v3",
+            "folio": "098v",
             "sequence": "3",
             "incipit": "Absterget deus omnem lacrimam",
             "feast": "Comm. plur. Mart.",
@@ -19279,6 +20538,7 @@ var data = {
         },
         {
             "id": "098v4",
+            "folio": "098v",
             "sequence": "4",
             "incipit": "Non esurient neque sitient",
             "feast": "Comm. plur. Mart.",
@@ -19294,6 +20554,7 @@ var data = {
         },
         {
             "id": "098v5",
+            "folio": "098v",
             "sequence": "5",
             "incipit": "Viri sancti gloriosum",
             "feast": "Comm. plur. Mart.",
@@ -19309,6 +20570,7 @@ var data = {
         },
         {
             "id": "098v6",
+            "folio": "098v",
             "sequence": "6",
             "incipit": "Unus spiritus et una fides",
             "feast": "Comm. plur. Mart.",
@@ -19326,6 +20588,7 @@ var data = {
     "99r": [
         {
             "id": "099r1",
+            "folio": "099r",
             "sequence": "1",
             "incipit": "Tradiderunt corpora sua",
             "feast": "Comm. plur. Mart.",
@@ -19341,6 +20604,7 @@ var data = {
         },
         {
             "id": "099r2",
+            "folio": "099r",
             "sequence": "2",
             "incipit": "Isti sunt qui venerunt",
             "feast": "Comm. plur. Mart.",
@@ -19356,6 +20620,7 @@ var data = {
         },
         {
             "id": "099r3",
+            "folio": "099r",
             "sequence": "3",
             "incipit": "Dabo sanctis meis locum",
             "feast": "Comm. plur. Mart.",
@@ -19371,6 +20636,7 @@ var data = {
         },
         {
             "id": "099r4",
+            "folio": "099r",
             "sequence": "4",
             "incipit": "Sanctis qui in terra sunt",
             "feast": "Comm. plur. Mart.",
@@ -19386,6 +20652,7 @@ var data = {
         },
         {
             "id": "099r5",
+            "folio": "099r",
             "sequence": "5",
             "incipit": "Sancti qui sperant in domino",
             "feast": "Comm. plur. Mart.",
@@ -19401,6 +20668,7 @@ var data = {
         },
         {
             "id": "099r6",
+            "folio": "099r",
             "sequence": "6",
             "incipit": "Exsultent justi*",
             "feast": "Comm. plur. Mart.",
@@ -19416,6 +20684,7 @@ var data = {
         },
         {
             "id": "099r7",
+            "folio": "099r",
             "sequence": "7",
             "incipit": "Sancti tui domine mirabile",
             "feast": "Comm. plur. Mart.",
@@ -19433,6 +20702,7 @@ var data = {
     "99v": [
         {
             "id": "099v1",
+            "folio": "099v",
             "sequence": "1",
             "incipit": "Quoniam percussit petram",
             "feast": "Comm. plur. Mart.",
@@ -19448,6 +20718,7 @@ var data = {
         },
         {
             "id": "099v2",
+            "folio": "099v",
             "sequence": "2",
             "incipit": "Verbera carnificum non timuerunt",
             "feast": "Comm. plur. Mart.",
@@ -19463,6 +20734,7 @@ var data = {
         },
         {
             "id": "099v3",
+            "folio": "099v",
             "sequence": "3",
             "incipit": "Tradiderunt corpora sua",
             "feast": "Comm. plur. Mart.",
@@ -19478,6 +20750,7 @@ var data = {
         },
         {
             "id": "099v4",
+            "folio": "099v",
             "sequence": "4",
             "incipit": "Tamquam aurum in fornace",
             "feast": "Comm. plur. Mart.",
@@ -19495,6 +20768,7 @@ var data = {
     "100r": [
         {
             "id": "100r1",
+            "folio": "100r",
             "sequence": "1",
             "incipit": "Qui confidunt in illum",
             "feast": "Comm. plur. Mart.",
@@ -19510,6 +20784,7 @@ var data = {
         },
         {
             "id": "100r2",
+            "folio": "100r",
             "sequence": "2",
             "incipit": "Justi autem in perpetuum",
             "feast": "Comm. plur. Mart.",
@@ -19525,6 +20800,7 @@ var data = {
         },
         {
             "id": "100r3",
+            "folio": "100r",
             "sequence": "3",
             "incipit": "Tradiderunt corpora sua",
             "feast": "Comm. plur. Mart.",
@@ -19540,6 +20816,7 @@ var data = {
         },
         {
             "id": "100r4",
+            "folio": "100r",
             "sequence": "4",
             "incipit": "Ecce merces sanctorum copiosa",
             "feast": "Comm. plur. Mart.",
@@ -19555,6 +20832,7 @@ var data = {
         },
         {
             "id": "100r5",
+            "folio": "100r",
             "sequence": "5",
             "incipit": "Justi in perpetuum*",
             "feast": "Comm. plur. Mart.",
@@ -19570,6 +20848,7 @@ var data = {
         },
         {
             "id": "100r6",
+            "folio": "100r",
             "sequence": "6",
             "incipit": "Propter testamentum domini",
             "feast": "Comm. plur. Mart.",
@@ -19587,6 +20866,7 @@ var data = {
     "100v": [
         {
             "id": "100v1",
+            "folio": "100v",
             "sequence": "1",
             "incipit": "Ecce quam bonum",
             "feast": "Comm. plur. Mart.",
@@ -19602,6 +20882,7 @@ var data = {
         },
         {
             "id": "100v2",
+            "folio": "100v",
             "sequence": "2",
             "incipit": "Sancti mei qui in carne",
             "feast": "Comm. plur. Mart.",
@@ -19617,6 +20898,7 @@ var data = {
         },
         {
             "id": "100v3",
+            "folio": "100v",
             "sequence": "3",
             "incipit": "Venite benedicti patris mei",
             "feast": "Comm. plur. Mart.",
@@ -19632,6 +20914,7 @@ var data = {
         },
         {
             "id": "100v4",
+            "folio": "100v",
             "sequence": "4",
             "incipit": "Corpora sanctorum in pace",
             "feast": "Comm. plur. Mart.",
@@ -19647,6 +20930,7 @@ var data = {
         },
         {
             "id": "100v5",
+            "folio": "100v",
             "sequence": "5",
             "incipit": "Sapientiam sanctorum narrent",
             "feast": "Comm. plur. Mart.",
@@ -19662,6 +20946,7 @@ var data = {
         },
         {
             "id": "100v6",
+            "folio": "100v",
             "sequence": "6",
             "incipit": "Haec est vera fraternitas",
             "feast": "Comm. plur. Mart.",
@@ -19679,6 +20964,7 @@ var data = {
     "101r": [
         {
             "id": "101r1",
+            "folio": "101r",
             "sequence": "1",
             "incipit": "Ecce quam bonum",
             "feast": "Comm. plur. Mart.",
@@ -19694,6 +20980,7 @@ var data = {
         },
         {
             "id": "101r2",
+            "folio": "101r",
             "sequence": "2",
             "incipit": "Gloria patri et filio",
             "feast": "Comm. plur. Mart.",
@@ -19709,6 +20996,7 @@ var data = {
         },
         {
             "id": "101r3",
+            "folio": "101r",
             "sequence": "3",
             "incipit": "Omnes sancti qui passi sunt",
             "feast": "Comm. plur. Mart.",
@@ -19724,6 +21012,7 @@ var data = {
         },
         {
             "id": "101r4",
+            "folio": "101r",
             "sequence": "4",
             "incipit": "Cum palma ad regna",
             "feast": "Comm. plur. Mart.",
@@ -19739,6 +21028,7 @@ var data = {
         },
         {
             "id": "101r5",
+            "folio": "101r",
             "sequence": "5",
             "incipit": "Corpora sanctorum in pace",
             "feast": "Comm. plur. Mart.",
@@ -19754,6 +21044,7 @@ var data = {
         },
         {
             "id": "101r6",
+            "folio": "101r",
             "sequence": "6",
             "incipit": "Martyres domini dominum",
             "feast": "Comm. plur. Mart.",
@@ -19769,6 +21060,7 @@ var data = {
         },
         {
             "id": "101r7",
+            "folio": "101r",
             "sequence": "7",
             "incipit": "Martyrum chorus laudate",
             "feast": "Comm. plur. Mart.",
@@ -19786,6 +21078,7 @@ var data = {
     "101v": [
         {
             "id": "101v1",
+            "folio": "101v",
             "sequence": "1",
             "incipit": "Rex gloriosae*",
             "feast": "Comm. plur. Mart.",
@@ -19801,6 +21094,7 @@ var data = {
         },
         {
             "id": "101v2",
+            "folio": "101v",
             "sequence": "2",
             "incipit": "Exsultabunt sancti*",
             "feast": "Comm. plur. Mart.",
@@ -19816,6 +21110,7 @@ var data = {
         },
         {
             "id": "101v3",
+            "folio": "101v",
             "sequence": "3",
             "incipit": "Viri capilli capitis omnes",
             "feast": "Comm. plur. Mart.",
@@ -19831,6 +21126,7 @@ var data = {
         },
         {
             "id": "101v4",
+            "folio": "101v",
             "sequence": "4",
             "incipit": "Laetamini in domino",
             "feast": "Comm. plur. Mart.",
@@ -19846,6 +21142,7 @@ var data = {
         },
         {
             "id": "101v5",
+            "folio": "101v",
             "sequence": "5",
             "incipit": "Et gloriamini omnes recti",
             "feast": "Comm. plur. Mart.",
@@ -19861,6 +21158,7 @@ var data = {
         },
         {
             "id": "101v6",
+            "folio": "101v",
             "sequence": "6",
             "incipit": "Exsultent justi*",
             "feast": "Comm. plur. Mart.",
@@ -19876,6 +21174,7 @@ var data = {
         },
         {
             "id": "101v7",
+            "folio": "101v",
             "sequence": "7",
             "incipit": "Exsultent justi in conspectu",
             "feast": "Comm. plur. Mart.",
@@ -19891,6 +21190,7 @@ var data = {
         },
         {
             "id": "101v8",
+            "folio": "101v",
             "sequence": "8",
             "incipit": "Et delectentur in laetitia",
             "feast": "Comm. plur. Mart.",
@@ -19906,6 +21206,7 @@ var data = {
         },
         {
             "id": "101v9",
+            "folio": "101v",
             "sequence": "9",
             "incipit": "Justi autem*",
             "feast": "Comm. plur. Mart.",
@@ -19921,6 +21222,7 @@ var data = {
         },
         {
             "id": "101v10",
+            "folio": "101v",
             "sequence": "10",
             "incipit": "Justi autem in perpetuum",
             "feast": "Comm. plur. Mart.",
@@ -19936,6 +21238,7 @@ var data = {
         },
         {
             "id": "101v11",
+            "folio": "101v",
             "sequence": "11",
             "incipit": "Et apud dominum est merces",
             "feast": "Comm. plur. Mart.",
@@ -19951,6 +21254,7 @@ var data = {
         },
         {
             "id": "101v12",
+            "folio": "101v",
             "sequence": "12",
             "incipit": "Exsultabunt sancti*",
             "feast": "Comm. plur. Mart.",
@@ -19966,6 +21270,7 @@ var data = {
         },
         {
             "id": "101v13",
+            "folio": "101v",
             "sequence": "13",
             "incipit": "Isti sunt sancti qui pro ",
             "feast": "Comm. plur. Mart.",
@@ -19981,6 +21286,7 @@ var data = {
         },
         {
             "id": "101v14",
+            "folio": "101v",
             "sequence": "14",
             "incipit": "Sancti per fidem vicerunt",
             "feast": "Comm. plur. Mart.",
@@ -19998,6 +21304,7 @@ var data = {
     "102r": [
         {
             "id": "102r1",
+            "folio": "102r",
             "sequence": "1",
             "incipit": "Sanctorum velut aquilae",
             "feast": "Comm. plur. Mart.",
@@ -20013,6 +21320,7 @@ var data = {
         },
         {
             "id": "102r2",
+            "folio": "102r",
             "sequence": "2",
             "incipit": "Absterget deus omnem",
             "feast": "Comm. plur. Mart.",
@@ -20028,6 +21336,7 @@ var data = {
         },
         {
             "id": "102r3",
+            "folio": "102r",
             "sequence": "3",
             "incipit": "In caelestibus regnis",
             "feast": "Comm. plur. Mart.",
@@ -20043,6 +21352,7 @@ var data = {
         },
         {
             "id": "102r4",
+            "folio": "102r",
             "sequence": "4",
             "incipit": "Sanctorum meritis*",
             "feast": "Comm. plur. Mart.",
@@ -20058,6 +21368,7 @@ var data = {
         },
         {
             "id": "102r5",
+            "folio": "102r",
             "sequence": "5",
             "incipit": "Exsultabunt sancti*",
             "feast": "Comm. plur. Mart.",
@@ -20073,6 +21384,7 @@ var data = {
         },
         {
             "id": "102r6",
+            "folio": "102r",
             "sequence": "6",
             "incipit": "Gaudent in caelis animae",
             "feast": "Comm. plur. Mart.",
@@ -20088,6 +21400,7 @@ var data = {
         },
         {
             "id": "102r7",
+            "folio": "102r",
             "sequence": "7",
             "incipit": "Sacerdos et pontifex",
             "feast": null,
@@ -20105,6 +21418,7 @@ var data = {
     "102v": [
         {
             "id": "102v1",
+            "folio": "102v",
             "sequence": "1",
             "incipit": "O doctor optime",
             "feast": null,
@@ -20120,6 +21434,7 @@ var data = {
         },
         {
             "id": "102v2",
+            "folio": "102v",
             "sequence": "2",
             "incipit": "Regem confessorum dominum  ",
             "feast": null,
@@ -20135,6 +21450,7 @@ var data = {
         },
         {
             "id": "102v3",
+            "folio": "102v",
             "sequence": "3",
             "incipit": "Iste confessor*",
             "feast": null,
@@ -20150,6 +21466,7 @@ var data = {
         },
         {
             "id": "102v4",
+            "folio": "102v",
             "sequence": "4",
             "incipit": "Beatus vir qui in lege ",
             "feast": null,
@@ -20165,6 +21482,7 @@ var data = {
         },
         {
             "id": "102v5",
+            "folio": "102v",
             "sequence": "5",
             "incipit": "Beatus iste sanctus",
             "feast": null,
@@ -20180,6 +21498,7 @@ var data = {
         },
         {
             "id": "102v6",
+            "folio": "102v",
             "sequence": "6",
             "incipit": "Tu es gloria mea",
             "feast": null,
@@ -20195,6 +21514,7 @@ var data = {
         },
         {
             "id": "102v7",
+            "folio": "102v",
             "sequence": "7",
             "incipit": "Amavit eum dominus*",
             "feast": null,
@@ -20210,6 +21530,7 @@ var data = {
         },
         {
             "id": "102v8",
+            "folio": "102v",
             "sequence": "8",
             "incipit": "Euge serve bone et fidelis",
             "feast": null,
@@ -20227,6 +21548,7 @@ var data = {
     "103r": [
         {
             "id": "103r1",
+            "folio": "103r",
             "sequence": "1",
             "incipit": "Domine quinque talenta",
             "feast": null,
@@ -20242,6 +21564,7 @@ var data = {
         },
         {
             "id": "103r2",
+            "folio": "103r",
             "sequence": "2",
             "incipit": "Ecce sacerdos magnus",
             "feast": null,
@@ -20257,6 +21580,7 @@ var data = {
         },
         {
             "id": "103r3",
+            "folio": "103r",
             "sequence": "3",
             "incipit": "Benedictionem omnium gentium",
             "feast": null,
@@ -20272,6 +21596,7 @@ var data = {
         },
         {
             "id": "103r4",
+            "folio": "103r",
             "sequence": "4",
             "incipit": "Juravit dominus et non",
             "feast": null,
@@ -20287,6 +21612,7 @@ var data = {
         },
         {
             "id": "103r5",
+            "folio": "103r",
             "sequence": "5",
             "incipit": "Dixit dominus domino meo",
             "feast": null,
@@ -20304,6 +21630,7 @@ var data = {
     "103v": [
         {
             "id": "103v1",
+            "folio": "103v",
             "sequence": "1",
             "incipit": "Invocantem exaudivit dominus",
             "feast": null,
@@ -20319,6 +21646,7 @@ var data = {
         },
         {
             "id": "103v2",
+            "folio": "103v",
             "sequence": "2",
             "incipit": "Laetentur omnes qui sperant",
             "feast": null,
@@ -20334,6 +21662,7 @@ var data = {
         },
         {
             "id": "103v3",
+            "folio": "103v",
             "sequence": "3",
             "incipit": "Domine dominus noster",
             "feast": null,
@@ -20349,6 +21678,7 @@ var data = {
         },
         {
             "id": "103v4",
+            "folio": "103v",
             "sequence": "4",
             "incipit": "Inveni David servum meum",
             "feast": null,
@@ -20364,6 +21694,7 @@ var data = {
         },
         {
             "id": "103v5",
+            "folio": "103v",
             "sequence": "5",
             "incipit": "Nihil proficiet inimicus",
             "feast": null,
@@ -20381,6 +21712,7 @@ var data = {
     "104r": [
         {
             "id": "104r1",
+            "folio": "104r",
             "sequence": "1",
             "incipit": "Posui adjutorium super potentem",
             "feast": null,
@@ -20396,6 +21728,7 @@ var data = {
         },
         {
             "id": "104r2",
+            "folio": "104r",
             "sequence": "2",
             "incipit": "Inveni David servum meum",
             "feast": "Comm. pl. Conf.Pont.",
@@ -20411,6 +21744,7 @@ var data = {
         },
         {
             "id": "104r3",
+            "folio": "104r",
             "sequence": "3",
             "incipit": "Iste est qui ante deum",
             "feast": null,
@@ -20426,6 +21760,7 @@ var data = {
         },
         {
             "id": "104r4",
+            "folio": "104r",
             "sequence": "4",
             "incipit": "Iste est qui contempsit vitam",
             "feast": null,
@@ -20441,6 +21776,7 @@ var data = {
         },
         {
             "id": "104r5",
+            "folio": "104r",
             "sequence": "5",
             "incipit": "Domine iste sanctus habitabit",
             "feast": null,
@@ -20456,6 +21792,7 @@ var data = {
         },
         {
             "id": "104r6",
+            "folio": "104r",
             "sequence": "6",
             "incipit": "Vitam petiit a te tribuisti",
             "feast": null,
@@ -20473,6 +21810,7 @@ var data = {
     "104v": [
         {
             "id": "104v1",
+            "folio": "104v",
             "sequence": "1",
             "incipit": "Hic accipiet benedictionem",
             "feast": null,
@@ -20488,6 +21826,7 @@ var data = {
         },
         {
             "id": "104v2",
+            "folio": "104v",
             "sequence": "2",
             "incipit": "Tu es sacerdos in aeternum",
             "feast": null,
@@ -20503,6 +21842,7 @@ var data = {
         },
         {
             "id": "104v3",
+            "folio": "104v",
             "sequence": "3",
             "incipit": "Amavit eum dominus",
             "feast": null,
@@ -20518,6 +21858,7 @@ var data = {
         },
         {
             "id": "104v4",
+            "folio": "104v",
             "sequence": "4",
             "incipit": "Induit eum dominus",
             "feast": null,
@@ -20533,6 +21874,7 @@ var data = {
         },
         {
             "id": "104v5",
+            "folio": "104v",
             "sequence": "5",
             "incipit": "Sint lumbi vestri praecincti",
             "feast": null,
@@ -20550,6 +21892,7 @@ var data = {
     "105r": [
         {
             "id": "105r1",
+            "folio": "105r",
             "sequence": "1",
             "incipit": "Vigilate ergo quia nescitis",
             "feast": null,
@@ -20565,6 +21908,7 @@ var data = {
         },
         {
             "id": "105r2",
+            "folio": "105r",
             "sequence": "2",
             "incipit": "Gloria patri et filio",
             "feast": "Comm. pl. Conf.Pont.",
@@ -20580,6 +21924,7 @@ var data = {
         },
         {
             "id": "105r3",
+            "folio": "105r",
             "sequence": "3",
             "incipit": "Elegit te dominus sacerdotem",
             "feast": null,
@@ -20595,6 +21940,7 @@ var data = {
         },
         {
             "id": "105r4",
+            "folio": "105r",
             "sequence": "4",
             "incipit": "Immola deo sacrificium laudis",
             "feast": null,
@@ -20610,6 +21956,7 @@ var data = {
         },
         {
             "id": "105r5",
+            "folio": "105r",
             "sequence": "5",
             "incipit": "Ecce sacerdos magnus",
             "feast": null,
@@ -20625,6 +21972,7 @@ var data = {
         },
         {
             "id": "105r6",
+            "folio": "105r",
             "sequence": "6",
             "incipit": "Non est inventus similis",
             "feast": null,
@@ -20640,6 +21988,7 @@ var data = {
         },
         {
             "id": "105r7",
+            "folio": "105r",
             "sequence": "7",
             "incipit": "Ideo jurejurando fecit illum",
             "feast": null,
@@ -20655,6 +22004,7 @@ var data = {
         },
         {
             "id": "105r8",
+            "folio": "105r",
             "sequence": "8",
             "incipit": "Sacerdotes dei benedicite",
             "feast": null,
@@ -20672,6 +22022,7 @@ var data = {
     "105v": [
         {
             "id": "105v1",
+            "folio": "105v",
             "sequence": "1",
             "incipit": "Serve bone et fidelis",
             "feast": null,
@@ -20687,6 +22038,7 @@ var data = {
         },
         {
             "id": "105v2",
+            "folio": "105v",
             "sequence": "2",
             "incipit": "Jesu redemptor*",
             "feast": null,
@@ -20702,6 +22054,7 @@ var data = {
         },
         {
             "id": "105v3",
+            "folio": "105v",
             "sequence": "3",
             "incipit": "Justum deduxit*",
             "feast": null,
@@ -20717,6 +22070,7 @@ var data = {
         },
         {
             "id": "105v4",
+            "folio": "105v",
             "sequence": "4",
             "incipit": "Euge serve bone et fidelis",
             "feast": null,
@@ -20732,6 +22086,7 @@ var data = {
         },
         {
             "id": "105v5",
+            "folio": "105v",
             "sequence": "5",
             "incipit": "Amavit eum dominus et ornavit",
             "feast": null,
@@ -20747,6 +22102,7 @@ var data = {
         },
         {
             "id": "105v6",
+            "folio": "105v",
             "sequence": "6",
             "incipit": "Stolam gloriae induit eum",
             "feast": null,
@@ -20762,6 +22118,7 @@ var data = {
         },
         {
             "id": "105v7",
+            "folio": "105v",
             "sequence": "7",
             "incipit": "Elegit eum*",
             "feast": null,
@@ -20777,6 +22134,7 @@ var data = {
         },
         {
             "id": "105v8",
+            "folio": "105v",
             "sequence": "8",
             "incipit": "Elegit eum dominus in sacerdotem",
             "feast": null,
@@ -20792,6 +22150,7 @@ var data = {
         },
         {
             "id": "105v9",
+            "folio": "105v",
             "sequence": "9",
             "incipit": "Ad sacrificandum hostiam",
             "feast": null,
@@ -20807,6 +22166,7 @@ var data = {
         },
         {
             "id": "105v10",
+            "folio": "105v",
             "sequence": "10",
             "incipit": "Tu es sacerdos*",
             "feast": null,
@@ -20822,6 +22182,7 @@ var data = {
         },
         {
             "id": "105v11",
+            "folio": "105v",
             "sequence": "11",
             "incipit": "Tu es sacerdos in aeternum",
             "feast": null,
@@ -20837,6 +22198,7 @@ var data = {
         },
         {
             "id": "105v12",
+            "folio": "105v",
             "sequence": "12",
             "incipit": "Secundum ordinem Melchisedech",
             "feast": null,
@@ -20852,6 +22214,7 @@ var data = {
         },
         {
             "id": "105v13",
+            "folio": "105v",
             "sequence": "13",
             "incipit": "Justum deduxit dominus",
             "feast": null,
@@ -20867,6 +22230,7 @@ var data = {
         },
         {
             "id": "105v14",
+            "folio": "105v",
             "sequence": "14",
             "incipit": "Iste confessor*",
             "feast": null,
@@ -20882,6 +22246,7 @@ var data = {
         },
         {
             "id": "105v15",
+            "folio": "105v",
             "sequence": "15",
             "incipit": "Justum deduxit dominus",
             "feast": null,
@@ -20897,6 +22262,7 @@ var data = {
         },
         {
             "id": "105v16",
+            "folio": "105v",
             "sequence": "16",
             "incipit": "Amavit eum dominus et ornavit",
             "feast": null,
@@ -20912,6 +22278,7 @@ var data = {
         },
         {
             "id": "105v17",
+            "folio": "105v",
             "sequence": "17",
             "incipit": "Cum esset summus pontifex    ",
             "feast": null,
@@ -20929,6 +22296,7 @@ var data = {
     "106r": [
         {
             "id": "106r1",
+            "folio": "106r",
             "sequence": "1",
             "incipit": "Iste confessor*",
             "feast": null,
@@ -20944,6 +22312,7 @@ var data = {
         },
         {
             "id": "106r2",
+            "folio": "106r",
             "sequence": "2",
             "incipit": "Amavit eum dominus*",
             "feast": null,
@@ -20959,6 +22328,7 @@ var data = {
         },
         {
             "id": "106r3",
+            "folio": "106r",
             "sequence": "3",
             "incipit": "Similabo eum viro sapienti",
             "feast": null,
@@ -20974,6 +22344,7 @@ var data = {
         },
         {
             "id": "106r4",
+            "folio": "106r",
             "sequence": "4",
             "incipit": "Regem confessorum*",
             "feast": null,
@@ -20989,6 +22360,7 @@ var data = {
         },
         {
             "id": "106r5",
+            "folio": "106r",
             "sequence": "5",
             "incipit": "Amavit eum*",
             "feast": null,
@@ -21004,6 +22376,7 @@ var data = {
         },
         {
             "id": "106r6",
+            "folio": "106r",
             "sequence": "6",
             "incipit": "Euge serve*",
             "feast": null,
@@ -21019,6 +22392,7 @@ var data = {
         },
         {
             "id": "106r7",
+            "folio": "106r",
             "sequence": "7",
             "incipit": "Justus germinavit*",
             "feast": null,
@@ -21034,6 +22408,7 @@ var data = {
         },
         {
             "id": "106r8",
+            "folio": "106r",
             "sequence": "8",
             "incipit": "Iste cognovit*",
             "feast": null,
@@ -21049,6 +22424,7 @@ var data = {
         },
         {
             "id": "106r9",
+            "folio": "106r",
             "sequence": "9",
             "incipit": "Os justi meditabitur*",
             "feast": null,
@@ -21064,6 +22440,7 @@ var data = {
         },
         {
             "id": "106r10",
+            "folio": "106r",
             "sequence": "10",
             "incipit": "Iste est qui ante deum*",
             "feast": null,
@@ -21079,6 +22456,7 @@ var data = {
         },
         {
             "id": "106r11",
+            "folio": "106r",
             "sequence": "11",
             "incipit": "Amavit eum*",
             "feast": null,
@@ -21094,6 +22472,7 @@ var data = {
         },
         {
             "id": "106r12",
+            "folio": "106r",
             "sequence": "12",
             "incipit": "Iste homo perfecit omnia",
             "feast": null,
@@ -21109,6 +22488,7 @@ var data = {
         },
         {
             "id": "106r13",
+            "folio": "106r",
             "sequence": "13",
             "incipit": "Iste est qui contempsit vitam",
             "feast": null,
@@ -21124,6 +22504,7 @@ var data = {
         },
         {
             "id": "106r14",
+            "folio": "106r",
             "sequence": "14",
             "incipit": "Iste homo ab adolescentia sua",
             "feast": null,
@@ -21141,6 +22522,7 @@ var data = {
     "106v": [
         {
             "id": "106v1",
+            "folio": "106v",
             "sequence": "1",
             "incipit": "Ecce homo sine querela",
             "feast": null,
@@ -21156,6 +22538,7 @@ var data = {
         },
         {
             "id": "106v2",
+            "folio": "106v",
             "sequence": "2",
             "incipit": "Sint lumbi*",
             "feast": null,
@@ -21171,6 +22554,7 @@ var data = {
         },
         {
             "id": "106v3",
+            "folio": "106v",
             "sequence": "3",
             "incipit": "Domine quinque talenta",
             "feast": null,
@@ -21186,6 +22570,7 @@ var data = {
         },
         {
             "id": "106v4",
+            "folio": "106v",
             "sequence": "4",
             "incipit": "Euge serve bone in modico",
             "feast": null,
@@ -21201,6 +22586,7 @@ var data = {
         },
         {
             "id": "106v5",
+            "folio": "106v",
             "sequence": "5",
             "incipit": "Fidelis servus et prudens",
             "feast": null,
@@ -21216,6 +22602,7 @@ var data = {
         },
         {
             "id": "106v6",
+            "folio": "106v",
             "sequence": "6",
             "incipit": "Beatus ille servus",
             "feast": null,
@@ -21231,6 +22618,7 @@ var data = {
         },
         {
             "id": "106v7",
+            "folio": "106v",
             "sequence": "7",
             "incipit": "Serve bone et fidelis",
             "feast": null,
@@ -21248,6 +22636,7 @@ var data = {
     "107r": [
         {
             "id": "107r1",
+            "folio": "107r",
             "sequence": "1",
             "incipit": "Jesu corona celsior*",
             "feast": null,
@@ -21263,6 +22652,7 @@ var data = {
         },
         {
             "id": "107r2",
+            "folio": "107r",
             "sequence": "2",
             "incipit": "Justum deduxit dominus*",
             "feast": null,
@@ -21278,6 +22668,7 @@ var data = {
         },
         {
             "id": "107r3",
+            "folio": "107r",
             "sequence": "3",
             "incipit": "Euge serve bone*",
             "feast": null,
@@ -21293,6 +22684,7 @@ var data = {
         },
         {
             "id": "107r4",
+            "folio": "107r",
             "sequence": "4",
             "incipit": "Amavit eum dominus et ornavit",
             "feast": null,
@@ -21308,6 +22700,7 @@ var data = {
         },
         {
             "id": "107r5",
+            "folio": "107r",
             "sequence": "5",
             "incipit": "Stolam gloriae induit",
             "feast": null,
@@ -21323,6 +22716,7 @@ var data = {
         },
         {
             "id": "107r6",
+            "folio": "107r",
             "sequence": "6",
             "incipit": "Os justi*",
             "feast": null,
@@ -21338,6 +22732,7 @@ var data = {
         },
         {
             "id": "107r7",
+            "folio": "107r",
             "sequence": "7",
             "incipit": "Os justi meditabitur",
             "feast": null,
@@ -21353,6 +22748,7 @@ var data = {
         },
         {
             "id": "107r8",
+            "folio": "107r",
             "sequence": "8",
             "incipit": "Et lingua ejus loquitur",
             "feast": null,
@@ -21368,6 +22764,7 @@ var data = {
         },
         {
             "id": "107r9",
+            "folio": "107r",
             "sequence": "9",
             "incipit": "Lex dei*",
             "feast": null,
@@ -21383,6 +22780,7 @@ var data = {
         },
         {
             "id": "107r10",
+            "folio": "107r",
             "sequence": "10",
             "incipit": "Lex dei ejus in corde",
             "feast": null,
@@ -21398,6 +22796,7 @@ var data = {
         },
         {
             "id": "107r11",
+            "folio": "107r",
             "sequence": "11",
             "incipit": "Et non subplantabuntur",
             "feast": null,
@@ -21413,6 +22812,7 @@ var data = {
         },
         {
             "id": "107r12",
+            "folio": "107r",
             "sequence": "12",
             "incipit": "Justum deduxit*",
             "feast": null,
@@ -21428,6 +22828,7 @@ var data = {
         },
         {
             "id": "107r13",
+            "folio": "107r",
             "sequence": "13",
             "incipit": "Iste confessor*",
             "feast": null,
@@ -21443,6 +22844,7 @@ var data = {
         },
         {
             "id": "107r14",
+            "folio": "107r",
             "sequence": "14",
             "incipit": "Justum deduxit*",
             "feast": null,
@@ -21458,6 +22860,7 @@ var data = {
         },
         {
             "id": "107r15",
+            "folio": "107r",
             "sequence": "15",
             "incipit": "Hic vir despiciens mundum",
             "feast": null,
@@ -21473,6 +22876,7 @@ var data = {
         },
         {
             "id": "107r16",
+            "folio": "107r",
             "sequence": "16",
             "incipit": "Jesu corona virginum*",
             "feast": "Comm. Virginum",
@@ -21488,6 +22892,7 @@ var data = {
         },
         {
             "id": "107r17",
+            "folio": "107r",
             "sequence": "17",
             "incipit": "Specie tua et pulchritudine*",
             "feast": "Comm. Virginum",
@@ -21503,6 +22908,7 @@ var data = {
         },
         {
             "id": "107r18",
+            "folio": "107r",
             "sequence": "18",
             "incipit": "Veni sponsa Christi accipe coronam",
             "feast": "Comm. unius Virg.",
@@ -21518,6 +22924,7 @@ var data = {
         },
         {
             "id": "107r19",
+            "folio": "107r",
             "sequence": "19",
             "incipit": "Regem virginum dominum",
             "feast": "Comm. Virginum",
@@ -21533,6 +22940,7 @@ var data = {
         },
         {
             "id": "107r20",
+            "folio": "107r",
             "sequence": "20",
             "incipit": "Virginis proles*",
             "feast": "Comm. Virginum",
@@ -21548,6 +22956,7 @@ var data = {
         },
         {
             "id": "107r21",
+            "folio": "107r",
             "sequence": "21",
             "incipit": "O quam pulchra es casta",
             "feast": "Comm. Virginum",
@@ -21563,6 +22972,7 @@ var data = {
         },
         {
             "id": "107r22",
+            "folio": "107r",
             "sequence": "22",
             "incipit": "Ante thorum huius virginis",
             "feast": "Comm. Virginum",
@@ -21580,6 +22990,7 @@ var data = {
     "107v": [
         {
             "id": "107v1",
+            "folio": "107v",
             "sequence": "1",
             "incipit": "Revertere revertere Sunamitis",
             "feast": "Comm. Virginum",
@@ -21595,6 +23006,7 @@ var data = {
         },
         {
             "id": "107v2",
+            "folio": "107v",
             "sequence": "2",
             "incipit": "Specie tua et pulchritudine*",
             "feast": "Comm. Virginum",
@@ -21610,6 +23022,7 @@ var data = {
         },
         {
             "id": "107v3",
+            "folio": "107v",
             "sequence": "3",
             "incipit": "Veni sponsa Christi accipe",
             "feast": "Comm. Virginum",
@@ -21625,6 +23038,7 @@ var data = {
         },
         {
             "id": "107v4",
+            "folio": "107v",
             "sequence": "4",
             "incipit": "Veni electa mea et ponam",
             "feast": "Comm. Virginum",
@@ -21640,6 +23054,7 @@ var data = {
         },
         {
             "id": "107v5",
+            "folio": "107v",
             "sequence": "5",
             "incipit": "Diffusa est gratia in labiis",
             "feast": "Comm. Virginum",
@@ -21655,6 +23070,7 @@ var data = {
         },
         {
             "id": "107v6",
+            "folio": "107v",
             "sequence": "6",
             "incipit": "Specie tua et pulchritudine",
             "feast": "Comm. Virginum",
@@ -21670,6 +23086,7 @@ var data = {
         },
         {
             "id": "107v7",
+            "folio": "107v",
             "sequence": "7",
             "incipit": "Specie tua et pulchritudine",
             "feast": "Comm. Virginum",
@@ -21687,6 +23104,7 @@ var data = {
     "108r": [
         {
             "id": "108r1",
+            "folio": "108r",
             "sequence": "1",
             "incipit": "Diffusa est gratia in labiis",
             "feast": "Comm. Virginum",
@@ -21702,6 +23120,7 @@ var data = {
         },
         {
             "id": "108r2",
+            "folio": "108r",
             "sequence": "2",
             "incipit": "Specie tua et pulchritudine",
             "feast": "Comm. Virginum",
@@ -21717,6 +23136,7 @@ var data = {
         },
         {
             "id": "108r3",
+            "folio": "108r",
             "sequence": "3",
             "incipit": "Adjuvabit eam deus vultu suo",
             "feast": "Comm. Virginum",
@@ -21732,6 +23152,7 @@ var data = {
         },
         {
             "id": "108r4",
+            "folio": "108r",
             "sequence": "4",
             "incipit": "Aquae multae non potuerunt",
             "feast": "Comm. Virginum",
@@ -21747,6 +23168,7 @@ var data = {
         },
         {
             "id": "108r5",
+            "folio": "108r",
             "sequence": "5",
             "incipit": "Adjuvabit eam deus*",
             "feast": "Comm. Virginum",
@@ -21762,6 +23184,7 @@ var data = {
         },
         {
             "id": "108r6",
+            "folio": "108r",
             "sequence": "6",
             "incipit": "Propter veritatem",
             "feast": "Comm. Virginum",
@@ -21777,6 +23200,7 @@ var data = {
         },
         {
             "id": "108r7",
+            "folio": "108r",
             "sequence": "7",
             "incipit": "Specie tua et pulchritudine",
             "feast": "Comm. Virginum",
@@ -21792,6 +23216,7 @@ var data = {
         },
         {
             "id": "108r8",
+            "folio": "108r",
             "sequence": "8",
             "incipit": "Dilexisti justitiam et odisti",
             "feast": "Comm. Virginum",
@@ -21809,6 +23234,7 @@ var data = {
     "108v": [
         {
             "id": "108v1",
+            "folio": "108v",
             "sequence": "1",
             "incipit": "Propter veritatem",
             "feast": "Comm. Virginum",
@@ -21824,6 +23250,7 @@ var data = {
         },
         {
             "id": "108v2",
+            "folio": "108v",
             "sequence": "2",
             "incipit": "Offerrentur regi virgines",
             "feast": "Comm. Virginum",
@@ -21839,6 +23266,7 @@ var data = {
         },
         {
             "id": "108v3",
+            "folio": "108v",
             "sequence": "3",
             "incipit": "Specie tua et pulchritudine",
             "feast": "Comm. Virginum",
@@ -21854,6 +23282,7 @@ var data = {
         },
         {
             "id": "108v4",
+            "folio": "108v",
             "sequence": "4",
             "incipit": "Nigra sum sed formosa filia",
             "feast": "Comm. Virginum",
@@ -21869,6 +23298,7 @@ var data = {
         },
         {
             "id": "108v5",
+            "folio": "108v",
             "sequence": "5",
             "incipit": "Trahe me post te in ",
             "feast": "Comm. Virginum",
@@ -21884,6 +23314,7 @@ var data = {
         },
         {
             "id": "108v6",
+            "folio": "108v",
             "sequence": "6",
             "incipit": "Veni sponsa Christi accipe coronam",
             "feast": "Comm. Virginum",
@@ -21899,6 +23330,7 @@ var data = {
         },
         {
             "id": "108v7",
+            "folio": "108v",
             "sequence": "7",
             "incipit": "Haec est virgo sapiens",
             "feast": "Comm. Virginum",
@@ -21916,6 +23348,7 @@ var data = {
     "109r": [
         {
             "id": "109r1",
+            "folio": "109r",
             "sequence": "1",
             "incipit": "Media autem nocte",
             "feast": "Comm. Virginum",
@@ -21931,6 +23364,7 @@ var data = {
         },
         {
             "id": "109r2",
+            "folio": "109r",
             "sequence": "2",
             "incipit": "Media nocte clamor factus est",
             "feast": "Comm. Virginum",
@@ -21946,6 +23380,7 @@ var data = {
         },
         {
             "id": "109r3",
+            "folio": "109r",
             "sequence": "3",
             "incipit": "Prudentes virgines aptate",
             "feast": "Comm. Virginum",
@@ -21961,6 +23396,7 @@ var data = {
         },
         {
             "id": "109r4",
+            "folio": "109r",
             "sequence": "4",
             "incipit": "Veni electa mea et ponam",
             "feast": "Comm. Virginum",
@@ -21976,6 +23412,7 @@ var data = {
         },
         {
             "id": "109r5",
+            "folio": "109r",
             "sequence": "5",
             "incipit": "Diffusa est gratia in labiis",
             "feast": "Comm. Virginum",
@@ -21991,6 +23428,7 @@ var data = {
         },
         {
             "id": "109r6",
+            "folio": "109r",
             "sequence": "6",
             "incipit": "Pulchra facie sed pulchrior",
             "feast": "Comm. Virginum",
@@ -22008,6 +23446,7 @@ var data = {
     "109v": [
         {
             "id": "109v1",
+            "folio": "109v",
             "sequence": "1",
             "incipit": "Specie tua et pulchritudine",
             "feast": "Comm. Virginum",
@@ -22023,6 +23462,7 @@ var data = {
         },
         {
             "id": "109v2",
+            "folio": "109v",
             "sequence": "2",
             "incipit": "Haec est virgo sapiens et ",
             "feast": "Comm. Virginum",
@@ -22038,6 +23478,7 @@ var data = {
         },
         {
             "id": "109v3",
+            "folio": "109v",
             "sequence": "3",
             "incipit": "Haec est virgo sapiens quam",
             "feast": "Comm. Virginum",
@@ -22053,6 +23494,7 @@ var data = {
         },
         {
             "id": "109v4",
+            "folio": "109v",
             "sequence": "4",
             "incipit": "Haec est quae nescivit torum",
             "feast": "Comm. Virginum",
@@ -22068,6 +23510,7 @@ var data = {
         },
         {
             "id": "109v5",
+            "folio": "109v",
             "sequence": "5",
             "incipit": "Veni electa mea et ponam",
             "feast": "Comm. Virginum",
@@ -22083,6 +23526,7 @@ var data = {
         },
         {
             "id": "109v6",
+            "folio": "109v",
             "sequence": "6",
             "incipit": "Ista est speciosa inter filias",
             "feast": "Comm. Virginum",
@@ -22098,6 +23542,7 @@ var data = {
         },
         {
             "id": "109v7",
+            "folio": "109v",
             "sequence": "7",
             "incipit": "Jesu corona virginum*",
             "feast": "Comm. Virginum",
@@ -22113,6 +23558,7 @@ var data = {
         },
         {
             "id": "109v8",
+            "folio": "109v",
             "sequence": "8",
             "incipit": "Diffusa est gratia*",
             "feast": "Comm. Virginum",
@@ -22128,6 +23574,7 @@ var data = {
         },
         {
             "id": "109v9",
+            "folio": "109v",
             "sequence": "9",
             "incipit": "Simile est regnum caelorum",
             "feast": "Comm. Virginum",
@@ -22143,6 +23590,7 @@ var data = {
         },
         {
             "id": "109v10",
+            "folio": "109v",
             "sequence": "10",
             "incipit": "Specie tua et pulchritudine",
             "feast": "Comm. Virginum",
@@ -22158,6 +23606,7 @@ var data = {
         },
         {
             "id": "109v11",
+            "folio": "109v",
             "sequence": "11",
             "incipit": "Intende prospere procede",
             "feast": "Comm. Virginum",
@@ -22175,6 +23624,7 @@ var data = {
     "110r": [
         {
             "id": "110r1",
+            "folio": "110r",
             "sequence": "1",
             "incipit": "Adjuvabit eam*",
             "feast": "Comm. Virginum",
@@ -22190,6 +23640,7 @@ var data = {
         },
         {
             "id": "110r2",
+            "folio": "110r",
             "sequence": "2",
             "incipit": "Adjuvabit eam deus vultu suo",
             "feast": "Comm. Virginum",
@@ -22205,6 +23656,7 @@ var data = {
         },
         {
             "id": "110r3",
+            "folio": "110r",
             "sequence": "3",
             "incipit": "Deus in medio ejus",
             "feast": "Comm. Virginum",
@@ -22220,6 +23672,7 @@ var data = {
         },
         {
             "id": "110r4",
+            "folio": "110r",
             "sequence": "4",
             "incipit": "Elegit eam deus*",
             "feast": "Comm. Virginum",
@@ -22235,6 +23688,7 @@ var data = {
         },
         {
             "id": "110r5",
+            "folio": "110r",
             "sequence": "5",
             "incipit": "Elegit eam deus et praeelegit",
             "feast": "Comm. Virginum",
@@ -22250,6 +23704,7 @@ var data = {
         },
         {
             "id": "110r6",
+            "folio": "110r",
             "sequence": "6",
             "incipit": "In tabernaculo suo habitare",
             "feast": "Comm. Virginum",
@@ -22265,6 +23720,7 @@ var data = {
         },
         {
             "id": "110r7",
+            "folio": "110r",
             "sequence": "7",
             "incipit": "Diffusa est gratia*",
             "feast": "Comm. Virginum",
@@ -22280,6 +23736,7 @@ var data = {
         },
         {
             "id": "110r8",
+            "folio": "110r",
             "sequence": "8",
             "incipit": "Jesu corona virginum*",
             "feast": "Comm. Virginum",
@@ -22295,6 +23752,7 @@ var data = {
         },
         {
             "id": "110r9",
+            "folio": "110r",
             "sequence": "9",
             "incipit": "Diffusa est gratia*",
             "feast": "Comm. Virginum",
@@ -22310,6 +23768,7 @@ var data = {
         },
         {
             "id": "110r10",
+            "folio": "110r",
             "sequence": "10",
             "incipit": "Veni sponsa Christi accipe coronam",
             "feast": "Comm. Virginum",
@@ -22325,6 +23784,7 @@ var data = {
         },
         {
             "id": "110r11",
+            "folio": "110r",
             "sequence": "11",
             "incipit": "Haec est domus domini",
             "feast": "In Dedicatione Eccl.",
@@ -22340,6 +23800,7 @@ var data = {
         },
         {
             "id": "110r12",
+            "folio": "110r",
             "sequence": "12",
             "incipit": "Sanctificavit dominus tabernaculum suum",
             "feast": "In Dedicatione Eccl.",
@@ -22355,6 +23816,7 @@ var data = {
         },
         {
             "id": "110r13",
+            "folio": "110r",
             "sequence": "13",
             "incipit": "Domum dei decet sanctitudo",
             "feast": "In Dedicatione Eccl.",
@@ -22372,6 +23834,7 @@ var data = {
     "110v": [
         {
             "id": "110v1",
+            "folio": "110v",
             "sequence": "1",
             "incipit": "Urbs beata*",
             "feast": "In Dedicatione Eccl.",
@@ -22387,6 +23850,7 @@ var data = {
         },
         {
             "id": "110v2",
+            "folio": "110v",
             "sequence": "2",
             "incipit": "Tollite portas principes",
             "feast": "In Dedicatione Eccl.",
@@ -22402,6 +23866,7 @@ var data = {
         },
         {
             "id": "110v3",
+            "folio": "110v",
             "sequence": "3",
             "incipit": "Erit mihi dominus in deum",
             "feast": "In Dedicatione Eccl.",
@@ -22417,6 +23882,7 @@ var data = {
         },
         {
             "id": "110v4",
+            "folio": "110v",
             "sequence": "4",
             "incipit": "Aedificavit Moyses altare domino",
             "feast": "In Dedicatione Eccl.",
@@ -22432,6 +23898,7 @@ var data = {
         },
         {
             "id": "110v5",
+            "folio": "110v",
             "sequence": "5",
             "incipit": "Domum tuam domine decet*",
             "feast": "In Dedicatione Eccl.",
@@ -22447,6 +23914,7 @@ var data = {
         },
         {
             "id": "110v6",
+            "folio": "110v",
             "sequence": "6",
             "incipit": "In dedicatione templi",
             "feast": "In Dedicatione Eccl.",
@@ -22462,6 +23930,7 @@ var data = {
         },
         {
             "id": "110v7",
+            "folio": "110v",
             "sequence": "7",
             "incipit": "Fundata est domus domini",
             "feast": "In Dedicatione Eccl.",
@@ -22477,6 +23946,7 @@ var data = {
         },
         {
             "id": "110v8",
+            "folio": "110v",
             "sequence": "8",
             "incipit": "Fundata est domus domini",
             "feast": "In Dedicatione Eccl.",
@@ -22492,6 +23962,7 @@ var data = {
         },
         {
             "id": "110v9",
+            "folio": "110v",
             "sequence": "9",
             "incipit": "Venientes autem venient",
             "feast": "In Dedicatione Eccl.",
@@ -22509,6 +23980,7 @@ var data = {
     "111r": [
         {
             "id": "111r1",
+            "folio": "111r",
             "sequence": "1",
             "incipit": "Benedic domine domum istam",
             "feast": "In Dedicatione Eccl.",
@@ -22524,6 +23996,7 @@ var data = {
         },
         {
             "id": "111r2",
+            "folio": "111r",
             "sequence": "2",
             "incipit": "Domine si conversus fuerit",
             "feast": "In Dedicatione Eccl.",
@@ -22539,6 +24012,7 @@ var data = {
         },
         {
             "id": "111r3",
+            "folio": "111r",
             "sequence": "3",
             "incipit": "Non est hic aliud nisi ",
             "feast": "In Dedicatione Eccl.",
@@ -22554,6 +24028,7 @@ var data = {
         },
         {
             "id": "111r4",
+            "folio": "111r",
             "sequence": "4",
             "incipit": "Vidit Jacob scalam summitas",
             "feast": "In Dedicatione Eccl.",
@@ -22569,6 +24044,7 @@ var data = {
         },
         {
             "id": "111r5",
+            "folio": "111r",
             "sequence": "5",
             "incipit": "Erexit Jacob lapidem in titulum",
             "feast": "In Dedicatione Eccl.",
@@ -22584,6 +24060,7 @@ var data = {
         },
         {
             "id": "111r6",
+            "folio": "111r",
             "sequence": "6",
             "incipit": "Domus mea domus orationis",
             "feast": "In Dedicatione Eccl.",
@@ -22599,6 +24076,7 @@ var data = {
         },
         {
             "id": "111r7",
+            "folio": "111r",
             "sequence": "7",
             "incipit": "Orantibus in loco isto",
             "feast": "In Dedicatione Eccl.",
@@ -22616,6 +24094,7 @@ var data = {
     "111v": [
         {
             "id": "111v1",
+            "folio": "111v",
             "sequence": "1",
             "incipit": "Qui regis Israel intende",
             "feast": "In Dedicatione Eccl.",
@@ -22631,6 +24110,7 @@ var data = {
         },
         {
             "id": "111v2",
+            "folio": "111v",
             "sequence": "2",
             "incipit": "O quam metuendus est locus",
             "feast": "In Dedicatione Eccl.",
@@ -22646,6 +24126,7 @@ var data = {
         },
         {
             "id": "111v3",
+            "folio": "111v",
             "sequence": "3",
             "incipit": "Haec est domus domini",
             "feast": "In Dedicatione Eccl.",
@@ -22661,6 +24142,7 @@ var data = {
         },
         {
             "id": "111v4",
+            "folio": "111v",
             "sequence": "4",
             "incipit": "Mane surgens Jacob erigebat",
             "feast": "In Dedicatione Eccl.",
@@ -22676,6 +24158,7 @@ var data = {
         },
         {
             "id": "111v5",
+            "folio": "111v",
             "sequence": "5",
             "incipit": "Cumque evigilasset Jacob",
             "feast": "In Dedicatione Eccl.",
@@ -22691,6 +24174,7 @@ var data = {
         },
         {
             "id": "111v6",
+            "folio": "111v",
             "sequence": "6",
             "incipit": "Qui habitat in adjutorio",
             "feast": "In Dedicatione Eccl.",
@@ -22708,6 +24192,7 @@ var data = {
     "112r": [
         {
             "id": "112r1",
+            "folio": "112r",
             "sequence": "1",
             "incipit": "Templum domini sanctum est",
             "feast": "In Dedicatione Eccl.",
@@ -22723,6 +24208,7 @@ var data = {
         },
         {
             "id": "112r2",
+            "folio": "112r",
             "sequence": "2",
             "incipit": "Benedicta gloria domini",
             "feast": "In Dedicatione Eccl.",
@@ -22738,6 +24224,7 @@ var data = {
         },
         {
             "id": "112r3",
+            "folio": "112r",
             "sequence": "3",
             "incipit": "Domus mea domus orationis",
             "feast": "In Dedicatione Eccl.",
@@ -22753,6 +24240,7 @@ var data = {
         },
         {
             "id": "112r4",
+            "folio": "112r",
             "sequence": "4",
             "incipit": "Petite et accipietis quaerite",
             "feast": "In Dedicatione Eccl.",
@@ -22768,6 +24256,7 @@ var data = {
         },
         {
             "id": "112r5",
+            "folio": "112r",
             "sequence": "5",
             "incipit": "Lapides pretiosi omnes muri",
             "feast": "In Dedicatione Eccl.",
@@ -22783,6 +24272,7 @@ var data = {
         },
         {
             "id": "112r6",
+            "folio": "112r",
             "sequence": "6",
             "incipit": "Portae Jerusalem ex saphyro",
             "feast": "In Dedicatione Eccl.",
@@ -22800,6 +24290,7 @@ var data = {
     "112v": [
         {
             "id": "112v1",
+            "folio": "112v",
             "sequence": "1",
             "incipit": "Quam dilecta tabernacula tua",
             "feast": "In Dedicatione Eccl.",
@@ -22815,6 +24306,7 @@ var data = {
         },
         {
             "id": "112v2",
+            "folio": "112v",
             "sequence": "2",
             "incipit": "Beati qui habitant in domo",
             "feast": "In Dedicatione Eccl.",
@@ -22830,6 +24322,7 @@ var data = {
         },
         {
             "id": "112v3",
+            "folio": "112v",
             "sequence": "3",
             "incipit": "Domum tuam domine decet",
             "feast": "In Dedicatione Eccl.",
@@ -22845,6 +24338,7 @@ var data = {
         },
         {
             "id": "112v4",
+            "folio": "112v",
             "sequence": "4",
             "incipit": "Domus mea domus orationis",
             "feast": "In Dedicatione Eccl.",
@@ -22860,6 +24354,7 @@ var data = {
         },
         {
             "id": "112v5",
+            "folio": "112v",
             "sequence": "5",
             "incipit": "Haec est domus domini",
             "feast": "In Dedicatione Eccl.",
@@ -22875,6 +24370,7 @@ var data = {
         },
         {
             "id": "112v6",
+            "folio": "112v",
             "sequence": "6",
             "incipit": "Bene fundata est domus domini",
             "feast": "In Dedicatione Eccl.",
@@ -22890,6 +24386,7 @@ var data = {
         },
         {
             "id": "112v7",
+            "folio": "112v",
             "sequence": "7",
             "incipit": "Lapides pretiosi omnes muri",
             "feast": "In Dedicatione Eccl.",
@@ -22905,6 +24402,7 @@ var data = {
         },
         {
             "id": "112v8",
+            "folio": "112v",
             "sequence": "8",
             "incipit": "Angularis fundamentum*",
             "feast": "In Dedicatione Eccl.",
@@ -22920,6 +24418,7 @@ var data = {
         },
         {
             "id": "112v9",
+            "folio": "112v",
             "sequence": "9",
             "incipit": "Haec est domus domini",
             "feast": "In Dedicatione Eccl.",
@@ -22937,6 +24436,7 @@ var data = {
     "113r": [
         {
             "id": "113r1",
+            "folio": "113r",
             "sequence": "1",
             "incipit": "Zachaee festinans descende",
             "feast": "In Dedicatione Eccl.",
@@ -22952,6 +24452,7 @@ var data = {
         },
         {
             "id": "113r2",
+            "folio": "113r",
             "sequence": "2",
             "incipit": "Domum tuam domine",
             "feast": "In Dedicatione Eccl.",
@@ -22967,6 +24468,7 @@ var data = {
         },
         {
             "id": "113r3",
+            "folio": "113r",
             "sequence": "3",
             "incipit": "In longitudinem dierum",
             "feast": "In Dedicatione Eccl.",
@@ -22982,6 +24484,7 @@ var data = {
         },
         {
             "id": "113r4",
+            "folio": "113r",
             "sequence": "4",
             "incipit": "Locus iste*",
             "feast": "In Dedicatione Eccl.",
@@ -22997,6 +24500,7 @@ var data = {
         },
         {
             "id": "113r5",
+            "folio": "113r",
             "sequence": "5",
             "incipit": "Locus iste sanctus est",
             "feast": "In Dedicatione Eccl.",
@@ -23012,6 +24516,7 @@ var data = {
         },
         {
             "id": "113r6",
+            "folio": "113r",
             "sequence": "6",
             "incipit": "Pro delictis et peccatis",
             "feast": "In Dedicatione Eccl.",
@@ -23027,6 +24532,7 @@ var data = {
         },
         {
             "id": "113r7",
+            "folio": "113r",
             "sequence": "7",
             "incipit": "Haec est domus domini",
             "feast": "In Dedicatione Eccl.",
@@ -23042,6 +24548,7 @@ var data = {
         },
         {
             "id": "113r8",
+            "folio": "113r",
             "sequence": "8",
             "incipit": "Haec est domus domini",
             "feast": "In Dedicatione Eccl.",
@@ -23057,6 +24564,7 @@ var data = {
         },
         {
             "id": "113r9",
+            "folio": "113r",
             "sequence": "9",
             "incipit": "Bene fundata est supra",
             "feast": "In Dedicatione Eccl.",
@@ -23072,6 +24580,7 @@ var data = {
         },
         {
             "id": "113r10",
+            "folio": "113r",
             "sequence": "10",
             "incipit": "Bene fundata est domus domini",
             "feast": "In Dedicatione Eccl.",
@@ -23087,6 +24596,7 @@ var data = {
         },
         {
             "id": "113r11",
+            "folio": "113r",
             "sequence": "11",
             "incipit": "Domum tuam domine*",
             "feast": "In Dedicatione Eccl.",
@@ -23102,6 +24612,7 @@ var data = {
         },
         {
             "id": "113r12",
+            "folio": "113r",
             "sequence": "12",
             "incipit": "Urbs beata Jerusalem*",
             "feast": "In Dedicatione Eccl.",
@@ -23117,6 +24628,7 @@ var data = {
         },
         {
             "id": "113r13",
+            "folio": "113r",
             "sequence": "13",
             "incipit": "Domum tuam domine decet",
             "feast": "In Dedicatione Eccl.",
@@ -23132,6 +24644,7 @@ var data = {
         },
         {
             "id": "113r14",
+            "folio": "113r",
             "sequence": "14",
             "incipit": "O quam metuendus est locus ",
             "feast": "In Dedicatione Eccl.",
@@ -23149,6 +24662,7 @@ var data = {
     "113v": [
         {
             "id": "113v1",
+            "folio": "113v",
             "sequence": "1",
             "incipit": "Hodierna lux diei celebris",
             "feast": null,
@@ -23166,6 +24680,7 @@ var data = {
     "114r": [
         {
             "id": "114r1",
+            "folio": "114r",
             "sequence": "1",
             "incipit": "Celi cives in colono",
             "feast": null,
@@ -23183,6 +24698,7 @@ var data = {
     "115r": [
         {
             "id": "115r1",
+            "folio": "115r",
             "sequence": "1",
             "incipit": "Venite exultemus domino (1)",
             "feast": null,
@@ -23200,6 +24716,7 @@ var data = {
     "115v": [
         {
             "id": "115v1",
+            "folio": "115v",
             "sequence": "1",
             "incipit": "Venite exultemus domino (2)",
             "feast": null,
@@ -23215,6 +24732,7 @@ var data = {
         },
         {
             "id": "115v2",
+            "folio": "115v",
             "sequence": "2",
             "incipit": "Venite exultemus domino (3)",
             "feast": null,
@@ -23232,6 +24750,7 @@ var data = {
     "116r": [
         {
             "id": "116r1",
+            "folio": "116r",
             "sequence": "1",
             "incipit": "Venite exultemus domino (4)",
             "feast": null,
@@ -23249,6 +24768,7 @@ var data = {
     "116v": [
         {
             "id": "116v1",
+            "folio": "116v",
             "sequence": "1",
             "incipit": "Venite exultemus domino (5)",
             "feast": null,
@@ -23266,6 +24786,7 @@ var data = {
     "117r": [
         {
             "id": "117r1",
+            "folio": "117r",
             "sequence": "1",
             "incipit": "Venite exultemus domino (6)",
             "feast": null,
@@ -23283,6 +24804,7 @@ var data = {
     "117v": [
         {
             "id": "117v1",
+            "folio": "117v",
             "sequence": "1",
             "incipit": "Venite exultemus domino (7)",
             "feast": null,
@@ -23300,6 +24822,7 @@ var data = {
     "118r": [
         {
             "id": "118r1",
+            "folio": "118r",
             "sequence": "1",
             "incipit": "Venite exultemus domino (8)",
             "feast": null,
@@ -23317,6 +24840,7 @@ var data = {
     "118v": [
         {
             "id": "118v1",
+            "folio": "118v",
             "sequence": "1",
             "incipit": "Venite exultemus domino (9)",
             "feast": null,
@@ -23334,6 +24858,7 @@ var data = {
     "119r": [
         {
             "id": "119r1",
+            "folio": "119r",
             "sequence": "1",
             "incipit": "Venite exultemus domino (10)*",
             "feast": null,
@@ -23351,6 +24876,7 @@ var data = {
     "119v": [
         {
             "id": "119v1",
+            "folio": "119v",
             "sequence": "1",
             "incipit": "Sancta maria succurre miseris",
             "feast": null,
@@ -23366,6 +24892,7 @@ var data = {
         },
         {
             "id": "119v2",
+            "folio": "119v",
             "sequence": "2",
             "incipit": "Caeli regem attollamus et in ",
             "feast": null,

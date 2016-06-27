@@ -90,6 +90,7 @@ CSV.foreach('inventory.csv', :headers => true) do |row|
 
   chant = {}
   chant[:id] = current_folio + row['Sequence']
+  chant[:folio] = current_folio
   chant[:sequence] = row['Sequence']
   chant[:incipit] = row['Incipit']
   chant[:feast] = row['Feast']
