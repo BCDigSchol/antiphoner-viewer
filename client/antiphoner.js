@@ -15,8 +15,8 @@ var data = {
             "mode": "1",
             "differentia": "G1",
             "full_text_standard": "Unus ex duobus qui secuti sunt",
-            "volpiano": "1---g--gf-fg---c--d---fg-hg--fg--g.---3",
-            "search_volpiano": "ggffgcdfghgfgg"
+            "volpiano": "1--d--dc---f---g--fgh--hg---f---g--h--g---f---",
+            "search_volpiano": "ddcfgfghhgfghgf"
         },
         {
             "id": "001r2",
@@ -31,8 +31,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Exsultet caelum laudibus",
-            "volpiano": "1---k--k--k---k--k---k--k--kkjh7---3",
-            "search_volpiano": "kkkkkkkkkjh"
+            "volpiano": "1--gh--g---g--g--g--gh--jk-k---jh--kh--jkjhg-gh---jkg-",
+            "search_volpiano": "ghggggghjkkjhkhjkjhgghjkg"
         },
         {
             "id": "001r3",
@@ -47,8 +47,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "In omnem terram*",
-            "volpiano": "1---d--dc---f--g---f--gh--h---hkjklk--hijh---g---f--gh-ijhh--hg---g7---g--e--g---hg--fg---f--dc---dg--e---fe--d--d---4---h--h--g--f--gh--g---3",
-            "search_volpiano": "ddcfgfghhhkjklkhijhgfghijhhhgggeghgfgfdcdgefeddhhgfghg"
+            "volpiano": "1--lqlm---l---lj---k---j---g---g---k---h---k---j---",
+            "search_volpiano": "lqlmlljkjggkhkj"
         },
         {
             "id": "001r4",
@@ -63,8 +63,8 @@ var data = {
             "mode": "3",
             "differentia": null,
             "full_text_standard": "Regem apostolorum dominum",
-            "volpiano": "1---cdf--f---defedc--df---d---dfe--e--hj-g-hjhg--hg---gfe--de--e---cfe--e--gh--gf---g--e---4---e--g--h---3",
-            "search_volpiano": "cdffdefedcdfddfeehjghjhghggfedeecfeeghgfgeegh"
+            "volpiano": "1--g---gk---hgf---gh---g---jk---lh---k---k---j---",
+            "search_volpiano": "ggkhgfghgjklhkkj"
         },
         {
             "id": "001r5",
@@ -79,8 +79,8 @@ var data = {
             "mode": "7",
             "differentia": "C1",
             "full_text_standard": "Vidit dominus Petrum et Andream",
-            "volpiano": "1---e--fg---g---h---k---j---k--hg---e--fg--g---g---g--gk--k---k---l--k--jh---k--h---k--j--k-j-hg---hk---g--g---g--g---gh---f--e---d---g--hk---h---g--g---4---k--k--j--k--h--ghg---5",
-            "search_volpiano": "efgghkjkhgefgggggkkklkjhkhkjkjhghkggggghfedghkhggkkjkhghg"
+            "volpiano": "1--dc---e---f---gf---ed---dc---fg---h---g---f---",
+            "search_volpiano": "dcefgfeddcfghgf"
         },
         {
             "id": "001r6",
@@ -95,8 +95,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Venite post me dicit dominus",
-            "volpiano": "1---f---dc--df--d---c--d---ef--g---fg--h--g--e--e---e--g--gh--hk--h---h--h---h--h--h-gf---g--gf--e--e---e---g--h--hk--h---h--gf---gf--f---ef--g---g---dc--c---cd--de--f---g--gf--e--e---4---f--e--f--j--e--f---5",
-            "search_volpiano": "fdcdfdcdefgfghgeeegghhkhhhhhhgfggfeeeghhkhhgfgffefggdcccddefggfeefefjef"
+            "volpiano": "1--f---f--f---f--f---",
+            "search_volpiano": "fffff"
         },
         {
             "id": "001r7",
@@ -111,8 +111,8 @@ var data = {
             "mode": "2",
             "differentia": "D1",
             "full_text_standard": "Relictis retibus secuti sunt",
-            "volpiano": "1---cd--efe--d---gf---g---fe--de--efed-e---c---f--g--?---?--e---d---e---g-hk--h---h-gf--g--gh---g-fe---f---gf--e---fg--f--f---gh-gf--g---gh--gf--ed-f-fe---d--e---g-hk--h---h--h---?--gf--e---ef--g--e---f-ed--d---e---f--g--f---ed--?--e---4---h--g--h--k--g--efed---5",
-            "search_volpiano": "cdefedgfgfedeefedecfgedeghkhhgfgghgfefgfefgffghgfgghgfedffedeghkhhhgfeefgefeddefgfedehghkgefed"
+            "volpiano": "1--fff---",
+            "search_volpiano": "fff"
         },
         {
             "id": "001r8",
@@ -127,8 +127,8 @@ var data = {
             "mode": "r",
             "differentia": null,
             "full_text_standard": "In omnem terram*",
-            "volpiano": "1---fe--d--f---d--dc--d--de---e---g---gh---hg---hk--gf---gf--de--e---dhk---h--g---h--gf--gh---h---fe--df---e--e---f---e---fg--g--fe--dcd---c---d--dgh--g---gf--d---ef--g---fg--h--gf--e--e.---4---h--g--h--k---g--e---5",
-            "search_volpiano": "fedfddcddeegghhghkgfgfdeedhkhghgfghhfedfeefefggfedcdcddghggfdefgfghgfeehghkge"
+            "volpiano": "1--fd--df--fg--g--gh---h--gjghj--h---",
+            "search_volpiano": "fddffggghhgjghjh"
         },
         {
             "id": "001r9",
@@ -143,8 +143,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Dum deambularet dominus",
-            "volpiano": "1---l--l--k--lk-kj---l---lnlk-l--lnlnlk-lk---l--lnmno---op--l--lnm---monm-nml--lnmn-ml---l--l--k--lk-kl---hg--fg--gh-khj-h-h--hg---lkl---mn--klmlk-lkj-jlkl--kj---jlk--lm---mn--j---lk--monm-nml-lnmn--ml---lm-nml--lmlk---kl-ml-mnm--lk--k---kh-jkjhg-h--hg---l---lk--lmk--kl-m-lml-mnm---k--l--l---mlm--klk---kh---k---lm---l--lk--kmlj-khg-khg-hjh---gf---g--hk--kj--lk-kjh---kl-nmnml-ml---l---l--k--lk-kl---h--kg--khk-jkmlj-khg-kh-hg---5",
-            "search_volpiano": "llklkkjllnlkllnlnlklkllnmnoopllnmmonmnmllnmnmlllklkklhgfgghkhjhhhglklmnklmlklkjjlklkjjlklmmnjlkmonmnmllnmnmllmnmllmlkklmlmnmlkkkhjkjhghhgllklmkklmlmlmnmkllmlmklkkhklmllkkmljkhgkhghjhgfghkkjlkkjhklnmnmlmlllklkklhkgkhkjkmljkhgkhhg"
+            "volpiano": "1--h--gf---ghghge-fe-fg--gf---gh--gf--efgf--fe---",
+            "search_volpiano": "hgfghghgefefggfghgfefgffe"
         }
     ],
     "1v": [
@@ -161,8 +161,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Erant enim piscatores et ait illis",
-            "volpiano": "1---def-e-d--cdc-cb---c--cd--c--c---dc---cd--cd-d---d--de-fe--ed---cdc-cb--cdc---d--de--d---dede-d-c-dc---cd-ed-efe---dc--dede--dcb-cb---5",
-            "search_volpiano": "defedcdccbccdccdccdcddddefeedcdccbcdcddeddededcdccdedefedcdededcbcb"
+            "volpiano": "1--ff---e---ef---g---hgh---fghg---ef---",
+            "search_volpiano": "ffeefghghfghgef"
         },
         {
             "id": "001v2",
@@ -177,8 +177,8 @@ var data = {
             "mode": "3",
             "differentia": null,
             "full_text_standard": "Mox ut vocem domini",
-            "volpiano": "1---d---def-e-d-cdc-cb---c--c--c---c--c--c---c---c--cd--c---c--db---cd--cd---de--fe--ed---cd-cb---cdc--d---dfdf--dc--cd-ed-efe--dc-dede--dcb-cb---5",
-            "search_volpiano": "ddefedcdccbcccccccccdccdbcdcddefeedcdcbcdcddfdfdccdedefedcdededcbcb"
+            "volpiano": "1--klk---hjkjhg---hg-k---k---k--k--k---jk--h---",
+            "search_volpiano": "klkhjkjhghgkkkkkjkh"
         },
         {
             "id": "001v3",
@@ -193,8 +193,8 @@ var data = {
             "mode": "3",
             "differentia": null,
             "full_text_standard": "Hic est qui pro amore Christi",
-            "volpiano": "1---d--efed--cb--cdc-cb---d--d---d--d--d---cd--c---c---c--c--cd--c--c---c--db---cd--cd--de-fe--ed---dede-dc---dc--cd-ef-efe--dc-dede--dcb-cb---5",
-            "search_volpiano": "defedcbcdccbdddddcdcccccdcccdbcdcddefeeddededcdccdefefedcdededcbcb"
+            "volpiano": "1--d---",
+            "search_volpiano": "d"
         },
         {
             "id": "001v4",
@@ -209,8 +209,8 @@ var data = {
             "mode": "3",
             "differentia": null,
             "full_text_standard": "Doctor bonus et amicus dei",
-            "volpiano": "1---fgf-fe--c--d-de--fe-fg-gf--f---fhijhg--h--h-hgh--gf--fh---khk-k-lk-kh-kg-gf---ge---g--h--ghg---fgh-gf-g--gf---c--d--fgf---fe--g--gh--ijh---fgf--f---f---ghgh-klkl--ijk---hijk---hg--fgij---hgfe-fgfg--gf---g---f-fdf-fff--cd---cd---fg--f---ghgh--h--h---hijhg--h---h---hgh--gf---fg-hg-hgfed-f-fgf--gh--ghg---f-gijgf-g--gf---5",
-            "search_volpiano": "fgffecddefefggfffhijhghhhghgffhkhkklkkhkggfgeghghgfghgfggfcdfgffegghijhfgfffghghklklijkhijkhgfgijhgfefgfggfgffdffffcdcdfgfghghhhhijhghhhghgffghghgfedffgfghghgfgijgfggf"
+            "volpiano": "1--f---f---fgff---ded-fe---f---g---g---gh---g---",
+            "search_volpiano": "fffgffdedfefggghg"
         },
         {
             "id": "001v5",
@@ -225,8 +225,8 @@ var data = {
             "mode": "3",
             "differentia": null,
             "full_text_standard": "Salve crux quae in corpore",
-            "volpiano": "1---f-gh-jk--jhj-hg-hg---hkl--kj--h--gh---f--fg-hg--gf---f---f--gjf--gf---fgj--hg-hjhg--ghgf-gf---5",
-            "search_volpiano": "fghjkjhjhghghklkjhghffghggfffgjfgffgjhghjhgghgfgf"
+            "volpiano": "1--klk--hjkjhg---hg---k---k---jk--h--h---",
+            "search_volpiano": "klkhjkjhghgkkjkhh"
         }
     ],
     "2r": [
@@ -243,8 +243,8 @@ var data = {
             "mode": "7",
             "differentia": "C1",
             "full_text_standard": "Dignum sibi dominus computavit",
-            "volpiano": "1---gh--g---g---gh--g--fhk---klk-kj--kl-mlm--ml---j---kl--lk--l---kl--k-kjhg--h-gh-kg-hg-gf---h--k--khkh--gf-gjgf-f---ghg--g---gh--g--g---g--gl---l--lnl-nlk-lk---l---l--lnm-no--po--k-l---lk--j---o---onml-ml--kl--k-lml-l-jkj---hj---lml-mnm--lk--kj---hg--gj-khj--hf---g--g--h--g---h--g--f---g--h---khkh--hg-hjhj--kh---l--k---j--lmlm--kl--lk---l---kj-kl--hg--gh-kg-hg-gf---f---hk--kj--ljk-jh--kl-nmnml-ml---lk--k-lkl--hkj--jkl-kjh-jkjh---g--ghkhg-h--hg---5",
-            "search_volpiano": "ghggghgfhkklkkjklmlmmljkllklklkkjhghghkghggfhkkhkhgfgjgffghggghgggglllnlnlklklllnmnopokllkjoonmlmlklklmlljkjhjlmlmnmlkkjhggjkhjhfgghghgfghkhkhhghjhjkhlkjlmlmkllklkjklhgghkghggffhkkjljkjhklnmnmlmllkklklhkjjklkjhjkjhgghkhghhg"
+            "volpiano": "1--l---j---l---m---l---kl---l---l---j---k---j---",
+            "search_volpiano": "ljlmlkllljkj"
         },
         {
             "id": "002r1",
@@ -259,8 +259,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Homo dei ducebatur",
-            "volpiano": "1---defed--cdc-cb---c--cb--c---dc--cd--cd---de-fe--ed---dededc--dc--cd-ed-efe---dc-dede--dcb-cb---4---d--c---5",
-            "search_volpiano": "defedcdccbccbcdccdcddefeeddededcdccdedefedcdededcbcbdc"
+            "volpiano": "1--g---gk---h---g---h---gf---ghg---fg---g---jk---lh---k---k---",
+            "search_volpiano": "ggkhghgfghgfggjklhkk"
         },
         {
             "id": "002r2",
@@ -275,8 +275,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Dilexit Andream dominus in odorem",
-            "volpiano": "1---f--f---f---f--ed--e--f---g---g--e--f---dc--d--f--f--e---5",
-            "search_volpiano": "ffffedefggefdcdffe"
+            "volpiano": "1--f---fe---c---e---d---f---h---g---f---gh---h---",
+            "search_volpiano": "ffecedfhgfghh"
         },
         {
             "id": "002r2",
@@ -291,8 +291,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Cumque carnifices ducerent eum",
-            "volpiano": "1---c---df--f--f---f--f--f---f--f---f---f--ed---e--f--g---5",
-            "search_volpiano": "cdffffffffffedefg"
+            "volpiano": "1--f--f--f--f---f--f---f--f--f---",
+            "search_volpiano": "fffffffff"
         },
         {
             "id": "002r3",
@@ -307,8 +307,8 @@ var data = {
             "mode": "2",
             "differentia": "D1",
             "full_text_standard": "Biduo vivens pendebat in cruce",
-            "volpiano": "1---g--g--g---gh--h---5",
-            "search_volpiano": "gggghh"
+            "volpiano": "1--a---a---ced---d---c---df---fede---cde-fgefd-d---",
+            "search_volpiano": "aaceddcdffedecdefgefdd"
         },
         {
             "id": "002r4",
@@ -323,8 +323,8 @@ var data = {
             "mode": "r",
             "differentia": null,
             "full_text_standard": "Constitues eos principes",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--cd--efg-f---f--gh--g--f---f--f--f---",
+            "search_volpiano": "cdefgffghgffff"
         }
     ],
     "2v": [
@@ -341,8 +341,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "O bona crux que decorum",
-            "volpiano": "1---gh--hghg-gf---gh--hklkj-klkl--lk---k--kj--kl---kj--klkj-kjhg-hg---jk-k--hk--jklkjh-jkjh---ghkhg-h--hg---g--g--gl---lk--lnlnlk-lk---l--lnmno--o-op--l--ln-nm---non--mnml-ml-l-jkj---jk---lml-mnm-ml--kh---klm--lk--k--klkj-kjhg-hg--g--g--lklkh--k---klk-k--kj---j--gh--hghg-gf---f---hk---kj--lk-kjh--kl-nmnml-ml---lk--lk-kj---k--kjkl--hg--gh-kg-hg-gf---k-k--k-hk--jkljhg-jkjh---ghkhg--h-hg---5",
-            "search_volpiano": "ghhghggfghhklkjklkllkkkjklkjklkjkjhghgjkkhkjklkjhjkjhghkhghhggggllklnlnlklkllnmnooopllnnmnonmnmlmlljkjjklmlmnmmlkhklmlkkklkjkjhghggglklkhkklkkkjjghhghggffhkkjlkkjhklnmnmlmllklkkjkkjklhgghkghggfkkkhkjkljhgjkjhghkhghhg"
+            "volpiano": "1--g---",
+            "search_volpiano": "g"
         },
         {
             "id": "002v4",
@@ -357,8 +357,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Beatus Andreas expansis",
-            "volpiano": "1---defed--cb--cdc--cb---c--c---c--c--c---cd--c---c---c--c--cd--c--c---c--db---cd--cd--de-fe--ed---dfdfdc---dc--cd-ed-efe--dc-dede--dcb-cb---4---c-c-c--ac--bcdcba-cba---5",
-            "search_volpiano": "defedcbcdccbccccccdcccccdcccdbcdcddefeeddfdfdcdccdedefedcdededcbcbcccacbcdcbacba"
+            "volpiano": "1--gfd---efed-cd---fghgf---ghjhg-f---ghg---h---g---",
+            "search_volpiano": "gfdefedcdfghgfghjhgfghghg"
         },
         {
             "id": "002v5",
@@ -373,8 +373,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Expandi manus meas",
-            "volpiano": "1---g--g--ghk--k---kj--h--hk-kj--gh-jkjh-k-kg-g-efe---fgh-h-hk---g--fgj---hgf-fhgfd-f--fe---e---f--f--gh--g--h--hghjh---gf--g--hk--jkjg--kl---jl-kj-jhj--hg---h--h--h--h--hg---hkj--g--ef-hkg-f-fdfd---f--ghgh--hfg--gh-kg-hg---egf-f--fe---5",
-            "search_volpiano": "ggghkkkjhhkkjghjkjhkkggefefghhhkgfgjhgffhgfdffeeffghghhghjhgfghkjkjgkljlkjjhjhghhhhhghkjgefhkgffdfdfghghhfgghkghgegfffe"
+            "volpiano": "1--gk--k--k---k--kj--klkj---kjhg-hg-hj--j--j---",
+            "search_volpiano": "gkkkkkjklkjkjhghghjjj"
         },
         {
             "id": "002v6",
@@ -389,8 +389,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Deus ulcionum dominus deus",
-            "volpiano": "1---k--k--k--klk-k--hj-kh-hg---jk--h--h---h--h---h---hg--h--k--jlk-k--kj---kg---hk---k--k---k--klk-kjh-jkj--hg--ghk---kjkh-khg-h--hg---5",
-            "search_volpiano": "kkkklkkhjkhhgjkhhhhhhghkjlkkkjkghkkkkklkkjhjkjhgghkkjkhkhghhg"
+            "volpiano": "1--f---f---ffd---ef---g---hghj---h---",
+            "search_volpiano": "ffffdefghghjh"
         }
     ],
     "3r": [
@@ -407,8 +407,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Non me permittas domine",
-            "volpiano": "1---ed--g--h---k--kj---h--g--fgh---g--f---gf-f---fe--g--hk--j--lk-kjh---hkjk--hg---h---k--k--jh---kjh-jh--hg---g---h---k--h--k---g---h--g---gf---fgh--fe-df---fe--f--gh---jl-hjhgf-gh--g---gh-kghg--e--egf--fe---5",
-            "search_volpiano": "edghkkjhgfghgfgfffeghkjlkkjhhkjkhghkkjhkjhjhhgghkhkghggffghfedffefghjlhjhgfghgghkghgeegffe"
+            "volpiano": "1--h--gf---ghghge-fe-g--g--gh--g---g--g--g---",
+            "search_volpiano": "hgfghghgefeggghgggg"
         },
         {
             "id": "003r2",
@@ -423,8 +423,8 @@ var data = {
             "mode": "4",
             "differentia": "E2",
             "full_text_standard": "Andreas vero rogabat populum",
-            "volpiano": "1---k---klk---k-hj-kh-hg---k--kg---h---k--jlk-k--kj---k---k--k--klk-kjh-jkj--hg---ghk---kjkh-khg-h--hg---5",
-            "search_volpiano": "kklkkhjkhhgkkghkjlkkkjkkkklkkjhjkjhgghkkjkhkhghhg"
+            "volpiano": "1--g---g---f---e---f---fh---h---g---",
+            "search_volpiano": "ggfeffhhg"
         },
         {
             "id": "003r3",
@@ -439,8 +439,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Recipe me ab hominibus",
-            "volpiano": "1---f--f--f---f--ed---e--f--fg---g--e--f--dc--d--f---f--f---5",
-            "search_volpiano": "ffffedeffggefdcdfff"
+            "volpiano": "1--e---d---e---gh---h---gh---j---g---h---h---h---",
+            "search_volpiano": "edeghhghjghhh"
         },
         {
             "id": "003r4",
@@ -455,8 +455,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Nimis honorati sunt",
-            "volpiano": "1---c---df--f--f--f---f--f---d---e--fg---5",
-            "search_volpiano": "cdffffffdefg"
+            "volpiano": "1--ghc---h---h---h---hg---f---gh---h---g---",
+            "search_volpiano": "ghchhhhgfghhg"
         },
         {
             "id": "003r5",
@@ -471,8 +471,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Oravit sanctus Andreas",
-            "volpiano": "1---f--gh--h---h--g--h--g--ef---g--fe--dfd--cd--d---g--ef---g--g--e---f--g---e--fe---d--cd--d---4---h--h--h--g---h--g---5",
-            "search_volpiano": "fghhhghgefgfedfdcddgefggefgefedcddhhhghg"
+            "volpiano": "1--d---fgh---g---g---g---g---gh---hghgf---",
+            "search_volpiano": "dfghggggghhghgf"
         },
         {
             "id": "003r6",
@@ -487,8 +487,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Tu es magister meus",
-            "volpiano": "1---g--g---h--k---k--k--j--h---g---k--j--h---kh-jk--g--ef---hfgh--hkgf-ghg---f--egf-f--fe---f---f--fgh--g--g---g--gh---hg--gf-gh-hg---k--k--jh--kh-kgf--ef---h-fgh--hkgf-ghg---efef--fe---5",
-            "search_volpiano": "gghkkkjhgkjhkhjkgefhfghhkgfghgfegfffefffghgggghhggfghhgkkjhkhkgfefhfghhkgfghgefeffe"
+            "volpiano": "1--gkj---klkj---kjhg-hg-hj--j--j---j--jh---",
+            "search_volpiano": "gkjklkjkjhghghjjjjjh"
         }
     ],
     "3v": [
@@ -505,8 +505,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Videns crucem Andreas",
-            "volpiano": "1---klk-k--hj-kj--hg---k--h---h--h--h---hk--h---h---h--h--hk--h--h---h--hg---h--k--jlk-k--kj---klk-kjh-jkj---hg--ghk--kjkh-khg-h--hg---4---h--fgh---5",
-            "search_volpiano": "klkkhjkjhgkhhhhhkhhhhhkhhhhghkjlkkkjklkkjhjkjhgghkkjkhkhghhghfgh"
+            "volpiano": "1--d---",
+            "search_volpiano": "d"
         },
         {
             "id": "003v2",
@@ -521,8 +521,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "O bona crux que decorem",
-            "volpiano": "1---h--f--hk--kj--kjh--hkl-kl-lk---k--kl---hg---gh--hg-hfg--fd-fgfg---gf---f--gh---h--hk--h--hg--hg-gf---fhk--kl--lk-kjh-l---lkj-kjh-j--kh---h--f--h--k--jkj---hg---hgh--f---g---g--hg--fghgf-g--gf---5",
-            "search_volpiano": "hfhkkjkjhhklkllkkklhgghhghfgfdfgfggffghhhkhhghggffhkkllkkjhllkjkjhjkhhfhkjkjhghghfgghgfghgfggf"
+            "volpiano": "1--c---d---c---b---cdec---ed-d---",
+            "search_volpiano": "cdcbcdecedd"
         },
         {
             "id": "003v3",
@@ -537,8 +537,8 @@ var data = {
             "mode": "7",
             "differentia": "C1",
             "full_text_standard": "Salve crux pretiosa suscipe",
-            "volpiano": "1---k---k--klk-k-hkh--k--kh---kl---jk--kj-klkl--lk---k---k--k--kjkj--kh---kl---jl-kj-klkjh-j--jh---5",
-            "search_volpiano": "kkklkkhkhkkhkljkkjklkllkkkkkjkjkhkljlkjklkjhjjh"
+            "volpiano": "1--dc---cd--efg-f---f---f---f--gh--g---",
+            "search_volpiano": "dccdefgffffghg"
         },
         {
             "id": "003v4",
@@ -553,8 +553,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Beatus Andreas orabat dicens",
-            "volpiano": "1---a--cd--df---fe-fgce--dc---d---f--fedc--d-df-gf-fe---defed-e--fd---f--ghg--h--g---f--fg---fgfd-fed--e-fd---df--d---df--d--d---f--f---fc--dc--c---cd---fe--fg--gf-fe---fg--g--gfd-fedc-dc---dfed--f--fefd-ed--cdfed-e--fd---5",
-            "search_volpiano": "acddffefgcedcdffedcddfgffedefedefdfghghgffgfgfdfedefddfddfddfffcdcccdfefggffefgggfdfedcdcdfedffefdedcdfedefd"
+            "volpiano": "1--l---l---lj---l---m---l---l---m---l---l---",
+            "search_volpiano": "llljlmllmll"
         },
         {
             "id": "003v5",
@@ -569,8 +569,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Andreas Christi famulus dignus",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--g---gk---h---g---h---g---f---fh---h---g---g---",
+            "search_volpiano": "ggkhghgffhhgg"
         }
     ],
     "4r": [
@@ -587,8 +587,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Maximilla Christo amabilis tulit",
-            "volpiano": "1---g--gf-fg---c--d--fg-hg--fg--g---k-k--k---l--kj--hkg-hg---f---g--h--hjkjh-j--jh---g--hkhg-ghg---g--gh---kg--hjhg---f---ghg-hgf--f-hj-kjh--jh---g---g---g-gfe--d--fg-hg---fg--g---gh---k-k--khkh--kjhg-hg--h--gh--g--g-fgh-kh-khg-hg---f---g--gh--hg--ghkhg---f---ghghgf-hgk--g---h---gf---gh---kl--kj-klk---k---kjklkj--hg--fg---ghkhj--hg---fh-h--fghgfd--f-fe---ghghgfd--fg---gh--khj--hg---5",
-            "search_volpiano": "ggffgcdfghgfggkkklkjhkghgfghhjkjhjjhghkhgghggghkghjhgfghghgffhjkjhjhggggfedfghgfggghkkkhkhkjhghghghggfghkhkhghgfgghhgghkhgfghghgfhgkghgfghklkjklkkkjklkjhgfgghkhjhgfhhfghgfdffeghghgfdfgghkhjhg"
+            "volpiano": "1--g---gc---h---hg---f---gh---h---g---g---j---",
+            "search_volpiano": "ggchhgfghhggj"
         },
         {
             "id": "004r2",
@@ -603,8 +603,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "Qui persequebantur justum",
-            "volpiano": "1---k---k--k--k---kj--klk-jkh-hg---h--kh--jk--hk--gh-jh--hg---g---hk--hg--h---g--g--g--hkjh-hjh---gf--hk-kg--hijhgf-hgk--g---4---gj---gf---5",
-            "search_volpiano": "kkkkkjklkjkhhghkhjkhkghjhhgghkhghggghkjhhjhgfhkkghijhgfhgkggjgf"
+            "volpiano": "1--g---g---gk---h---h---hg---f---gh---h---g---g---j---",
+            "search_volpiano": "gggkhhhgfghhggj"
         },
         {
             "id": "004r3",
@@ -619,8 +619,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Exsultet caelum laudibus",
-            "volpiano": "1---g---gf--gh---g--f---g--g--g---g--hk---g--h--gf--f---f---g--h---k--g---h---g---gfed---e--fg--g--g---4---k--k--j--k---h--g---5",
-            "search_volpiano": "ggfghgfgggghkghgfffghkghggfedefgggkkjkhg"
+            "volpiano": "1--g---g---j---k---l---jk---lm---l---",
+            "search_volpiano": "ggjkljklml"
         },
         {
             "id": "004r4",
@@ -635,8 +635,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Annunciaverunt opera dei",
-            "volpiano": "1---f--g--gklkjklkl--k---kj--h--jk---hg--g---g--g--g---fe--d---e--f--gh---h--g--fg--gfed---e--fg--g--g---4---k--k--j--k---h--g---5",
-            "search_volpiano": "fggklkjklklkkjhjkhgggggfedefghhgfggfedefgggkkjkhg"
+            "volpiano": "1--gh---kj---kl---lml---l---k---m---l---nm---l---",
+            "search_volpiano": "ghkjkllmllkmlnml"
         },
         {
             "id": "004r5",
@@ -651,8 +651,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "Concede nobis hominem justum",
-            "volpiano": "1---k--h---k--k--gk---h--gf--f---g---gf--f---g--h---k--l---lk---k--k---k---k--k---k---kl--j---kj--h---fg---g--g---hg--gh--f--f---4---jl-k--k--l--j---k--h---5",
-            "search_volpiano": "khkkgkhgffggffghkllkkkkkkkkljkjhfggghgghffjlkkljkh"
+            "volpiano": "1--d---d---fe---de---d---d---dc---h---g---hjh---h---",
+            "search_volpiano": "ddfededddchghjhh"
         },
         {
             "id": "004r6",
@@ -667,8 +667,8 @@ var data = {
             "mode": "1",
             "differentia": "D1",
             "full_text_standard": "Cum pervenisset beatus Andreas",
-            "volpiano": "1---lk-lm--l---l--j--lml--lk--k---h--k--k---hg---h--g---lm-no--n--mnmk---mn--ml--l---l---j--k--l--k---hk--lhg---hj--hj--g--g---4---l--l--m--l---k--jk---5",
-            "search_volpiano": "lklmlljlmllkkhkkhghglmnonmnmkmnmllljklkhklhghjhjggllmlkjk"
+            "volpiano": "1--d---d---dc---f---g---f---gh---h---h---h---hk---h---",
+            "search_volpiano": "dddcfgfghhhhhkh"
         }
     ],
     "4v": [
@@ -685,8 +685,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "In tua patientia possedisti",
-            "volpiano": "1---g--h---k--kl--l---kl--m--lk---l--l---l---h--l---j--k--hg--h---g--f--g-jl--hj---k--j--h--h---4---l--k--l--n---k--hk---5",
-            "search_volpiano": "ghkkllklmlklllhljkhghgfgjlhjkjhhlklnkhk"
+            "volpiano": "1--g---gkj---k---lklm---l---l---j---l---klmkj---ghjcg---hggf-",
+            "search_volpiano": "ggkjklklmlljlklmkjghjcghggf"
         },
         {
             "id": "004v2",
@@ -701,8 +701,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Lucia virgo quid a me petis",
-            "volpiano": "1---gd--f--f---gh--g---g---g---g--g--hg---f--gh--h---h---hkj--hg--g---g--gh--g---g---f--e--d---h--h--hg--g--gfd---e--fg--g--g---4---k--k--j--k---h--g---5",
-            "search_volpiano": "gdffghggggghgfghhhhkjhgggghggfedhhhgggfdefgggkkjkhg"
+            "volpiano": "1--lmnml--klkj---k---k---k--k--k---",
+            "search_volpiano": "lmnmlklkjkkkkk"
         },
         {
             "id": "004v3",
@@ -717,8 +717,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Sicut per me civitas",
-            "volpiano": "1---g---gf--gh---5",
-            "search_volpiano": "ggfgh"
+            "volpiano": "1--k---ghk---k---jkl---k---jh---khjkjhg---h-hg---hgf---fg---hjg-hg-",
+            "search_volpiano": "kghkkjklkjhkhjkjhghhghgffghjghg"
         },
         {
             "id": "004v4",
@@ -733,8 +733,8 @@ var data = {
             "mode": "3",
             "differentia": null,
             "full_text_standard": "Rogavi dominum meum Jesum",
-            "volpiano": "1---g--g--gkl--kj---",
-            "search_volpiano": "gggklkj"
+            "volpiano": "1--k---klk--hjkjhg---hg-k---k---k--jk--h--h---",
+            "search_volpiano": "kklkhjkjhghgkkkjkhh"
         }
     ],
     "5r": [
@@ -751,8 +751,8 @@ var data = {
             "mode": "3",
             "differentia": null,
             "full_text_standard": "Pro eo ut me diligerent",
-            "volpiano": "1---k--h---k--k--gk---5",
-            "search_volpiano": "khkkgk"
+            "volpiano": "1--ffg---",
+            "search_volpiano": "ffg"
         },
         {
             "id": "005r2",
@@ -767,8 +767,8 @@ var data = {
             "mode": "6",
             "differentia": null,
             "full_text_standard": "Grata facta est a domino",
-            "volpiano": "1---lj-jlml--l---5",
-            "search_volpiano": "ljjlmll"
+            "volpiano": "1--f---fg---f---f---f---ghf---fd---fgh---",
+            "search_volpiano": "ffgfffghffdfgh"
         },
         {
             "id": "005r3",
@@ -783,8 +783,8 @@ var data = {
             "mode": "6",
             "differentia": null,
             "full_text_standard": "Adiuvabit eam deus vultu",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--f--f--fgj--jhjhg---hg-hj--kl-k---k--kjh---h--ghg---",
+            "search_volpiano": "fffgjjhjhghghjklkkkjhhghg"
         },
         {
             "id": "005r4",
@@ -799,8 +799,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "Orante sancta Lucia apparuit",
-            "volpiano": "1---g---gk--hg--h---f--gh--g---f--g--h--g---hkl--lj--hg---j--h---g--fg--g---h--g---gf--fgh--fed---d--ef--gh--h---g--fg--gf-f---e--fg--g--g---5",
-            "search_volpiano": "ggkhghfghgfghghklljhgjhgfgghggffghfeddefghhgfggffefggg"
+            "volpiano": "1--g---ljlm---l---lm---l---k---klk---kjk---k---k---h---k---",
+            "search_volpiano": "gljlmllmlkklkkjkkkhk"
         },
         {
             "id": "005r5",
@@ -815,8 +815,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "Lucia virgo quid a me",
-            "volpiano": "1---e--fg--g---f--gh--hg---fg--g---f--g---hjh--h--g---f--gh--h---g--g---hkl--lh---h--k---l--jkhg--g---f--g---hjk---h--gf---gh--h--g---4---k--k--j--k---h--ghg---5",
-            "search_volpiano": "efggfghhgfggfghjhhgfghhgghkllhhkljkhggfghjkhgfghhgkkjkhghg"
+            "volpiano": "1--g---kj---k---lklm---l---l---j---l---",
+            "search_volpiano": "gkjklklmlljl"
         }
     ],
     "5v": [
@@ -833,8 +833,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Per te Lucia virgo civitas",
-            "volpiano": "1---e---f--g--e---fg---f--ed--d---h---g---f--gf--e---e---f---g--gf---d--c---d---fg--hg--d---e--e---4---h--g--h--k---g--e---5",
-            "search_volpiano": "efgefgfeddhgfgfeefggfdcdfghgdeehghkge"
+            "volpiano": "1--g---gk---h---hg---f---gh---g---j---k---l---",
+            "search_volpiano": "ggkhhgfghgjkl"
         },
         {
             "id": "005v2",
@@ -849,8 +849,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Benedico te pater domini",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--g---gd---e---fg---g---g---g---g---g---h---",
+            "search_volpiano": "ggdefggggggh"
         },
         {
             "id": "005v3",
@@ -865,8 +865,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Soror mea Lucia virgo",
-            "volpiano": "1---d---dc--f---g---fh--hg---f--g--gh---fe---d--cd--d---4---h--h--h--f---gh--g---5",
-            "search_volpiano": "ddcfgfhhgfgghfedcddhhhfghg"
+            "volpiano": "1--g---f---e---f---gh---h---g---g---g---",
+            "search_volpiano": "gfefghhggg"
         },
         {
             "id": "005v4",
@@ -881,8 +881,8 @@ var data = {
             "mode": "1",
             "differentia": "G1",
             "full_text_standard": "Columna es immobilis Lucia",
-            "volpiano": "1---g--h---k--kl--l---k--l--m---lk--l--l--l---hl---kj--hg---h---k--h--g---h---4---l--k--l--n--k--hk---5",
-            "search_volpiano": "ghkkllklmlklllhlkjhghkhghlklnkhk"
+            "volpiano": "1--d---f---fd---f---f---fgh---h---hghjh---h---hg---ef---",
+            "search_volpiano": "dffdfffghhhghjhhhgef"
         },
         {
             "id": "005v5",
@@ -897,8 +897,8 @@ var data = {
             "mode": "7",
             "differentia": "C1",
             "full_text_standard": "Tanto pondere eam fixit",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--l---l---l---l---j---l---m---l---l---",
+            "search_volpiano": "lllljlmll"
         },
         {
             "id": "005v6",
@@ -913,8 +913,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Quia vidisti me Thoma",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--e---d---f---h---h---g---e---gh---",
+            "search_volpiano": "edfhhgegh"
         }
     ],
     "6r": [
@@ -931,8 +931,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Beata Agnes in medio flammarum",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--g---gk---hgf---gh---g---j---jl---k---kj---hg---h---g---",
+            "search_volpiano": "ggkhgfghgjjlkkjhghg"
         },
         {
             "id": "006r2",
@@ -947,8 +947,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Regem virginum*",
-            "volpiano": "1---k--k--k---k--jh---j--j--kl---l--j--k--hg--h---k--k---5",
-            "search_volpiano": "kkkkjhjjklljkhghkk"
+            "volpiano": "1--g---gc---h---fg---g---kj---h---k---",
+            "search_volpiano": "ggchfggkjhk"
         },
         {
             "id": "006r3",
@@ -963,8 +963,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Virginum proles*",
-            "volpiano": "1---g---hk--k---k--k--k---k---k--k---j--h--j---j--kl---5",
-            "search_volpiano": "ghkkkkkkkkjhjjkl"
+            "volpiano": "1--l---l---l---l---l---l---j---l---m---",
+            "search_volpiano": "lllllljlm"
         },
         {
             "id": "006r4",
@@ -979,8 +979,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Discede a me pabulum",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--l---k---j---l---k---j---l---m---kl---l---g---",
+            "search_volpiano": "lkjlkjlmkllg"
         },
         {
             "id": "006r5",
@@ -995,8 +995,8 @@ var data = {
             "mode": "7",
             "differentia": "C1",
             "full_text_standard": "Dextram meam et collum meum",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--d---d---fgh---g---g---g---gh---g---gd---",
+            "search_volpiano": "ddfghgggghggd"
         },
         {
             "id": "006r6",
@@ -1011,8 +1011,8 @@ var data = {
             "mode": "7",
             "differentia": "C1",
             "full_text_standard": "Posuit signum in faciem meam",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--gk--k--kj--klkj---kjhg-hg-hj--j---j--j--j--jh--jk---",
+            "search_volpiano": "gkkkjklkjkjhghghjjjjjjhjk"
         }
     ],
     "6v": [
@@ -1029,8 +1029,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Specie tua et pulchritudine*",
-            "volpiano": "1---f---f--f--fe---e--f--fgf---g--e--f--dc--d---f--f---5",
-            "search_volpiano": "ffffeeffgfgefdcdff"
+            "volpiano": "1--f---h---hklk---k---k---k---l---",
+            "search_volpiano": "fhhklkkkkl"
         },
         {
             "id": "006v2",
@@ -1045,8 +1045,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Diem festum sacratissime",
-            "volpiano": "1---c--df---f--f---f--f--f--f---f--f---f--f---f--ed---ef--g---5",
-            "search_volpiano": "cdffffffffffffedefg"
+            "volpiano": "1--k--k--klk---hjh-kl--k---k---kh--hl--jk---",
+            "search_volpiano": "kkklkhjhklkkkhhljk"
         },
         {
             "id": "006v3",
@@ -1061,8 +1061,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Infantia quidem computabatur",
-            "volpiano": "1---k--k--k---k--k---k--k--k-kjhg-hj-kh---5",
-            "search_volpiano": "kkkkkkkkkjhghjkh"
+            "volpiano": "1--f---hf---h---ghjhg---hgf-gf-h---fhg---h---j---hgf---f---",
+            "search_volpiano": "fhfhghjhghgfgfhfhghjhgff"
         },
         {
             "id": "006v4",
@@ -1077,8 +1077,8 @@ var data = {
             "mode": "5",
             "differentia": null,
             "full_text_standard": "Dextram meam et collum",
-            "volpiano": "1---d--e--f---gf--d--dc---f--g--h--g---f--g--f---fg---ef--df--fc---ef---g--f--f---fe--dc---d--fe--d--d---4---h--h--hg--f---ef--e---5",
-            "search_volpiano": "defgfddcfghgfgffgefdffcefgfffedcdfeddhhhgfefe"
+            "volpiano": "1--ghjhg--fe--fgfe---f--f--f---f--ge---fg--fg--g--ghjh---",
+            "search_volpiano": "ghjhgfefgfeffffgefgfggghjh"
         }
     ],
     "7r": [
@@ -1095,8 +1095,8 @@ var data = {
             "mode": "5",
             "differentia": null,
             "full_text_standard": "Posuit signum in faciem",
-            "volpiano": "1---gj--j--kl--l---j--kl--l---m---o--l--ml--l---l---l--gh---j--hj--g--g---4---l--l--m--l---k--jh---5",
-            "search_volpiano": "gjjklljkllmolmllllghjhjggllmlkjh"
+            "volpiano": "1--l---j---l---m---l---kl---l---l---l---j---",
+            "search_volpiano": "ljlmlkllllj"
         },
         {
             "id": "007r2",
@@ -1111,8 +1111,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Amo Christum in cujus thalamum",
-            "volpiano": "1---d--d--dc---f--g--fh--h---h--j--h---g---g--fh--g---g--e---g---h--g--f---ef---g--f--e---fe--dc---d--fe--d--d---4---h--h--hg--f---gh--g---5",
-            "search_volpiano": "dddcfgfhhhjhggfhggeghgfefgfefedcdfeddhhhgfghg"
+            "volpiano": "1--f---gh---h---f---f---f---f---f---",
+            "search_volpiano": "fghhfffff"
         },
         {
             "id": "007r3",
@@ -1127,8 +1127,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Anulo fidei suae subarrhavit",
-            "volpiano": "1---h-g-h---k--kl--l---l---k--l--m--lk---l--l---h--l--j--k---hg--h---g---f--g---hij---k--ij--h--h---4---l--k--l--n---k--hk---5",
-            "search_volpiano": "hghkklllklmlkllhljkhghgfghijkijhhlklnkhk"
+            "volpiano": "1--f---fg---gf---defedc---f---g---ghjhg---hg---",
+            "search_volpiano": "ffggfdefedcfgghjhghg"
         },
         {
             "id": "007r4",
@@ -1143,8 +1143,8 @@ var data = {
             "mode": "7",
             "differentia": "C1",
             "full_text_standard": "Induit me dominus cyclade",
-            "volpiano": "1---d---g--f---f--c--d---d---f---f--f---c--c--c---fc---df--e--f--d---4---f--f--f--e---c--d---5",
-            "search_volpiano": "dgffcddfffcccfcdfefdfffecd"
+            "volpiano": "1--ffg---f---f---f---fefg---defedc---d-dc---c---d---fe---g---",
+            "search_volpiano": "ffgffffefgdefedcddccdfeg"
         }
     ],
     "7v": [
@@ -1161,8 +1161,8 @@ var data = {
             "mode": "1",
             "differentia": "G1",
             "full_text_standard": "Mel et lac ex ejus ore",
-            "volpiano": "1---k--kj--k-lk---k--kj--k-lk---k---hkj---h---h--h---hkj---h---hk--h---h--ghgf-g--gf---fgh--h--g--h---g--f--g--hg--h--hjh---g--g---4---k--k--h--k---l--k---5",
-            "search_volpiano": "kkjklkkkjklkkhkjhhhhkjhhkhhghgfggffghhghgfghghhjhggkkhklk"
+            "volpiano": "1--fgj--j--jhjhg---hg-hj--kl-k--k---kl--k---",
+            "search_volpiano": "fgjjjhjhghghjklkkklk"
         },
         {
             "id": "007v2",
@@ -1177,8 +1177,8 @@ var data = {
             "mode": "1",
             "differentia": "D2",
             "full_text_standard": "Ipsi soli servo fidem",
-            "volpiano": "1---g--h--k--kl---l---kl---m--lk--l--l--l---hl---j--k--hg--hg---f--g---h--k---h--h---4---l--k--l--n---k--hk---5",
-            "search_volpiano": "ghkkllklmlklllhljkhghgfghkhhlklnkhk"
+            "volpiano": "1--f---gh---hg---fgdc-ded-cd---ffg---f---ghg---hj-h---",
+            "search_volpiano": "fghhgfgdcdedcdffgfghghjh"
         },
         {
             "id": "007v3",
@@ -1193,8 +1193,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Adjuvabit eam deus*",
-            "volpiano": "1---g--h--k--k---k--lm--l---k--l--m--lk---l--l---l---h--l--j--k---hg--h---g---f--g---hj---k--j--h--h---4---l--k--l--n---k--hk---5",
-            "search_volpiano": "ghkkklmlklmlklllhljkhghgfghjkjhhlklnkhk"
+            "volpiano": "1--f--fg--jh---hg-hj--kl-k---k--kl--k---",
+            "search_volpiano": "ffgjhhghjklkkklk"
         },
         {
             "id": "007v4",
@@ -1209,8 +1209,8 @@ var data = {
             "mode": "6",
             "differentia": null,
             "full_text_standard": "Induit me dominus vestimento",
-            "volpiano": "1---g---h--kl--l---l--l--k---lm--l--lm---l--l---h--l--j---k--hg--hg---fg--h--k---h--h---4---l--k--l--n---k--hk---5",
-            "search_volpiano": "ghkllllklmllmllhljkhghgfghkhhlklnkhk"
+            "volpiano": "1--fgh---g---gh---h---hg---hjg-gf-hf---ghg---h---kjh---g---",
+            "search_volpiano": "fghgghhhghjggfhfghghkjhg"
         },
         {
             "id": "007v5",
@@ -1225,8 +1225,8 @@ var data = {
             "mode": "6",
             "differentia": null,
             "full_text_standard": "Tradidit auribus meis",
-            "volpiano": "1---dhk--h---hk--h--hghijh---h--g---f---g--d---fe---d--f---f--ghg---f--fe--d---g---fe--dc---d--gf--d--d---4---h--h--hg--f---gh--gh---5",
-            "search_volpiano": "dhkhhkhhghijhhgfgdfedffghgffedgfedcdgfddhhhgfghgh"
+            "volpiano": "1--gk--kj---klkj---kjhg-hg-hj--jh--kl--k---",
+            "search_volpiano": "gkkjklkjkjhghghjjhklk"
         },
         {
             "id": "007v6",
@@ -1241,8 +1241,8 @@ var data = {
             "mode": "6",
             "differentia": null,
             "full_text_standard": "Mel et lac ex ejus ore",
-            "volpiano": "1---kl--l---kl--m---lk--l--l---h--l---j--k---hg--hg---f--g--hj---kj--j--h--h---4---l--k--l--m---k--kl---5",
-            "search_volpiano": "kllklmlkllhljkhghgfghjkjjhhlklmkkl"
+            "volpiano": "1--d---d---c---d---f---e---d---c---d---f---fe---",
+            "search_volpiano": "ddcdfedcdffe"
         },
         {
             "id": "007v7",
@@ -1257,8 +1257,8 @@ var data = {
             "mode": "6",
             "differentia": null,
             "full_text_standard": "Ostendit mihi thesauros",
-            "volpiano": "1---g--h---k--kl--l---k--l--m--n---o---nm---l--l---nm---kl--n--m---l--j---kh---gh--j---hg--g--g---4---l--l--n--l---k--jh---5",
-            "search_volpiano": "ghkkllklmnonmllnmklnmljkhghjhgggllnlkjh"
+            "volpiano": "1--l---j---l---m---l---kl---k---",
+            "search_volpiano": "ljlmlklk"
         }
     ],
     "8r": [
@@ -1275,8 +1275,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Jam corpus ejus corpori meo",
-            "volpiano": "1---d-dc--dc--f-fe--efgfe-fed-fd---fhg",
-            "search_volpiano": "ddcdcffeefgfefedfdfhg"
+            "volpiano": "1--l---l---l---l---m---l---l---fgh--g---g---g--ghj--h--hg---hj-kghgf-",
+            "search_volpiano": "llllmllfghgggghjhhghjkghgf"
         },
         {
             "id": "008r2",
@@ -1291,8 +1291,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Ipsi sum desponsata",
-            "volpiano": "1---dhk--h---k--h--g--ghg---fe--fg--gf-fed---d---fgh--g---g--h--g--f---g--h---d--e---f--g--g---f--fe---dc--d--f-f---d---c---d--fe--d---4---h--h--hg--f---gh--gh---5",
-            "search_volpiano": "dhkhkhgghgfefggffeddfghgghgfghdefggffedcdffdcdfedhhhgfghgh"
+            "volpiano": "1--gk--k---kj--klkj---kjhg-hg-hj---j--j---j--jh---",
+            "search_volpiano": "gkkkjklkjkjhghghjjjjjh"
         },
         {
             "id": "008r3",
@@ -1307,8 +1307,8 @@ var data = {
             "mode": "2",
             "differentia": "D1",
             "full_text_standard": "Cujus pulchritudinem sol et luna",
-            "volpiano": "1---c---dfd--efgf-fd-fd---f--dfe--fg--g---dg-fe--cfd-fd---f---gh--gf--f---f---g--fec--fd-fdefe---c--df---efed--fg---g-fgh-kg-hg--egf-f--fe---5",
-            "search_volpiano": "cdfdefgffdfdfdfefggdgfecfdfdfghgfffgfecfdfdefecdfefedfggfghkghgegfffe"
+            "volpiano": "1--a---cde---d---d---d---f---f---fe---d---e---dc---",
+            "search_volpiano": "acdedddfffededc"
         },
         {
             "id": "008r4",
@@ -1323,8 +1323,8 @@ var data = {
             "mode": "7",
             "differentia": "C1",
             "full_text_standard": "Christus circumdedit me",
-            "volpiano": "1---e--fg---g---h",
-            "search_volpiano": "efggh"
+            "volpiano": "1--d---d--cd--efg-f--f---f--fe--fg---ef---",
+            "search_volpiano": "ddcdefgffffefgef"
         },
         {
             "id": "008r5",
@@ -1339,8 +1339,8 @@ var data = {
             "mode": "7",
             "differentia": "C1",
             "full_text_standard": "Ipsi sum desponsata ",
-            "volpiano": "1---def--c--dfd--ef-gf-f-f-dfd---f--gh---hg--gefed-e--ed---e--fg---ghg-gfe-f-fe---h--gkhg-hefe---ef--g--hghijh---f-fe--f--efed-dfef--ed---d--gh---g--hkhk--k--k--jh--h---hg-gf---gh---ghgfe--f-fe---f--f---f--f--efgfe--g---ghghgf---ef-gf-f--ed---ffff--dfe--fg---ghg---gf---g--hk--kg--hf---hge-fdg---hghjh--f---df--egfe--e---5",
-            "search_volpiano": "defcdfdefgfffdfdfghhggefedeedefgghggfeffehgkhghefeefghghijhffefefeddfefeddghghkhkkkjhhhggfghghgfeffeffffefgfegghghgfefgffedffffdfefgghggfghkkghfhgefdghghjhfdfegfee"
+            "volpiano": "1--l---l---m---l---l---m---l---jk---l---k---o---o---",
+            "search_volpiano": "llmllmljklkoo"
         },
         {
             "id": "008r6",
@@ -1355,8 +1355,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Elegit eam deus*",
-            "volpiano": "1---h--h--hkhg-hf-fe---dgf---g---gh--gh--ge--fg---gd---f--ed---df---f---gh--gf---ef--ed---f--ghg---gh--ge--fg--g---dfe--f---gh--gf--ef-gf--f-fe---f--df---efgfe--g---ghghgf--ef-gf-f--ed---5",
-            "search_volpiano": "hhhkhghffedgfgghghgefggdfeddffghgfefedfghgghgefggdfefghgfefgfffefdfefgfegghghgfefgffed"
+            "volpiano": "1--l---j---l---m---l---kl---l---l---m---l---",
+            "search_volpiano": "ljlmlklllml"
         },
         {
             "id": "008r7",
@@ -1371,8 +1371,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Ipsi sum desponsata",
-            "volpiano": "1---k--h---kl--k--j---k--j--hjh---f---g--j---j--j---j--j---jhjh-jlkjhg-hjhg---fgjgf--gf---k---lkl-n-no---n---n--no-onm-nmlk---klm--klk-k-hkh---kjkml---klmlk-l--lk---h---k--klk--k---k---hjhg--kl--kj-jhj--hg---f--h---kl--k---kj-jhj--hg---f---h--kl--k---k--kkk--kh---kl---jk--h--hgh-kk-kh-k-kjh-kg-hg-gf---f--gh---j-j--hjkjhg-hjhg---fghgf-g--gf---5",
-            "search_volpiano": "khklkjkjhjhfgjjjjjjhjhjlkjhghjhgfgjgfgfklklnnonnnoonmnmlkklmklkkhkhkjkmlklmlkllkhkklkkkhjhgklkjjhjhgfhklkkjjhjhgfhklkkkkkkhkljkhhghkkkhkkjhkghggffghjjhjkjhghjhgfghgfggf"
+            "volpiano": "1--l---l---l---l---j---l---m---l---kl---l---",
+            "search_volpiano": "lllljlmlkll"
         }
     ],
     "8v": [
@@ -1389,8 +1389,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Dextram meam et collum meum",
-            "volpiano": "1---k--k--klk-k-hkh---k--kh---kl---jk--kj-klkl--lk---k---k--k--kjkj--kh---kl---kj-klkjh-j--jh---5",
-            "search_volpiano": "kkklkkhkhkkhkljkkjklkllkkkkkjkjkhklkjklkjhjjh"
+            "volpiano": "1--g---gd---f---fg---g---g---g---g---g---h---k---q---",
+            "search_volpiano": "ggdffgggggghkq"
         },
         {
             "id": "008v2",
@@ -1405,8 +1405,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Omnipotens adorande colende",
-            "volpiano": "1---dc--fe--ffe--efgfe-fed-fd---fhg--gh---f---gh-hg---hijh---g--fg--ed---fe---dc-def--ed---d--defed-d--f--fghgfe-f--fe---e---ghghijh--ge--fgef---dcfce--cda---f-efg---ge--fdc-dfedc-d---defed-e--fd---5",
-            "search_volpiano": "dcfeffeefgfefedfdfhgghfghhghijhgfgedfedcdefedddefeddffghgfeffeeghghijhgefgefdcfcecdafefggefdcdfedcddefedefd"
+            "volpiano": "1--g---f---e---f---gh---g---f---h---k---q---p---k---q---",
+            "search_volpiano": "gfefghgfhkqpkq"
         },
         {
             "id": "008v3",
@@ -1421,8 +1421,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Te Confiteor labiis te corde",
-            "volpiano": "1---h--hghg-gf---g---g--gh--g--g---gh--g--g--hf--gh---gh---hjh--h---hghg---hg--fg-hg-hjh--hgfd-gh--gf---5",
-            "search_volpiano": "hhghggfggghggghgghfghghhjhhhghghgfghghjhhgfdghgf"
+            "volpiano": "1--d---ef---g---g---g---gh---g---g---fgh---fed---def---",
+            "search_volpiano": "defgggghggfghfeddef"
         }
     ],
     "9r": [
@@ -1439,8 +1439,8 @@ var data = {
             "mode": "7",
             "differentia": "C1",
             "full_text_standard": "Ingressa Agnes turpitudinis locum",
-            "volpiano": "1---f--f---f---f--ed",
-            "search_volpiano": "ffffed"
+            "volpiano": "1--d---f---d---dc---fgh---h---h---h---h---h---h---hg---hjhg-",
+            "search_volpiano": "dfddcfghhhhhhhhghjhg"
         },
         {
             "id": "009r2",
@@ -1455,8 +1455,8 @@ var data = {
             "mode": "7",
             "differentia": "C1",
             "full_text_standard": "Mecum enim habeo custodem",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--g---g---j---k---lkml---l---lm---ml---k---l---k---",
+            "search_volpiano": "ggjklkmlllmmlklk"
         },
         {
             "id": "009r3",
@@ -1471,8 +1471,8 @@ var data = {
             "mode": "7",
             "differentia": "C1",
             "full_text_standard": "Anulo suo subharravit me",
-            "volpiano": "1---hk--gh--g---f--g--h--hkhg-fhkhg-hefd---f--f---fgfe-fed-dfef--ed---dfghg--g--g---hg--gf--f---fgh--h--hgjhg-h-jhg---f--f-gf---f---h---hklkjh--h--h-ghk-k-gkhg-fhgh-fhkgf-f-ded---f---f---fe--f-gf---e--fg--gf-fe--f--fefde--fd---5",
-            "search_volpiano": "hkghgfghhkhgfhkhghefdfffgfefeddfefeddfghggghggfffghhhgjhghjhgffgffhhklkjhhhghkkgkhgfhghfhkgffdedfffefgfefggffeffefdefd"
+            "volpiano": "1--cd---d---defd---edc-d---fe---fgfe---e---g---gh---hjgh---fefg---fed---defdedc---",
+            "search_volpiano": "cdddefdedcdfefgfeegghhjghfefgfeddefdedc"
         },
         {
             "id": "009r4",
@@ -1487,8 +1487,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Benedico te pater domini mei",
-            "volpiano": "1---h--hghg-gf---g--hf--gh--gh--h--hjh--h",
-            "search_volpiano": "hhghggfghfghghhhjhh"
+            "volpiano": "1--d---dc---f---g---fgh---h---j-flhth---g---",
+            "search_volpiano": "ddcfgfghhjflhthg"
         },
         {
             "id": "009r5",
@@ -1503,8 +1503,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Congaudete mecum et congratulamini",
-            "volpiano": "1---k--h---kl--k--j---k--j--hjh--hj--k--j---jh--g---j--jkj---jg-jfg--fe-fgfg--gf---k--lkl--n-non--n---no---onm-nmlk---k--klk-khijh---k---lkl-n-nomnlk-khg-h--h--hkhg-hjhg---fghgf-g--gf---5",
-            "search_volpiano": "khklkjkjhjhhjkjjhgjjkjjgjfgfefgfggfklklnnonnnoonmnmlkkklkkhijhklklnnomnlkkhghhhkhghjhgfghgfggf"
+            "volpiano": "1--defd---d---d---c---d---f---dfc---c---f---f---",
+            "search_volpiano": "defdddcdfdfccff"
         },
         {
             "id": "009r6",
@@ -1519,8 +1519,8 @@ var data = {
             "mode": "1",
             "differentia": "G1",
             "full_text_standard": "Ecce quod concupivi jam video",
-            "volpiano": "1---k--klk-hjh---k--kh--kl",
-            "search_volpiano": "kklkhjhkkhkl"
+            "volpiano": "1--d---fd---f---efgfe---fed-ed-f---dfe---f---g---fd---",
+            "search_volpiano": "dfdfefgfefededfdfefgfd"
         },
         {
             "id": "009r7",
@@ -1535,8 +1535,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Ingressa Agnes*",
-            "volpiano": "1---d--d---fgh--g---g--g--gh--g---h--gf--fe---fdefedc-d---fgh--g---g--g--h--gf---fhkjklk---k-kjh--k-jklkjh-jkjh---g--ghkhg-h--hg---klk---kh---klk--kl--lj-klhj--hg---f--hkh--hg--k---k---kjkjhg--hghg-g--gf---f--gh--h---h--ghge---gf--fgh--fe--dfc-dfdfed---d---d--fgh--g--gh-kh-jh-hg---h---k--kjkjh-j-k--k---jklkjh-jkjh---ghkhg-h--hg---5",
-            "search_volpiano": "ddfghgggghghgffefdefedcdfghggghgffhkjklkkkjhkjklkjhjkjhgghkhghhgklkkhklkklljklhjhgfhkhhgkkkjkjhghghgggffghhhghgegffghfedfcdfdfedddfghgghkhjhhghkkjkjhjkkjklkjhjkjhghkhghhg"
+            "volpiano": "1--g---",
+            "search_volpiano": "g"
         }
     ],
     "9v": [
@@ -1553,8 +1553,8 @@ var data = {
             "mode": "1",
             "differentia": "G1",
             "full_text_standard": "Stans beata Agnes in medio flamme",
-            "volpiano": "1---kj--klk-jkh-hg---hk---kh--jk--hk---h--hj-kh-hg---g---f--g---g---g--g---g--g--hkhg-hjh---gjf---ghg--hkjklkjh--hkhg-hg---5",
-            "search_volpiano": "kjklkjkhhghkkhjkhkhhjkhhggfgggggghkhghjhgjfghghkjklkjhhkhghg"
+            "volpiano": "1--gf---dc---",
+            "search_volpiano": "gfdc"
         },
         {
             "id": "009v2",
@@ -1569,8 +1569,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Doctor egregie*",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--e---e---g---gh---h---gh---j---g---h---h---h---",
+            "search_volpiano": "eegghhghjghhh"
         },
         {
             "id": "009v3",
@@ -1585,8 +1585,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Tu es vas electionis*",
-            "volpiano": "1---gl---l--l--l--l--l---n--l---kl--l---j--l--k---l--kj--h---j---k--jh---g--g---lml---lk--l--lo--ol--l---l--l--n--lk---lk--kjk---k--kj---h--jk--hg---hg---f---gh--h--g--g---4---l--l--m--l---lk--l---5",
-            "search_volpiano": "gllllllnlklljlklkjhjkjhgglmllklloollllnlklkkjkkkjhjkhghgfghhggllmllkl"
+            "volpiano": "1--d---e---g---g---gj---h---h---gh---jg---gj---",
+            "search_volpiano": "degggjhhghjggj"
         },
         {
             "id": "009v4",
@@ -1601,8 +1601,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "Vade Anania et quaere Saulum",
-            "volpiano": "1---g--gefd-efed--cd--fghgf-gjk-hjh-hg---f--h--kj---g--g-hg--g---fe---g--hg--fg---ghkhg-h--gh-jh---gf---g--h--kj--klhk--hg---k--k---k--k---lk-kl--h--hfh---hkg--gf-ghgh--hg---k--lk-khkh---hklkj-klkl--lk---h--h--ghgf-g--gf---h---khjkjh--h---hj-kh--h---jkj-k--kg---gk---k--lmk---k---kljk--kj---g--g---hk---k--kjh--h---hgh--fghgf-g--gf---hg--ghg--h---hkhg--hf-ghkjh-jkjh---g--ghkhg-h---hg---5",
-            "search_volpiano": "ggefdefedcdfghgfgjkhjhhgfhkjgghggfeghgfgghkhghghjhgfghkjklhkhgkkkklkklhhfhhkggfghghhgklkkhkhhklkjklkllkhhghgfggfhkhjkjhhhjkhhjkjkkggkklmkkkljkkjgghkkkjhhhghfghgfggfhgghghhkhghfghkjhjkjhgghkhghhg"
+            "volpiano": "1--d---e---gh---h---g---f---gh---gfe---e---",
+            "search_volpiano": "deghhgfghgfee"
         },
         {
             "id": "009v5",
@@ -1617,8 +1617,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Laudemus deum nostrum in conversione",
-            "volpiano": "1---kj--klk-jkj-jh---hk---jh--jk--hk---g--gh-jh-hg---g---f--g---g---g--g---g--g--hkhg-hjh---gj---gj--hkj-klkjh--hkhg-hg---hg--ghg---5",
-            "search_volpiano": "kjklkjkjjhhkjhjkhkgghjhhggfgggggghkhghjhgjgjhkjklkjhhkhghghgghg"
+            "volpiano": "1--fh---kl---k---kl---k---k---kjh---j---jhg---h-hg---",
+            "search_volpiano": "fhklkklkkkjhjjhghhg"
         },
         {
             "id": "009v6",
@@ -1633,8 +1633,8 @@ var data = {
             "mode": "1",
             "differentia": "F1",
             "full_text_standard": "Stans ad dextris eius Agnus ",
-            "volpiano": "1---ed--g--hj--jh--ghgf-fe---fg-hghj--h--h---fef---de--gh--gjhj--jh---g---kgh-k-kljk--kj---h---g--g--g-gfgfd-fed-fd---f---h-fgh--hkgf-ghg--egef--fe---ef---g--f--gef---fe---eg-gef--ed--d---h--k--jh---h--k---khk--ljlhg-khg-hjh---gf--g--hk--k-kjh--kl---kh-jhj-hg---fgh-hg---gef--f---efed-f--de-fef---d--e---ghk--hghjh---g--g---k-k-khg-kghk--h---hkjg-h-fgh-kghg--egeg--fe---5",
-            "search_volpiano": "edghjjhghgffefghghjhhfefdeghgjhjjhgkghkkljkkjhggggfgfdfedfdfhfghhkgfghgegeffeefgfgeffeeggefeddhkjhhkkhkljlhgkhghjhgfghkkkjhklkhjhjhgfghhggeffefedfdefefdeghkhghjhggkkkhgkghkhhkjghfghkghgegegfe"
+            "volpiano": "1--gk--k--kj--klkj---kjhg-hg-hj--jh--kl--k---jh--jk--hj---",
+            "search_volpiano": "gkkkjklkjkjhghghjjhklkjhjkhj"
         },
         {
             "id": "009v7",
@@ -1649,8 +1649,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "O admirabile*",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--f---fgf---ff-ded-f---ef---g---g---hghj---h---",
+            "search_volpiano": "ffgfffdedfefgghghjh"
         },
         {
             "id": "009v8",
@@ -1665,8 +1665,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Ave maris stella*",
-            "volpiano": "1---df-fec-df---egfg--ef-f---dg--h--g--gfh---hjkjhg-h--hg---g---gh--hghg--g---e--fg--gfgfe-fed--fd---f--gh---hkg--gfg---gd-fgh--egf--f-fe---5",
-            "search_volpiano": "dffecdfegfgeffdghggfhhjkjhghhggghhghggefggfgfefedfdfghhkggfggdfghegfffe"
+            "volpiano": "1--k--k--klkk--hjkjhg---hg-hg---h--k---j--jlk--kj---a---a---cde---d---d---d---f---fef---de---dc---",
+            "search_volpiano": "kkklkkhjkjhghghghkjjlkkjaacdedddffefdedc"
         },
         {
             "id": "009v9",
@@ -1681,8 +1681,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Responsum accepit Simeon*",
-            "volpiano": "1---h--gf---ghghge-fe---g--g---gh--g---gf--gh---gf---ef-gf--fe---efgfe--g--ghghgf---ef-gef--ed---5",
-            "search_volpiano": "hgfghghgefeggghggfghgfefgffeefgfegghghgfefgefed"
+            "volpiano": "1--d--d---cd--efg-f---f--gh--g---f---",
+            "search_volpiano": "ddcdefgffghgf"
         },
         {
             "id": "009v10",
@@ -1697,8 +1697,8 @@ var data = {
             "mode": "1",
             "differentia": "*",
             "full_text_standard": "Senex puerum portabat puer",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--lj--l--m---l--l---l---m--l--jk--l--k---g--g---",
+            "search_volpiano": "ljlmlllmljklkgg"
         }
     ],
     "10r": [
@@ -1715,8 +1715,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Ecce venit ad templum sanctum",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--l---j---l---m---l---l---l---j---kl---k---g---g---",
+            "search_volpiano": "ljlmllljklkgg"
         },
         {
             "id": "010r2",
@@ -1731,8 +1731,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Quem terra*",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--lj---l---m---l---kl---l---lq---k---q---",
+            "search_volpiano": "ljlmlklllqkq"
         },
         {
             "id": "010r3",
@@ -1747,8 +1747,8 @@ var data = {
             "mode": "4",
             "differentia": "F1",
             "full_text_standard": "Benedicta tu in mulieribus",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--g--gh--jk-qpq-po---klkj--klk-lm-l---l---lkjh--jklkjh--jkjh-ghjhg--h-hg---",
+            "search_volpiano": "gghjkqpqpoklkjklklmlllkjhjklkjhjkjhghjhghhg"
         },
         {
             "id": "010r4",
@@ -1763,8 +1763,8 @@ var data = {
             "mode": "4",
             "differentia": "F1",
             "full_text_standard": "Sicut myrrha electa odorem",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--l--lmnml--klkj---k--k--k---k l--k--k---",
+            "search_volpiano": "llmnmlklkjkkkklkk"
         },
         {
             "id": "010r5",
@@ -1779,8 +1779,8 @@ var data = {
             "mode": "4",
             "differentia": "F1",
             "full_text_standard": "Ante torum hujus virginis",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--d---ffg---f---f---hjk---gf---fgfdc-fghg-gf-f---ff---dc---",
+            "search_volpiano": "dffgffhjkgffgfdcfghggffffdc"
         },
         {
             "id": "010r6",
@@ -1795,8 +1795,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Adorna thalamum tuum Sion",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--f---f--fgj--j--jhjhg---hg-hj--kl-k--k---dfgf---fd---f---gh---hg---f---gh---h---",
+            "search_volpiano": "fffgjjjhjhghghjklkkdfgffdfghhgfghh"
         }
     ],
     "10v": [
@@ -1813,8 +1813,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Induere vestimentis gloriae tuae",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--dh--h--h--hghg---gf-g--hf--gh---gh---h--hjh--h---",
+            "search_volpiano": "dhhhhghggfghfghghhhjhh"
         },
         {
             "id": "010v2",
@@ -1829,8 +1829,8 @@ var data = {
             "mode": "3",
             "differentia": null,
             "full_text_standard": "Postquam impleti sunt dies",
-            "volpiano": "1---d--c---d---ef--g--fe---5",
-            "search_volpiano": "dcdefgfe"
+            "volpiano": "1--e---d---e---g---g---gj---h---gh---jg---h---h---h---",
+            "search_volpiano": "edegggjhghjghhh"
         },
         {
             "id": "010v3",
@@ -1845,8 +1845,8 @@ var data = {
             "mode": "3",
             "differentia": null,
             "full_text_standard": "Obtulerunt pro eo domino",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--d---e---g---g---g---j---h---gh---jg---h---h---",
+            "search_volpiano": "degggjhghjghh"
         },
         {
             "id": "010v4",
@@ -1861,8 +1861,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Obtulerunt pro eo domino",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--e---d---e---gh---h---h---g---h---j---g---",
+            "search_volpiano": "edeghhhghjg"
         },
         {
             "id": "010v5",
@@ -1877,8 +1877,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Postquam autem impleti sunt",
-            "volpiano": "1---g--g---gk--k--k---k--k---5",
-            "search_volpiano": "gggkkkkk"
+            "volpiano": "1--c---ffg---f---f---fg---f---f---f---f---",
+            "search_volpiano": "cffgfffgffff"
         }
     ],
     "11r": [
@@ -1895,8 +1895,8 @@ var data = {
             "mode": "7",
             "differentia": "C1",
             "full_text_standard": "Specie tua et pulchritudine tua",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--f---f--fgj--j--jhjhg---hg-hj--kl-k--k---",
+            "search_volpiano": "fffgjjjhjhghghjklkk"
         },
         {
             "id": "011r2",
@@ -1911,8 +1911,8 @@ var data = {
             "mode": "7",
             "differentia": "C1",
             "full_text_standard": "Adjuvabit eam deus vultu suo",
-            "volpiano": "1---g--gk--hg---h---f--gh--gh---gf---g--h--kl--klk---h--k--k--hg--h---g---g---g---gh--fe---d---ef--gh---h---g--fg--gfd---e--fg--g--g---4---k--k--j--k---h--g---5",
-            "search_volpiano": "ggkhghfghghgfghklklkhkkhghgggghfedefghhgfggfdefgggkkjkhg"
+            "volpiano": "1--k---k---lm---mnm---ml---mnon---mnmlk---lk-k---l---",
+            "search_volpiano": "kklmmnmmlmnonmnmlklkkl"
         },
         {
             "id": "011r3",
@@ -1927,8 +1927,8 @@ var data = {
             "mode": "7",
             "differentia": "C1",
             "full_text_standard": "Sicut laetantium omnium",
-            "volpiano": "1---g---j--k---l--m--l---m--k--l--kj---g--g--g---h---k---l--k---hk--k---j--klk---h---hg--g--fg--g---4---l--l--m--l---k--jh---5",
-            "search_volpiano": "gjklmlmklkjggghklkhkkjklkhhggfggllmlkjh"
+            "volpiano": "1--kl--k--kln--n---m--lo--o--o---o--m--n---",
+            "search_volpiano": "klkklnnmloooomn"
         },
         {
             "id": "011r4",
@@ -1943,8 +1943,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Adjuvabit eam deus*",
-            "volpiano": "1---g--h---k---k--lm--l---kl--m--lk---l--l---l---h--l---j--k--h---hg--h---g--f--g--h--k---h--h---4---l--k--l--n---k--hk---5",
-            "search_volpiano": "ghkklmlklmlklllhljkhhghgfghkhhlklnkhk"
+            "volpiano": "1--kl--k--k---kl--mn-n---m---lop--o--o---",
+            "search_volpiano": "klkkklmnnmlopoo"
         },
         {
             "id": "011r5",
@@ -1959,8 +1959,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Simeon justus et timoratus",
-            "volpiano": "1---g--h---k---k--k--lm--l---k--l--m-lk---l--l--l---l---hl--j--k---h--hg---fg---h---k--h--gh---h---4---l--k--l--n---k--hk---5",
-            "search_volpiano": "ghkkklmlklmlkllllhljkhhgfghkhghhlklnkhk"
+            "volpiano": "1--g---g---gk---hk---j---h---g---g---hj---j---",
+            "search_volpiano": "gggkhkjhgghjj"
         },
         {
             "id": "011r6",
@@ -1975,8 +1975,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Responsum accepit Simeon",
-            "volpiano": "1---f---g--g--f---h---k--k--k-k---l--kl--h---g--h---ghg--g--f---gh--gh---e--fg--g---k--g--g---h--g---f--f---4---k--k--l--j---k--hg---5",
-            "search_volpiano": "fggfhkkkklklhghghggfghghefggkgghgffkkljkhg"
+            "volpiano": "1--g---g---g---j---l---k---h---k---k---",
+            "search_volpiano": "gggjlkhkk"
         },
         {
             "id": "011r7",
@@ -1991,8 +1991,8 @@ var data = {
             "mode": "6",
             "differentia": null,
             "full_text_standard": "Responsum accepat Simeon",
-            "volpiano": "1---g--j---kl--l---lmkj--h--k---kj--g---k---j--k--h--g---g--g---g---gh--fd---ef--ghg--h---g--g---4---l--l--m--l---k--jh---5",
-            "search_volpiano": "gjklllmkjhkkjgkjkhggggghfdefghghggllmlkjh"
+            "volpiano": "1--g---g---g---k---h---k---j---g---h---h---h---j---h---g---",
+            "search_volpiano": "gggkhkjghhhjhg"
         }
     ],
     "11v": [
@@ -2009,8 +2009,8 @@ var data = {
             "mode": "6",
             "differentia": null,
             "full_text_standard": "Cum inducerent puerum",
-            "volpiano": "1---kl--l---kl--mk--l--l--l---h---l--j--k---h--h---hg--hg---f---g--h--ij---k---ij---h---4---l--k--l--n---k--kl---5",
-            "search_volpiano": "kllklmklllhljkhhhghgfghijkijhlklnkkl"
+            "volpiano": "1--g---g---j---l---j---lm---kj---k---j---",
+            "search_volpiano": "ggjljlmkjkj"
         },
         {
             "id": "011v2",
@@ -2025,8 +2025,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Cum inducerent puerum",
-            "volpiano": "1---l---lj---lm---l--kl--k---g---k--k--k---j---k--h--g--g---g---g--g---fgh--fe--d---ef--gh--h---g--g---4---l--l--m--l---l--jl---5",
-            "search_volpiano": "lljlmlklkgkkkjkhgggggfghfedefghhggllmlljl"
+            "volpiano": "1--g---g---k---jg---jk---h---g---h---g---f---",
+            "search_volpiano": "ggkjgjkhghgf"
         },
         {
             "id": "011v3",
@@ -2041,8 +2041,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Suscipiens puerum in manibus",
-            "volpiano": "1---g---h---k---lm--l---k--l---mk---l--l---l---h--l---j---k---hg--h---g--f--g--h--k---h--gh--h---4---l--k--l--n---k--hk---5",
-            "search_volpiano": "ghklmlklmklllhljkhghgfghkhghhlklnkhk"
+            "volpiano": "1--d---d---f---gj---j---j---h---g---fh---g---",
+            "search_volpiano": "ddfgjjjhgfhg"
         }
     ],
     "12r": [
@@ -2059,8 +2059,8 @@ var data = {
             "mode": "4",
             "differentia": "E2",
             "full_text_standard": "Gaude Maria virgo cunctas haereses",
-            "volpiano": "1---h--j--k---l--m--l---lml--k--h---k--k---lk--kj---hk--k---k---klk--h--h---g--g---4---l--l--m--l---k--j---5",
-            "search_volpiano": "hjklmllmlkhkklkkjhkkkklkhhggllmlkj"
+            "volpiano": "1--f---fg---g---hjk---k---hjh---g---h---hjh---g---g---",
+            "search_volpiano": "ffgghjkkhjhghhjhgg"
         },
         {
             "id": "012r2",
@@ -2075,8 +2075,8 @@ var data = {
             "mode": "4",
             "differentia": "E2",
             "full_text_standard": "Speciosa facta es et suavis",
-            "volpiano": "1---h--j--k---l--l---l--m--l--k--k---l---lk--lm---l--k--j--ghg---f--h---k---k--l---k--k--gh---f---h--kj--j--h---g--g---4---l--l--m--l---k--j---5",
-            "search_volpiano": "hjklllmlkkllklmlkjghgfhkklkkghfhkjjhggllmlkj"
+            "volpiano": "1--f---d---f---ed---ef---g---f---e---",
+            "search_volpiano": "fdfedefgfe"
         },
         {
             "id": "012r3",
@@ -2091,8 +2091,8 @@ var data = {
             "mode": "4",
             "differentia": "E2",
             "full_text_standard": "Post partum virgo inviolata",
-            "volpiano": "1---d--c--d---ef--g--fe---d--d---f---h--g--h--gf--f---f---f--g--hg--e---fg--e--f---d--cd--d---4---h--h--hg--f---gh--g---5",
-            "search_volpiano": "dcdefgfeddfhghgffffghgefgefdcddhhhgfghg"
+            "volpiano": "1--g---ljlm---l---l---lml---l---l---l---m---l---k---l---k---j---",
+            "search_volpiano": "gljlmlllmllllmlklkj"
         },
         {
             "id": "012r4",
@@ -2107,8 +2107,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Elegit eam deus et praeelegit",
-            "volpiano": "1---k--h---kl--k--hjh---5",
-            "search_volpiano": "khklkhjh"
+            "volpiano": "1--k---k---k---k---k---j---h---k---j---g---",
+            "search_volpiano": "kkkkkjhkjg"
         },
         {
             "id": "012r5",
@@ -2123,8 +2123,8 @@ var data = {
             "mode": "6",
             "differentia": null,
             "full_text_standard": "Suscipiens Jesum in ulnas",
-            "volpiano": "1---d--e---fg---g---g---gf--fg--g---g--gfghg---f--gh---hjh---f---ghg--hjh---f--g---j--h---gf--g--f--fe---gf--fe---df--fc---ef---g--fe--d--c--ef---gf--fe---d--d---4---h--h--hg--f---gh--g---5",
-            "search_volpiano": "defggggffggggfghgfghhjhfghghjhfgjhgfgffegffedffcefgfedcefgffeddhhhgfghg"
+            "volpiano": "1--f---h---g---hj---gh---f---h---gh---f---f---e---f---h---",
+            "search_volpiano": "fhghjghfhghffefh"
         },
         {
             "id": "012r6",
@@ -2139,8 +2139,8 @@ var data = {
             "mode": "6",
             "differentia": null,
             "full_text_standard": "Cum inducerent puerum",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--g---gkj---k---l---k---j---l---k---l---k---j---",
+            "search_volpiano": "ggkjklkjlklkj"
         }
     ],
     "12v": [
@@ -2157,8 +2157,8 @@ var data = {
             "mode": "6",
             "differentia": null,
             "full_text_standard": "Gaude Maria virgo cunctas",
-            "volpiano": "1---f-fe--df--ef---5",
-            "search_volpiano": "ffedfef"
+            "volpiano": "1--lmnml--klkj---k--k---k l--k--k---k--k--k---",
+            "search_volpiano": "lmnmlklkjkkklkkkkk"
         },
         {
             "id": "012v2",
@@ -2173,8 +2173,8 @@ var data = {
             "mode": "6S",
             "differentia": null,
             "full_text_standard": "Gabrielem archangelum",
-            "volpiano": "1---hghgf--hjhg-hj--h---f--g--gh-jh--gf---fg--gefed--dfd-dc---dfefgf--d---c--bc-dcd---d--defed-e--fd---hjkjg---h---klm--l---k--m--nm---l--kl--lml-l-hkh---h---klm--l---l---l--l--lm--k---k---h---k--h--ghg---h--hg-hkhg---fghjhf-ghj--hg---h-fgh---ghfg--fgefd---f---f--f--dfd-dc---fgh--kghfgfe--fe--defede--fd---5",
-            "search_volpiano": "hghgfhjhghjhfgghjhgffggefeddfddcdfefgfdcbcdcdddefedefdhjkjghklmlkmnmlkllmllhkhhklmlllllmkkhkhghghhghkhgfghjhfghjhghfghghfgfgefdfffdfddcfghkghfgfefedefedefd"
+            "volpiano": "1--fgh---g---g---g---gh---g---g---g---g---ghj---h---hg---hjkg-hg-gf-",
+            "search_volpiano": "fghgggghggggghjhhghjkghggf"
         },
         {
             "id": "012v3",
@@ -2189,8 +2189,8 @@ var data = {
             "mode": "6S",
             "differentia": null,
             "full_text_standard": "Gloria patri et filio",
-            "volpiano": "1---h--hghg-gf---g--hf--gh--gh---4---hkjg---h---5",
-            "search_volpiano": "hhghggfghfghghhkjgh"
+            "volpiano": "1--gk--k--k--kj--klkj---kjhg-hg-jh--jk---hj--g--ghjh--hg---",
+            "search_volpiano": "gkkkkjklkjkjhghgjhjkhjgghjhhg"
         },
         {
             "id": "012v4",
@@ -2205,8 +2205,8 @@ var data = {
             "mode": "3",
             "differentia": "A1",
             "full_text_standard": "Simeon justus et timoratus",
-            "volpiano": "1---hk--jkl--l---mo--n--lml---k-k--k---lnlk-ln--l---g---jg-hk---l--kl--lkj-kjh-kh---k--k--jkhj--hg-gh---e--f--fe-hkh-hg---l---mk--l--ln---ml--lmnmlk-lkj-lj---j--lh---j---l--m--l--lmnmlk-lkj-lj---j-l-lkh--lk-kj---l--mn--m--mnml-lnmn--ml---ln---n--npo--n--n-n--n-npo--o---n---p-po--pn--noponm-nml-nl---nm--n--opqp--o---opqp--o---kln---o---no--onm-nml-nl---lk---klk-k--k-k---lnlk-ln---l-kl-klkl-nmnlj-kh-hg---hj---kk-khk--jkmlj-kh--gkh-hg--g---5",
-            "search_volpiano": "hkjkllmonlmlkkklnlklnlgjghklkllkjkjhkhkkjkhjhggheffehkhhglmkllnmllmnmlklkjljjlhjlmllmnmlklkjljjllkhlkkjlmnmmnmllnmnmllnnnponnnnnpoonppopnnoponmnmlnlnmnopqpoopqpoklnonoonmnmlnllkklkkkklnlklnlklklklnmnljkhhghjkkkhkjkmljkhgkhhgg"
+            "volpiano": "1--fgh---g---g---g---g---g---ghj---h---hg---hjgf-",
+            "search_volpiano": "fghgggggghjhhghjgf"
         },
         {
             "id": "012v5",
@@ -2221,8 +2221,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "Responsum accepit Simeon",
-            "volpiano": "1---lmnml--klk-kj---k---lk--kl--kl---5",
-            "search_volpiano": "lmnmlklkkjklkklkl"
+            "volpiano": "1--gk---k---kj--klkj---kjhg-hg-hj--jh--jk--hj---g--ghjh---",
+            "search_volpiano": "gkkkjklkjkjhghghjjhjkhjgghjh"
         }
     ],
     "13r": [
@@ -2239,8 +2239,8 @@ var data = {
             "mode": "3",
             "differentia": "A1",
             "full_text_standard": "Accipiens Simeon puerum in manibus",
-            "volpiano": "1---f---f--fgj--j---j---j--hg--gj---gf---fgj---j--jgjgf--gf---fgj---j---jh-hgh--hg---gjhj--hg---g---j--j--hg---jhg-jgf-g---gf---fd--f--gj---h-hj--f---jeg-j-jkj-jh---j--jh-hg--j---jg-jgf-g--gf---5",
-            "search_volpiano": "fffgjjjjhggjgffgjjjgjgfgffgjjjhhghhggjhjhggjjhgjhgjgfggffdfgjhhjfjegjjkjjhjjhhgjjgjgfggf"
+            "volpiano": "1--gk---h---h---g---f---gh---g---g---ljk---lm-l---",
+            "search_volpiano": "gkhhgfghggljklml"
         },
         {
             "id": "013r2",
@@ -2255,8 +2255,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "Revertere in terram Juda",
-            "volpiano": "1---fgj---jj--jhjhg-hg---hj-kl--k--k---kj--j--hj---fg-hg--gf---f--df---fg--f---f--f--ghf--gf---fgh--hghjhg--ghgf-gf---4---fd---5",
-            "search_volpiano": "fgjjjjhjhghghjklkkkjjhjfghggffdffgfffghfgffghhghjhgghgfgffd"
+            "volpiano": "1--g---gk---h---gf---fh---h---g---j---k---l---k---",
+            "search_volpiano": "ggkhgffhhgjklk"
         },
         {
             "id": "013r3",
@@ -2271,8 +2271,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Obtulerunt pro eo domino",
-            "volpiano": "1---f--f---f---f---5",
-            "search_volpiano": "ffff"
+            "volpiano": "1--l---k---j---k---lm---lk---k---k---kj---h---kl---l---",
+            "search_volpiano": "lkjklmlkkkkjhkll"
         },
         {
             "id": "013r4",
@@ -2287,8 +2287,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "O gloriosa domina*",
-            "volpiano": "1---cdf--f--fdc-d---5",
-            "search_volpiano": "cdfffdcd"
+            "volpiano": "1--f---hf---f---efgfe---fed-ed-f---dfe---*---f---ffhgf---ghg-e---egff---fe---",
+            "search_volpiano": "fhffefgfefededfdfefffhgfghgeegfffe"
         },
         {
             "id": "013r5",
@@ -2303,8 +2303,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Diffusa est gratia*",
-            "volpiano": "1---f--df--f---f--gf-f-dfd---fe--ef---g--hghk--h---h---khk-k--ghg---f---ghgh--fefed-e--fd---dc---f--gh--h-heg---gh-kghg--e--fgef---fe---h--h--h--hg-gf---g---gef--ef-f---d--d---fgf--fe--g---h---hghgf--ef-gef--ed---fe---dfe--f--g--f---f--ef-gfgh--g---f--ghgh---hge-fgfe-fe--fd---fgh--hkgf-ghg--egf-f--fe---5",
-            "search_volpiano": "fdfffgffdfdfeefghghkhhkhkkghgfghghfefedefddcfghhhegghkghgefgeffehhhhggfggefeffddfgffeghhghgfefgefedfedfefgffefgfghgfghghhgefgfefefdfghhkgfghgegfffe"
+            "volpiano": "1--h--gh--gf---ghghge-fe-fg--g---gh--g---g--g--gf---",
+            "search_volpiano": "hghgfghghgefefggghggggf"
         },
         {
             "id": "013r6",
@@ -2319,8 +2319,8 @@ var data = {
             "mode": "1",
             "differentia": "G1",
             "full_text_standard": "Cum inducerent puerum Jesum",
-            "volpiano": "1---h--gf-ghghgf-fe---g--gh--g---4---fe--dfe---5",
-            "search_volpiano": "hgfghghgffegghgfedfe"
+            "volpiano": "1--fgh---g---g---gh---h---hghjgf---",
+            "search_volpiano": "fghggghhhghjgf"
         },
         {
             "id": "013r7",
@@ -2335,8 +2335,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Simeon justus*",
-            "volpiano": "1---g--gh--f---f--e---df-ghgh--he---f--fff---fd--g--ghk--k---k--k---jkl--k--jh---khjkjhg-h--hg---h--h---h--h---hg--hkgh--f---f--f--f--f---ef-gf--efe--d---f--c--dfdf--f---f--ef--d---dgf-ghgh--hg---e---f--dfdc---df--e--fgef--fe---5",
-            "search_volpiano": "gghffedfghghhefffffdgghkkkkjklkjhkhjkjhghhghhhhhghkghfffffefgfefedfcdfdfffefddgfghghhgefdfdcdfefgeffe"
+            "volpiano": "1--gk--kj---klkj---kjhg-hg-jh--kl--k---k---",
+            "search_volpiano": "gkkjklkjkjhghgjhklkk"
         },
         {
             "id": "013r8",
@@ -2351,8 +2351,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Ave maris stella*",
-            "volpiano": "1---h--gf-ghghgf-fe---g--gf--gh--gf---f--egf-f--fe---f---f--efgfe--g---ghghgf--ef-gf-f--ed---4---f--c---5",
-            "search_volpiano": "hgfghghgffeggfghgffegfffeffefgfegghghgfefgffedfc"
+            "volpiano": "1--h---f---hk---kj---kjh---klkj---klk-kl---hg---hkhg---hjhg-fghgf---g-gf---",
+            "search_volpiano": "hfhkkjkjhklkjklkklhghkhghjhgfghgfggf"
         },
         {
             "id": "013r9",
@@ -2367,8 +2367,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Responsum accepit*",
-            "volpiano": "1---ghk--k---k---k---k--jh--h---hg-gf--gh---ghg--f---e---e--g---fgf--f---f---f--fffe--e--f--eff---d--e--gh--gkhk--k---k--jkj--hkghg---fg--gff-dfd---dc---f--gh--h-hfg---g--gf-gef--f-dfgfe-f--fe---5",
-            "search_volpiano": "ghkkkkkjhhhggfghghgfeegfgfffffffeefeffdeghgkhkkkjkjhkghgfggffdfddcfghhhfgggfgeffdfgfeffe"
+            "volpiano": "1--k--klkk---hjh-k--k--kl--k---k---",
+            "search_volpiano": "kklkkhjhkkklkk"
         },
         {
             "id": "013r10",
@@ -2383,8 +2383,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Hodie beata virgo Maria",
-            "volpiano": "1---k---k--klk7--hj-kj---hg---kk--h--h---hG---h---k--jlkk--kj---kJ---hk---k--k---k--k---k---k--k--k---k--k7---k--k--k---k--k---k---kljkjh-jkj--hg--ghk---kjkh-khg-h--hg---3---d--e--gh---3",
-            "search_volpiano": "kkklkhjkjhgkkhhhGhkjlkkkjkJhkkkkkkkkkkkkkkkkkkljkjhjkjhgghkkjkhkhghhgdegh"
+            "volpiano": "1--g---g---g---e---gh---g---g---g---h---ef---",
+            "search_volpiano": "gggeghggghef"
         }
     ],
     "13v": [
@@ -2401,8 +2401,8 @@ var data = {
             "mode": "4",
             "differentia": "E1",
             "full_text_standard": "Mentem sanctam spontaneam ",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--l---l---l---l---l---l---j---l---m---l---l---",
+            "search_volpiano": "lllllljlmll"
         },
         {
             "id": "013v2",
@@ -2417,8 +2417,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Regem virginum*",
-            "volpiano": "1---h--g---h--gf--h---k--hkJ--h---h--g---hG--e---f---g--fe---d--cd--d---fE--e---f--g--gfghg7---f--fe--g---fE--d--d---4---h--h--h--g---h--g---3",
-            "search_volpiano": "hghgfhkhkJhhghGefgfedcddfEefggfghgffegfEddhhhghg"
+            "volpiano": "1--l---l---l---j---l---m---l---l---",
+            "search_volpiano": "llljlmll"
         },
         {
             "id": "013v3",
@@ -2433,8 +2433,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Virginum proles*",
-            "volpiano": "1---f--d--f---fe--e--fgfe-fed-fd---fe--f---g--fdf--f---efhgfghg--ef-gef--eff---d--dh--h--ghijhg-hefe---f---f--f--f---f--efgfe---g--ghghgf--ef-gef--ed---dc---f--g--h-fgh--h--hkhg-ghg---egef--fe---5",
-            "search_volpiano": "fdffeefgfefedfdfefgfdffefhgfghgefgefeffddhhghijhghefefffffefgfegghghgfefgefeddcfghfghhhkhgghgegeffe"
+            "volpiano": "1--de---de---d---e---d---c---e---c---e---",
+            "search_volpiano": "dedededcece"
         },
         {
             "id": "013v4",
@@ -2449,8 +2449,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "Ingenua sum et exspectabilis genere",
-            "volpiano": "1---h---h--gf-ghghgf-fe---g--gf---gh---gf--ef--gf-fe---f---ef--f--efgfe--g---ghghgf---ef-gef--fff---5",
-            "search_volpiano": "hhgfghghgffeggfghgfefgffefeffefgfegghghgfefgeffff"
+            "volpiano": "1--dh--h--hghg---gf-g---g---g--gh--g---",
+            "search_volpiano": "dhhhghggfgggghg"
         },
         {
             "id": "013v5",
@@ -2465,8 +2465,8 @@ var data = {
             "mode": "8",
             "differentia": "C1",
             "full_text_standard": "Summa ingenuitas ista est ",
-            "volpiano": "1---k--h---kl--k--hjh---hj---k--j---jh--fg-jgh--gf---j--fgj--j---j--j--gjkjh-j--jh---kj--jkl---klkjh-j--jh---hj---k--j--jh---g--gjkjh-jkjk--kj---j---j--kj-jg-hjhg---fgjgf-g--gf---5",
-            "search_volpiano": "khklkhjhhjkjjhfgjghgfjfgjjjjgjkjhjjhkjjklklkjhjjhhjkjjhggjkjhjkjkkjjjkjjghjhgfgjgfggf"
+            "volpiano": "1--gh---g---gh---g---gh---g---g---ghk---kjk---lklm-l---",
+            "search_volpiano": "ghgghgghggghkkjklklml"
         },
         {
             "id": "013v6",
@@ -2481,8 +2481,8 @@ var data = {
             "mode": "2",
             "differentia": "D1",
             "full_text_standard": "Ancilla Christi sum ideo me ostendo",
-            "volpiano": "1---k---k--klkk-hkh---5",
-            "search_volpiano": "kkklkkhkh"
+            "volpiano": "1--l--l--l--lmnml--klk---kj-kl--k--k---",
+            "search_volpiano": "llllmnmlklkkjklkk"
         },
         {
             "id": "013v7",
@@ -2497,8 +2497,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Specie tua et pulchritudine*",
-            "volpiano": "1---gh--g---gh--g---ghk-jk-lklm--l---l--lmn-nml--ml---l---lk-kj--khjkjhg-h--hg---gh--hghjhg-h--ghkhg-h--hg---kj--klkj-kjhg-hg---h--klk---hjhf--fgh--hg-hg--fghg-gf--gf---fh---k-kl--k---k--k---k--lk-kh-kg-gf---g--ghkhg-h--ghkhg-h--hg---5",
-            "search_volpiano": "ghgghgghkjklklmlllmnnmlmlllkkjkhjkjhghhgghhghjhghghkhghhgkjklkjkjhghghklkhjhffghhghgfghggfgffhkklkkkklkkhkggfgghkhghghkhghhg"
+            "volpiano": "1--l---l---l---l---j---l---m---l---l---",
+            "search_volpiano": "lllljlmll"
         },
         {
             "id": "013v8",
@@ -2513,8 +2513,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Dum torqueretur beata Agatha",
-            "volpiano": "1---kj--klk-jkh-hg---hk---jh--jk--hk---g--gh-jh--hg---g---fg--g---g---g--g---g--g--hkhg-hjh---gh---gh-hkjklkjh--hkhg-gf---4---fh---kl--k---k---5",
-            "search_volpiano": "kjklkjkhhghkjhjkhkgghjhhggfggggggghkhghjhghghhkjklkjhhkhggffhklkk"
+            "volpiano": "1--f---gh---j---j---j---jk---g---g---g---g---",
+            "search_volpiano": "fghjjjjkgggg"
         }
     ],
     "14r": [
@@ -2531,8 +2531,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Ego autem habeo mamillas",
-            "volpiano": "1---a--cdf--d---f---fef--dfe--dc---dfec--df-gf-fe---defed-e--fd---f---fgh--hg-gefg--fg--fefede--fd---d---defedc--d--fefgf---fed-e--dc---d--da---cdf---d--d---d--d--dcdfgfe-fgfg--gf---fgh---hg-gf--fgf---fg--efed-e--fd---efe---cdf--ed-efe--defed-e--fd---5",
-            "search_volpiano": "acdfdffefdfedcdfecdfgffedefedefdffghhggefgfgfefedefdddefedcdfefgffededcddacdfdddddcdfgfefgfggffghhggffgffgefedefdefecdfedefedefedefd"
+            "volpiano": "1--l---l---l---l---j---l---m---l---kl---l---",
+            "search_volpiano": "lllljlmlkll"
         },
         {
             "id": "014r2",
@@ -2547,8 +2547,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Agatha laetissima et glorianter",
-            "volpiano": "1---cdf-fgf---f--f---gh--g--f---fe--fg--ef---de-fe--ed---d--cd---df--d---d--d--defedc--d---fefgf--fed-e--dc---4---d--da---5",
-            "search_volpiano": "cdffgfffghgffefgefdefeeddcddfddddefedcdfefgffededcdda"
+            "volpiano": "1--g---gd---f---fg---g---g---g---g---g---h---k---j---",
+            "search_volpiano": "ggdffgggggghkj"
         },
         {
             "id": "014r3",
@@ -2563,8 +2563,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Nobilissimis orta natalibus",
-            "volpiano": "1---h--g--g---h--g--g---f---gh---fe--d--d---d---f--g--g--g---g--h--g--f---g--gh--f--f---f---g--h--g--h--g---e---f---gf--f---fe--dc---d--efe--d--d---4---h--h--h--g---h--g---5",
-            "search_volpiano": "hgghggfghfedddfgggghgfgghfffghghgefgfffedcdefeddhhhghg"
+            "volpiano": "1--g---j---k---l---m---l---l---l---l---",
+            "search_volpiano": "gjklmllll"
         },
         {
             "id": "014r4",
@@ -2579,8 +2579,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Quis es tu qui venisti ad me",
-            "volpiano": "1---d--e--f--g---fe--d---f--f--f---ghg--g---hk--jk---hk--hg--g---h--g---f--fe--d---e--fg--e--e---4---h--g--h--k--g--e---5",
-            "search_volpiano": "defgfedfffghgghkjkhkhgghgffedefgeehghkge"
+            "volpiano": "1--f---h---k---k---k---k---k---j---k---j---hjk---",
+            "search_volpiano": "fhkkkkkjkjhjk"
         },
         {
             "id": "014r5",
@@ -2595,8 +2595,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Nam et ego apostolus eius",
-            "volpiano": "1---g--gfd---fe---fg--ghg---fh--h--g---h---k---g--hg--fg--g---h--g--e---fe--d---e--g--g--g---4---k--k--j--k---h--g---5",
-            "search_volpiano": "ggfdfefgghgfhhghkghgfgghgefedegggkkjkhg"
+            "volpiano": "1--cd---d---d---f---de---d---dc---fgh---h---g---fe---fg---fed---d---",
+            "search_volpiano": "cdddfdeddcfghhgfefgfedd"
         }
     ],
     "14v": [
@@ -2613,8 +2613,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "Agatha sancta dixit si feras",
-            "volpiano": "1---hg--f---hk---kj--h---klk--k---kl--n--m--lk--kl--h---h---h--l---k--jk---h---g--h--hgh---de---f--e--d---e---e--ef---d--d---k--h---kl--k--hjh---d---e--e---e--e--g---hg--ghg--f--f---4---k--k--l--j---k--h---5",
-            "search_volpiano": "hgfhkkjhklkkklnmlkklhhhlkjkhghhghdefedeeefddkhklkhjhdeeeeghgghgffkkljkh"
+            "volpiano": "1--d---dc---f---g---f---gh---h---hk---jh---cd---d---defd---dc---d---fe---fded---cd---defd---",
+            "search_volpiano": "ddcfgfghhhkjhcdddefddcdfefdedcddefd"
         },
         {
             "id": "014v2",
@@ -2629,8 +2629,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Si ignem adhibeas rorem mihi",
-            "volpiano": "1---d--c---d---ef--g---fe--d--d---c--d--efe--d---c--f--gf---fe---c---d--f--f---c--f--d---4---f--f--f--e---c--cd---5",
-            "search_volpiano": "dcdefgfeddcdefedcfgffecdffcfdfffeccd"
+            "volpiano": "1--d---d---dc---f---g---f---gh---h---",
+            "search_volpiano": "dddcfgfghh"
         },
         {
             "id": "014v3",
@@ -2645,8 +2645,8 @@ var data = {
             "mode": "7",
             "differentia": "C1",
             "full_text_standard": "Agatha laetissima et glorianter",
-            "volpiano": "1---d--d--f---d--dc---f---g--fgh--h---hg---h--g--e---f--g--fe---d--d---d--d---d--d---d---dc--f--g--f---gh--h---h--g---gf--f---f---g---h---g--h--fe---dfd-dc---ef---g--f--fe---g--fe--d--d---4---h--h--hg--f---gh--g---5",
-            "search_volpiano": "ddfddcfgfghhhghgefgfeddddddddcfgfghhhggfffghghfedfddcefgffegfeddhhhgfghg"
+            "volpiano": "1--gd---f---fg---gh---g---g---g---g---g---hg---",
+            "search_volpiano": "gdffgghggggghg"
         },
         {
             "id": "014v4",
@@ -2661,8 +2661,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Adjuvabit eam deus vultu suo*",
-            "volpiano": "1---h--g--g---5",
-            "search_volpiano": "hgg"
+            "volpiano": "1--g---gkj---k---lk---lm-l---lmnl---lk---k---klm---kj-ghj---kg-hg-gf-",
+            "search_volpiano": "ggkjklklmllmnllkkklmkjghjkghggf"
         },
         {
             "id": "014v5",
@@ -2677,8 +2677,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Ego autem adjuvata a domino",
-            "volpiano": "1---d--e--f--g---5",
-            "search_volpiano": "defg"
+            "volpiano": "1--f---fg---gh---f---g---hj---h---g---f---",
+            "search_volpiano": "ffgghfghjhgf"
         },
         {
             "id": "014v6",
@@ -2693,8 +2693,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Gratias tibi ago domine",
-            "volpiano": "1---g--gfd---fe---5",
-            "search_volpiano": "ggfdfe"
+            "volpiano": "1--g---c---d---dhj---h---h---g---f---gh---h---",
+            "search_volpiano": "gcddhjhhgfghh"
         }
     ],
     "15r": [
@@ -2711,8 +2711,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Ipse me curavit",
-            "volpiano": "1---d--c---d---ef-g---5",
-            "search_volpiano": "dcdefg"
+            "volpiano": "1--g---gk---hg---h---f---gh---g---",
+            "search_volpiano": "ggkhghfghg"
         },
         {
             "id": "015r2",
@@ -2727,8 +2727,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Ipse me dignatus est",
-            "volpiano": "1---a--cdf--d---f---fef---5",
-            "search_volpiano": "acdfdffef"
+            "volpiano": "1--d---dc---f---g---f---gh---h---",
+            "search_volpiano": "ddcfgfghh"
         },
         {
             "id": "015r3",
@@ -2743,8 +2743,8 @@ var data = {
             "mode": "5",
             "differentia": null,
             "full_text_standard": "Vidisti domine et exspectasti",
-            "volpiano": "1---fg---g---h---g--k--kj---h---k---kj--hg--gh---j--hjh--g--g---k--jkj--h---gf--g--hg-gf---h---hjh--g--g---h---k--kj---klk--hg--g---h--g---h--g--hg---f--g--h---kj--kl--lk-kjh---kj--hg--hg--f--g--h---kj--hjhf--hg--g---4---k--k--j--k---h--g---5",
-            "search_volpiano": "fgghgkkjhkkjhgghjhjhggkjkjhgfghggfhhjhgghkkjklkhgghghghgfghkjkllkkjhkjhghgfghkjhjhfhggkkjkhg"
+            "volpiano": "1--k---kj---hg---hj---h---gh---g---g---",
+            "search_volpiano": "kkjhghjhghgg"
         },
         {
             "id": "015r4",
@@ -2759,8 +2759,8 @@ var data = {
             "mode": "5",
             "differentia": null,
             "full_text_standard": "Propter veritatem",
-            "volpiano": "1---g--f---d--d--d-fgh-hg---c--d--e--fg--g---h--ghgf-g--f---f--g--h--k--g---h--g---gf--f---gh--g--gfed---e--fg--g--g---4---k--k--j--k---h--g---5",
-            "search_volpiano": "gfdddfghhgcdefgghghgfgffghkghggffghggfedefgggkkjkhg"
+            "volpiano": "1--g---g---j---l---k---hk---k---k---k---k---hk---jkj---",
+            "search_volpiano": "ggjlkhkkkkkhkjkj"
         }
     ],
     "15v": [
@@ -2777,8 +2777,8 @@ var data = {
             "mode": "4",
             "differentia": "G1",
             "full_text_standard": "Nisi diligenter perfeceris",
-            "volpiano": "1---g--gk--h---g---h--gf---ghg--g---h--gf--g--ghg--f--f---g--g---f--g--h---kl--k--kjklk---h--k--k---g--g---4---k--k--j--k--h--g---5",
-            "search_volpiano": "ggkhghgfghgghgfgghgffggfghklkkjklkhkkggkkjkhg"
+            "volpiano": "1--g---gl---l---k---kl---l---l---mn---ml---l---",
+            "search_volpiano": "ggllkklllmnmll"
         },
         {
             "id": "015v2",
@@ -2793,8 +2793,8 @@ var data = {
             "mode": "7",
             "differentia": "C1",
             "full_text_standard": "Vidisti domine agonem meum",
-            "volpiano": "1---d--dg--f---f--cd--d---d--f--e--d---f--f--c--c--c---fc--d--fe---d--cd--d---4---f--f--f--e---cd--d---5",
-            "search_volpiano": "ddgffcdddfedffcccfcdfedcddfffecdd"
+            "volpiano": "1--d---dj---cj---cd---d---dedc---ed---dg---g---e---",
+            "search_volpiano": "ddjcjcdddedceddgge"
         },
         {
             "id": "015v3",
@@ -2809,8 +2809,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "Propter fidem castitatis",
-            "volpiano": "1---g--gd--e--f---gh--h--g--g---g--k--l---k--h--k--k---l--l---lml--l---k--kjklk---h--h--h---h--k--k---h--g---4---k--k--j--k--h--g---5",
-            "search_volpiano": "ggdefghhgggklkhkklllmllkkjklkhhhhkkhgkkjkhg"
+            "volpiano": "1--c---ffg---f---f---g---fd---f---gh---hjgf---",
+            "search_volpiano": "cffgffgfdfghhjgf"
         },
         {
             "id": "015v4",
@@ -2825,8 +2825,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Elegit eam deus*",
-            "volpiano": "1---f--g---hg---fg--g---fh--h--g---h---k---g--hg--fg--g---h--g--e---fe--d---e--fg--g--g---4---k--k--j--k---h--g---5",
-            "search_volpiano": "fghgfggfhhghkghgfgghgefedefgggkkjkhg"
+            "volpiano": "1--gk---hgf---gh---g---g---jk---l---h---k---k---j---",
+            "search_volpiano": "gkhgfghggjklhkkj"
         },
         {
             "id": "015v5",
@@ -2841,8 +2841,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Beata Agatha ingessa",
-            "volpiano": "1---k--k---k--j--h---h--g--f---g---f--h---klk--k---kl---m--l--k---k--k--kl--h---h--l---k--jk---h--g--h---gf---ghg---ghg--f--f---4---k--k--l--k---k--h---5",
-            "search_volpiano": "kkkjhhgfgfhklkkklmlkkkklhhlkjkhghgfghgghgffkklkkh"
+            "volpiano": "1--d---fg---hghfd---fghgf---ghjhg-f---h---kj---g---gh---f---d---",
+            "search_volpiano": "dfghghfdfghgfghjhgfhkjgghfd"
         }
     ],
     "16r": [
@@ -2859,8 +2859,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Domine qui me creasti",
-            "volpiano": "1---f--f--f--fe--d---d--c--d--f--f---f--c--d---f-fgf--f---fe--dc---d--fe---d--d---4---f--f--f--e--cd--d---5",
-            "search_volpiano": "ffffeddcdfffcdffgfffedcdfeddfffecdd"
+            "volpiano": "1--gk--kj--klkj---kjhg-hg-hj---jh--kl--k--k---j---jk--hj---",
+            "search_volpiano": "gkkjklkjkjhghghjjhklkkjjkhj"
         },
         {
             "id": "016r2",
@@ -2875,8 +2875,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Gaudeamus omnes in domino",
-            "volpiano": "1---k--k--kj--h---h---g--h--k--klk---kh---k--l--m--l---k---klk--h---h--l---k--jk--h--g--h---g--fde---g--gh--f--f---4---k--k--l--j---k--h---5",
-            "search_volpiano": "kkkjhhghkklkkhklmlkklkhhlkjkhghgfdegghffkkljkh"
+            "volpiano": "1--k---kj---hg---g---ghg---f---h---g---ghg---f---",
+            "search_volpiano": "kkjhggghgfhgghgf"
         },
         {
             "id": "016r3",
@@ -2891,8 +2891,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Immaculatus dominus",
-            "volpiano": "1---f--h---k--kj---hg--h--gh--f---g---f--g---j---j---j--h---g--g--gk--k--j--j---h---j--k--j---k--j---jh--gf---g--h--jf--ghg---f--f---4---k--k--l--j---k--h---5",
-            "search_volpiano": "fhkkjhghghfgfgjjjhgggkkjjhjkjkjjhgfghjfghgffkkljkh"
+            "volpiano": "1--gk--klkj---kjhg-hg-hj--j---jh--kl--k---k---",
+            "search_volpiano": "gkklkjkjhghghjjjhklkk"
         },
         {
             "id": "016r4",
@@ -2907,8 +2907,8 @@ var data = {
             "mode": "7",
             "differentia": "C3",
             "full_text_standard": "Quis es tu qui venisti ad me",
-            "volpiano": "1---c--d---d--dh--hk---h--g---h---g--e---f---g--fe---d--cd--d---f---c---d--ef--g---fe--df--dc---fh--ghg---efe---g--fe---d---f--dc--e---f--g--fe---dc--f--e---d--cd--d---4---h--h--hg--f---gh--gfed---5",
-            "search_volpiano": "cdddhhkhghgefgfedcddfcdefgfedfdcfhghgefegfedfdcefgfedcfedcddhhhgfghgfed"
+            "volpiano": "1--kj--kl--lkl--mlm-ml---l---lm--ml--lklkj---",
+            "search_volpiano": "kjkllklmlmmlllmmllklkj"
         },
         {
             "id": "016r5",
@@ -2923,8 +2923,8 @@ var data = {
             "mode": "1",
             "differentia": "G1",
             "full_text_standard": "Medicinam carnalem corpori",
-            "volpiano": "1---d---dc---f--g--f--gh--h---h---h--hk--h--g---g--fh--g---g---g---eg---hg--fgf---f--dc---dg---e--fe---d---4---h--h--g--f---gh--g---5",
-            "search_volpiano": "ddcfgfghhhhhkhggfhgggeghgfgffdcdgefedhhgfghg"
+            "volpiano": "1--l--lmnml--klkj---k l--k--k---k--k--k---lj--kl---",
+            "search_volpiano": "llmnmlklkjklkkkkkljkl"
         }
     ],
     "16v": [
@@ -2941,8 +2941,8 @@ var data = {
             "mode": "7",
             "differentia": "C1",
             "full_text_standard": "Gracias tibi ago domine",
-            "volpiano": "1---d--dc---f--g---f--gh--h---jh--g---ef--g---fe--d---d--c---c---d--f--ef---g--fe--d--d---4---h--h--g--f---gh--g---5",
-            "search_volpiano": "ddcfgfghhjhgefgfeddccdfefgfeddhhgfghg"
+            "volpiano": "1--g---gk---h---gj---j---j---kh---j---h---",
+            "search_volpiano": "ggkhgjjjkhjh"
         },
         {
             "id": "016v2",
@@ -2957,8 +2957,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Benedico te pater domini mei",
-            "volpiano": "1---d---fe--d--f--dfd-dc---fg--hjh---5",
-            "search_volpiano": "dfedfdfddcfghjh"
+            "volpiano": "1--k---jk---hg---jgh---klkj-kj---g---j---k---h---k---",
+            "search_volpiano": "kjkhgjghklkjkjgjkhk"
         },
         {
             "id": "016v3",
@@ -2973,8 +2973,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "Qui me dignatus est ab omni",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--k--k--hjkj--hg---k--k--k--k---jk--h---",
+            "search_volpiano": "kkhjkjhgkkkkjkh"
         },
         {
             "id": "016v4",
@@ -2989,8 +2989,8 @@ var data = {
             "mode": "5",
             "differentia": "A1",
             "full_text_standard": "Paganorum multitudo fugiens",
-            "volpiano": "1---kj--h--k---5",
-            "search_volpiano": "kjhk"
+            "volpiano": "1--c---cfe---f---gfhg---g---gh---fd---fef---dc---",
+            "search_volpiano": "ccfefgfhggghfdfefdc"
         }
     ],
     "17r": [
@@ -3007,8 +3007,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Quis es tu qui venisti ad me*",
-            "volpiano": "1---f--c--d---dhk--h---hgg---fghghk--hg---fg-hg--h--g---fd--dfefe--ed---d--fgf--fd--f--gh---hghfg--fe-efeg--gf---h---hgh--f--d---f--f---f--dfd-dc---dc--f--ghg---hgfd-fgfg--f---efg-hf-fe--d--defed-e--fd---5",
-            "search_volpiano": "fcddhkhhggfghghkhgfghghgfddfefeeddfgffdfghhghfgfeefeggfhhghfdfffdfddcdcfghghgfdfgfgfefghffeddefedefd"
+            "volpiano": "1--d--d--cd--efg-f---gh--g--f---fe--fg--ef---",
+            "search_volpiano": "ddcdefgfghgffefgef"
         },
         {
             "id": "017r2",
@@ -3023,8 +3023,8 @@ var data = {
             "mode": "1",
             "differentia": "D1",
             "full_text_standard": "Stans beata Agatha in medio carceris",
-            "volpiano": "1---h---h--hghg-gf---g--hf---gh---gh--hjh--h---h---h--h--hghg--hf---fg-hg-hjh---hgfe-gh--gf---4---d--f-ghg---5",
-            "search_volpiano": "hhhghggfghfghghhjhhhhhhghghffghghjhhgfeghgfdfghg"
+            "volpiano": "1--hk---gh---g---f---g---h---hkhg---fhkhg-hffe-ede---gh---jh---",
+            "search_volpiano": "hkghgfghhkhgfhkhghffeedeghjh"
         },
         {
             "id": "017r3",
@@ -3039,8 +3039,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Quodcumque vinclis*",
-            "volpiano": "1---g--gkj--k--k---lk--hk---kj-klhk--hg---k--k--k---lklml--l---l--l--lmlk--kjkh--kjk---jkjh--jklkjh-jkjh---g--ghkhg-h---hg---lmnml---h--j---nop--o---on-nm--lk--kl-mnml-m--nl---k---k--k--k--klmnml-m--nl---k---klmlk-l--lk---l---lk---l--klk-kjhg-h--hg---g---hk-kk--kj--hlklm--l---lk---jk-ljk--kh---k---lm--lk--klkj-kjhg-hg---kjkh-jlm--l--lj-klkjh-jkjh---ghkhg-h--hg---5",
-            "search_volpiano": "ggkjkklkhkkjklhkhgkkklklmlllllmlkkjkhkjkjkjhjklkjhjkjhgghkhghhglmnmlhjnopoonnmlkklmnmlmnlkkkkklmnmlmnlkklmlkllkllklklkkjhghhgghkkkkjhlklmllkjkljkkhklmlkklkjkjhghgkjkhjlmlljklkjhjkjhghkhghhg"
+            "volpiano": "1--dh--h--hghg---gf-g--g--gh--g---g--g---",
+            "search_volpiano": "dhhhghggfggghggg"
         },
         {
             "id": "017r4",
@@ -3055,8 +3055,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Tu es petrus*",
-            "volpiano": "1---lmnml--kj---klk-kj---k--k--lj---kl--kl---lm-nm--ml---klk-kj---klk--lmL--l---l7---l---lmlmlk--lk---kl-ml-mnm--lk-lmlm--lkj-kj---3---lJ---3",
-            "search_volpiano": "lmnmlkjklkkjkkljklkllmnmmlklkkjklklmLllllmlmlklkklmlmnmlklmlmlkjkjlJ"
+            "volpiano": "1--d---e---g---gh---h---h---h---h---h---g---",
+            "search_volpiano": "degghhhhhhg"
         },
         {
             "id": "017r5",
@@ -3071,8 +3071,8 @@ var data = {
             "mode": "1",
             "differentia": "G1",
             "full_text_standard": "Tu es pastor ovium princeps ",
-            "volpiano": "1---d---fe--d--f--dfd-dc---fg-hijh--hg---fg7---fg--gf---fe---ghghijh---g---fe--fe--d---fE--de-fgd-dc---d--e---fgf--dc-dfce--fd---f---g--f--f---cd-fde7-fgd-dc---3---efD---df--d---dcd-f-ghg-gfe-fgfg--gf---f--gh--hghge--fgf--fed---dC--cf--ef-gf-fed-ed---5",
-            "search_volpiano": "dfedfdfddcfghijhhgfgfggffeghghijhgfefedfEdefgddcdefgfdcdfcefdfgffcdfdefgddcefDdfddcdfghggfefgfggffghhghgefgffeddCcfefgffeded"
+            "volpiano": "1--k---hk---k---jk---jk---hlkl---jk---h---fgh---",
+            "search_volpiano": "khkkjkjkhlkljkhfgh"
         },
         {
             "id": "017r6",
@@ -3087,8 +3087,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Tu es pastor ovium princeps",
-            "volpiano": "1---d--c--cdf-fgf--f---f---gh--g--fe---fg--ef---de-fe--ed---d---cd--d---d--d---dfE--d---defedc--d7--fefgf--fed-e--dc---3---efe---df--d---3",
-            "search_volpiano": "dccdffgfffghgfefgefdefeeddcdddddfEddefedcdfefgffededcefedfd"
+            "volpiano": "1--k--klkk---hjh-k--kh--hl---jk---kjk--lkl-lk---",
+            "search_volpiano": "kklkkhjhkkhhljkkjklkllk"
         },
         {
             "id": "017r7",
@@ -3103,8 +3103,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Quodcumque vinclis*",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--cd--d--d---d--d---df---dc-d--fe--f---",
+            "search_volpiano": "cddddddfdcdfef"
         },
         {
             "id": "017r8",
@@ -3119,8 +3119,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Ecce sacerdos*",
-            "volpiano": "1---cf-f--f-fed--d---5",
-            "search_volpiano": "cffffedd"
+            "volpiano": "1--d--d--d--cd--fg-f---gh--g---f--f--fe--fg-ef---",
+            "search_volpiano": "dddcdfgfghgfffefgef"
         },
         {
             "id": "017r9",
@@ -3135,8 +3135,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Jam bone pastor*",
-            "volpiano": "1---gk---k--k--h---hk-k--g--ghkjh-jkg-g-efe---fgh--h---hkH--g---fgh--g-fhgfe-f--fe---3---f---efE7---gh---hg--kh-kg-gf---h--k---kkk---h--hf-ghgh---hg---h--k---kkk---h---hkk--ghkjh-k-kg-g-efe7---f--f--fghgf-gfe--fd---fE--dfe--fg--gh--hg---g--gd-fgh---e--egef--fe---5",
-            "search_volpiano": "gkkkhhkkgghkjhjkggefefghhhkHgfghgfhgfeffefefEghhgkhkggfhkkkkhhfghghhghkkkkhhkkghkjhkkggefefffghgfgfefdfEdfefgghhgggdfgheegeffe"
+            "volpiano": "1--g---g---k---k---k---h---jk---j---g---g---",
+            "search_volpiano": "ggkkkhjkjgg"
         },
         {
             "id": "017r10",
@@ -3151,8 +3151,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Elegit te dominus*",
-            "volpiano": "1---klk-k---hj-kh-hg---k--k--kk7--h--h---h---h--h--hg--h---k--jlkk--kj---3---f--efe---3",
-            "search_volpiano": "klkkhjkhhgkkkkhhhhhhghkjlkkkjfefe"
+            "volpiano": "1--g---g---k---j---k---lm---l---k---m---n---",
+            "search_volpiano": "ggkjklmlkmn"
         },
         {
             "id": "017r11",
@@ -3167,8 +3167,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Quodcumque vinclis*",
-            "volpiano": "1---f--hk---klK---hklkl7--ijk--hkgf-gjhg---f--gh--hg--hjkjhg-hjhg---f--fghgf-g--gf---f---gh---h--g---h--ghkjh-jh---h--f7--h---k-kjhg--hg---kjkl---k-hijk--jh---k--kj---h---hkH--g--fg-hghjh---h--gh---ghG---gf7-gh-ijh-hG--hg---3---fgh---h--gh-jkjh-jh---f---gh---ijh--g---gE--hkk---lijkh-gjh--f--fgf--f---5",
-            "search_volpiano": "fhkklKhklklijkhkgfgjhgfghhghjkjhghjhgffghgfggffghhghghkjhjhhfhkkjhghgkjklkhijkjhkkjhhkHgfghghjhhghghGgfghijhhGhgfghhghjkjhjhfghijhggEhkklijkhgjhffgff"
+            "volpiano": "1--d---c---df---fe---d---f---fe---d---f---g---",
+            "search_volpiano": "dcdffedffedfg"
         },
         {
             "id": "017r12",
@@ -3183,8 +3183,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Elegit te dominus*",
-            "volpiano": "1---k--k---klk-k-hkh---k---kl--k--kh---kl--jk---kj-klkl--lk---f---h--k---k--k---k---kjkj--jh--kl--kj-klkjh-j--jh---4---fgh---5",
-            "search_volpiano": "kkklkkhkhkklkkhkljkkjklkllkfhkkkkkjkjjhklkjklkjhjjhfgh"
+            "volpiano": "1--e---fg---g---g---g---f---gh---fe---d---d---",
+            "search_volpiano": "efggggfghfedd"
         },
         {
             "id": "017r13",
@@ -3199,8 +3199,8 @@ var data = {
             "mode": "1",
             "differentia": "F1",
             "full_text_standard": "Cum esset summus pontifex",
-            "volpiano": "1---jh--hjhg---hg--hj--j---j--j--h--hg---h---hg--hj--kj--hj---ghkhg-h---gh-jh---f--g--gk-k---hkgh--gf---h--hkgh--gf-ghgh--hg---f--h--klk--k---k--kkk--h---gf--hk--kj--klkl--lk---kh--k--lml--m--lk---kjh--hkh---h---hg--gkhg-hg---f--ghg--h--gf---g--f--g-gfe-fd---fe---fe--fe--fg--gh--khj-hg---5",
-            "search_volpiano": "jhhjhghghjjjjhhghhghjkjhjghkhghghjhfggkkhkghgfhhkghgfghghhgfhklkkkkkkhgfhkkjklkllkkhklmlmlkkjhhkhhhggkhghgfghghgfgfggfefdfefefefgghkhjhg"
+            "volpiano": "1--d---f---f---de---dc---fghg---fe---dfgf---",
+            "search_volpiano": "dffdedcfghgfedfgf"
         }
     ],
     "17v": [
@@ -3217,8 +3217,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Ave maris stella*",
-            "volpiano": "1---k--kj--klk---5",
-            "search_volpiano": "kkjklk"
+            "volpiano": "1--c---d---f---gf---d---ed---d---de---f---g---h---f---gfe---d---",
+            "search_volpiano": "cdfgfdedddefghfgfed"
         },
         {
             "id": "017v2",
@@ -3233,8 +3233,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Ave maria gratia plena",
-            "volpiano": "1---f--f--f---5",
-            "search_volpiano": "fff"
+            "volpiano": "1--f---f---f---g---f---f---f---f---f---",
+            "search_volpiano": "fffgfffff"
         },
         {
             "id": "017v3",
@@ -3249,8 +3249,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Spiritus sanctus in te descendet",
-            "volpiano": "1---d--c---d---ef--g--fe---d--dc---fg--h--g---h--g--f---g--e--gdc---d--fe--d--d---4---h--h--hg--f---gh--g---5",
-            "search_volpiano": "dcdefgfeddcfghghgfgegdcdfeddhhhgfghg"
+            "volpiano": "1--f---f--f--f---g--f---",
+            "search_volpiano": "ffffgf"
         },
         {
             "id": "017v4",
@@ -3265,8 +3265,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Ave Maria gratia plena",
-            "volpiano": "1---h--hg--gf---h--hkj---g--ghg--g---f---gh--h---gf---g---e--fe--d---fe--fg---gh--khj--hg---k-kj--kh---jkjg--hg---g---hjh-h--hg---f--gh--hg--g---f--gh--gf--f---fdefedc-d--cd-fgh-gf---g---d--g--gf--gf-fe---fg-hgh--hg--hh--jhg-kjhg-hg---kj--k--h--g--fed-fgh-hg---5",
-            "search_volpiano": "hhggfhhkjgghggfghhgfgefedfefgghkhjhgkkjkhjkjghgghjhhhgfghhggfghgfffdefedcdcdfghgfgdggfgffefghghhghhjhgkjhghgkjkhgfedfghhg"
+            "volpiano": "1--f--f--e---",
+            "search_volpiano": "ffe"
         },
         {
             "id": "017v5",
@@ -3281,8 +3281,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Quem terra*",
-            "volpiano": "1---k---kj--klk---4---k-kj--kh---5",
-            "search_volpiano": "kkjklkkkjkh"
+            "volpiano": "1--f---f---g---f---f---f---f---f---",
+            "search_volpiano": "ffgfffff"
         },
         {
             "id": "017v6",
@@ -3297,8 +3297,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Missus est Gabriel*",
-            "volpiano": "1---d---d--fgh--g--g---gh---hg-hkg-gf---gh--g--g--gh--g---ghkjh-jkjh---g--ghkhg-h--ghjh---fh---klk--kl---lk-klhj--hg---hkjg--k-k--lkj-kjhg--hghgf-g--gf---f--gh--h---h--g---g--f--g---fef--dfc-dfefed---g---ghgf-gh--g---ghkjh-jkjh--ghkhg-h--hg---5",
-            "search_volpiano": "ddfghggghhghkggfghggghgghkjhjkjhgghkhghghjhfhklkkllkklhjhghkjgkklkjkjhghghgfggffghhhggfgfefdfcdfefedgghgfghgghkjhjkjhghkhghhg"
+            "volpiano": "1--f---f--g--f--e---g--g--h---",
+            "search_volpiano": "ffgfeggh"
         },
         {
             "id": "017v7",
@@ -3313,8 +3313,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Ave Maria*",
-            "volpiano": "1---k--kj--klk-jkh-hg---hk--k---k--kh--jk---h--g--gh-jh---hg---4---f--gh--h---5",
-            "search_volpiano": "kkjklkjkhhghkkkkhjkhgghjhhgfghh"
+            "volpiano": "1--f---f---f---f---f---f---g---f---",
+            "search_volpiano": "ffffffgf"
         },
         {
             "id": "017v8",
@@ -3329,8 +3329,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Suscipe verbum*",
-            "volpiano": "1---dfd--c--d--dh--gfg---jhg-hj--h---h---fgh--gf--fgh---fed--dfd-dc---cd---fg---d---dc--f--gh---h--h---hghfgh--dfef--ed---d---fgh--g---gh--h--gfg--fgefd---d--fgf--f---fe--f--gh---hghg-gf--gf---f---h--g---fe--fg--fed--dfd-dc---fgfe-fgh--hghfgfe---dfef--ed---5",
-            "search_volpiano": "dfdcddhgfgjhghjhhfghgffghfeddfddccdfgddcfghhhhghfghdfefeddfghgghhgfgfgefddfgfffefghhghggfgffhgfefgfeddfddcfgfefghhghfgfedfefed"
+            "volpiano": "1--f--f--f---f---f--f--f--f--g--f---",
+            "search_volpiano": "ffffffffgf"
         },
         {
             "id": "017v9",
@@ -3345,8 +3345,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Ecce virgo concipiet*",
-            "volpiano": "1---h---h--h--h--hghg-gf---g--g---gh--g---hf--gh--gh---h--hjh--h---hf--gh--h---h--h--h--h--h---hghg---hg--fg-hg-hjh-hgfe-gh--gf---4---d---fgh--g---5",
-            "search_volpiano": "hhhhhghggfggghghfghghhhjhhhfghhhhhhhhghghgfghghjhhgfeghgfdfghg"
+            "volpiano": "1--gf---e---f---gh---g---g---g---g---hg---",
+            "search_volpiano": "gfefghgggghg"
         },
         {
             "id": "017v10",
@@ -3361,8 +3361,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Egredietur virga*",
-            "volpiano": "1---g--g--ghk--k--k---k--kjkjhg-hg---hk---jljk--kj---g---h--hkhjk--g--ef-hkgf-f-dfd---f---gh--hg--fgh-kghg---egef--fe---egh--g---ghkg-gf---k---k--kjkh--hg-hjhj--jh---h--h---h--hg--hk--g--ef-hkg-g-g-ded---fg-hg---h-hfg--gh-kg-hg---egef--fe---5",
-            "search_volpiano": "ggghkkkkkjkjhghghkjljkkjghhkhjkgefhkgffdfdfghhgfghkghgegeffeeghgghkggfkkkjkhhghjhjjhhhhhghkgefhkgggdedfghghhfgghkghgegeffe"
+            "volpiano": "1--f---f---de---dc---cd---fg---f---",
+            "search_volpiano": "ffdedccdfgf"
         },
         {
             "id": "017v11",
@@ -3377,8 +3377,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Sancte et immaculata*",
-            "volpiano": "1---k---k--k--klk-k--hj-kj--hg---k---jkj--h---hg--h---k---jlk-k--kj---4---hk--j---5",
-            "search_volpiano": "kkkklkkhjkjhgkjkjhhghkjlkkkjhkj"
+            "volpiano": "1--kj---kl---l---l---l---q---lm---l---kj---g---",
+            "search_volpiano": "kjkllllqlmlkjg"
         },
         {
             "id": "017v12",
@@ -3393,8 +3393,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Congratulamini nunc omnes*",
-            "volpiano": "1---f--c--d---dhk--h---hg-gf---fhghk--hg---f--g---h--g---f---g--dg---gfed-efed--cdfed-e--fd---f--f---fgf--f--c---d---f--fe--c---df---f--fc--f-fgf--fe---g--fe--d--d---4---h--h--hg--f---gh--g---5",
-            "search_volpiano": "fcddhkhhggffhghkhgfghgfgdggfedefedcdfedefdfffgffcdffecdfffcffgffegfeddhhhgfghg"
+            "volpiano": "1--g---jkl---l---j---lm---l---k---",
+            "search_volpiano": "gjklljlmlk"
         },
         {
             "id": "017v13",
@@ -3409,8 +3409,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Gaude Maria*",
-            "volpiano": "1---d--d---d--d--d---dc--f--g--fh--h---jh--g---f--gh--g---g---g--g--f--g---h--g--f---g--e---f--fe--dc---d--fe--d--d---4---h--h--hg--f---gh--g---5",
-            "search_volpiano": "ddddddcfgfhhjhgfghggggfghgfgeffedcdfeddhhhgfghg"
+            "volpiano": "1--g---",
+            "search_volpiano": "g"
         },
         {
             "id": "017v14",
@@ -3425,8 +3425,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Beatam me dicent*",
-            "volpiano": "1---d--d---dh--hk---h--g--h--hgh---fg---h--g--e---f---g--fe---d--d---f--g---f--f--c---f---g--f---f--fe--dc---d--fe--d--d---4---h--h--hg--f---gh--gh---5",
-            "search_volpiano": "dddhhkhghhghfghgefgfeddfgffcfgfffedcdfeddhhhgfghgh"
+            "volpiano": "1--g---hk---k---kj---h---jk---h---",
+            "search_volpiano": "ghkkkjhjkh"
         },
         {
             "id": "017v15",
@@ -3441,8 +3441,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Missus est Gabriel angelus",
-            "volpiano": "1---dc--f--g---f--gh--h---h--hk--h--g---kj--g---d--fe--d---hijh--g---h--k--kjh--h---hg---f--gh---gfg--g---h---g--f---g--d---gg---g-d---fe--d---f--f--ef--dc---cd--fe---fg--g---c--d--fgf--dfe---gf--fe--d--d---4---h--h--hg--f---gh--g---5",
-            "search_volpiano": "dcfgfghhhhkhgkjgdfedhijhghkkjhhhgfghgfgghgfgdgggdfedffefdccdfefggcdfgfdfegffeddhhhgfghg"
+            "volpiano": "1--g---g---j---k---l---m---l---l---l---m---",
+            "search_volpiano": "ggjklmlllm"
         },
         {
             "id": "017v16",
@@ -3457,8 +3457,8 @@ var data = {
             "mode": "1",
             "differentia": "G1",
             "full_text_standard": "Ave Maria gratia plena",
-            "volpiano": "1---f--f--ef--d---d--c---d--f---f--f--c---f---f--g--f--d---f--f--f---g--f--fdc---d--fe--d--d---4---f--f--f--e---c--d---5",
-            "search_volpiano": "ffefddcdfffcffgfdfffgffdcdfeddfffecd"
+            "volpiano": "1--g---g--gk--h--ghkh---k---jk--l--k---kj--h---",
+            "search_volpiano": "gggkhghkhkjklkkjh"
         },
         {
             "id": "017v17",
@@ -3473,8 +3473,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Ne timeas Maria",
-            "volpiano": "1---f--c---d--dhk--h---h--g--f---gh--h---h--g--f---g--d---g--g--h--g---f---fe---d--f--d--c--ef---g--fe--d--d---4---h--h--hg--f---gh--g---5",
-            "search_volpiano": "fcddhkhhgfghhhgfgdgghgffedfdcefgfeddhhhgfghg"
+            "volpiano": "1--k---k---k---jh---g---l---k---k---lm---l---l---",
+            "search_volpiano": "kkkjhglkklmll"
         },
         {
             "id": "017v18",
@@ -3489,8 +3489,8 @@ var data = {
             "mode": "1",
             "differentia": "F1",
             "full_text_standard": "Dabit ei dominus",
-            "volpiano": "1---f--c--d---dhk--h---5",
-            "search_volpiano": "fcddhkh"
+            "volpiano": "1--g---g---j---k---l---m---l---",
+            "search_volpiano": "ggjklml"
         },
         {
             "id": "017v19",
@@ -3505,8 +3505,8 @@ var data = {
             "mode": "8",
             "differentia": "C1",
             "full_text_standard": "Ecce ancilla domini",
-            "volpiano": "1---d--d---d--d--d---5",
-            "search_volpiano": "ddddd"
+            "volpiano": "1--cd---def---dc---f---gh---hg---f---d---",
+            "search_volpiano": "cddefdcfghhgfd"
         },
         {
             "id": "017v20",
@@ -3521,8 +3521,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "O gloriosa domina*",
-            "volpiano": "1---c--d---dh--hk---5",
-            "search_volpiano": "cddhhk"
+            "volpiano": "1--c--d--dhj--h---h---h---hg---hjhg-g---f--g--h--g--f---",
+            "search_volpiano": "cddhjhhhhghjhggfghgf"
         },
         {
             "id": "017v21",
@@ -3537,8 +3537,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Ave maria gratia*",
-            "volpiano": "1---f--f--ef--d---5",
-            "search_volpiano": "ffefd"
+            "volpiano": "1--dgfgh---g---gh---g---g---ghj---h---hg---hjghgf-",
+            "search_volpiano": "dgfghgghggghjhhghjghgf"
         }
     ],
     "18r": [
@@ -3555,8 +3555,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "Quomodo fiet istud angele dei",
-            "volpiano": "1---g--gd---f--gh---g--g---g---g--g--h--g--f---gh--h---f---f--f--e---d---e--fg--g--g---4---k--k--j--k---h--g---5",
-            "search_volpiano": "ggdfghggggghgfghhfffedefgggkkjkhg"
+            "volpiano": "1--gk---kj--klkj---kjhg-hg-hj--j---jh--jk---f---f---fff---dfgfe---f-fe---dh---h---",
+            "search_volpiano": "gkkjklkjkjhghghjjjhjkfffffdfgfeffedhh"
         },
         {
             "id": "018r2",
@@ -3571,8 +3571,8 @@ var data = {
             "mode": "7",
             "differentia": "D2",
             "full_text_standard": "Gabriel angelus locutus est",
-            "volpiano": "1---a--cd--de-fd-fd-dc---d---f--ed-ed-ef-gf--fdc-d--dc-defe---d--dfd--d---cd---f-fe-ed-ed-ef-gf-fe--dfdc-d--dc---df--dc--d-cdfec-d-cd-efe--de-fd--d---5",
-            "search_volpiano": "acddefdfddcdfededefgffdcddcdefeddfddcdffeededefgffedfdcddcdfdcdcdfecdcdefedefdd"
+            "volpiano": "1--h---h---gh--gf---ghghge-fe-g--g--g---",
+            "search_volpiano": "hhghgfghghgefeggg"
         },
         {
             "id": "018r3",
@@ -3587,8 +3587,8 @@ var data = {
             "mode": "2",
             "differentia": "D1",
             "full_text_standard": "Lux perpetua lucebit sanctis ",
-            "volpiano": "1---cdf-fgf--f---gh--g--f---f---fe--fg---efe--de-fe--ed---d--cd--d---d--d--d--defedc---d--fe-fgf---fed-e--dc---4---cd---f-fe-fd-f-fd-ef-gf--dfdc-d--dc---5",
-            "search_volpiano": "cdffgffghgfffefgefedefeeddcddddddefedcdfefgffededccdffefdffdefgfdfdcddc"
+            "volpiano": "1--ljlm---l---l---l---j---lm---l---kj---gh---",
+            "search_volpiano": "ljlmllljlmlkjgh"
         },
         {
             "id": "018r4",
@@ -3603,8 +3603,8 @@ var data = {
             "mode": "6",
             "differentia": null,
             "full_text_standard": "Exsultent in domino sancti",
-            "volpiano": "1---fijgh--gf---fe---f--f--gj--j--j---j---j--j--hg--g---fg-jgh--gf---fe--fg-jhj--hghg--fgjgf-g--gf---fg-hjh---h--h--j--h--g---fgjgh--gf---f---f--f--f--g--fe--fgj---hg-hjhg--ghgf-gf---h--fgf---g--fgf---f--f-fgdc-dfd---f---f--c--f--fe--g---ghkhg-hjhg--f--fghgf-g--gf---5",
-            "search_volpiano": "fijghgffeffgjjjjjjhggfgjghgffefgjhjhghgfgjgfggffghjhhhjhgfgjghgfffffgfefgjhghjhgghgfgfhfgfgfgffffgdcdfdffcffegghkhghjhgffghgfggf"
+            "volpiano": "1--dh---k---h---g---h---g---fef---fd---",
+            "search_volpiano": "dhkhghgfeffd"
         },
         {
             "id": "018r5",
@@ -3619,8 +3619,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Stabunt justi in magna constantia",
-            "volpiano": "1---fgj--jhjhg-hg---3",
-            "search_volpiano": "fgjjhjhghg"
+            "volpiano": "1--dh---h---gh---h---h---k---h---h---",
+            "search_volpiano": "dhhghhhkhh"
         },
         {
             "id": "018r6",
@@ -3635,8 +3635,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Sancti et justi in domino",
-            "volpiano": "1---d--d--fgh--g---g--g---gh---h--hg-hkg-gf---g---h--kj--hg---h--gf---gh---ghkjh-jkjh--ghkhg-h--ghjh---f---h--klk--kh---klk--kl---lj-klhj--hg---f--hkh--hg--k--kjkjhg--hghgf-g--gf---f---gh--h---hg-gf--g---fef--dfc-dfefed---g--ghgf-gh--g--ghkjh-jkjh---ghkhg-h--hg---5",
-            "search_volpiano": "ddfghgggghhhghkggfghkjhghgfghghkjhjkjhghkhghghjhfhklkkhklkklljklhjhgfhkhhgkkjkjhghghgfggffghhhggfgfefdfcdfefedgghgfghgghkjhjkjhghkhghhg"
+            "volpiano": "1--cd---d---e---f---e---ded---c---ce---",
+            "search_volpiano": "cddefededcce"
         },
         {
             "id": "018r7",
@@ -3651,8 +3651,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Beatus vir qui metuit dominum",
-            "volpiano": "1---k--kj-klk-jkh-hg---hk--jh---jk---hk---3---f--gh--h---3",
-            "search_volpiano": "kkjklkjkhhghkjhjkhkfghh"
+            "volpiano": "1--g---jh---kj---g---g---gjkl---l---km---l---m---k---",
+            "search_volpiano": "gjhkjgggjkllkmlmk"
         }
     ],
     "18v": [
@@ -3669,8 +3669,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Gloria et divitiae in domo",
-            "volpiano": "1---h--f---g--f-f-fghg---fd--g--ghk--k---kh--kh-hgh--hg---f---h--f---g--f-fg-dc-dfd---f--c--f--fe---ghkhg-hjhg--f--fghgf-g--gf---5",
-            "search_volpiano": "hfgfffghgfdgghkkkhkhhghhgfhfgffgdcdfdfcffeghkhghjhgffghgfggf"
+            "volpiano": "1--g---j---k---l---jklk---h---klkh---jh---g---g---",
+            "search_volpiano": "gjkljklkhklkhjhgg"
         },
         {
             "id": "018v2",
@@ -3685,8 +3685,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Tristitia vestra alleluia",
-            "volpiano": "1---fgh--ijhjhg-hg---hkl--kj---3---f---h--f---3",
-            "search_volpiano": "fghijhjhghghklkjfhf"
+            "volpiano": "1--f---f--f---g--f---f--f---",
+            "search_volpiano": "fffgfff"
         },
         {
             "id": "018v3",
@@ -3701,8 +3701,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Mundus autem gaudebit",
-            "volpiano": "1---ed--g--hj--jg--ghgf-fe---fg-hghj--h--h---fgef---d--e--gh--hljk--kj---g--g---kgh-k-kljk--kj---g---j--k---hg--hk---hgh--ef--fgfe-fed-fd---d--e---ghk--hghkh---fe--d--ef--gjh-hg---f---h-fgh--hkgf-ghg--egef--fe---",
-            "search_volpiano": "edghjjgghgffefghghjhhfgefdeghhljkkjggkghkkljkkjgjkhghkhgheffgfefedfddeghkhghkhfedefgjhhgfhfghhkgfghgegeffe"
+            "volpiano": "1--f---g--f--f---f---f--f--f--e---",
+            "search_volpiano": "fgffffffe"
         },
         {
             "id": "018v4",
@@ -3717,8 +3717,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Pretiosa in conspectu domini",
-            "volpiano": "1---klk-k--hj--kj-hg---jk--h--h---4---g---j---5",
-            "search_volpiano": "klkkhjkjhgjkhhgj"
+            "volpiano": "1--f---f---f---f---f---g---f---",
+            "search_volpiano": "fffffgf"
         },
         {
             "id": "018v5",
@@ -3733,8 +3733,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Custodit dominus omnia ossa",
-            "volpiano": "1---k--lk--k---j---l--nm---k--l--ljklk--lmlkj-kjhg-hg---fhk--kl---ljkjh--k---hkgh--gf-ghgh--hg---k--ghk--jkl---kj--k--klkj-kjhg-hg---lk--klm--lmlkj-k--kj---l--k--kl---kl--lkj-kjhg-h---gh-kg-hg-gf---h---k--kj-klkl--lk---kj---k---l--ljkl-lmlj-klkjh-jkjh---g--ghkhg-h--hg---5",
-            "search_volpiano": "klkkjlnmklljklklmlkjkjhghgfhkklljkjhkhkghgfghghhgkghkjklkjkklkjkjhghglkklmlmlkjkkjlkklkllkjkjhghghkghggfhkkjklkllkkjklljkllmljklkjhjkjhgghkhghhg"
+            "volpiano": "1--f--f---f---f--f---g--f---",
+            "search_volpiano": "fffffgf"
         },
         {
             "id": "018v6",
@@ -3749,8 +3749,8 @@ var data = {
             "mode": "4",
             "differentia": "*",
             "full_text_standard": "Ecce quomodo computati",
-            "volpiano": "1---lmnml--klk-kj---k--lj--kl--kl---4---lk--k--kl---5",
-            "search_volpiano": "lmnmlklkkjkljklkllkkkl"
+            "volpiano": "1--f---f---g---f---f---f---f---f---",
+            "search_volpiano": "ffgfffff"
         }
     ],
     "19r": [
@@ -3767,8 +3767,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Lux perpetua lucebit sanctis",
-            "volpiano": "1---f--df--f---f--f---f--f---fe--fgfe-fed-ed---ef---g--gf---e--f---dc--d--f---egef--fefe---d---g--hk--h--h---hk--h---hg-gf--gh---ghgfe-f--fe---f---efg---h--gf-ghgh--hg---hg-gf--fgh-kg-hg--egf-f--fe---5",
-            "search_volpiano": "fdfffffffefgfefededefggfefdcdfegeffefedghkhhhkhhggfghghgfeffefefghgfghghhghggffghkghgegfffe"
+            "volpiano": "1--f--f---g--f---f--f--f---f--e---",
+            "search_volpiano": "ffgfffffe"
         },
         {
             "id": "019r2",
@@ -3783,8 +3783,8 @@ var data = {
             "mode": "3",
             "differentia": null,
             "full_text_standard": "Lux perpetua lucebit sanctis",
-            "volpiano": "1---h--gf-ghghge-fe---4---c--g---5",
-            "search_volpiano": "hgfghghgefecg"
+            "volpiano": "1--c---d---d---def---fe---de---e---efg---f---f---d---",
+            "search_volpiano": "cdddeffedeeefgffd"
         },
         {
             "id": "019r3",
@@ -3799,8 +3799,8 @@ var data = {
             "mode": "3",
             "differentia": null,
             "full_text_standard": "Laetitia sempiterna erit",
-            "volpiano": "1---a--cdf--d---d--f---fef--df--dc---c--d--f--fedc-d--df-gefe---defed-e--fd---f---fgh--hg-ge---fg--fgefed-e--fd---cd---fe--fg---gf-fe--d--fd-fgf---defed-e--fd---5",
-            "search_volpiano": "acdfddffefdfdccdffedcddfgefedefedefdffghhggefgfgefedefdcdfefggffedfdfgfdefedefd"
+            "volpiano": "1--f---fd---e---f---g---f---ef---gh---f---g---",
+            "search_volpiano": "ffdefgfefghfg"
         },
         {
             "id": "019r4",
@@ -3815,8 +3815,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "In servis suis alleluia",
-            "volpiano": "1---cdf-fgf---f--f---gh--g--f---fe--fg--ef---de-fe--ed---5",
-            "search_volpiano": "cdffgfffghgffefgefdefeed"
+            "volpiano": "1--h---g---h---k---k---k---m---l---l---",
+            "search_volpiano": "hghkkkmll"
         },
         {
             "id": "019r5",
@@ -3831,8 +3831,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Judicabit dominus populum",
-            "volpiano": "1---a--cdf--d---d--f---fef--de--dc---c---d--f---fedc-d--df-gefe---defed-e--fd---f--fg-hg-hjh--g--fe--fg---fgefed-e--fd---cd---fe--fg--gf-fe---dc--def--ed-efed-e--ed---5",
-            "search_volpiano": "acdfddffefdedccdffedcddfgefedefedefdffghghjhgfefgfgefedefdcdfefggffedcdefedefedeed"
+            "volpiano": "1--h---f---fg---g---h---f---k---g---",
+            "search_volpiano": "hffgghfkg"
         },
         {
             "id": "019r6",
@@ -3847,8 +3847,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Filiae Jerusalem venite",
-            "volpiano": "1---d--cdf-fgf--f---g--g---fgf--f--f---f--f--fe--fg--ef---de-fe--fd---d--cd--d---d--d--d---d---d--d---defedc--d--fefgf---fed-e---dc---4---f--fg-hg-hkh--g--fe--fg---5",
-            "search_volpiano": "dcdffgffggfgffffffefgefdefefddcdddddddddefedcdfefgffededcffghghkhgfefg"
+            "volpiano": "1--d---d---d---dc---f---g---fgh---h---",
+            "search_volpiano": "ddddcfgfghh"
         },
         {
             "id": "019r7",
@@ -3863,8 +3863,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Quoniam confortavit seras",
-            "volpiano": "1---dfe--c--d--fg--hg---ghgh--g---fg--efed-e--ed---f--fe---d--fgh--fefg---gefed--defed-e--fd---d--d---fgh--g---g--g---gfg--fge-ge---d---d--fgf--fe---fgh--hgfe-fgfg--fg-hg---cd---fe--fg---gf--gefed---cd---defed-e--fd---5",
-            "search_volpiano": "dfecdfghgghghgfgefedeedffedfghfefggefeddefedefdddfghggggfgfgegeddfgffefghhgfefgfgfghgcdfefggfgefedcddefedefd"
+            "volpiano": "1--g---h---kl---l---m---k---l---lm---",
+            "search_volpiano": "ghkllmkllm"
         }
     ],
     "19v": [
@@ -3881,8 +3881,8 @@ var data = {
             "mode": "4",
             "differentia": "F1",
             "full_text_standard": "Lux perpetua lucebit sanctis",
-            "volpiano": "1---h--hghg-gf---g--hf--gh--gh---4---cd---5",
-            "search_volpiano": "hhghggfghfghghcd"
+            "volpiano": "1--f---h---k---k---k---k---j---hj---kl---l---",
+            "search_volpiano": "fhkkkkjhjkll"
         },
         {
             "id": "019v2",
@@ -3897,8 +3897,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Laetitia sempiterna super",
-            "volpiano": "1---g--gefd-efed---cd--fghgf-gh-jh-hg---k-k---k--k--lkj-kjhg-hg---h--kj--k--hkjh-k---ghg--g---fh---hfg-hg-gf---k-k--lkj-kjhg---gh--hghgf-g--gf---f---gh--h---hg-gf--g---gfg--dfc-dfefed---d--d--fgh--gh-kghg-gf---fh-klkjh-jkjh---g--ghkhg-h--hg---5",
-            "search_volpiano": "ggefdefedcdfghgfghjhhgkkkklkjkjhghghkjkhkjhkghggfhhfghggfkklkjkjhgghhghgfggffghhhggfggfgdfcdfefedddfghghkghggffhklkjhjkjhgghkhghhg"
+            "volpiano": "1--g---gc---h---h---g---h---gf---hj---h---",
+            "search_volpiano": "ggchhghgfhjh"
         },
         {
             "id": "019v3",
@@ -3913,8 +3913,8 @@ var data = {
             "mode": "5",
             "differentia": null,
             "full_text_standard": "Ego sum vitis vera et vos",
-            "volpiano": "1---k--kj--klk-jkh-hg---hk---4---cd---5",
-            "search_volpiano": "kkjklkjkhhghkcd"
+            "volpiano": "1--gh---g---g---g---ghjk---k---jh---khjkjhg---gh---jkg-efef-",
+            "search_volpiano": "ghgggghjkkjhkhjkjhgghjkgefef"
         },
         {
             "id": "019v4",
@@ -3929,8 +3929,8 @@ var data = {
             "mode": "5",
             "differentia": null,
             "full_text_standard": "Sicut dilexit me pater et ego",
-            "volpiano": "1---f--d--dh--h--gf-ghg-hij---h---h---d--dh--h--h---h--h--ghkjhj--kh---fgh-hg-ge7--fg---fgF--efede--fd---fe---f--g--efg--ghge-fgfe---dfef--ed---d---ef--g--fefede---fd---f---h--g7--f---h--k--kh-jk-lh--h---hL--l---lkjh-jh--gh-kh--hg---f--g--h--g---f--h--g--f---g--fg-hgh--hg7---3---f---gh--h--fg-hg---ghfe-fed-fd---d---f--fe--d---fgF--ef-ghfgfe---fE--dfef--ed7---4",
-            "search_volpiano": "fddhhgfghghijhhddhhhhhghkjhjkhfghhggefgfgFefedefdfefgefgghgefgfedfefeddefgfefedefdfhgfhkkhjklhhhLllkjhjhghkhhgfghgfhgfgfghghhgfghhfghgghfefedfddffedfgFefghfgfefEdfefed"
+            "volpiano": "1--g---gk---h---hg---f---gh---g---",
+            "search_volpiano": "ggkhhgfghg"
         },
         {
             "id": "019v5",
@@ -3945,8 +3945,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Candidi facti sunt",
-            "volpiano": "1---h--hghg-gf---g--gh--g---hf---4---f---gh--h---5",
-            "search_volpiano": "hhghggfgghghffghh"
+            "volpiano": "1--g---g---fd---e---f---fh---h---",
+            "search_volpiano": "ggfdeffhh"
         },
         {
             "id": "019v6",
@@ -3961,8 +3961,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Candidiores nive nitidiores",
-            "volpiano": "1---g--gf-fg--cd---fg--fgh-hgkh-hg---k-klk--jh--jkjhg-h--hg---gkj---kl--lg-hkjh--gf-ghgh--hg---gh--dfg---gefed-ed-e--dc---fgh--gh-kg-hg-gf---g--hgh-kljk--kj---ljk--hg---gh-khj--hg---d--fg---gefed--fdefed---cdfdc-d--dc---c---cf--fg--gfgfe-fgfg-hjhg-h--jg---klkj-kl-l--lk---g--ghkjh-j--hg---gefed-ghkjh--klklm---lml--l--lj-klkjh-jkjh---ghjh-hg--hg---5",
-            "search_volpiano": "ggffgcdfgfghhgkhhgkklkjhjkjhghhggkjkllghkjhgfghghhgghdfggefedededcfghghkghggfghghkljkkjljkhgghkhjhgdfggefedfdefedcdfdcddcccffggfgfefgfghjhghjgklkjklllkgghkjhjhggefedghkjhklklmlmllljklkjhjkjhghjhhghg"
+            "volpiano": "1--g---gk---hg---g---g---h---g---g---f---gh---h---",
+            "search_volpiano": "ggkhggghggfghh"
         },
         {
             "id": "019v7",
@@ -3977,8 +3977,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "Sancti tui domine florebunt ",
-            "volpiano": "1---lmnml--klk-kj---k--kl--k---k--lj--kl--kl---l--lm-nm--ml---klk-kj---klk--l---l---l--l---l--l---l---l--lm--l---lmlmlk---lk--kl-ml-mnm--lkj-kj---4---klkj--kl--l-lk---5",
-            "search_volpiano": "lmnmlklkkjkklkkljklklllmnmmlklkkjklklllllllllmllmlmlklkklmlmnmlkjkjklkjklllk"
+            "volpiano": "1--g---g---ghkh---fg-ghgf---fhkl---k---",
+            "search_volpiano": "ggghkhfgghgffhklk"
         }
     ],
     "20r": [
@@ -3995,8 +3995,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "In caelestibus regnis sanctorum",
-            "volpiano": "1---g--h---k--k--k---k--lm--l---k--l---m--l---l--l---l--h--l---j---k--h--g---h---g--fg--h--k---h--h---4---l--k--l--n---l--hk---5",
-            "search_volpiano": "ghkkkklmlklmllllhljkhghgfghkhhlklnlhk"
+            "volpiano": "1--gkj--klkj---kjhg-hg-hj--j--jh---jk---hj--ghjh--hg---",
+            "search_volpiano": "gkjklkjkjhghghjjjhjkhjghjhhg"
         },
         {
             "id": "020r2",
@@ -4011,8 +4011,8 @@ var data = {
             "mode": "2",
             "differentia": "D1",
             "full_text_standard": "In velamento clamabunt sancti",
-            "volpiano": "1---k---k--kj--k-lk---k--j--h---jk--j--g---k--kj---hg--h--g--h---gf--gh---j--h---g--g---4---k--k--h--k---l--k---5",
-            "search_volpiano": "kkkjklkkjhjkjgkkjhghghgfghjhggkkhklk"
+            "volpiano": "1--gkhg---g---g---g---gl---lkl---klk---",
+            "search_volpiano": "gkhgggggllklklk"
         },
         {
             "id": "020r3",
@@ -4027,8 +4027,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Spiritus et animae justorum",
-            "volpiano": "1---k--k---kj---k--l--k---k--j--h--g---h--g--f---h---h---hg--f---gh--h---k--k--k---g--g---h---gf--f---4---k--k--l--j---k--h---5",
-            "search_volpiano": "kkkjklkkjhghgfhhhgfghhkkkgghgffkkljkh"
+            "volpiano": "1--l---l--lmnml--klkj---k---k--lj---",
+            "search_volpiano": "lllmnmlklkjkklj"
         },
         {
             "id": "020r4",
@@ -4043,8 +4043,8 @@ var data = {
             "mode": "2",
             "differentia": "D1",
             "full_text_standard": "Fulgebunt justi sicut sol",
-            "volpiano": "1---f--hk--kj--h---kl--k---kj---jk--h--f---g---j--jh--g---j--g--f--f---4---k--k--l--j---k--h---5",
-            "search_volpiano": "fhkkjhklkkjjkhfgjjhgjgffkkljkh"
+            "volpiano": "1--f---d---f---kl---h---kl---nl---mnmlk-llk---fhk---kl---",
+            "search_volpiano": "fdfklhklnlmnmlkllkfhkkl"
         },
         {
             "id": "020r5",
@@ -4059,8 +4059,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Pretiosa in conspectu domini",
-            "volpiano": "1---h--g--h--k--k---k--lm--l---l---k--l---m--lk---l--l---h--l--j---k---hg--hg---fg--h--k---h--h---4---l--k--l--n---k--h---5",
-            "search_volpiano": "hghkkklmllklmlkllhljkhghgfghkhhlklnkh"
+            "volpiano": "1--lmnml--klkj---k l--k---lj--kl---kl---lmnm--ml---",
+            "search_volpiano": "lmnmlklkjklkljklkllmnmml"
         },
         {
             "id": "020r6",
@@ -4075,8 +4075,8 @@ var data = {
             "mode": "1",
             "differentia": "D1",
             "full_text_standard": "Filiae Jerusalem venite et videte",
-            "volpiano": "1---dc--f--gh--hk--hkj---h--hghkhg---e---f--g--fe---df--c---c---d--ef--dfedc-d--dc---fhkj--h---h--hg---h--gf--f---fg--f--f---f---f--fg--fe---gf--fe---df--fc---e--f--g--fe---d--d---4---k--k--kj--h---jk--j---5",
-            "search_volpiano": "dcfghhkhkjhhghkhgefgfedfccdefdfedcddcfhkjhhhghgfffgfffffgfegffedffcefgfeddkkkjhjkj"
+            "volpiano": "1--lj--lm-l---lm---lk---k---kh---jkl-kj---g---g---",
+            "search_volpiano": "ljlmllmlkkkhjklkjgg"
         },
         {
             "id": "020r7",
@@ -4091,8 +4091,8 @@ var data = {
             "mode": "r",
             "differentia": null,
             "full_text_standard": "Sancti et justi in domino",
-            "volpiano": "1---h--g--h---k--k---k--lm--l---l---k--l---m--lk---l--l---l--h--l--j--k---hg--h---g---f--g--hij---k--ij--h--h---4---l--k--l--n---k--h---5",
-            "search_volpiano": "hghkkklmllklmlklllhljkhghgfghijkijhhlklnkh"
+            "volpiano": "1--lj---de-d---de---d---c---c---cdc---cjk---",
+            "search_volpiano": "ljdeddedcccdccjk"
         }
     ],
     "20v": [
@@ -4109,8 +4109,8 @@ var data = {
             "mode": "r",
             "differentia": null,
             "full_text_standard": "Vos elegit deus",
-            "volpiano": "1---h--g--h---k--k---k--lm--l---l--k--l--m--lk---l--l---l---hl--j--hg--h---g---f--g---h--j--k---j--h---4---l--k--l--n---k--h---5",
-            "search_volpiano": "hghkkklmllklmlklllhljhghgfghjkjhlklnkh"
+            "volpiano": "1--g---fd---e---f---fh---h---g---g---h---g---f---",
+            "search_volpiano": "gfdeffhhgghgf"
         },
         {
             "id": "020v2",
@@ -4125,8 +4125,8 @@ var data = {
             "mode": "r",
             "differentia": null,
             "full_text_standard": "Gloria*",
-            "volpiano": "1---h---g--h--k--k---k--lm--l---l---k--l---m--lk---l--l---l---hl--j--k---h--g--hg---f--g--h--k---h--h---4---l--k--l--n---k--h---5",
-            "search_volpiano": "hghkkklmllklmlklllhljkhghgfghkhhlklnkh"
+            "volpiano": "1--g--ghjkjhj--kjhj-hg---gl--kj--klkjh---jkjh-g--gh--jhgh-hg---ghg---f--g--jkj--jkmk---lmlk-",
+            "search_volpiano": "gghjkjhjkjhjhgglkjklkjhjkjhgghjhghhgghgfgjkjjkmklmlk"
         },
         {
             "id": "020v3",
@@ -4141,8 +4141,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Lux perpetua lucebit sanctis",
-            "volpiano": "1---g---h--k--k---k--lm--l---k--l--m--l--k---l---h---l--j--k---hg--h---g--f--g---h--j--k--h--h---4---l--k--l--n---k--hk---5",
-            "search_volpiano": "ghkkklmlklmlklhljkhghgfghjkhhlklnkhk"
+            "volpiano": "1--gk--k---kj--klkj---kjhg-hg-hj--jh---jk--hj---",
+            "search_volpiano": "gkkkjklkjkjhghghjjhjkhj"
         },
         {
             "id": "020v4",
@@ -4157,8 +4157,8 @@ var data = {
             "mode": "r",
             "differentia": null,
             "full_text_standard": "Lux perpetua lucebit ",
-            "volpiano": "1---d---c---d--d--ef---g--fe---d---f--g--h---g---fg--f--f---e---f--g---e--f---d--cd---d---4---h--h--hg--f---gh--g---5",
-            "search_volpiano": "dcddefgfedfghgfgffefgefdcddhhhgfghg"
+            "volpiano": "1--gh---g---ghk---kjk---lk-lm-l---lm---l---lklhg---hjh-",
+            "search_volpiano": "ghgghkkjklklmllmllklhghjh"
         },
         {
             "id": "020v5",
@@ -4173,8 +4173,8 @@ var data = {
             "mode": "r",
             "differentia": null,
             "full_text_standard": "Et eternitas temporum",
-            "volpiano": "1---g---g--hk--k---k--hk---kj--g---hk---h--gf---e--fg--g---g---h---k--k---k--h--k---g---g---gh--g---gh--g--g---h--gf---g--f--e---4---k--k--k--h---k--jh---5",
-            "search_volpiano": "gghkkkhkkjghkhgfefggghkkkhkggghgghgghgfgfekkkhkjh"
+            "volpiano": "1--lmnml--klkj---k--k--lj---kl--kl---lm--nl-ml---",
+            "search_volpiano": "lmnmlklkjkkljklkllmnlml"
         },
         {
             "id": "020v6",
@@ -4189,8 +4189,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Letitia sempiterna",
-            "volpiano": "1---d--d--c---d--f--e--d--dc---f--g---hg--g--fg--f---e---f--g--e---f--d--d---4---h--h--hg--f---gh--g---5",
-            "search_volpiano": "ddcdfeddcfghggfgfefgefddhhhgfghg"
+            "volpiano": "1--a---a---ced---d---f---fg---gfed---ed-dc---",
+            "search_volpiano": "aaceddffggfededdc"
         },
         {
             "id": "020v7",
@@ -4205,8 +4205,8 @@ var data = {
             "mode": "r",
             "differentia": null,
             "full_text_standard": "Letitia sempiterna",
-            "volpiano": "1---df--d--d---dc--d--f---f--f---c---f--dc--d--f--g--f---d--f--f--ef---g--fe---d---4---f--f--f--e--c--d---5",
-            "search_volpiano": "dfdddcdfffcfdcdfgfdffefgfedfffecd"
+            "volpiano": "1--d--cd--efg---f---fe---fg--ef--de--fe-ed-d---",
+            "search_volpiano": "dcdefgffefgefdefeedd"
         },
         {
             "id": "020v8",
@@ -4221,8 +4221,8 @@ var data = {
             "mode": "r",
             "differentia": null,
             "full_text_standard": "Gaudium et exultationem",
-            "volpiano": "1---h--g--h--kl--l---k--l--m---lk---l--l--l---hl--kj---hg--h---g--f--g---h--k---h--gh--h---4---l--k--l--n---k--h---5",
-            "search_volpiano": "hghkllklmlklllhlkjhghgfghkhghhlklnkh"
+            "volpiano": "1--l---l---l---j---l---m---l---kl---l---",
+            "search_volpiano": "llljlmlkll"
         },
         {
             "id": "020v9",
@@ -4237,8 +4237,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Pretiosa in conspectu domini",
-            "volpiano": "1---g--h---k--k--k---k--lm--l---l---k--l--m---l---k--l--l--l---l---hl--j--k---hg--h--k---h--gh--h---4---l--k--l--n---k--hk---5",
-            "search_volpiano": "ghkkkklmllklmlkllllhljkhghkhghhlklnkhk"
+            "volpiano": "1--g---fd---e---f---fh---h---g---",
+            "search_volpiano": "gfdeffhhg"
         },
         {
             "id": "020v10",
@@ -4253,8 +4253,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Sancti et justi in domino",
-            "volpiano": "1---gh--kj---kl--l---kl---mk--l--l---lh---l--j--k--hg--h---g---f--g---h--k---h--h---4---l--k--l--n--k--h---5",
-            "search_volpiano": "ghkjkllklmklllhljkhghgfghkhhlklnkh"
+            "volpiano": "1--k---k---k---klk---kjk---k---k---j---h---",
+            "search_volpiano": "kkkklkkjkkkjh"
         },
         {
             "id": "020v11",
@@ -4269,8 +4269,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Tristes erant apostoli*",
-            "volpiano": "1---g--k--k---l--kj---hk--k---k--k--k---gh-kh--jkj---j--k---lm--lml---j---kj--h--g--h--k---kj---g--fg--g---lml--l---mo--on--ml---ml--l---l--lmlk---m--l--k---klk--kjk---k--k--lm--l--kj---h--k---jk---l--lk---h--kj--h--g---f--gh--hg--fg---g--g---4---l--l--m--l---k--jh---5",
-            "search_volpiano": "gkklkjhkkkkkghkhjkjjklmlmljkjhghkkjgfgglmllmoonmlmllllmlkmlkklkkjkkklmlkjhkjkllkhkjhgfghhgfgggllmlkjh"
+            "volpiano": "1--d--fg--g---gh--g--fh---hk--gfg-gf---",
+            "search_volpiano": "dfggghgfhhkgfggf"
         },
         {
             "id": "020v12",
@@ -4285,8 +4285,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Sancti et justi in domino",
-            "volpiano": "1---e--fg---g---f--g--h---hg--g--f---h---k--k--k---k--k--jk---h--gf--gh--jh---h--g---4---k--k--j--k---h--ghg---5",
-            "search_volpiano": "efggfghhggfhkkkkkjkhgfghjhhgkkjkhghg"
+            "volpiano": "1--gkj---klkj---kjhg-hg-hj--j---jh--kl--k---",
+            "search_volpiano": "gkjklkjkjhghghjjjhklk"
         },
         {
             "id": "020v13",
@@ -4301,8 +4301,8 @@ var data = {
             "mode": "6",
             "differentia": "F1",
             "full_text_standard": "Non turbetur cor vestrum ",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--f---hk---k---k---kjhj---jh---h---kl---nl---mnmlk-llk---",
+            "search_volpiano": "fhkkkkjhjjhhklnlmnmlkllk"
         },
         {
             "id": "020v14",
@@ -4317,8 +4317,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Regem apostolorum*",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--k--klk---hjh-k--k---k--kh---hl--jk---",
+            "search_volpiano": "kklkhjhkkkkhhljk"
         },
         {
             "id": "020v15",
@@ -4333,8 +4333,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Tristes erant*",
-            "volpiano": "1---k--kj--hg--hj--hg---hg--g--g---gf--g---f--f---d--e--f---gh--hg---g--g---4---k--k--h--k---l--k---5",
-            "search_volpiano": "kkjhghjhghggggfgffdefghhgggkkhklk"
+            "volpiano": "1--gh--g---g--gh--g--g---ghk---klkj--kl--mlm-ml---",
+            "search_volpiano": "ghggghggghkklkjklmlmml"
         },
         {
             "id": "020v16",
@@ -4349,8 +4349,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Stabant justi",
-            "volpiano": "1---f---gh--h---h--g--h---e--f--g---fe--d--cd--d---f---f--f---fg--f--c---df--e--fe---d--d---4---h--h--g--f---g--ghg---5",
-            "search_volpiano": "fghhhghefgfedcddffffgfcdfefeddhhgfgghg"
+            "volpiano": "1--l---lmnml--klkj---k--kl--[k]---k--k--lj--kl---",
+            "search_volpiano": "llmnmlklkjkklkkkljkl"
         },
         {
             "id": "020v17",
@@ -4365,8 +4365,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Tristitia vestra*",
-            "volpiano": "1---f---gh--h---h--g--h---g---e--f--g--fe---d---f--d--e--- f--g--f--gF---fE--c---d--fe---d--d---3---h--h--h--g---f--g---4",
-            "search_volpiano": "fghhhghgefgfedfdefgfgFfEcdfeddhhhgfg"
+            "volpiano": "1--fgh--g---g--gh--g---g--gh---h--hgh---jgf-",
+            "search_volpiano": "fghggghggghhhghjgf"
         },
         {
             "id": "020v18",
@@ -4381,8 +4381,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Pretiosa*",
-            "volpiano": "1---g--gk--g--gf---ghg--fg--g--- Kk--lkj--k--k--k---l---l---k--k---k--lml--kjklk---hG---hkJ--k---g--g---3---k--k--j--k---h--g---5",
-            "search_volpiano": "ggkggfghgfggKklkjkkkllkkklmlkjklkhGhkJkggkkjkhg"
+            "volpiano": "1--gkj--klkj---kjhg-hg-hj--j---j--jh---jk--hj---",
+            "search_volpiano": "gkjklkjkjhghghjjjjhjkhj"
         },
         {
             "id": "020v19",
@@ -4397,8 +4397,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Lux perpetua*",
-            "volpiano": "1---g--gd---f--gh---g--g---g---g--g--hg--f---gh--h---h--k---g--g---fe--f---d---e--f--gh--h---g--g---3--- k--k--j--k---h--g---4",
-            "search_volpiano": "ggdfghggggghgfghhhkggfefdefghhggkkjkhg"
+            "volpiano": "1--d---d---dfed---dcdc---f---ghg---hgf---ghg---hjh-",
+            "search_volpiano": "dddfeddcdcfghghgfghghjh"
         },
         {
             "id": "020v20",
@@ -4413,8 +4413,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Filiae Jerusalem*",
-            "volpiano": "1---g--hk--k---k--j--h---k--k---g--gh--h---k---h--g---k--h---k-- g--e---g---f--g--f---e---3---k--k--k--h---k--jh---4",
-            "search_volpiano": "ghkkkjhkkgghhkhgkhkgegfgfekkkhkjh"
+            "volpiano": "1--dh--h ghgf---gh--g---hf--gh---gh---hjh--h---",
+            "search_volpiano": "dhhghgfghghfghghhjhh"
         },
         {
             "id": "020v21",
@@ -4429,8 +4429,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Virtute magna*",
-            "volpiano": "1---g--h--k--kl--l---j--kl--- l---k--l--m--lk---l--l---hl---kj--h--g--hg---f---g--h--k---h--gh--h---3---l--k--l--n--k--hk---4",
-            "search_volpiano": "ghkklljkllklmlkllhlkjhghgfghkhghhlklnkhk"
+            "volpiano": "1--g---g---h---k---k---h---k---j---g---h---h---h---",
+            "search_volpiano": "gghkkhkjghhh"
         },
         {
             "id": "020v22",
@@ -4445,8 +4445,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Isti sunt agni novelli*",
-            "volpiano": "1---d--dgF--f---f--cd--d---d--f--e--d---fE--c--c--c---fc--d--f---f--c---d---3---f--f--f--e---cd--d---4",
-            "search_volpiano": "ddgFffcdddfedfEcccfcdffcdfffecdd"
+            "volpiano": "1--d---ef---g---e---gh---fe---de---d---",
+            "search_volpiano": "defgeghfeded"
         },
         {
             "id": "020v23",
@@ -4461,8 +4461,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Ego sum vitis*",
-            "volpiano": "g--h---k---k--lm--l---4",
-            "search_volpiano": "ghkklml"
+            "volpiano": "1--d---d---f---g---f---gh---h---jh---g---fh---g---",
+            "search_volpiano": "ddfgfghhjhgfhg"
         },
         {
             "id": "020v24",
@@ -4477,8 +4477,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Candidi facti sunt*",
-            "volpiano": "1---g--h---k--kl--l---k---l--m---lK--l--l---l--hl--j---k--h-- g--hg---f--g---h--j---k--j--h---3---l--k--l--n---k--hk---4",
-            "search_volpiano": "ghkkllklmlKlllhljkhghgfghjkjhlklnkhk"
+            "volpiano": "1--gk---k---kj---hk---kj---g---g---g---hj---h---",
+            "search_volpiano": "gkkkjhkkjggghjh"
         },
         {
             "id": "020v25",
@@ -4493,8 +4493,8 @@ var data = {
             "mode": "7",
             "differentia": "C2",
             "full_text_standard": "Domine ostende nobis patrem",
-            "volpiano": "1---d--c---d---ef--g--fe---d--d--dc---fg---hG-- g---fg--f---f--g---e--f---d--d---3---k--k--kj--h---jk--j---4",
-            "search_volpiano": "dcdefgfedddcfghGgfgffgefddkkkjhjkj"
+            "volpiano": "1--h---f---fg---g---hjk---kj---hg---h---g---",
+            "search_volpiano": "hffgghjkkjhghg"
         },
         {
             "id": "020v26",
@@ -4509,8 +4509,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "Philippe qui videt me ",
-            "volpiano": "1---g--h---kl--l---l---k--l--m---lk--l--- l--l---l---h--l--j--k---hg--hg---f--g--h--k---h--h---3---l--k--l--n---k--hk---4",
-            "search_volpiano": "ghklllklmlkllllhljkhghgfghkhhlklnkhk"
+            "volpiano": "1--f---f---gh---hg---fh---gfd---fg---g---f---",
+            "search_volpiano": "ffghhgfhgfdfggf"
         }
     ],
     "21r": [
@@ -4527,8 +4527,8 @@ var data = {
             "mode": "3",
             "differentia": "*",
             "full_text_standard": "Tanto tempore vobiscum ",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--hj--g---h--g---h--g--f---g--h---",
+            "search_volpiano": "hjghghgfgh"
         },
         {
             "id": "021r2",
@@ -4543,8 +4543,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "Si cognovissetis me et patrem",
-            "volpiano": "1--h---j---kl--l--l---l--l--k---lm--k--lm---l--l---h--l---j---k--h--g---hg---f--g--h---ij---k--- j--h--h---3---l--k--l--n---k--h---4",
-            "search_volpiano": "hjklllllklmklmllhljkhghgfghijkjhhlklnkh"
+            "volpiano": "1--f---f---g---g---f---f---gh---hg---",
+            "search_volpiano": "ffggffghhg"
         },
         {
             "id": "021r3",
@@ -4559,8 +4559,8 @@ var data = {
             "mode": "3",
             "differentia": "A1",
             "full_text_standard": "Si diligitis me sermonum meum",
-            "volpiano": "1---g--h--k--k---k--k---k--lm--l---l--kl--m--lK---l--l--l--- h---l--j--k---h--g---hg---f--g---hij---k--ij---h--h---3---l--k--l--n---k--hk---4",
-            "search_volpiano": "ghkkkkklmllklmlKlllhljkhghgfghijkijhhlklnkhk"
+            "volpiano": "1--h--hj--g---f--g--h---",
+            "search_volpiano": "hhjgfgh"
         },
         {
             "id": "021r4",
@@ -4575,8 +4575,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Exsultet caelum*",
-            "volpiano": "1---e--f--g--f--- g--f--ef-ghg---ef---g--f--df---fc---efE--d--c---Ff--d---f--e---3---h--g--h--k---g--e---4",
-            "search_volpiano": "efgfgfefghgefgfdffcefEdcFfdfehghkge"
+            "volpiano": "1--f---f---f---f---g---f---gh---hg---",
+            "search_volpiano": "ffffgfghhg"
         },
         {
             "id": "021r5",
@@ -4591,8 +4591,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Pretiosa in conspectu*",
-            "volpiano": "1---g--gk--h--- gf--gh--g---lK--j---lm--lK---kl--k---kj--h--k---lK---kj---kh--j--h---g--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "ggkhgfghglKjlmlKklkkjhklKkjkhjhggkkjkhg"
+            "volpiano": "1--h--hj--g---g--h--g---",
+            "search_volpiano": "hhjgghg"
         },
         {
             "id": "021r6",
@@ -4607,8 +4607,8 @@ var data = {
             "mode": "8",
             "differentia": "C2",
             "full_text_standard": "Ego sum via veritas et vita",
-            "volpiano": "1---k--kj--hg---hk--h---h--g---g--g---gh--g---g---g--dc--b---d--ef--f---e--e---3---h--h--g--h---f--ef---4",
-            "search_volpiano": "kkjhghkhhgggghgggdcbdeffeehhghfef"
+            "volpiano": "1--gl---l---m---l---k---kh---km---l---",
+            "search_volpiano": "gllmlkkhkml"
         },
         {
             "id": "021r7",
@@ -4623,8 +4623,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Domine ostende*",
-            "volpiano": "1---h--k--h---k--gh---f--h--k--l---j--k--h---h--g---h---h--gf--f---f--gh--h---g--g--- k--k--j--k---h--g---4",
-            "search_volpiano": "hkhkghfhkljkhhghhgfffghhggkkjkhg"
+            "volpiano": "1--c---d---dhj---h---h---h---h---h---h---h---hg---hjhg-",
+            "search_volpiano": "cddhjhhhhhhhhghjhg"
         },
         {
             "id": "021r8",
@@ -4639,8 +4639,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Tristes eranti*",
-            "volpiano": "1---df--fe---fe--d--fE--cd--d---d---d---df--d---d--f--d--ef---dfE--d--c---d--c--d---d---df--d--- f--d---d---f--d---f--f--ghghijh---h--h--g--f---e--f--gF--e---fE--dc--c---df--f---f---d--fE-- c---dc---cd--f---f--c--ef--d---3---f--f--f--e---c--d---4",
-            "search_volpiano": "dffefedfEcdddddfddfdefdfEdcdcdddfdfddfdffghghijhhhgfefgFefEdccdfffdfEcdccdffcefdfffecd"
+            "volpiano": "1--g---gl---l---lj---l---klj---kjhg-hhg---",
+            "search_volpiano": "ggllljlkljkjhghhg"
         },
         {
             "id": "021r9",
@@ -4655,8 +4655,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Pretiosa in conspectu*",
-            "volpiano": "1---dfe---fd--fd--cd-d---d---d---d-- ed---e--d--c---d---cd--d--d---d---fE--d---f--d---f--d---d--f--d--ef--ghghijh---h---h--g---f--- f--fe---f--gF---f--f--c---df--f---f---fe--d--fE--c---d---c---d--e--fE---c--cfE--d---3--- f--f--f--e---c--d---4",
-            "search_volpiano": "dfefdfdcdddddededcdcddddfEdfdfddfdefghghijhhhgfffefgFffcdffffedfEcdcdefEccfEdfffecd"
+            "volpiano": "1--lmnml--kj---klkj---k--k---k--k l--k---",
+            "search_volpiano": "lmnmlkjklkjkkkklk"
         },
         {
             "id": "021r10",
@@ -4671,8 +4671,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "Si manseritis in me ",
-            "volpiano": "1---dfe---fd--fd---cd--d---d---df---d---fE--d---ef--de--d--c---d--c--- d---d--d--df--d---fE--d---ef---ghghijh--h---hG---h--g---f--fe--df--fE--c---df-- f---f---fe--d--fE--c---dc---cdC---fe--c---cfE--d--d---3---f--f--f--e---c--d---4",
-            "search_volpiano": "dfefdfdcddddfdfEdefdedcdcddddfdfEdefghghijhhhGhgffedffEcdffffedfEcdccdCfeccfEddfffecd"
+            "volpiano": "1--f---fgf---ded-f---ef---g---hg---hj-h---",
+            "search_volpiano": "ffgfdedfefghghjh"
         },
         {
             "id": "021r11",
@@ -4687,8 +4687,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "O crux ave*",
-            "volpiano": "1---dfe---fd--fd--- cd--d---d---df--d---f--ed---e--d--c---d---cd--d--d---d---f--d---ef--ghghijh---h-- g---f---fe--df---f--dfdc--c---df--f---fE---d--e---fE--d---dc---d--f---f--dfdc--c---f--f--fe--- d---fd--cd--dc---cd---fE--c---cfE--d---3---f--f--f--e---c--d---4",
-            "search_volpiano": "dfefdfdcddddfdfededcdcddddfdefghghijhhgffedffdfdccdfffEdefEddcdffdfdccfffedfdcddccdfEccfEdfffecd"
+            "volpiano": "1--h--gf---gh-ghghge-fe-g--g--g---g--g---",
+            "search_volpiano": "hgfghghghgefeggggg"
         },
         {
             "id": "021r12",
@@ -4703,8 +4703,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Hoc signum crucis",
-            "volpiano": "1---dfe---fe--cd--d---d--d--- d--ef---df--d--c---d---cd---d--e--f--ghghijh---h--g---fe---d--f--dfdc--c---f--f--fe---d---fd--cd--dc--- cd---fE--c---dfE--d---3---f--f--f--e---c--d---4",
-            "search_volpiano": "dfefecdddddefdfdcdcddefghghijhhgfedfdfdccfffedfdcddccdfEcdfEdfffecd"
+            "volpiano": "1--gk---h---hg---f---gh---g---g---j---k---l---kh---k---j---",
+            "search_volpiano": "gkhhgfghggjklkhkj"
         },
         {
             "id": "021r13",
@@ -4719,8 +4719,8 @@ var data = {
             "mode": "1",
             "differentia": "*",
             "full_text_standard": "O crux splendidior cunctis",
-            "volpiano": "1---df-fe---fd---fE--cd--d---d---d--d--d--d--ef---df--d-- c---d--cd--d---fE--d--ef--ghghijh---h---h--g---f--fe--df---fE--c---df--f---fE--d---fd-- cd--dC---c---d---f--f---c--cf--d---3---f--f--f--e---c--d---4",
-            "search_volpiano": "dffefdfEcdddddddefdfdcdcddfEdefghghijhhhgffedffEcdfffEdfdcddCcdffccfdfffecd"
+            "volpiano": "1--gd---",
+            "search_volpiano": "gd"
         }
     ],
     "21v": [
@@ -4737,8 +4737,8 @@ var data = {
             "mode": "1",
             "differentia": "G1",
             "full_text_standard": "Adoramus te Christe",
-            "volpiano": "1---dfe---fd--fd--cd--d---f---d---d--ef--dfE---d-- c---d--cd--df--d--d---f--f--ghghijh---h---g--f--fe---df--fE--c---df--f---fE---d--fE--cd--- d---ca--c--d---fe--c---cf--d---3---f--f--f--e---c--d---4",
-            "search_volpiano": "dfefdfdcddfddefdfEdcdcddfddffghghijhhgffedffEcdfffEdfEcddcacdfeccfdfffecd"
+            "volpiano": "1--fg---g---g---gh---g---g---gh---g---g---g---h---g---fef---def---",
+            "search_volpiano": "fgggghggghggghgfefdef"
         },
         {
             "id": "021v2",
@@ -4753,8 +4753,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Dulce lignum dulces clavos",
-            "volpiano": "1---df-fe---fE--d---eD--cd--d--- df--d--d---ef--df---d--c---d--cd---d---df--d---f--d--d---f--f---ghghijh---h---g-- f--fe---df--fE--c---f--f--fe---d--fd--cd--d---d---dc---d--f--f--dfdc--c---f--f--f---fe--- d--fd--cd--dc---cd---fe---cf--d--d---3---f--f--f--e---c--d---4",
-            "search_volpiano": "dffefEdeDcdddfddefdfdcdcdddfdfddffghghijhhgffedffEcfffedfdcddddcdffdfdccffffedfdcddccdfecfddfffecd"
+            "volpiano": "1--d---d---f---g---fgh---h---f---h---k---h---",
+            "search_volpiano": "ddfgfghhfhkh"
         },
         {
             "id": "021v3",
@@ -4769,8 +4769,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Hoc signum crucis erit",
-            "volpiano": "1---df-fe---fe--cd--d---d--d--ef--- df--d--c---d---cd--d--d---fE--d---d---fE---d--ef--ghghijh---h---hG--g---fE--df--fE--c---d-- f--f--fe---d---fd--cd--d---cB--c--d--f---f--c--Ff--d---3---f--f--f--e---c--d---4",
-            "search_volpiano": "dffefecddddefdfdcdcdddfEddfEdefghghijhhhGgfEdffEcdfffedfdcddcBcdffcFfdfffecd"
+            "volpiano": "1--dh---hk---h---g---hg---g---e---f---g---fe---d---d---",
+            "search_volpiano": "dhhkhghggefgfedd"
         }
     ],
     "22r": [
@@ -4787,8 +4787,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Hoc signum crucis erit",
-            "volpiano": "1---d-dfe---fFF---d--fd--cd--d--- dc---d--fe---fg--fe--dc---d--cd---f---f--d--d---d--df--d--d---ef--ghghijh---h--hG--g---f--f--- fg--fe--c---d---f--f---fE--d---fd--cd--dfca---a--c---d--f--f---c---cfE--d---3---f--f--f--e---c--d---4",
-            "search_volpiano": "ddfefFFdfdcdddcdfefgfedcdcdffddddfddefghghijhhhGgfffgfecdfffEdfdcddfcaacdffccfEdfffecd"
+            "volpiano": "1--d---d---f---g---fgh---h---h---h---g---ef---g---fe---d---d---",
+            "search_volpiano": "ddfgfghhhhgefgfedd"
         },
         {
             "id": "022r2",
@@ -4803,8 +4803,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Cum sederit filius",
-            "volpiano": "1---df-fe---fE--d---fd--cd--d---df--d--d---d---efgfe--d--df---dC--c---d---cd--d---d---f--d---d--f-- d---ef--ghghijh---h--gF---f--fe---df---f--dfdc--c---f---f--f---f---d--fd--cd--dfca--- c---d---f--fe--c---cfE--d---3---f--f--f--f---c--d---4",
-            "search_volpiano": "dffefEdfdcdddfdddefgfeddfdCcdcdddfddfdefghghijhhgFffedffdfdccffffdfdcddfcacdffeccfEdffffcd"
+            "volpiano": "1--g---c---d---dhj---h---h---h---h---h---",
+            "search_volpiano": "gcddhjhhhhh"
         },
         {
             "id": "022r3",
@@ -4819,8 +4819,8 @@ var data = {
             "mode": "7",
             "differentia": "C1",
             "full_text_standard": "Helena Constantini mater     ",
-            "volpiano": "1---dfe---fe--d---fd--cd--d---d---df--d--- d---c--d--f--ed---e--d--c---d---cd--d--d---d--f--d---d--e--f--ghghijh---h--hG--g---fE--df---f--dfdc--c---f---f--fe--d---f---f--cd--dfca---c---d--f--c---cf--d--d---3---f--f--f--e---c--d---4",
-            "search_volpiano": "dfefedfdcddddfddcdfededcdcddddfddefghghijhhhGgfEdffdfdccfffedffcddfcacdfccfddfffecd"
+            "volpiano": "1--cf---fe---d---e---d---d---d---d---",
+            "search_volpiano": "cffededddd"
         },
         {
             "id": "022r4",
@@ -4835,8 +4835,8 @@ var data = {
             "mode": "1",
             "differentia": "A1",
             "full_text_standard": "Tunc praecepit eos omnes",
-            "volpiano": "1---df-fe---fd--fd--cd--d---df--d--d---ef--df---d--c---d--cd---d---d--df--d--d---  df--d--d---ef--ghghijh---hG---h--g---fg--f--f---fe--df---f--c---f--f---d---fd--cd--dfcb---a-- c--d---f---c---cfE--d--d---3---f--f--f--e---c--d---4",
-            "search_volpiano": "dffefdfdcdddfddefdfdcdcddddfdddfddefghghijhhGhgfgfffedffcffdfdcddfcbacdfccfEddfffecd"
+            "volpiano": "1--d---dc---f---g---f---gh---h---",
+            "search_volpiano": "ddcfgfghh"
         },
         {
             "id": "022r5",
@@ -4851,8 +4851,8 @@ var data = {
             "mode": "1",
             "differentia": "A1",
             "full_text_standard": "Mors et vita apposita",
-            "volpiano": "1---dfe--f--f---f--f--f---f--FFf---fd--dfe--f---g--gf-ghgh--hg---ef---g--f---fc--d--dc--def-gd-dc--- f-fed--fg--g-fgh-kg-hg---egef--fe---3---dh--gh--gfgfe---4",
-            "search_volpiano": "dfeffffffFFffddfefggfghghhgefgffcddcdefgddcffedfggfghkghgegeffedhghgfgfe"
+            "volpiano": "1--glm--l---lmkj--klk-lm-l---gl--l--l---l---lmlk--kjkh---",
+            "search_volpiano": "glmllmkjklklmlglllllmlkkjkh"
         },
         {
             "id": "022r6",
@@ -4867,8 +4867,8 @@ var data = {
             "mode": "2",
             "differentia": "D1",
             "full_text_standard": "Cumque ascendisset Judas",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--l--lmnml--klkj---k--k--k--k---k--k---",
+            "search_volpiano": "llmnmlklkjkkkkkk"
         },
         {
             "id": "022r7",
@@ -4883,8 +4883,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Orabat Judas deus deus meus",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--g---gk---h---gj---jg---hj-klk-jkl---kjh---kh---jkjhg-h-gh---jh-",
+            "search_volpiano": "ggkhgjjghjklkjklkjhkhjkjhghghjh"
         }
     ],
     "22v": [
@@ -4901,8 +4901,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "O crux ave*",
-            "volpiano": "1---g--gkj--k--l--k--hk---kjkl--hjkjhg-h--hg---k---k--kj--h---kj--ghkjh-j--hg---3---l--ml---l--lo---o-- n--noponm-nml-ml---mno--o--nl-lnmn--ml---m--km--mnm--kl---ljkl--lmj-kjh---lmlk-kjh-jkjh---ghkhg-h--hg---4",
-            "search_volpiano": "ggkjklkhkkjklhjkjhghhgkkkjhkjghkjhjhglmllloonnoponmnmlmlmnoonllnmnmlmkmmnmklljkllmjkjhlmlkkjhjkjhghkhghhg"
+            "volpiano": "1--fg--jhjhg-hg-hj--kl-k---kl--k--k---kjh---h--ghg---",
+            "search_volpiano": "fgjhjhghghjklkklkkkjhhghg"
         },
         {
             "id": "022v2",
@@ -4917,8 +4917,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Adoramus te Christe",
-            "volpiano": "1---lmnml--kj--klk-kj---k--kl--k---k--k---lj--kl--kl---l--lm-nm--ml---klk-k---klk--l---l--lm--l--l---lmlmlk-- lk--kl-ml-mnm---lk-lmlm--lkj-kj---3---l--mk---4",
-            "search_volpiano": "lmnmlkjklkkjkklkkkljklklllmnmmlklkkklklllmlllmlmlklkklmlmnmlklmlmlkjkjlmk"
+            "volpiano": "1--glm---l---lmkj---klk-lm-l---",
+            "search_volpiano": "glmllmkjklklml"
         },
         {
             "id": "022v3",
@@ -4933,8 +4933,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "Helena sancta dixit at Judam",
-            "volpiano": "1---d--fgh--g---gh--h--hg-hkg-gf--- hf--ghg--h--jk---hG--hgf-gh--g--g---gh--g--ghkjh-jkjh---g--ghkhg-h---ghjh---fh--klk--k---kJ---klk--kl-- lk-klh--hg---ghj--kh-hg--k---kjkjhg--hghgf-g--gf---4---fg-hkg---g--ghgf--g--fgh--fe--dfc-dfdfed---d---fgh--g-- gh-jg-hg-gf---fh-k-kl--k---jklkjh-jkjh--ghkhg-h--hg---4",
-            "search_volpiano": "dfghgghhhghkggfhfghghjkhGhgfghggghgghkjhjkjhgghkhghghjhfhklkkkJklkkllkklhhgghjkhhgkkjkjhghghgfggffghkggghgfgfghfedfcdfdfeddfghgghjghggffhkklkjklkjhjkjhghkhghhg"
+            "volpiano": "1--l--lmnml--klkj---k--k--k--k---",
+            "search_volpiano": "llmnmlklkjkkkk"
         },
         {
             "id": "022v4",
@@ -4949,8 +4949,8 @@ var data = {
             "mode": "r",
             "differentia": null,
             "full_text_standard": "Hoc signum crucis erit",
-            "volpiano": "1---k---k---k---k--k--k---kj--klk- jkh-hg---hk--k--kh--kl--kj--jh---jk---hkJ--gh-jh--hg---g--fg---g--g--g---g--g--hkhg-hjh---ghF---gh--hkj- klkjh--hkhg-hg---3---fg-hkg---4",
-            "search_volpiano": "kkkkkkkjklkjkhhghkkkhklkjjhjkhkJghjhhggfgggggghkhghjhghFghhkjklkjhhkhghgfghkg"
+            "volpiano": "1--ffg--f--f---g---ghd---d---dg--f---fe---",
+            "search_volpiano": "ffgffgghdddgffe"
         },
         {
             "id": "022v5",
@@ -4965,8 +4965,8 @@ var data = {
             "mode": "r",
             "differentia": null,
             "full_text_standard": "Cum dominus ad judicandum",
-            "volpiano": "1---g--gk-kJ--khkh---Kkjg--ghkjh-j--hghjh---h--gf--g--hk--Kkjg--kl--- kj-jhj--hg---g--hgh--gh---ghf-fd---g--f--g---gh-khj--hg---h--k--jkJ---h--g--h--g---f---h--h--k--g---gf-fE-- fd---fd---f--gef---fd---dfe--f---hkJ--g---gh-kj-klk--h--gf--gh-khj--hg---4",
-            "search_volpiano": "ggkkJkhkhKkjgghkjhjhghjhhgfghkKkjgklkjjhjhgghghghghffdgfgghkhjhghkjkJhghgfhhkggffEfdfdfgeffddfefhkJgghkjklkhgfghkhjhg"
+            "volpiano": "1--gk--kj---jg--hj--j---j--jh---",
+            "search_volpiano": "gkkjjghjjjjh"
         },
         {
             "id": "022v6",
@@ -4981,8 +4981,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Adoramus te Christe",
-            "volpiano": "1---k---kj-jH---hk--k--k--- jh--jk--hkJ---gh--gf---g--hkh---klK--k---kj--jh--jk--hk---ghg-efd-dh-kg--hg--g---3---h--k--klK---4",
-            "search_volpiano": "kkjjHhkkkjhjkhkJghgfghkhklKkkjjhjkhkghgefddhkghgghkklK"
+            "volpiano": "1--gl---l---lmkj---cdc-de-d---d---def---d---c---c---",
+            "search_volpiano": "glllmkjcdcdedddefdcc"
         },
         {
             "id": "022v7",
@@ -4997,8 +4997,8 @@ var data = {
             "mode": "r",
             "differentia": null,
             "full_text_standard": "Adoramus te Christe",
-            "volpiano": "1---d--d--d--fgh--g--g---gh--g--g---gh--h--hg-hkg-gf---Kkjh--jklkjh-jkjh---g--ghkhg-h--hg---h---klk--kh--- klj--kl---lk-kl--hjkjhg-h--hg---h--hkjg--Kk---lkj-kjhg--hghgf-g--gf---3---fh---hjgh-g--g--ghgf---g---fef--dfc---dfefed---ghgf-gh--g---ghkjh-jkjh--ghkhg-h--hg---4",
-            "search_volpiano": "dddfghggghggghhhghkggfKkjhjklkjhjkjhgghkhghhghklkkhkljkllkklhjkjhghhghhkjgKklkjkjhghghgfggffhhjghggghgfgfefdfcdfefedghgfghgghkjhjkjhghkhghhg"
+            "volpiano": "1--lmnml--kj--klkj---k--k--k---kl--k--k---",
+            "search_volpiano": "lmnmlkjklkjkkkklkk"
         },
         {
             "id": "022v8",
@@ -5013,8 +5013,8 @@ var data = {
             "mode": "r",
             "differentia": null,
             "full_text_standard": "Quia per crucem tuam redemisti",
-            "volpiano": "1---kj--klk-jkh-hg---hk--k-- kJ---kl--k--k---kj---kJ--jk---hk---g--gh-jh--hg---g---fg--gh--g--g---g--g--g--hkhg-hjh---ghf--gh-- hkj-kljhg--hkhg-hg---3---fh---hkjg---4",
-            "search_volpiano": "kjklkjkhhghkkkJklkkkjkJjkhkgghjhhggfgghggggghkhghjhghfghhkjkljhghkhghgfhhkjg"
+            "volpiano": "1--ggh---g---g---eg---fgh---fe---dec---de-fdf-ed-",
+            "search_volpiano": "gghggegfghfedecdefdfed"
         },
         {
             "id": "022v9",
@@ -5029,8 +5029,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Omnis terra adoret te",
-            "volpiano": "1---d--d--g---f--f---c--cd--d---f---d--f--f--- c--c--c---fc--d--fE---d--d---3---f--f--f--e---c--d---4",
-            "search_volpiano": "ddgffccddfdffcccfcdfEddfffecd"
+            "volpiano": "1--gk--kj--klkj---kjhg-hg-hj--j--j--j---j--jh---",
+            "search_volpiano": "gkkjklkjkjhghghjjjjjjh"
         },
         {
             "id": "022v10",
@@ -5045,8 +5045,8 @@ var data = {
             "mode": "r",
             "differentia": null,
             "full_text_standard": "Omnis terra adoret te",
-            "volpiano": "1---f--f--f---f--f---f--f--f--Ffedc-de-fd---4",
-            "search_volpiano": "ffffffffFfedcdefd"
+            "volpiano": "1--c---ded---e---ghgh---ge---fgfg---ed---",
+            "search_volpiano": "cdedeghghgefgfged"
         },
         {
             "id": "022v11",
@@ -5061,8 +5061,8 @@ var data = {
             "mode": "r",
             "differentia": null,
             "full_text_standard": "Psalmum dicat nomini tuo",
-            "volpiano": "1---kj--h--j---k--kh--g---g--g---gh--g--g---f--gh--h---k---kj--h---j--k--h--g---hgf--gh--h--- g--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "kjhjkkhgggghggfghhkkjhjkhghgfghhggkkjkhg"
+            "volpiano": "1--h--gf---ghghge-fe-g---gh--g---g---g--gf--gh--gf---",
+            "search_volpiano": "hgfghghgefegghggggfghgf"
         },
         {
             "id": "022v12",
@@ -5077,8 +5077,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Hoc signum crucis",
-            "volpiano": "1---h--g--h---k--k---k--k--lm--l---l--kl--m--lk---l--l---h--- l--j--k---h--g---hg---fg--h--k---h--h---3---l--k--l--n---k--h---4",
-            "search_volpiano": "hghkkkklmllklmlkllhljkhghgfghkhhlklnkh"
+            "volpiano": "1--d---ff---df---fd---f---ghg---",
+            "search_volpiano": "dffdffdfghg"
         },
         {
             "id": "022v13",
@@ -5093,8 +5093,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Helena Constantini mater     ",
-            "volpiano": "1---k--k--k---?--j--- h--j---kh--g---f--h---k--h--jkJ---h--h---j--h--g--fg--g---3---k--k--h--k---l--k---4",
-            "search_volpiano": "kkkjhjkhgfhkhjkJhhjhgfggkkhklk"
+            "volpiano": "1--dh--h--h---h ghgf---g--g---g---g--g---",
+            "search_volpiano": "dhhhhghgfggggg"
         },
         {
             "id": "022v14",
@@ -5109,8 +5109,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "O crux ave*",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--f---ef---ghge-fgfecd-cd-f---dfe---fg-gfe---",
+            "search_volpiano": "fefghgefgfecdcdfdfefggfe"
         },
         {
             "id": "022v15",
@@ -5125,8 +5125,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Hoc signum crucis",
-            "volpiano": "1---d--c--d---ef--g--fe---d--d---f--h---g--h--gf--g--g---d--dC--f--e---d-- d---h--h--hg--f---gh--g---4",
-            "search_volpiano": "dcdefgfeddfhghgfggddCfeddhhhgfghg"
+            "volpiano": "1--h--gf---ghghge-fe-g--gh--g---g--gf--gh---gf---",
+            "search_volpiano": "hgfghghgefegghgggfghgf"
         },
         {
             "id": "022v16",
@@ -5141,8 +5141,8 @@ var data = {
             "mode": "2",
             "differentia": "D1",
             "full_text_standard": "Crucem sanctam subiit qui infernum",
-            "volpiano": "1---g--f--f---f--gh--hg---f--gh---gfd--f--g---g--f--f---4",
-            "search_volpiano": "gfffghhgfghgfdfggff"
+            "volpiano": "1--gl---l---l---mlm---kl---lkl---mlm-ml---kl---n---onl---mnm-",
+            "search_volpiano": "glllmlmkllklmlmmlklnonlmnm"
         }
     ],
     "23r": [
@@ -5159,8 +5159,8 @@ var data = {
             "mode": "4",
             "differentia": "E2",
             "full_text_standard": "In ferventis olei dolium",
-            "volpiano": "1---f--- g--h---h--hk--h--h---h--g--f---gh--hg---4",
-            "search_volpiano": "fghhhkhhhgfghhg"
+            "volpiano": "1--l--lmnml--klkj---k--kl--k--k---",
+            "search_volpiano": "llmnmlklkjkklkk"
         },
         {
             "id": "023r2",
@@ -5175,8 +5175,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Tibi Christe splendor*",
-            "volpiano": "1---k--k--k---k--k--Kkjhg---hj-kh---4",
-            "search_volpiano": "kkkkkKkjhghjkh"
+            "volpiano": "1--gk---h---hg---f---gh---g---j---k---l---k---",
+            "search_volpiano": "gkhhgfghgjklk"
         },
         {
             "id": "023r3",
@@ -5191,8 +5191,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Stetit angelus*",
-            "volpiano": "1---g--g---g--j---k--l---k--m---l--n--m---l--k--k--lm---l--k--l---k--g--fg---g--g---g--- g--j---k---l--l---mnM--m---k---m---l--l--kl---j--kJ---hgf---gh--h--g--g---3---l--l--m--l---k--jh---4",
-            "search_volpiano": "gggjklkmlnmlkklmlklkgfgggggjkllmnMmkmllkljkJhgfghhggllmlkjh"
+            "volpiano": "1--g---lj---lm-l---l---lm---l---",
+            "search_volpiano": "gljlmlllml"
         },
         {
             "id": "023r4",
@@ -5207,8 +5207,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Regem archangelorum*",
-            "volpiano": "1---h--gh--h---g--g---gh--g---f---g--ghG---f--f---fh--k---l--j---k--hg---gf--d---e---f-- g--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "hghhggghgfgghGfffhkljkhggfdefggkkjkhg"
+            "volpiano": "1--k---k---k---h---k---j---g---g---",
+            "search_volpiano": "kkkhkjgg"
         },
         {
             "id": "023r5",
@@ -5223,8 +5223,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Tibi Christe splendor*",
-            "volpiano": "1---kj--h--k---k--kh--g---4",
-            "search_volpiano": "kjhkkkhg"
+            "volpiano": "1--j---k---l---m---l---lm---k---h---",
+            "search_volpiano": "jklmllmkh"
         },
         {
             "id": "023r6",
@@ -5239,8 +5239,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Concussum est mare*",
-            "volpiano": "1---k--k--k---k--k---k--k---k--Kkjhg---4",
-            "search_volpiano": "kkkkkkkkKkjhg"
+            "volpiano": "1--lj---lm---l---l---",
+            "search_volpiano": "ljlmll"
         },
         {
             "id": "023r7",
@@ -5255,8 +5255,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Stetit angelus*",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--h---fg---g---g---h---g---fe---",
+            "search_volpiano": "hfggghgfe"
         },
         {
             "id": "023r8",
@@ -5271,8 +5271,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Locutus est ad me* ",
-            "volpiano": "1---k--k--k---k--k---k--Kkjhg---4",
-            "search_volpiano": "kkkkkkKkjhg"
+            "volpiano": "1--g---g---g---g---gd---fh---fg---ghg---",
+            "search_volpiano": "gggggdfhfgghg"
         },
         {
             "id": "023r9",
@@ -5287,8 +5287,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Audivi vocem*",
-            "volpiano": "1---d--c--d---ef---4",
-            "search_volpiano": "dcdef"
+            "volpiano": "1--c---cd---d---f---f---d---c---",
+            "search_volpiano": "ccddffdc"
         },
         {
             "id": "023r10",
@@ -5303,8 +5303,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Ostendit mihi angelus*",
-            "volpiano": "1---k--k--k---k--k--Kkjhg-hj-kh---4",
-            "search_volpiano": "kkkkkKkjhghjkh"
+            "volpiano": "1--d---c---d---f---g---e---f---d---",
+            "search_volpiano": "dcdfgefd"
         },
         {
             "id": "023r11",
@@ -5319,8 +5319,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Stetit angelus*",
-            "volpiano": "1---g--g--gfed---f---f--gh--h--g---g--g--hk---g--ghgf--f---kj---h--hl--j--k--h--g---g---gh--fe--d--- ef--gh---h--g--gfed---e--fg--g--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "gggfedffghhggghkgghgffkjhhljkhggghfedefghhggfedefgggkkjkhg"
+            "volpiano": "1--f---g---h--h--h--h---h---h--h--h---",
+            "search_volpiano": "fghhhhhhhh"
         },
         {
             "id": "023r12",
@@ -5335,8 +5335,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "Ipse praeibit ante illum",
-            "volpiano": "1---g---fd--e--fg--g---g--h--- g--h--g---f---gF--gh---k--k--jk--h--g---gf--d--e--fgF---g--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "gfdefggghghgfgFghkkjkhggfdefgFggkkjkhg"
+            "volpiano": "1--h---hg---h---hg---h---fe---d---fg---f---e---",
+            "search_volpiano": "hhghhghfedfgfe"
         },
         {
             "id": "023r13",
@@ -5351,8 +5351,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Joannes est nomen ejus",
-            "volpiano": "1---h--j--k--l--k---h---k---k--g--g--g---k--k---kJ---g---hk--k---kj--h--j--h---g--g---3--- l--l--m--l---k--j---4",
-            "search_volpiano": "hjklkhkkgggkkkJghkkkjhjhggllmlkj"
+            "volpiano": "1--f---gh--h--h---h--h--h--h---",
+            "search_volpiano": "fghhhhhhh"
         },
         {
             "id": "023r14",
@@ -5367,8 +5367,8 @@ var data = {
             "mode": "1",
             "differentia": "F1",
             "full_text_standard": "Ex utero senectutis",
-            "volpiano": "1---g--gd--fg--ghg---f--gh---h---f--h--hk---ghG--g---f---g--h--g---f---g--fe--d--- f--f--df---c--d---fg--gF---h--hkJ---hg--f---gh--h--g--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "ggdfgghgfghhfhhkghGgfghgfgfedffdfcdfggFhhkJhgfghhggkkjkhg"
+            "volpiano": "1--f---gh---hj---h---hg---gh---fe---d---",
+            "search_volpiano": "fghhjhhgghfed"
         },
         {
             "id": "023r15",
@@ -5383,8 +5383,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "Iste puer magnus coram",
-            "volpiano": "1---fe--de--e--- e---e--fe--de--eg-hd-fe---de--gf-fe--de-ceg---f--ghgh--fe---de---g--e--eh--hk--h--h---3---hG---Hhge-fed-fgh-- gh--h---h-hge-fdc-d-de-fgfed-e-egh-hg-hgf-gfed-h-hfg--gf---df--ef-gfg--fe---4",
-            "search_volpiano": "fedeeeefedeeghdfedegffedecegfghghfedegeehhkhhhGHhgefedfghghhhhgefdcddefgfedeeghhghgfgfedhhfggfdfefgfgfe"
+            "volpiano": "1--f---g---h--h---h--h---",
+            "search_volpiano": "fghhhh"
         }
     ],
     "23v": [
@@ -5401,8 +5401,8 @@ var data = {
             "mode": "5",
             "differentia": "A1",
             "full_text_standard": "Nazaraeus vocabitur puer",
-            "volpiano": "1---dh--hG--gfe--- de-efgh--g---hj--h--gf--gh---gF--df--efghG--df---efg--fe--d---d--f---h-fge-dfbde---3---h---Hhge---4",
-            "search_volpiano": "dhhGgfedeefghghjhgfghgFdfefghGdfefgfeddfhfgedfbdehHhge"
+            "volpiano": "1--h---f---hk---k---k---kh---klkj---klkl-lk---",
+            "search_volpiano": "hfhkkkkhklkjklkllk"
         },
         {
             "id": "023v2",
@@ -5417,8 +5417,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Ut queant laxis*",
-            "volpiano": "1---dh--h--gfe---dfghG--g---h---h--gf--g---g---g--fd--e--fg--fdf--h-fge-df-e---4",
-            "search_volpiano": "dhhgfedfghGghhgfgggfdefgfdfhfgedfe"
+            "volpiano": "1--k--k--klk---hjh-kl--k---k---k---k--kh--hl---",
+            "search_volpiano": "kkklkhjhklkkkkkhhl"
         },
         {
             "id": "023v3",
@@ -5433,8 +5433,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Fuit homo missus a deo",
-            "volpiano": "1---k--k--k---k--k--Kkjhg-hj-kh---4",
-            "search_volpiano": "kkkkkKkjhghjkh"
+            "volpiano": "1--cd---dfdc---cd---fg---f---ef---gfgfe-de---fef-ed---",
+            "search_volpiano": "cddfdccdfgfefgfgfedefefed"
         },
         {
             "id": "023v4",
@@ -5449,8 +5449,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Ingresso Zacharia templum",
-            "volpiano": "1---g---gfd--efg---g--g--hg--f---g--h---kj--hg---h--h--hg---fg--g---g--gk--klK--- lk-k--hkj--ghgf--f---f--g--h---hj-kj---h---ghgf--fe--fgf---g--g---g---gfd--e---f--gh--g---ghgf--g--- h---h---h--g--hjkjhg---g--gh---hkhg-hg---e--fg--g--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "ggfdefggghgfghkjhghhhgfggggkklKlkkhkjghgfffghhjkjhghgffefgfggggfdefghgghgfghhhghjkjhggghhkhghgefgggkkjkhg"
+            "volpiano": "1--cd--efg-f---gh--g---f--fe--fg---ef---d--de---fe-",
+            "search_volpiano": "cdefgfghgffefgefddefe"
         },
         {
             "id": "023v5",
@@ -5465,8 +5465,8 @@ var data = {
             "mode": "3",
             "differentia": null,
             "full_text_standard": "Regem praecursoris dominum",
-            "volpiano": "1---gF---fgh--g--- h--g--g---h---g---h--g---f--h--g--f---h--h---hjkg--g---f--gh--h--ghgf---hg-hjh---g--g--- gF--g---fe--f---d---ef--gh--h---g--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "gFfghghgghghgfhgfhhhjkggfghhghgfhghjhgggFgfefdefghhggkkjkhg"
+            "volpiano": "1--a---cde---d---d---f---fef---gde-dc---d---defec---f---",
+            "search_volpiano": "acdeddffefgdedcddefecf"
         },
         {
             "id": "023v6",
@@ -5481,8 +5481,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Antra deserti*",
-            "volpiano": "1---h--f--fg---g--- hk--k---g--h--g---k---k--j--h---k--j--hG---h--gF---g--h---k--h--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "hffgghkkghgkkjhkjhGhgFghkhgkkjkhg"
+            "volpiano": "1--cd--efg-f---gh--g---f--fe--fg---",
+            "search_volpiano": "cdefgfghgffefg"
         },
         {
             "id": "023v7",
@@ -5497,8 +5497,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Priusquam te formarem",
-            "volpiano": "1---de-g-gh--g---hg-hjk--jh---g---h-hgh--fefgF---defg--g--ghghf-fe---de--gh-g--fghgh--fe---4 dh--hk--h---4",
-            "search_volpiano": "degghghghjkjhghhghfefgFdefggghghffedeghgfghghfedhhkh"
+            "volpiano": "1--h---g---h---h---h---g---h---g---",
+            "search_volpiano": "hghhhghg"
         },
         {
             "id": "023v8",
@@ -5513,8 +5513,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Ad omnia quae mittam",
-            "volpiano": "1---kjk--hg--g---jk--h---k---k---l--mn--n---kh--k---kl---k--- klk--kh---kkk--hg--f---hk-lk--hg--hkJ---g---4---k--k--j--k---h--gh---4",
-            "search_volpiano": "kjkhggjkhkklmnnkhkklkklkkhkkkhgfhklkhghkJgkkjkhgh"
+            "volpiano": "1--g---h---k--k---k--k---",
+            "search_volpiano": "ghkkkk"
         },
         {
             "id": "023v9",
@@ -5529,8 +5529,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Ne timeas a facie eorum",
-            "volpiano": "1---g--h---g-- gf---g--h--k---j--hj--k---h---f--h--h---g--g---4---k--k--j--k--h--g---4",
-            "search_volpiano": "ghggfghkjhjkhfhhggkkjkhg"
+            "volpiano": "1--k---k---j---h---k---g---",
+            "search_volpiano": "kkjhkg"
         }
     ],
     "24r": [
@@ -5547,8 +5547,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Fuit homo missus a deo",
-            "volpiano": "1---f--h--g--- h---e--f--g---f---g--e--fE---d--d---d--f--f--f---gh--g--f--e---c---d--ef---g---fe--d--d---4---k--k--k--j--k--j---4",
-            "search_volpiano": "fhghefgfgefEdddfffghgfecdefgfeddkkkjkj"
+            "volpiano": "1--g---h--k--k--k--k--k--k---k---k--k--k---",
+            "search_volpiano": "ghkkkkkkkkkk"
         },
         {
             "id": "024r2",
@@ -5563,8 +5563,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Fuit homo missus",
-            "volpiano": "1---kj---k--h---kJ--g---h--g---h--ghg---e--fg--gf---h--hjh--g--g---4 k--k--j--k---h--g---4",
-            "search_volpiano": "kjkhkJghghghgefggfhhjhggkkjkhg"
+            "volpiano": "1--d---c---d---e---f---gf---d---dc---",
+            "search_volpiano": "dcdefgfddc"
         },
         {
             "id": "024r3",
@@ -5579,8 +5579,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Erat Joannes in deserto",
-            "volpiano": "1---g--g--h--h---g--g---f--g--h--k--j--h---j--kJ---h---g--h--h--- f--h---g--g---4---k--k--j--k---h--g---4",
-            "search_volpiano": "gghhggfghkjhjkJhghhfhggkkjkhg"
+            "volpiano": "1--c---d--f--f---f--f--f--f---f---",
+            "search_volpiano": "cdfffffff"
         },
         {
             "id": "024r4",
@@ -5595,8 +5595,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Priusquam te formarem",
-            "volpiano": "1---g--g--k--k---g--j--k---h--g--k---j--k-- h--g--g---h--g---g---g--f--g--f--e---4---k--k--k--h--k--k---4",
-            "search_volpiano": "ggkkgjkhgkjkhgghgggfgfekkkhkk"
+            "volpiano": "1--de---fgf-f---f---fd---f---hg---hgf---ghg-hj-h---",
+            "search_volpiano": "defgffffdfhghgfghghjh"
         },
         {
             "id": "024r5",
@@ -5611,8 +5611,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Vir dilectus a deo",
-            "volpiano": "1---k--k---k---k-kjhg---4",
-            "search_volpiano": "kkkkkjhg"
+            "volpiano": "1--dh--h--h--h ghgf---g---hf--gh---gh---hjh--h---",
+            "search_volpiano": "dhhhhghgfghfghghhjhh"
         },
         {
             "id": "024r6",
@@ -5627,8 +5627,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Elisabeth Zachariae magnum",
-            "volpiano": "1---k--kkk--h---kk--hkg-hg-gf------hgf--g--hG---k-lk---f---ghgh--h--h--- khjhg--h---hkJhg-hjhg---f--fghgf-g---gf---df---k--kl--lk-k---kJ--kl-- lk-k---hG---hj-kh-hjH-hj--jh---gh-k-klK--k--kj-lm-mk--k---klm--nl-mjl--jhj--jh---gk--lnM--l---l--lk-ln--lk--k---kJ--kl--klkjh-j--jh---3---h--l---k--jk---h--hk-k--hk-kkjh-kghg-gf---hG-- fgh--h---h--g--kk---lkjh-lkjg-hkhg-hjhg--f--fghgf-g--gf---4",
-            "search_volpiano": "kkkkhkkhkghggfhgfghGklkfghghhhkhjhghhkJhghjhgffghgfggfdfkkllkkkJkllkkhGhjkhhjHhjjhghkklKkkjlmmkkklmnlmjljhjjhgklnMlllklnlkkkJklklkjhjjhhlkjkhhkkhkkkjhkghggfhGfghhhgkklkjhlkjghkhghjhgffghgfggf"
+            "volpiano": "1--ghj---h---k---kjk---hj---hg---hkp---jkjh-gh---jhgh-hg---",
+            "search_volpiano": "ghjhkkjkhjhghkpjkjhghjhghhg"
         }
     ],
     "24v": [
@@ -5645,8 +5645,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Damasci praepositus gentis",
-            "volpiano": "1---k--k--klk-k-hkh---k--kh-- kl--jk---kj-klkl--lk---f---h---k--k---k---k--kl--k--k---k--kjkj---kh--kl--kj-klkjh-j--jh---3---h--l---3",
-            "search_volpiano": "kkklkkhkhkkhkljkkjklkllkfhkkkkklkkkkjkjkhklkjklkjhjjhhl"
+            "volpiano": "1--gk---k--k--k--k---k---kj--klkj---kjhg-hg-",
+            "search_volpiano": "gkkkkkkkjklkjkjhghg"
         },
         {
             "id": "024v7",
@@ -5661,8 +5661,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Fuit homo missus",
-            "volpiano": "1---g--g--g---g--gf---hk---lk-klkl--lk---k---kjkjh-k--k---jklkjh-jkjh--ghkhg-h--hg---3---kj--- jkj--h-k-kg---g---k-kj--ghg---hjh-hG--gf---fhkJ--k--hgk--k---k-kj--hk---jklkjh-jkjh---ghkhg-h--hg---4",
-            "search_volpiano": "gggggfhklkklkllkkkjkjhkkjklkjhjkjhghkhghhgkjjkjhkkggkkjghghjhhGgffhkJkhgkkkkjhkjklkjhjkjhghkhghhg"
+            "volpiano": "1--cde---d---d---f---fef---gde-dc---d---f---",
+            "search_volpiano": "cdeddffefgdedcdf"
         },
         {
             "id": "024v8",
@@ -5677,8 +5677,8 @@ var data = {
             "mode": "7",
             "differentia": "C1",
             "full_text_standard": "Misit dominus manum suam",
-            "volpiano": "1---k--kj--klk-jkh-hg---hk---kh-jkJ--hk---gh-jh--hg---g---fg---g--g---g---g--g--g--g---g--hkhg-hjh---ghf-- gh--hkjklkjh--hkhg-hg---3---kj--kh---3",
-            "search_volpiano": "kkjklkjkhhghkkhjkJhkghjhhggfggggggggghkhghjhghfghhkjklkjhhkhghgkjkh"
+            "volpiano": "1--d--cd--efg-f---f--fe---fg---ef---",
+            "search_volpiano": "dcdefgfffefgef"
         },
         {
             "id": "024v9",
@@ -5693,8 +5693,8 @@ var data = {
             "mode": "7",
             "differentia": "C1",
             "full_text_standard": "Ecce dedi verba in ore tuo",
-            "volpiano": "1---d---fd--e--fgfe-fed-fd---fd--ef--g---hghk--h-- h---f--h--hg-hG--jhj---ef---ghgf-ghgh--hg---h---h--gf---g---gd--e--fgef--efE---3---dghk--h---h-- gf-ghgfe-f--fe---f---eg-hg--e---fd--c--dfdc-df-f--edefe---c--df--f-fed-fg--fgh-kg-hg---e-- fgef--fe---4",
-            "search_volpiano": "dfdefgfefedfdfdefghghkhhfhhghGjhjefghgfghghhghhgfggdefgefefEdghkhhgfghgfeffefeghgefdcdfdcdffedefecdfffedfgfghkghgefgeffe"
+            "volpiano": "1--gk--h---g---h---gh--g---j--k---",
+            "search_volpiano": "gkhghghgjk"
         },
         {
             "id": "024v10",
@@ -5709,8 +5709,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Dominus ab utero vocavit me",
-            "volpiano": "1---h--gh---gf-ghghge-fe---gh--g---g--gf--gh---gF--ef-gf--fe---f---df---f--f--- f--f--f---f--efgfe--g--ghghgf---ef-gef--fff---3---dg-hk--h---3",
-            "search_volpiano": "hghgfghghgefeghgggfghgFefgffefdfffffffefgfegghghgfefgeffffdghkh"
+            "volpiano": "1--g--h--k---k--k---k---k---",
+            "search_volpiano": "ghkkkkk"
         },
         {
             "id": "024v11",
@@ -5725,8 +5725,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Inter natos mulierum",
-            "volpiano": "1---d--d--dfd-dc--- fgh---hgf-ghg-hij--h---h--f---gh---hg-gF--fg---fgefed-e--fd---d--fgh--gh--g---g---g--gF---fghG-- f--dfd-dc---d---fgf--fd--fgh--kghfgF---fe-fgfg--gf---f--gh--h---h--hg-gf---g--fgh--fed-- dfd-f-f-gf---c---d--f--fe---d---f--fe--d---fg--fe-f-gf---hghgf---ghG---ghfg--dfdc-dfd---c--d-- fgF--fe-fg---gf-fe--dc--cd-fef---ded--d---3---h-hgh-fh-kh-hgh-fhijhg-hijhf-ghge-fgfd-fec-d-efd-fc-fg-hg-- fe--cd-fef---ded--d---3",
-            "search_volpiano": "dddfddcfghhgfghghijhhfghhggFfgfgefedefddfghghggggFfghGfdfddcdfgffdfghkghfgFfefgfggffghhhhggfgfghfeddfdffgfcdffedffedfgfefgfhghgfghGghfgdfdcdfdcdfgFfefggffedccdfefdeddhhghfhkhhghfhijhghijhfghgefgfdfecdefdfcfghgfecdfefdedd"
+            "volpiano": "1--d---c---d---f---fg---g---g---g---g---g---g---",
+            "search_volpiano": "dcdffggggggg"
         },
         {
             "id": "024v12",
@@ -5741,8 +5741,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Descendit angelus domini ad Zachariam",
-            "volpiano": "1---h--j---k---j--h---h--k--g--f---g--h---j--k--h--g--- h--k--g--f---g---h--f---f--f--d---e--f---d--c---d--f--g--h---3",
-            "search_volpiano": "hjkjhhkgfghjkhghkgfghfffdefdcdfgh"
+            "volpiano": "1--f---gh--h---h---h--h--h--h--g---",
+            "search_volpiano": "fghhhhhhhg"
         }
     ],
     "25r": [
@@ -5759,8 +5759,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Iste puer magnus coram",
-            "volpiano": "1---hjkhg-hkgf-gh-jkhg- hkgf-ghf-f-fd-efdc-defgh-jkjh--ghgf---g--h---h--h--hkj---gh--hjh--h---h--- hg-hgh--ge--fg---gefd--dfdc-de---3---c---d--f--fe---3---h-hg-hfh-jkhg-egeg-hkgf-d-dh-hgf-gg-fgf-dfec-eg-hg-- fe--cd-fef---ded--d---3",
-            "search_volpiano": "hjkhghkgfghjkhghkgfghfffdefdcdefghjkjhghgfghhhhkjghhjhhhhghghgefggefddfdcdecdffehhghfhjkhgegeghkgfddhhgfggfgfdfeceghgfecdfefdedd"
+            "volpiano": "1--g---gk---h---hg---f---gh---g---g---jk---l---",
+            "search_volpiano": "ggkhhgfghggjkl"
         },
         {
             "id": "025r2",
@@ -5775,8 +5775,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Hic est praecursor dilectus",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--g--h--k--k--k---k---k---k--k--k---",
+            "search_volpiano": "ghkkkkkkkk"
         },
         {
             "id": "025r3",
@@ -5791,8 +5791,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Ipse praeibit ante illum",
-            "volpiano": "1---dh--k--g---h--h--- g--h---g--f--h---3---dh-kg--hh--ghgf-g---3",
-            "search_volpiano": "dhkghhghgfhdhkghhghgfg"
+            "volpiano": "1--f---hk---kl---kj---jh---klm---kj---klkl-lk---",
+            "search_volpiano": "fhkklkjjhklmkjklkllk"
         },
         {
             "id": "025r4",
@@ -5807,8 +5807,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Innuebant patri ejus",
-            "volpiano": "1---k--k--k---k--gk--h---g--g---f---g---h--k--k--k---g---jk--h---h--g--g---4---k--k--j--k-h-gh---4",
-            "search_volpiano": "kkkkgkhggfghkkkgjkhhggkkjkhgh"
+            "volpiano": "1--k---k---klk---hjh-k--k--k--kl--k---",
+            "search_volpiano": "kkklkhjhkkkklk"
         }
     ],
     "25v": [
@@ -5825,8 +5825,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Apertum est os Zachariae",
-            "volpiano": "1---ljlm--l---lm--l---k---k---jkh-hg--g---k-kj--h---jk--l--k---kj--h---g--jkJ--h-- g---4---l--l--m--l--k--j---4",
-            "search_volpiano": "ljlmllmlkkjkhhggkkjhjklkkjhgjkJhgllmlkj"
+            "volpiano": "1--cde---d---d---f---fef---de---dc---c---d---",
+            "search_volpiano": "cdeddffefdedccd"
         },
         {
             "id": "025v2",
@@ -5841,8 +5841,8 @@ var data = {
             "mode": "7",
             "differentia": "C1",
             "full_text_standard": "Posuit os meum dominus",
-            "volpiano": "1---h--g--h---kl--l---k---l--m--lk---l--l---h--l---j-- k--h---h--g--hg---fg--h--k---h--h---4---l--k--l--n---k--h---4",
-            "search_volpiano": "hghkllklmlkllhljkhhghgfghkhhlklnkh"
+            "volpiano": "1--cd--efg-f---f---gh--g---f--f--f---",
+            "search_volpiano": "cdefgffghgfff"
         },
         {
             "id": "025v3",
@@ -5857,8 +5857,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Formans me ex utero",
-            "volpiano": "1---g---g--gk--h--g---gf--- g--h---k--k--kg---j--k---h--g---hg--f---g--g---f--g---h---k--kg---jk--h--hG--- g--g---4---k--k--j--k---h--g---4",
-            "search_volpiano": "gggkhggfghkkkgjkhghgfggfghkkgjkhhGggkkjkhg"
+            "volpiano": "1--d---df---gfgd-edc-dc-f---g---ghgf---ghg-hj-h---",
+            "search_volpiano": "ddfgfgdedcdcfgghgfghghjh"
         },
         {
             "id": "025v4",
@@ -5873,8 +5873,8 @@ var data = {
             "mode": "8",
             "differentia": "C1",
             "full_text_standard": "Reges videbunt et consurgent",
-            "volpiano": "1---k--k---k--j---l--l--m---k--kj--h--g--- k--k--k--j---l--m---m--ml--lK--k---4---m--m--k--lm---l--k---4",
-            "search_volpiano": "kkkjllmkkjhgkkkjlmmmllKkmmklmlk"
+            "volpiano": "1--h---h--h ghgf---g---g--g---g--gh--g---",
+            "search_volpiano": "hhhghgfggggghg"
         },
         {
             "id": "025v5",
@@ -5889,8 +5889,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Praecursor domini venit",
-            "volpiano": "1---fg--gh---f--fg--g---f--g-- h--g---h--g---f--gh--h---h--fgh-hG--h---h--k---g--g---fe--f---f--g--h---k--g---hgf--gh--- h---g--g---4---k--k--j--k---h--ghg---4",
-            "search_volpiano": "fgghffggfghghgfghhhfghhGhhkggfeffghkghgfghhggkkjkhghg"
+            "volpiano": "1--g---gk---h---hg---h---h---gf---h---",
+            "search_volpiano": "ggkhhghhgfh"
         },
         {
             "id": "025v6",
@@ -5905,8 +5905,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Hic est enim propheta",
-            "volpiano": "1---k--k--k--k---k--k-kjhg-hj-kh---4",
-            "search_volpiano": "kkkkkkkjhghjkh"
+            "volpiano": "1--g--h--c--k---k--k--k---",
+            "search_volpiano": "ghckkkk"
         }
     ],
     "26r": [
@@ -5923,8 +5923,8 @@ var data = {
             "mode": "5",
             "differentia": null,
             "full_text_standard": "Gabriel angelus apparuit",
-            "volpiano": "1---gh-jkj---k--kj--- h--hj-kj--hg--ghkjh-jkg-g-efe---f---f-gh--g--hghk--h--h---hg-gf--fgh-kg-hg--egef--ef-f---fd--- gh--g--hkhg-hk--k--klkj-kjhg-hg---h--j--k---kh--g--ghk---kjkh-khg-h--hg---3---h--hG--e--- e---h--gh--egfed-e--ed---g--jkj-hkh---jkj-jH--hghgf-gh-kh-hg---h--h---hk--g--f---g--f--fcfd--fdefe--- fE--fff--fd---fgh--fgh--hkgf-ghg---egef--fe---4",
-            "search_volpiano": "ghjkjkkjhhjkjhgghkjhjkggefeffghghghkhhhggffghkghgegefefffdghghkhghkkklkjkjhghghjkkhgghkkjkhkhghhghhGeehghegfedeedgjkjhkhjkjjHhghgfghkhhghhhkgfgffcfdfdefefEffffdfghfghhkgfghgegeffe"
+            "volpiano": "1--g---gk---h---hg---f---gh---g---",
+            "search_volpiano": "ggkhhgfghg"
         },
         {
             "id": "026r2",
@@ -5939,8 +5939,8 @@ var data = {
             "mode": "5",
             "differentia": null,
             "full_text_standard": "Erit enim magnus coram",
-            "volpiano": "1---klk-k--hj-kj--hg---k--jk--h---h--hk-- h---hg--h---k---k--jkjk--kj---kJ--hk--k--kk--h---hk--h--h---hk--hg---h---k--jljk--kj---kJ---hk--k--k--- k--k---kljkjh-jkj--hg--ghk--kjkh-khg-h--hg---3---h--hG--e---3",
-            "search_volpiano": "klkkhjkjhgkjkhhhkhhghkkjkjkkjkJhkkkkhhkhhhkhghkjljkkjkJhkkkkkkljkjhjkjhgghkkjkhkhghhghhGe"
+            "volpiano": "1--g--h---k--k---k--l--k---",
+            "search_volpiano": "ghkkklk"
         },
         {
             "id": "026r3",
@@ -5955,8 +5955,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Ecce constitui te hodie",
-            "volpiano": "1---g--gh-khj--hg---gkj--k--- l--k--kj---hg--gh-khj--hg---gkj--k---l--kj-klklm--l---l--lm-nm--lml---kl--lkj-kjhg-h--hg--- h--gkghk--h---kjklK--k--ljklK---g--h--lk-klK--k---kjkl--hkjhg-h--hg---4",
-            "search_volpiano": "gghkhjhggkjklkkjhgghkhjhggkjklkjklklmlllmnmlmlkllkjkjhghhghgkghkhkjklKkljklKghlkklKkkjklhkjhghhg"
+            "volpiano": "1--e---d---e---gh---h---g---h---j---g---gj---",
+            "search_volpiano": "edeghhghjggj"
         },
         {
             "id": "026r4",
@@ -5971,8 +5971,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Tu puer propheta altissimi",
-            "volpiano": "1---l--lmnml--klk-kj---k--- k--k--lj--kl--kl---lm-nm--nl---klk-kj---klk--l---l--l---l--lmL--l---l--l--l---l---l--lmlmlk--- lK--kl-ml-mnm--lk-lmlm--lkj-kj---3---h--gkg--hk-h---3",
-            "search_volpiano": "llmnmlklkkjkkkljklkllmnmnlklkkjklklllllmLlllllllmlmlklKklmlmnmlklmlmlkjkjhgkghkh"
+            "volpiano": "1--h--gh--h---h--g---h---jh---g---e---",
+            "search_volpiano": "hghhhghjhge"
         },
         {
             "id": "026r5",
@@ -5987,8 +5987,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Ipse praeibit ante illum",
-            "volpiano": "1---g--g--ghk---klk-kj--kl-mlm--ml---lm--m--klm--- l--ljkl--lmlj-kjhg-hg---hf---g--h--kl--klk---k--kjkjh-k--k---k--jklkjh-jkjh---g--ghkhg-h-- hg---g---g--g--ghk---klk-kj--kl-mlm--ml---l---l--l--mn--n-nmk---m--lmL---j--jljk--kj---3---l--l--- ln--mnml-m--lk---n---mn--l--lk---lnmlm-mL--ml---j---lmlmnm--lk--k---jkjh--hlkl---lj-klkjh-jkjh-- g--ghkhg-h---hg---3",
-            "search_volpiano": "ggghkklkkjklmlmmllmmklmlljkllmljkjhghghfghklklkkkjkjhkkkjklkjhjkjhgghkhghhggggghkklkkjklmlmmllllmnnnmkmlmLjjljkkjlllnmnmlmlknmnllklnmlmmLmljlmlmnmlkkjkjhhlklljklkjhjkjhgghkhghhg"
+            "volpiano": "1--ghk---h---hg---f---gh---h---g---g---j---",
+            "search_volpiano": "ghkhhgfghhggj"
         }
     ],
     "26v": [
@@ -6005,8 +6005,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Erit enim magnus coram",
-            "volpiano": "1---lmnml--klk-kj---k--k--k--klK--k---lK--kl--kl---lm-nm--ml---klk-kj-- klk--l---l--l---l---l--l--lmlmlk--lk---kl-ml-mnm--lk-lmlm--lkj-kj---3---l--l---3",
-            "search_volpiano": "lmnmlklkkjkkkklKklKklkllmnmmlklkkjklklllllllmlmlklkklmlmnmlklmlmlkjkjll"
+            "volpiano": "1--g--h---k---k--k---k--k--k---",
+            "search_volpiano": "ghkkkkkk"
         },
         {
             "id": "026v2",
@@ -6021,8 +6021,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Inter natos mulierum non",
-            "volpiano": "1---h--hkh-hg---h---kJ--h--k--kjhg-hkJ--h---hk-lk-kJ--h--hjkjh-j--kh---h--hkj---k--- kml--lkj-kjh-j--kh---h--hjkjhg--h---kjklj--kjh-j--hg---3---g--g---h---k--kj---h--k--hg---k--- hkh-jk--g--ghjhg-fed-ed---g--hk---k-kj--ghk--k---kJ--kj--hjh--h---4",
-            "search_volpiano": "hhkhhghkJhkkjhghkJhhklkkJhhjkjhjkhhhkjkkmllkjkjhjkhhhjkjhghkjkljkjhjhggghkkjhkhgkhkhjkgghjhgfededghkkkjghkkkJkjhjhh"
+            "volpiano": "1--gk---h---gf---gh---h---g---",
+            "search_volpiano": "gkhgfghhg"
         },
         {
             "id": "026v3",
@@ -6037,8 +6037,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Fuit homo missus a deo",
-            "volpiano": "1---h--g--ghk-klK--k---lm--- lK---kl--jk--h--hj-kj--jh---h---gh--h--hk--h---h--hjkjhg---h--kjklk---kjh-j--hg---3---g--g---3",
-            "search_volpiano": "hgghkklKklmlKkljkhhjkjjhhghhhkhhhjkjhghkjklkkjhjhggg"
+            "volpiano": "1--g--h---k---k--k---k---k--k--k---",
+            "search_volpiano": "ghkkkkkkk"
         },
         {
             "id": "026v4",
@@ -6053,8 +6053,8 @@ var data = {
             "mode": "3",
             "differentia": "A1",
             "full_text_standard": "Elisabeth Zachariae magnum virum",
-            "volpiano": "1---e--fg--gh---e--fg--g---g--f--d---fg--e---fe---d--d---c---d--e--fg--gF---hk--kj---ghkJ--h---g--g--fe--d---f--gh--g--g---4---k--k--j--k---h--ghg---3",
-            "search_volpiano": "efgghefgggfdfgefeddcdefggFhkkjghkJhggfedfghggkkjkhghg"
+            "volpiano": "1--d---c---d---e---f---gf---de---d---",
+            "search_volpiano": "dcdefgfded"
         },
         {
             "id": "026v5",
@@ -6069,8 +6069,8 @@ var data = {
             "mode": "4",
             "differentia": "E1",
             "full_text_standard": "Innuebant patri ejus",
-            "volpiano": "1---g--g---j--k---lklml--l---lkj--h---j---kh-- g---h--k--h---hG--f---gh--h--g--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "ggjklklmlllkjhjkhghkhhGfghhggkkjkhg"
+            "volpiano": "1--c---d--f--f---f--f--f---",
+            "search_volpiano": "cdfffff"
         }
     ],
     "27r": [
@@ -6087,8 +6087,8 @@ var data = {
             "mode": "1",
             "differentia": "F1",
             "full_text_standard": "Joannes vocabitur nomen ejus",
-            "volpiano": "1---fg--g---f---g---h--kJ--g--- h--g---k-klK--k---k--h---gf---h---k--h--g---gF---g--g---f--d---ef---gh--h---h--g---gh--h--g--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "fggfghkJghgkklKkkhgfhkhggFggfdefghhhgghhggkkjkhg"
+            "volpiano": "1--f---g---fg---hjj---j---h---g---hg---f---",
+            "search_volpiano": "fgfghjjjhghgf"
         },
         {
             "id": "027r2",
@@ -6103,8 +6103,8 @@ var data = {
             "mode": "3",
             "differentia": "G1",
             "full_text_standard": "Inter natos mulierum ",
-            "volpiano": "1---k--k---k--k--k--k---k-kjhg---4",
-            "search_volpiano": "kkkkkkkkjhg"
+            "volpiano": "1--ghk---h---gf---gh---h---g---g---j---k---l---kh---k---k---k---",
+            "search_volpiano": "ghkhgfghhggjklkhkkk"
         },
         {
             "id": "027r3",
@@ -6119,8 +6119,8 @@ var data = {
             "mode": "3",
             "differentia": "A1",
             "full_text_standard": "Tu puer propheta altissimi",
-            "volpiano": "1---h--h--hjkjhg-h---hG---h--kj--kl--kj--kl--- klk-kJ--hg---g---h--kj---kl--kj---kl--kljkjh-j--kh---h--h--h---h---h--hjkjhg---h--kjklk-- kjh-j--hg-gh---3---gh--hk-lkl--jk---hG---hk--hk--g--ef-fgfe-fed-ed---h---h--hkjg--k---jk-lklkj--- hkjk--jh---4",
-            "search_volpiano": "hhhjkjhghhGhkjklkjklklkkJhgghkjklkjklkljkjhjkhhhhhhhjkjhghkjklkkjhjhgghghhklkljkhGhkhkgeffgfefededhhhkjgkjklklkjhkjkjh"
+            "volpiano": "1--g---g---gkj---k---lm---l---k---ln---n---m---n---m---l---m---l---k---m---",
+            "search_volpiano": "gggkjklmlklnnmnmlmlkm"
         },
         {
             "id": "027r4",
@@ -6135,8 +6135,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "O nimis felix*",
-            "volpiano": "1---ghk-kl--k--k---k--lmL--l---k--kl--k---kj--kl---jk---h--hk--hg---k--k--k-- lm--l---kl--k--k---k--kj---kl---jk--hj-kj--jh---h---gh--h--h---hk--h---hjkjhg--h--kjklk--kjh-j--hgh---3---gh--hk-lkl--jk---4",
-            "search_volpiano": "ghkklkkklmLlkklkkjkljkhhkhgkkklmlklkkkkjkljkhjkjjhhghhhhkhhjkjhghkjklkkjhjhghghhklkljk"
+            "volpiano": "1--cd---c---defd---edc-d---fe---fgfe---e---g---gh---hjgh---fe---fg-fed---defd---edc-",
+            "search_volpiano": "cdcdefdedcdfefgfeegghhjghfefgfeddefdedc"
         },
         {
             "id": "027r5",
@@ -6151,8 +6151,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Iste puer magnus coram",
-            "volpiano": "1---gj-kl--l--l---l--l---mnm--kl---ljkl--lmlj-kjhg-hg---hl--k--lkj-kjhg- hg---kh--k---klk--jh-jkjhg-h---hg---g--g--ghk-k--k---k--jkl--kj--klkj-kjhg-hg---g--g---l--lklkh--- k--m--lmlkj-k--kj---kj--k---l--l---mnmj-kl--ljkl--lmlj-kjhg-hg---gl--k--lkj-kjhg-hg---kh---kJ--klk--- jhjkjhg-h---hg---4",
-            "search_volpiano": "gjklllllmnmklljkllmljkjhghghlklkjkjhghgkhkklkjhjkjhghhgggghkkkkjklkjklkjkjhghgggllklkhkmlmlkjkkjkjkllmnmjklljkllmljkjhghgglklkjkjhghgkhkJklkjhjkjhghhg"
+            "volpiano": "1--f---hk---kh---jk-kll---kl---mnmlk-j---klkjh---",
+            "search_volpiano": "fhkkhjkkllklmnmlkjklkjh"
         },
         {
             "id": "027r6",
@@ -6167,8 +6167,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Apertum est os Zachariae",
-            "volpiano": "1---l--lmnml--klk-kj---klK--k--k---lj--kl--kl---l--lm-nm--ml---klk-kj---klK--l-- lm--l---l--l--l---lmlmlk--l---kl-ml-mnm--lk-lmlm--lkj-kj---3---g--g---3",
-            "search_volpiano": "llmnmlklkkjklKkkljklklllmnmmlklkkjklKllmlllllmlmlklklmlmnmlklmlmlkjkjgg"
+            "volpiano": "1--f--hk--kh--jk-klk---klm---nlm---mlk--k---nn--lm---",
+            "search_volpiano": "fhkkhjkklkklmnlmmlkknnlm"
         },
         {
             "id": "027r7",
@@ -6183,8 +6183,8 @@ var data = {
             "mode": "r",
             "differentia": null,
             "full_text_standard": "Fuit homo missus a deo",
-            "volpiano": "1---c--d--fd-hk-- h---h---h---kh-hk--g--gfghg--hG---ghg---h--hl--ljkjh---hg--gkh--hg--fe-fefed-fd---df-ghG--fed-- df-f---fE--ef-hkJ--h---hghf-ghG--dfef--ed---dfg---ghG--fhgfed-ff---d---fgf--fe--fgh---hghfg--fe-fgfg-- gf---3---h--gh---ghgf--gh--hG---gh--gh--fed--dfdc-dfd---d---dfe--f--fg-hjhg--ghgf-gf---f--fe--ghghg-- gf---h--gF---fgefed-e--fd---df-ghG--fed--ff---fg-hf-gfe---fd--dfef--ed---4",
-            "search_volpiano": "cdfdhkhhhkhhkggfghghGghghhlljkjhhggkhhgfefefedfddfghGfeddfffEefhkJhhghfghGdfefeddfgghGfhgfedffdfgffefghhghfgfefgfggfhghghgfghhGghghfeddfdcdfdddfeffghjhgghgfgfffeghghggfhgFfgefedefddfghGfedfffghfgfefddfefed"
+            "volpiano": "1--f--hk--kh---jk-klk---klm--mlm---kjh--h---nn---lm--mlk--k---",
+            "search_volpiano": "fhkkhjkklkklmmlmkjhhnnlmmlkk"
         },
         {
             "id": "027r8",
@@ -6199,8 +6199,8 @@ var data = {
             "mode": "r",
             "differentia": null,
             "full_text_standard": "Cui nomen Joannes erat",
-            "volpiano": "1---k-- hghg-gf---g--g--g---gh--g--g---g--g---g--hG--gh---gh---hjh--h---hG--gh--h---hghg--hf-- fg-hghjh---hgfe-ghG--gf---3---h--gh---3",
-            "search_volpiano": "khghggfgggghggggghGghghhjhhhGghhhghghffghghjhhgfeghGgfhgh"
+            "volpiano": "1--g---k---hg---hk-k---j---k---l---k---h---k---jh---",
+            "search_volpiano": "gkhghkkjklkhkjh"
         },
         {
             "id": "027r9",
@@ -6215,8 +6215,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Inter natos mulierum non",
-            "volpiano": "1---dgf--g---g--ghk---h--h---hg-hkg- hg-gf---hf---ghg--h--hjH-kjh--g---hf-ghkjh-jkjh--ghkhg-h--hg---g--kk---kl--kh-jkh-hG---ghg--fg-- gefed-dgfe-fed---dc--d---dg--fg--g--ghg--g---g---gh-khkg--g---3---g--gF---fgh--fe--dfc-dfefed--- ghg---fhk--jklkjh-jkjh--ghkhg-h--hg---4",
-            "search_volpiano": "dgfggghkhhhghkghggfhfghghhjHkjhghfghkjhjkjhghkhghhggkkklkhjkhhGghgfggefeddgfefeddcddgfggghgggghkhkggggFfghfedfcdfefedghgfhkjklkjhjkjhghkhghhg"
+            "volpiano": "1--d---e---gh---h---g---h---j---h---g---h---hj---",
+            "search_volpiano": "deghhghjhghhj"
         },
         {
             "id": "027r10",
@@ -6231,8 +6231,8 @@ var data = {
             "mode": "r",
             "differentia": null,
             "full_text_standard": "Inter natos mulierum",
-            "volpiano": "1---gk---kJ--hk--jh--jkl---lkj--hG---h--g---g---g--l--- kl--l---lnM--kl---lkh-kl--l---lml---kj--hgf---hk-l-lkj--hG---fE--e---3---e--e---3",
-            "search_volpiano": "gkkJhkjhjkllkjhGhggglklllnMkllkhklllmlkjhgfhkllkjhGfEeee"
+            "volpiano": "1--gk---h---gf---gh---h---g---j---k---",
+            "search_volpiano": "gkhgfghhgjk"
         },
         {
             "id": "027r11",
@@ -6247,8 +6247,8 @@ var data = {
             "mode": "r",
             "differentia": null,
             "full_text_standard": "Joanne baptista",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--e---d---e---f---f---gj---h---",
+            "search_volpiano": "edeffgjh"
         },
         {
             "id": "027r12",
@@ -6263,8 +6263,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Elisabeth Zachariae magnum",
-            "volpiano": "1---g---g--f-- e---f---g--d---e--d---e--c---c---e--f--g---h--h---f--g--g---3---gfe-fgd-edec-ce-fg-hh-fg-g---3 g--f--e---f--g--d---e--d---e--c---c--e---f--g---h--h--f---g--g---3---gfe-fgd-edec-ce-fg- hh-fgg---3---g--j---l--m---k--hg--h---g--h---k---m---lk--k---3---gj-lmkh-hgh-hkjh---3 ---g--j---l--m---k--h--h---g--h--k---m---lk--k---3---k--g--k---k-- g---g--f--e---f--g--d---e---d--e--c---c--e--f--g---h--k--h---h--g---3---kgkg-gfe-fgd-edec-ce-fg-hjh---4",
-            "search_volpiano": "ggfefgdedeccefghhfgggfefgdedeccefghhfgggfefgdedeccefghhfgggfefgdedeccefghhfgggjlmkhghghkmlkkgjlmkhhghhkjhgjlmkhhghkmlkkkgkkggfefgdedeccefghkhhgkgkggfefgdedeccefghjh"
+            "volpiano": "1--f---fg---g---h---g---ghgf---f---",
+            "search_volpiano": "ffgghgghgff"
         },
         {
             "id": "027r13",
@@ -6279,8 +6279,8 @@ var data = {
             "mode": "r",
             "differentia": null,
             "full_text_standard": "Elisabeth Zachariae magnum",
-            "volpiano": "1---f---f--f--dfe---cd--f--f---d--f--e---f--c--f--ef--d---f--d---3---d---c--d---f---f--c--ef--d---cd--fE---c--ef--d---d---c--d---f--d--f--f---f--g-- e--f---d--cd--d---c--d--f--f---c--cf--d--d---3---f--f--f--e---c--d---4",
-            "search_volpiano": "fffdfecdffdfefcfefdfddcdffcefdcdfEcefddcdfdfffgefdcddcdffccfddfffecd"
+            "volpiano": "1--f---f---g---fgj---j---h---j---gf---g---h---f---",
+            "search_volpiano": "ffgfgjjhjgfghf"
         },
         {
             "id": "027r14",
@@ -6295,8 +6295,8 @@ var data = {
             "mode": "r",
             "differentia": null,
             "full_text_standard": "Joannem baptistam",
-            "volpiano": "1---f--f--f---d--f--d-- d---f--d---c--cd---dc--d---f--dfd--c---d---cd--d--d---f--d---ef--ghghijh---h--- g--f--e--f--g---e--fed--d---d---f--f---f--e--d---fd--cd---dC-c---c---d--d--c---f--d-- dc-c---c--cd--d--d---3---f--f--f--e---c--d---4",
-            "search_volpiano": "fffdfddfdccddcdfdfdcdcdddfdefghghijhhgfefgefedddfffedfdcddCccddcfddccccdddfffecd"
+            "volpiano": "1--d---de---efe---d---f---e---d---f---fgh---f---ed---",
+            "search_volpiano": "ddeefedfedffghfed"
         },
         {
             "id": "027r15",
@@ -6311,8 +6311,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Iste puer magnus coram",
-            "volpiano": "1---g--gl--l---l---l--l--k---lmnml--lm---kl--m--nm--l---m--l--- nn--m--l---m--l---l--j---lm--l---k---l--k---klk--hkJ--k---g--kk--h---hG--f--- gh--h--g--g---3---l--l--m--l--lk--l---4",
-            "search_volpiano": "gglllllklmnmllmklmnmlmlnnmlmlljlmlklkklkhkJkgkkhhGfghhggllmllkl"
+            "volpiano": "1--g---gk---hg---h---g---h---g---g---",
+            "search_volpiano": "ggkhghghgg"
         },
         {
             "id": "027r16",
@@ -6327,8 +6327,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Elisabeth*",
-            "volpiano": "1---g--gl---l---m---lK--k--j---l--l--m--l---l--k--k--- m--m--lk--k---l--m--lk--k---k---k--lmL--l--kJ---k--hG--g---g---gh--hG--f---g--g---f---h---j--k--- lm-ml---g--h--ghgf-g--gf---h--h---h--g--hg--f---gh--h--g--g---3---l--l--m--l---lk--l---4",
-            "search_volpiano": "ggllmlKkjllmllkkmmlkklmlkkkklmLlkJkhGggghhGfggfhjklmmlghghgfggfhhhghgfghhggllmllkl"
+            "volpiano": "1--f---g---fgh---h---h---g---ef---g---",
+            "search_volpiano": "fgfghhhgefg"
         },
         {
             "id": "027r17",
@@ -6343,8 +6343,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Ut queant laxis*",
-            "volpiano": "1---gf--e-- f---gh--h--g---g---hg---f--gh--h---h---k--g--g--fe--f---d--e---f--gh--h--g--g---h--fhG--ghG--- e--g--g---g--g---h--g--fg--f---h---hk--g---g--g--fe--f---d--f--f---gh--h--g--g---3--- k--k--j--k---h--g---4",
-            "search_volpiano": "gfefghhgghgfghhhkggfefdefghhgghfhGghGegggghgfgfhhkgggfefdffghhggkkjkhg"
+            "volpiano": "1--l---l---j---l---m---l---l---l---m---l---",
+            "search_volpiano": "lljlmlllml"
         },
         {
             "id": "027r18",
@@ -6359,8 +6359,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Iste puer magnus coram",
-            "volpiano": "1---f--f--g--f---f---gh--hg---fg---h--g--fe---fg--f--f---4",
-            "search_volpiano": "ffgffghhgfghgfefgff"
+            "volpiano": "1--g---gk---h---gf---ghg---fg---g---j---k---l---l---",
+            "search_volpiano": "ggkhgfghgfggjkll"
         },
         {
             "id": "027r19",
@@ -6375,8 +6375,8 @@ var data = {
             "mode": "7",
             "differentia": "D2",
             "full_text_standard": "Puer qui natus est nobis",
-            "volpiano": "1---h--g--- gh--h--h---h---h--g--f---gh--hg---3",
-            "search_volpiano": "hgghhhhhgfghhg"
+            "volpiano": "1--c---cdf---f---f---fedc---de-d---d---f---f---fhjhg---jg---",
+            "search_volpiano": "ccdffffedcdeddfffhjhgjg"
         }
     ],
     "27v": [
@@ -6393,8 +6393,8 @@ var data = {
             "mode": "1",
             "differentia": "G1",
             "full_text_standard": "Astiterunt justi ante dominum",
-            "volpiano": "1---k--k--k--k---k---k--k-kjhg-hj-kh---3",
-            "search_volpiano": "kkkkkkkkjhghjkh"
+            "volpiano": "1--j---k---l---m---l---l---k---h---k---j---",
+            "search_volpiano": "jklmllkhkj"
         },
         {
             "id": "027v2",
@@ -6409,8 +6409,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Isti sunt duo viri",
-            "volpiano": "1---fgh--g--g---f---g--hG--g---h--gh---f---g---hg--fg---g---h--jk--h--g---h--g---f--gh--hg--f---ghG-- fe--dC--f---gh--h--g--g---3---k--k--j--k---h--ghg---4",
-            "search_volpiano": "fghggfghGghghfghgfgghjkhghgfghhgfghGfedCfghhggkkjkhghg"
+            "volpiano": "1--l--l--l---l--m--l--l---k--lk---",
+            "search_volpiano": "llllmllklk"
         },
         {
             "id": "027v3",
@@ -6425,8 +6425,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Isti sunt duae olivae",
-            "volpiano": "1---k--kj---h--hj--h---h---h--g--g---g---g--f--- g---g---e--f--g---d---e--f--gh---h--g--g---3---k--k--k--j---k--h-gh---4",
-            "search_volpiano": "kkjhhjhhhggggfggefgdefghhggkkkjkhgh"
+            "volpiano": "1--ghk---h---h---hg---f---ghg---fg---g---",
+            "search_volpiano": "ghkhhhgfghgfgg"
         },
         {
             "id": "027v4",
@@ -6441,8 +6441,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Vidi conjunctos viros",
-            "volpiano": "1---f---fd-efE--dc---c---f--f---fd---fh--gh---e--fg--g---f--g---f---f--fe--dc---d--fe--d-- d---3---h--h--g--f---gh--g---4",
-            "search_volpiano": "ffdefEdccfffdfhghefggfgfffedcdfeddhhgfghg"
+            "volpiano": "1--g---h---k---k--k---k--l--k--k---",
+            "search_volpiano": "ghkkkklkk"
         }
     ],
     "28r": [
@@ -6459,8 +6459,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Vidi angelum dei fortem",
-            "volpiano": "1---g--gl--l---l--l--lK--k---l---n--m--ln---k--l--n--nm--- l--kl--l---lK---k--l--n--nm---l---lK--kl---g---h--gf--f---h--k--l---kj--h--- j--hj--g--g---3---l--l--m--l---lk--l---4",
-            "search_volpiano": "gglllllKklnmlnklnnmlklllKklnnmllKklghgffhklkjhjhjggllmllkl"
+            "volpiano": "1--g---gk---h---g---h---f---h---g---g---",
+            "search_volpiano": "ggkhghfhgg"
         },
         {
             "id": "028r2",
@@ -6475,8 +6475,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Viri sancti*",
-            "volpiano": "1---k---k--k---k--k--kkjhg-hj-kh---4",
-            "search_volpiano": "kkkkkkkjhghjkh"
+            "volpiano": "1--k--k--k---j--k---h--g---",
+            "search_volpiano": "kkkjkhg"
         },
         {
             "id": "028r3",
@@ -6491,8 +6491,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Haec est vera*",
-            "volpiano": "1---g--g---j--k---l--m--j---k--lm-- kl--l---g---g--k--k--l--kj-jH---h---g---k--hj--g--g---lml--k--n---n--m--l--m---k---lk--hk-kh-hG--- f---hk--k--kJ---k--k--jk---l--h---g---3---l--l--m--l---k--jh---4",
-            "search_volpiano": "ggjklmjklmkllggkklkjjHhgkhjgglmlknnmlmklkhkkhhGfhkkkJkkjklhgllmlkjh"
+            "volpiano": "1--a---cde---d---f---fef---de---dc---d---f---",
+            "search_volpiano": "acdedffefdedcdf"
         },
         {
             "id": "028r4",
@@ -6507,8 +6507,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Paulus et Joannes dixerunt Juliano",
-            "volpiano": "1---k--k--k---k--k-kjhg-j-kh---4",
-            "search_volpiano": "kkkkkkjhgjkh"
+            "volpiano": "1--d--cd--efg-f---fe--fg---ef--d--de--gf-fe---",
+            "search_volpiano": "dcdefgffefgefddegffe"
         },
         {
             "id": "028r5",
@@ -6523,8 +6523,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Paulus et Joannes dixerunt  ad Terentianum",
-            "volpiano": "1---k--kj---hG--h--k---h--gf--gh--hG---g--h---gF---g--h---gF---g--hk---kjkJ--kh---j---kl-- lkl--g---g---h--hl--j--k---h---g--hg--ef---gh--h--g--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "kkjhGhkhgfghhGghgFghgFghkkjkJkhjkllklgghhljkhghgefghhggkkjkhg"
+            "volpiano": "1--kj---k---lk---lmlm-ml---m---l---k---klm---lkjk-kj---",
+            "search_volpiano": "kjklklmlmmlmlkklmlkjkkj"
         },
         {
             "id": "028r6",
@@ -6539,8 +6539,8 @@ var data = {
             "mode": "1",
             "differentia": "F1",
             "full_text_standard": "Joannes et Paulus cognoscentes",
-            "volpiano": "1---k--k---k--k---k-k-kjhg---4",
-            "search_volpiano": "kkkkkkkjhg"
+            "volpiano": "1--l--l--lmnml--kj---klkj---k---k--lj---",
+            "search_volpiano": "lllmnmlkjklkjkklj"
         },
         {
             "id": "028r7",
@@ -6555,8 +6555,8 @@ var data = {
             "mode": "1",
             "differentia": "A2",
             "full_text_standard": "Sancti spiritus et animae justorum",
-            "volpiano": "1---f--c---d--dhk--h--h---hG---h--hghG---fg--gh--fe---d--d---f---f--fg--f--c--- d--d--d---c---d--f--f---f--f---f--ghG--f--fE---d--f--ef--d---3---hh-hg--f---gh--g---4",
-            "search_volpiano": "fcddhkhhhGhhghGfgghfeddfffgfcdddcdfffffghGffEdfefdhhhgfghg"
+            "volpiano": "1--a---cde---d---d---d---f---",
+            "search_volpiano": "acdedddf"
         }
     ],
     "28v": [
@@ -6573,8 +6573,8 @@ var data = {
             "mode": "1",
             "differentia": "F1",
             "full_text_standard": "Joannes et Paulus dixerunt ad Gallicanum",
-            "volpiano": "1---g--g-- j--l--k---h--k---k--h--g---k--k--kh---k--k---k--l--l---k---k--lml--kjklk---h--g-- hk--k---g--g---3---l--l--m--l--k---jh---4",
-            "search_volpiano": "ggjlkhkkhgkkkhkkkllkklmlkjklkhghkkggllmlkjh"
+            "volpiano": "1--cd--efg-f--f---f--fe--fg---ef---de--fe-ed---",
+            "search_volpiano": "cdefgffffefgefdefeed"
         },
         {
             "id": "028v2",
@@ -6589,8 +6589,8 @@ var data = {
             "mode": "1",
             "differentia": "G1",
             "full_text_standard": "Isti sunt sancti qui pro Christi ",
-            "volpiano": "1---g--jgjk--j---j---jk--j--hjh--hgh---hg--g--- jkl--k---g--g---f--hk--k--k---k---k--h--k--kh---gh---j--h---g--fg--g---3---l--l--m--l---k--jk---4",
-            "search_volpiano": "gjgjkjjjkjhjhhghhggjklkggfhkkkkkhkkhghjhgfggllmlkjk"
+            "volpiano": "1--g---gk---h---g---h---g---h---gf---gh---h---",
+            "search_volpiano": "ggkhghghgfghh"
         },
         {
             "id": "028v3",
@@ -6605,8 +6605,8 @@ var data = {
             "mode": "1",
             "differentia": "G1",
             "full_text_standard": "Isti sunt duae olivae",
-            "volpiano": "1---g--h---k--kl--l---kl--m--lk--l--l--l---hl---j--k--hg--hg---f--g---hij--k---ij--h--gh--h---4",
-            "search_volpiano": "ghkkllklmlklllhljkhghgfghijkijhghh"
+            "volpiano": "1--g--h---k--k--k--k---k---k--k--k---",
+            "search_volpiano": "ghkkkkkkkk"
         },
         {
             "id": "028v4",
@@ -6621,8 +6621,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Petrus et Joannes*",
-            "volpiano": "1---dgfg--g---g--ghk---4",
-            "search_volpiano": "dgfgggghk"
+            "volpiano": "1--g---j---k---lkml---l---l---l---lk---lm---l---kl---k---h---",
+            "search_volpiano": "gjklkmlllllklmlklkh"
         },
         {
             "id": "028v5",
@@ -6637,8 +6637,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Aurea luce*",
-            "volpiano": "1---k--k---k--k--k-kkjhg-hj-kh---4",
-            "search_volpiano": "kkkkkkkjhghjkh"
+            "volpiano": "1--kj--kl--l---l--l---n--m--m---",
+            "search_volpiano": "kjkllllnmm"
         },
         {
             "id": "028v6",
@@ -6653,8 +6653,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "In omnem terram exivit sonus",
-            "volpiano": "1---f--gh--h---hghj--h---g--fh---h---f--fg--g---g--g--f---gh--h--gf--f---f--gh--h---h--- h--hg---j--h---g--fh--h---f--h--j---hG--gF--fh--h---h--k--klkjh---h--hghj--h---g--fh--- f--hG--gh---fg--fed--d---e---f--ghG--f---fe--dc---d--f--f--f---3---k--k--h--jk---j--h---4",
-            "search_volpiano": "fghhhghjhgfhhffggggfghhgfffghhhhhgjhgfhhfhjhGgFfhhhkklkjhhhghjhgfhfhGghfgfeddefghGffedcdfffkkhjkjh"
+            "volpiano": "1--g---gk---h---g---h---f---h---g---g---",
+            "search_volpiano": "ggkhghfhgg"
         },
         {
             "id": "028v7",
@@ -6669,8 +6669,8 @@ var data = {
             "mode": "1",
             "differentia": "F1",
             "full_text_standard": "Tu es pastor ovium",
-            "volpiano": "1---f--f--g--f---gh-- hg---fg---h--g--fe---fg--f--f---4",
-            "search_volpiano": "ffgfghhgfghgfefgff"
+            "volpiano": "1--g--h---k--k---k--k--k---l--k---",
+            "search_volpiano": "ghkkkkklk"
         }
     ],
     "29r": [
@@ -6687,8 +6687,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Regem apostolorum*",
-            "volpiano": "1---f--g--h---h---hk--h--h---h---h--g--f---gh--hg---3---fg--h---3",
-            "search_volpiano": "fghhhkhhhhgfghhgfgh"
+            "volpiano": "1--dg---g---gfg---g---gfed---ef-d---dg---ghgf---gh-g---gh---jkjh-jkjh-",
+            "search_volpiano": "dgggfgggfedefddgghgfghgghjkjhjkjh"
         },
         {
             "id": "029r2",
@@ -6703,8 +6703,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Aeterna Christi munera*",
-            "volpiano": "1---ghk--h--gf---gh--g---k--k---l--kl--l---lk---h--j--k--h--g--- g--h--g--f---h--k--k--klk---h---h--h---h--k---kj---g--fg--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "ghkhgfghgkklklllkhjkhgghgfhkkklkhhhhkkjgfggkkjkhg"
+            "volpiano": "1--gk---k---k---kj--klkj---kjhg-hg-jh--kl--k--k---",
+            "search_volpiano": "gkkkkjklkjkjhghgjhklkk"
         },
         {
             "id": "029r3",
@@ -6719,8 +6719,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "In omnem terram*",
-            "volpiano": "1---dfe--e---f--f--f--f--f---f--f---ef-gf-efdfd---ef--g--e---f--dc--d--ef-gd-dc---cdfef-- f--ff-fe---fg--gf-gh-kg-hg---egef--fe---3---dh--gh--gfgfe---4",
-            "search_volpiano": "dfeefffffffefgfefdfdefgefdcdefgddccdfefffffefggfghkghgegeffedhghgfgfe"
+            "volpiano": "1--dgfgh--gh-g---g---g--g--gh--g--g---",
+            "search_volpiano": "dgfghghggggghgg"
         },
         {
             "id": "029r4",
@@ -6735,8 +6735,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "In omnem terram*",
-            "volpiano": "1---d--d--dc---f--g---f--gh--h---j--h---g---g---fhG--g---g---g--e--g---h--g--fgF---f-- dc--dg--e---fE---d--d---3---h--h--hg-f---gh--h---4",
-            "search_volpiano": "dddcfgfghhjhggfhGgggeghgfgFfdcdgefEddhhhgfghh"
+            "volpiano": "1--gk---k--k---kj--klkj---kjhg-hg-hj--j--j--jh---",
+            "search_volpiano": "gkkkkjklkjkjhghghjjjjh"
         },
         {
             "id": "029r5",
@@ -6751,8 +6751,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Simon Petre antequam de navi",
-            "volpiano": "1---d---d--dc---f--g--f---gh--h---j--h--g--- e--f--g--fe---d--cd--d---ef--dfec---fg--h--g---fg--f---f--f--fg--f---f--ef--g---fe---d--d---3--- hh-hg--f---gh--g---4",
-            "search_volpiano": "dddcfgfghhjhgefgfedcddefdfecfghgfgffffgffefgfeddhhhgfghg"
+            "volpiano": "1--d--d--cdca---cd--df--de--dcd-dc---f--efedc--de-d---",
+            "search_volpiano": "ddcdcacddfdedcddcfefedcded"
         },
         {
             "id": "029r6",
@@ -6767,8 +6767,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Quodcumque ligaveris",
-            "volpiano": "1---g--gk--h---g--gh--h--g---g--k---k--l--k---h--k--k---k--kJ-- k--k---lml---kjklk---h--gh--h---h--h--h--k---k--g--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "ggkhgghhggkklkhkkkkJkklmlkjklkhghhhhhkkggkkjkhg"
+            "volpiano": "1--cd--efg-f--f---f--fe--fg---ef---de--fe-ed---",
+            "search_volpiano": "cdefgffffefgefdefeed"
         },
         {
             "id": "029r7",
@@ -6783,8 +6783,8 @@ var data = {
             "mode": "6",
             "differentia": null,
             "full_text_standard": "Si diligis me Simon Petre",
-            "volpiano": "1---k--k--k---kh--g---g--g---fgh--fe--d---d---e--f--gh--h---k--k--lmk--k---hkJ--g---f  f---ef---gh--h--g---3---k--k---j--k--h--g---4",
-            "search_volpiano": "kkkkhgggfghfeddefghhkklmkkhkJgffefghhgkkjkhg"
+            "volpiano": "1--lj---lm-lm---l---lj---k---j---g---g---",
+            "search_volpiano": "ljlmlmlljkjgg"
         },
         {
             "id": "029r8",
@@ -6799,8 +6799,8 @@ var data = {
             "mode": "6",
             "differentia": null,
             "full_text_standard": "Si oportuerit me mori",
-            "volpiano": "1---d--ef---g--g--g--g---f--fe--d---dc--f--gh-- hk--h---h--h---h--hghkhg---e--f---g--fe---d--cd--d---fE--ef---g--ghg---e--e---3---h--g--h--jh--gf--e---4",
-            "search_volpiano": "defggggffeddcfghhkhhhhhghkhgefgfedcddfEefgghgeehghjhgfe"
+            "volpiano": "1--k--kl--l--l---n--m---m--l--m---",
+            "search_volpiano": "kklllnmmlm"
         }
     ],
     "29v": [
@@ -6817,8 +6817,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Tu es Petrus",
-            "volpiano": "1---kj--hl---k--k--g---g--h--g--g---h--g--f--gh--h---kj---hl--j--k--g---gf--- gh--h--g--g---3---k--k--j---k--h--gh---4",
-            "search_volpiano": "kjhlkkgghgghgfghhkjhljkggfghhggkkjkhgh"
+            "volpiano": "1--g---g---g---g---h---h---g---gf---",
+            "search_volpiano": "gggghhggf"
         },
         {
             "id": "029v2",
@@ -6833,8 +6833,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Quodcumque ligaveris",
-            "volpiano": "1---k--k--k---k---k--k--kkjhg-hj-kh---4",
-            "search_volpiano": "kkkkkkkkjhghjkh"
+            "volpiano": "1--g--h--k---k--k--k---k---l--k---",
+            "search_volpiano": "ghkkkkklk"
         },
         {
             "id": "029v3",
@@ -6849,8 +6849,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Domine si tu es jube me",
-            "volpiano": "1---g--g--hf---g--hk---klk-kj--kl-mlm--ml---m--lk---l---kJ---jk-ljk--kj---jk---lmlmnm-- lk--klkj-kjhg-hg---g--gl--lk-kjh-k--k---jklkjh-jkjh--ghkhg-h--hg---4---k--ghk--k---k---k--h-- jk---jljk--kj---jk---lmlmnm--lk--klkj-kjhg-hg---g--g--gl--lk-kjh-k--k---jklkjh-jkjh---ghkhg-h-- hg---3",
-            "search_volpiano": "gghfghkklkkjklmlmmlmlklkJjkljkkjjklmlmnmlkklkjkjhghgggllkkjhkkjklkjhjkjhghkhghhgkghkkkkhjkjljkkjjklmlmnmlkklkjkjhghggggllkkjhkkjklkjhjkjhghkhghhg"
+            "volpiano": "1--g---j---k---lkml---l---l---l---k---lm---",
+            "search_volpiano": "gjklkmllllklm"
         },
         {
             "id": "029v4",
@@ -6865,8 +6865,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Cumque vidisset ventum",
-            "volpiano": "1---lmnml--kj--klk-kj---kl--k---lj--kl---kl--lm-nm--nl---l--l---lmlmlk---lk--kl-mlmnm-- lk-lmlm--lkj-kj---3---k--ghk--k---3",
-            "search_volpiano": "lmnmlkjklkkjklkljklkllmnmnllllmlmlklkklmlmnmlklmlmlkjkjkghkk"
+            "volpiano": "1--k--kl--l---l--l---n--m---l--l--m---",
+            "search_volpiano": "kkllllnmllm"
         },
         {
             "id": "029v5",
@@ -6881,8 +6881,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Surge Petre et indue te",
-            "volpiano": "1---f--df--f---fE--ef-gef---d--dgh---gh--g--g--- g---g--gdf--egef--eff---4---dg--g--hkhg-hk--k---jkl--kjh---hkjk--hghjh---fff---fd--dfe--fg--g--- ghgf-ghg---e--egef--fe---3",
-            "search_volpiano": "fdfffEefgefddghghgggggdfegefeffdgghkhghkkjklkjhhkjkhghjhffffddfefggghgfghgeegeffe"
+            "volpiano": "1--f---df---f---f---fgf---ded-fd---f---f---",
+            "search_volpiano": "fdffffgfdedfdff"
         }
     ],
     "30r": [
@@ -6899,8 +6899,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Angelus domini astitit",
-            "volpiano": "1---h--gh--gf-ghghgfe-fe---gh--gF---gf--gh---gf--ef-gef--fe---f--f--- efgfe---g--ghghgf--ef-gef--ed-efe---3---dg--g---3",
-            "search_volpiano": "hghgfghghgfefeghgFgfghgfefgeffeffefgfegghghgfefgefedefedgg"
+            "volpiano": "1--h--h--gf---ghghge-fe-g--gf--gh---gf---efgf--fe---",
+            "search_volpiano": "hhgfghghgefeggfghgfefgffe"
         },
         {
             "id": "030r2",
@@ -6915,8 +6915,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Tu es pastor ovium",
-            "volpiano": "1---f--df--f---f--f---fe--f-- fgfe-fed-fd---fd---dfe--f---ghG---efhgf-ghg--e--fgef--e-ef---4---d---g--hk--h--hG--h---hg-gF--gh---ghG--f--- e--f---f--g---fg--fed--df---f-fE--f---f--fgh-kghg--egef--fe---3",
-            "search_volpiano": "fdfffffeffgfefedfdfddfefghGefhgfghgefgefeefdghkhhGhhggFghghGfeffgfgfeddfffEfffghkghgegeffe"
+            "volpiano": "1--d---d---fgh---g---g---gh---h---hgh---jghgf-g---gh---g---g---",
+            "search_volpiano": "ddfghggghhhghjghgfgghgg"
         },
         {
             "id": "030r3",
@@ -6931,8 +6931,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Quodcumque ligaveris",
-            "volpiano": "1---h--gh-- gf-ghghgf-fe---gF--g---g--g---gh--g--g---gF---gh--gf--f--ef-gf--fe---f--df--f--f---f--ff--f--f---f--- f--f---f--efgfe---g--ghghgf--ef-gef--ef---3---d---g--hk---3",
-            "search_volpiano": "hghgfghghgffegFgggghgggFghgffefgffefdffffffffffffefgfegghghgfefgefefdghk"
+            "volpiano": "1--gk--kj--klkj---kjhg-hg-jh--kl--k--k---k--jh--jk--hj---",
+            "search_volpiano": "gkkjklkjkjhghgjhklkkkjhjkhj"
         },
         {
             "id": "030r4",
@@ -6947,8 +6947,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Ego pro te rogavi Petre",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--dgf---gh-g---ghj---h---hgh---jkghgf-f---h---hk---h---g---",
+            "search_volpiano": "dgfghgghjhhghjkghgffhhkhg"
         }
     ],
     "30v": [
@@ -6965,8 +6965,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Caro et sanguis non revelavit",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--gk--kj--klkj---kjhg-hg-kl--j--j---jh---kl--k---",
+            "search_volpiano": "gkkjklkjkjhghgkljjjhklk"
         },
         {
             "id": "030v2",
@@ -6981,8 +6981,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Quem dicunt homines",
-            "volpiano": "1---dd--dc--f--g---fh--h---h--h---h--g--e--f---g--fe--d--d---d---d--d---dc--f--g--fh--h---h-- h--hG--g---e--f---g--fe---d--d---fed--e--f--gF--g---g---e--f--g--fE---d--d---3---h--h--g--f--gh--g---4",
-            "search_volpiano": "dddcfgfhhhhhgefgfeddddddcfgfhhhhhGgefgfeddfedefgFggefgfEddhhgfghg"
+            "volpiano": "1--cde---d---d---d---f---fef---de---dc---d--de--fedc-de-d---",
+            "search_volpiano": "cdedddffefdedcddefedcded"
         },
         {
             "id": "030v3",
@@ -6997,8 +6997,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Beatus es Simon bar Jona",
-            "volpiano": "1---g--f--h--k--kJ---jk--h--g---g---g--g---g--g--g--g---g--h--g---h--f---fh--- k--j--k---hG--g---gf---gh--g--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "gfhkkJjkhggggggggghghffhkjkhGggfghggkkjkhg"
+            "volpiano": "1--cd--efg-f--f---gh--g---f--f--fe--fg--ef---",
+            "search_volpiano": "cdefgffghgfffefgef"
         },
         {
             "id": "030v4",
@@ -7013,8 +7013,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Petre amas me tu scis",
-            "volpiano": "1---g--g--j---k--lK--jk---lm--l--- lm--k---h--k--k---l--k---h--k--kh---g--h---kh--j--h---g--g---3---l--l--m--l---k--jh---4",
-            "search_volpiano": "ggjklKjklmllmkhkklkhkkhghkhjhggllmlkjh"
+            "volpiano": "1--d--f--fg--g---g--fg--ef---d---f--g---",
+            "search_volpiano": "dffgggfgefdfg"
         }
     ],
     "31r": [
@@ -7031,8 +7031,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Simon Joannis diligis me",
-            "volpiano": "1---g--h---k--kl--l---kl--m---lk--l--l---h---l--k---h--hg---fg---h--k---h--h---3---l--k--l--n---k--hk---4",
-            "search_volpiano": "ghkkllklmlkllhlkhhgfghkhhlklnkhk"
+            "volpiano": "1--h---f---fg---g---h---j---h---g---h--gf--fh-h---",
+            "search_volpiano": "hffgghjhghgffhh"
         },
         {
             "id": "031r2",
@@ -7047,8 +7047,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Solve jubente deo terrarum",
-            "volpiano": "1---e--fg--g---hkJ--h---h--g---h---f--g--gh--j---h--g--g---k--k---l--k---h--kJ--g--- hk--g---g---g--g--fe--f---d--e--f---g--g---hkJ--h---h--h---hg--k---k--g--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "efgghkJhhghfgghjhggkklkhkJghkggggfefdefgghkJhhhhgkkggkkjkhg"
+            "volpiano": "1--g---g---g---gk---h---g---k---h---k---j---",
+            "search_volpiano": "ggggkhgkhkj"
         },
         {
             "id": "031r3",
@@ -7063,8 +7063,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Quodcumque ligaveris",
-            "volpiano": "1---k--k--k--k---kkk-kjhg-hj-kh---3",
-            "search_volpiano": "kkkkkkkkjhghjkh"
+            "volpiano": "1--j---k---l---m---l---lm---h---f---k---j---",
+            "search_volpiano": "jklmllmhfkj"
         },
         {
             "id": "031r4",
@@ -7079,8 +7079,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Petrus et Joannes ascendebant",
-            "volpiano": "1---f--df--f--f---fe--f--fgfe-fed-fd---dfE--f--ghG--f--- f---ef-hgf-ghg--egef--efE-f---4---d--dh--h---g--fgh---ghgfe-f--fe---g--f--f---g--f--fE---d--def-gd-dc--- c---df---ef--f--fe---dgfgh--g---efed---fg---g-fgh-kghg--egef--fe---3",
-            "search_volpiano": "fdffffeffgfefedfddfEfghGffefhgfghgegefefEfddhhgfghghgfeffegffgffEddefgddccdfefffedgfghgefedfggfghkghgegeffe"
+            "volpiano": "1--g---gk---h---g---h---g---g---f---gh---h---",
+            "search_volpiano": "ggkhghggfghh"
         },
         {
             "id": "031r5",
@@ -7095,8 +7095,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "Argentum et aurum",
-            "volpiano": "1---h--gh--gf-ghghge-fe   -g--g---gh--g--g---gh--g--g---gf--gh--gf---ef-gf--ef---3---d--dh--h---3",
-            "search_volpiano": "hghgfghghgefeggghggghgggfghgfefgfefddhh"
+            "volpiano": "1--c---d---f---e---d---e---fg---g---",
+            "search_volpiano": "cdfedefgg"
         },
         {
             "id": "031r6",
@@ -7111,8 +7111,8 @@ var data = {
             "mode": "8",
             "differentia": "C1",
             "full_text_standard": "Dixit angelus ad petrum",
-            "volpiano": "1---gh--g--g--- f--fhk---kj-klklmL--l---l--lm--mL---lm--lk--klkj-kjhg-hg---fhk---kj-klkl--lk---k-- jklkjh-jkjh---g--ghkhg-h--hg---4---g---g--gl---lK--lnl-nmlk-lk---l--lnm--no---op--lnmn--ml---h---h-- kl--l--k---l--kl--jkjhg-h--gh-kg-hg-gf---fhk--kjh-hlkl--ljklkjh-jkjh---g--ghkhg-h--hg---3",
-            "search_volpiano": "ghggffhkkjklklmLlllmmLlmlkklkjkjhghgfhkkjklkllkkjklkjhjkjhgghkhghhggggllKlnlnmlklkllnmnooplnmnmlhhkllklkljkjhghghkghggffhkkjhhlklljklkjhjkjhgghkhghhg"
+            "volpiano": "1--g---gk---h---g---ghg---fg---g---g---j---k---l---k---k---",
+            "search_volpiano": "ggkhgghgfgggjklkk"
         },
         {
             "id": "031r7",
@@ -7127,8 +7127,8 @@ var data = {
             "mode": "7",
             "differentia": "C3",
             "full_text_standard": "Misit dominus angelum",
-            "volpiano": "1---l--lmnml--klk-kj---k---lj--kl--kl---lm-nm--nm---klk-kj---kl--l--l---l--l--l--lmlmlk--- lK--kl-mlmnm--lk-lmlm--lkj-kj---3---g---g---3",
-            "search_volpiano": "llmnmlklkkjkljklkllmnmnmklkkjklllllllmlmlklKklmlmnmlklmlmlkjkjgg"
+            "volpiano": "1--d---f---d---d---f---g---h---h---g---fghg---fed---d---",
+            "search_volpiano": "dfddfghhgfghgfedd"
         }
     ],
     "31v": [
@@ -7145,8 +7145,8 @@ var data = {
             "mode": "7",
             "differentia": "C1",
             "full_text_standard": "Tu es petrus",
-            "volpiano": "1---fgh--g--g---g--ghk---h--hg-hkg-hg-gf--- hG---ghg--h--hkh--ghg---hf-ghkjh-jkjh--ghkhg-h--hg---klk--kJ---klk--kl---l--lj-klhj--hg--- f--hkh---hg---k--kjkjhg--hghgf-g--gf---4---hf--g--hk---kjkl--klk---kl--k---kjkjh-k--k---jklkjh-jkjh-- ghkhg-h--hg---3",
-            "search_volpiano": "fghgggghkhhghkghggfhGghghhkhghghfghkjhjkjhghkhghhgklkkJklkkllljklhjhgfhkhhgkkjkjhghghgfggfhfghkkjklklkklkkjkjhkkjklkjhjkjhghkhghhg"
+            "volpiano": "1--c---cd---ef-f---fe---d---ef---gh---gfe---de---ef---ed---",
+            "search_volpiano": "ccdefffedefghgfedeefed"
         },
         {
             "id": "031v2",
@@ -7161,8 +7161,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Jam bone pastor*",
-            "volpiano": "1---k--kj--klk-jkh-hg---h--k---k--kJ---kl--k--k---kJ---jk--hk--g-- gh-jh--hg---g--fg--g--g---g--g--g--g---g---g--g---g--hkhg-hkh---3",
-            "search_volpiano": "kkjklkjkhhghkkkJklkkkJjkhkgghjhhggfggggggggggghkhghkh"
+            "volpiano": "1--d---e---g---gh---h---g---h---j---g---",
+            "search_volpiano": "degghhghjg"
         },
         {
             "id": "031v3",
@@ -7177,8 +7177,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Annuntiaverunt opera dei*",
-            "volpiano": "1---gh--g--g--- g--g--l---l--lnlnlk-lk---l--lnm---no--olnmk-nonml-mnM--ml---4---l--jkl---h--klm--klkjh-kh-hg--- f--hk---kljkh-kl-nm--kl--lj-khk---ghg--g---3",
-            "search_volpiano": "ghgggglllnlnlklkllnmnoolnmknonmlmnMmlljklhklmklkjhkhhgfhkkljkhklnmklljkhkghgg"
+            "volpiano": "1--d---e---g---g---gj---h---g---h---j---h---",
+            "search_volpiano": "degggjhghjh"
         },
         {
             "id": "031v4",
@@ -7193,8 +7193,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Quodcumque ligaveris",
-            "volpiano": "1---lmnml--klk-kj---k--k--k---kl--k-- k---lj--kl---kl--lm-nm--ml---l--l---l---l--lnmno--olnmk-nonml-mn--ml---3---l--jkl---3",
-            "search_volpiano": "lmnmlklkkjkkkklkkljklkllmnmmllllllnmnoolnmknonmlmnmlljkl"
+            "volpiano": "1--d---e---g---gh---h---gh---j---g---h---h---h---",
+            "search_volpiano": "degghhghjghhh"
         },
         {
             "id": "031v5",
@@ -7209,8 +7209,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Sancte Paule apostole ",
-            "volpiano": "1---dh--hk---h---g--h--g--e---f--g--f---gh--fe---d--cd--d---f--fe---d--- fg--f--c---df--fE---d--d---3---h--h--g--f---gh--gh---4",
-            "search_volpiano": "dhhkhghgefgfghfedcddffedfgfcdffEddhhgfghgh"
+            "volpiano": "1--f---fgf---ded-ef---g---hg---hj-h---h---h---hg---hjhj---hge---fe-",
+            "search_volpiano": "ffgfdedefghghjhhhhghjhjhgefe"
         },
         {
             "id": "031v6",
@@ -7225,8 +7225,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Juravit dominus*",
-            "volpiano": "1---k--k---k---k--kjhg---4",
-            "search_volpiano": "kkkkkjhg"
+            "volpiano": "1--k---k---klk--hjkjhg---hg-k---k--k--k---",
+            "search_volpiano": "kkklkhjkjhghgkkkk"
         },
         {
             "id": "031v7",
@@ -7241,8 +7241,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Aurea luce*",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--f---hf---h---ef---gfe-fed-ed-fe---f---g---f---gfe---fed-dc-",
+            "search_volpiano": "fhfhefgfefededfefgfgfefeddc"
         },
         {
             "id": "031v8",
@@ -7257,8 +7257,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Annuntiaverunt opera dei*",
-            "volpiano": "1---df-gf--fd--fgf---ghg--hgf-ghghk--h---hk--hk--h--hg-ge---fg---fgf-fed-e--fd---d---d--d--fgh--g--- gh--g---g--g---g--gf--ghfg--ge-fdfd---d--d--fgf--fe---f---fgh--hgfe-fgfg--gf---4--- h--gf--fgfe- fed-fd---f--f--dfd-dc---fgh--fe--c---dfef--ed---3",
-            "search_volpiano": "dfgffdfgfghghgfghghkhhkhkhhggefgfgffedefddddfghgghgggggfghfggefdfdddfgffeffghhgfefgfggfhgffgfefedfdffdfddcfghfecdfefed"
+            "volpiano": "1--h---h--gf---ghghge-fe-g--g--gf--gh---",
+            "search_volpiano": "hhgfghghgefegggfgh"
         },
         {
             "id": "031v9",
@@ -7273,8 +7273,8 @@ var data = {
             "mode": "1",
             "differentia": "D1",
             "full_text_standard": "Hodie Simon Petrus ascendit",
-            "volpiano": "1---h--h--hghg-gf---g--g--- gh--g--g---gh--g--g---hf--gh--gh---hijh--h---3---h--gf--fgfe---3",
-            "search_volpiano": "hhhghggfggghggghgghfghghhijhhhgffgfe"
+            "volpiano": "1--ffe---def---egf---fe---fe---fg---g---gfe---fed-ed-",
+            "search_volpiano": "ffedefegffefefgggfefeded"
         }
     ],
     "32r": [
@@ -7291,8 +7291,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Regem apostolorum*",
-            "volpiano": "1---d--fd--f--- f---fe--fgfe-fed-fd---cdc-cb--df--fdf-fghgh---e--egef--e-ef---dg-hk--h---hk--h--h---hg-gf--g--- h---ghgfe-f--fe---4---dg--g---hkhg-hk--k--k---jkl--k-kjh---hkjk--hkjk--hghijh---ff---fd--dfe--fg---gh-- gf-ghgh--hg---ghf-efd-efgh-khgf-gh-ijh-hG--hg---gh---h--hgf-fdfd---fgh--heg--gh-kghg---egef--fe---3",
-            "search_volpiano": "dfdfffefgfefedfdcdccbdffdffghgheegefeefdghkhhkhhhggfghghgfeffedgghkhghkkkjklkkjhhkjkhkjkhghijhfffddfefgghgfghghhgghfefdefghkhgfghijhhGhgghhhgffdfdfghhegghkghgegeffe"
+            "volpiano": "1--h---h--gf---ghghge-fe-g--g---gh--g---",
+            "search_volpiano": "hhgfghghgefeggghg"
         },
         {
             "id": "032r2",
@@ -7307,8 +7307,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Doctor egregie*",
-            "volpiano": "1---hG--gf-ghghge-fe---g--gh--g--g---g--gh--g---g--gf--gh---gF---ef-gf-f--fe---f--dfE---ff-- f--f---efgfe--g---ghghgf---ef-gef--ef-f---3---dg--g---3",
-            "search_volpiano": "hGgfghghgefegghgggghgggfghgFefgfffefdfEffffefgfegghghgfefgefeffdgg"
+            "volpiano": "1--d---fgh---g---g---gh---h---g---gh---jkghgf-",
+            "search_volpiano": "dfghggghhgghjkghgf"
         },
         {
             "id": "032r3",
@@ -7323,8 +7323,8 @@ var data = {
             "mode": "1",
             "differentia": "F1",
             "full_text_standard": "Qui op[er]atus est Petro",
-            "volpiano": "1---d--fd--f--f---f---f--f--f---fe--fgfe- fed-fd---fe--f---g--e--f---dc--d--f---egef--f-dfgfe-f--ef-f---d---g---hk--h--h---hG--gf- ghgh--gf---f--eg-hg--e---fdc---dfdc-df-f--fdefe---4---c---df--f--f---f--f--fe---d---dgf- ghgh--hg---hg-gf--fgh-kghg--egef--fe---3",
-            "search_volpiano": "dfdfffffffefgfefedfdfefgefdcdfegeffdfgfefeffdghkhhhGgfghghgffeghgefdcdfdcdfffdefecdffffffeddgfghghhghggffghkghgegeffe"
+            "volpiano": "1--gk--kj--klkj---kjhg-hg-hj--j--j---jh---jk--hj---ghjh--hg---",
+            "search_volpiano": "gkkjklkjkjhghghjjjjhjkhjghjhhg"
         },
         {
             "id": "032r4",
@@ -7339,8 +7339,8 @@ var data = {
             "mode": "1",
             "differentia": "F1",
             "full_text_standard": "Qui me segregavit ex utero",
-            "volpiano": "1---h--gf-ghghgf-fe---g--g--g---gh--g--g--- gf--gh---gf--ef-gf-f--fe---f--f---efgfe---g--ghghgf--ef-gef--ed-efe---3---c---df--f--f---3",
-            "search_volpiano": "hgfghghgffegggghgggfghgfefgfffeffefgfegghghgfefgefedefecdfff"
+            "volpiano": "1--d---fgh---g---g---g---ghj---h---hg---hj-kghgf-",
+            "search_volpiano": "dfghgggghjhhghjkghgf"
         },
         {
             "id": "032r5",
@@ -7355,8 +7355,8 @@ var data = {
             "mode": "1",
             "differentia": "A1",
             "full_text_standard": "Scio cui credidi et certus",
-            "volpiano": "1---cd---chkJ--h---h--h---h--h--hghkhg---f--g---ghgf--g--fe---d--d---f--f-- fe---dfE---d--c---c--c---cf--f--f---fhGjhg--hg---e---fg--gfe---dfE--dc---c---ef-- gh--fE---d--d---3---h--h--hg--f---gh-gfed---4",
-            "search_volpiano": "cdchkJhhhhhhghkhgfgghgfgfeddfffedfEdccccffffhGjhghgefggfedfEdccefghfEddhhhgfghgfed"
+            "volpiano": "1--gk---k--k--k--k--k--k---kj--klkj---kjhg-hg-hj---jh--kl--k--jh---",
+            "search_volpiano": "gkkkkkkkkjklkjkjhghghjjhklkjh"
         },
         {
             "id": "032r6",
@@ -7371,8 +7371,8 @@ var data = {
             "mode": "1",
             "differentia": "A1",
             "full_text_standard": "De reliquo reposita",
-            "volpiano": "1---c--cd--d--c---d--ef--gfe---d--cd--d---c--d-- f--e---fE---dfE--d--c---f--h--g---h--ghg---e--f--g---e--ghG--fe---d--d---3---h--h--hg--f---gh--gfed---4",
-            "search_volpiano": "ccddcdefgfedcddcdfefEdfEdcfhghghgefgeghGfeddhhhgfghgfed"
+            "volpiano": "1--c---d---de---fdedc-f---g---ghgf---ghg-hj-h---f---gh---h---hge---",
+            "search_volpiano": "cddefdedcfgghgfghghjhfghhhge"
         },
         {
             "id": "032r7",
@@ -7387,8 +7387,8 @@ var data = {
             "mode": "1",
             "differentia": "G2",
             "full_text_standard": "Mihi vivere Christus est",
-            "volpiano": "1---g--g--g---kk--h--g---kk--h---k--k---k--l---kh--k---k--jk---h--g--j--k---h---g--jk--- h--h---g--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "gggkkhgkkhkkklkhkkjkhgjkhgjkhhggkkjkhg"
+            "volpiano": "1--dh--hg---hgf-g--gh--g---hf--gh--gh---hjh--h---",
+            "search_volpiano": "dhhghgfgghghfghghhjhh"
         },
         {
             "id": "032r8",
@@ -7403,8 +7403,8 @@ var data = {
             "mode": "1",
             "differentia": "G2",
             "full_text_standard": "Per quem mihi mundus",
-            "volpiano": "1---e--fg--g---f--h---k--kj---h--kJ--g---g-- h---gf---gh--h--g--g---fh--k--k---klK--hg---gf--d---ef--gh---h--g--g---3---k--k--j--k---h--ghg---4",
-            "search_volpiano": "efggfhkkjhkJgghgfghhggfhkkklKhggfdefghhggkkjkhghg"
+            "volpiano": "1--f---df---f---f---fe---f---fgfe---fed-ed-",
+            "search_volpiano": "fdffffeffgfefeded"
         },
         {
             "id": "032r9",
@@ -7419,8 +7419,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "In omnem terram exivit*",
-            "volpiano": "1---d--d--dc---f--gF---f--gh--h---h--h--g---e--f---gF--f---gh--fE---d--cd--d--- f--f--dfec---f--ghghijh---h---h--g--f---f--ef---g---fe--d--d---3---h--h--hg--f---gh--g---4",
-            "search_volpiano": "dddcfgFfghhhhgefgFfghfEdcddffdfecfghghijhhhgffefgfeddhhhgfghg"
+            "volpiano": "1--h--gf---ghghge-fe-g---gh--g---g---hj--hg--g---",
+            "search_volpiano": "hgfghghgefegghgghjhgg"
         },
         {
             "id": "032r10",
@@ -7435,8 +7435,8 @@ var data = {
             "mode": "5",
             "differentia": null,
             "full_text_standard": "Qui op[er]atus est Petro",
-            "volpiano": "1---f--f---f---4",
-            "search_volpiano": "fff"
+            "volpiano": "1--d---ffg---f---f---f---f---f---gfg---hgh-hg---",
+            "search_volpiano": "dffgfffffgfghghhg"
         }
     ],
     "32v": [
@@ -7453,8 +7453,8 @@ var data = {
             "mode": "5",
             "differentia": null,
             "full_text_standard": "Gratia dei in me vacua",
-            "volpiano": "1---k--k---k---k-kjhg---3",
-            "search_volpiano": "kkkkkjhg"
+            "volpiano": "1--fgj--jhjhg---hg-j--hj--kl-k---kjh--h--ghg---",
+            "search_volpiano": "fgjjhjhghgjhjklkkjhhghg"
         },
         {
             "id": "032v2",
@@ -7469,8 +7469,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Bonum certamen certavi",
-            "volpiano": "1---g--fd--e--fg---g---ghG-- f--f---d--fdf---c--d---f--fg--g---h--ghgf-g--f---g---g---g--f--g---h--kl--kjklk--- h--h--k---k---g--g---g---fgh--fed--df---cd--fg--gf---h---k--j---k--h--g--h---j-- hj--g--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "gfdefggghGffdfdfcdffgghghgfgfgggfghklkjklkhhkkgggfghfeddfcdfggfhkjkhghjhjggkkjkhg"
+            "volpiano": "1--d---c---d---d---f---fef---de---dc---",
+            "search_volpiano": "dcddffefdedc"
         },
         {
             "id": "032v3",
@@ -7485,8 +7485,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Scio cui credidi et certus",
-            "volpiano": "1---e--fg--g---hkJ---4",
-            "search_volpiano": "efgghkJ"
+            "volpiano": "1--cd--efg-f---gh--g---fg--f--f---f---fg--f--f---",
+            "search_volpiano": "cdefgfghgfgffffgff"
         },
         {
             "id": "032v4",
@@ -7501,8 +7501,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Reposita est mihi corona",
-            "volpiano": "1---dh--hk---h---g--h---4",
-            "search_volpiano": "dhhkhgh"
+            "volpiano": "1--g---g---g---k---k---l---m---k---lk---k---",
+            "search_volpiano": "gggkklmklkk"
         },
         {
             "id": "032v5",
@@ -7517,8 +7517,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Scio cui credidi et certus",
-            "volpiano": "1---c--cd--dd--c---d---4",
-            "search_volpiano": "ccdddcd"
+            "volpiano": "1--g---g---g---gf---e---f---gh---h---g---",
+            "search_volpiano": "ggggfefghhg"
         }
     ],
     "33r": [
@@ -7535,8 +7535,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Tu es vas electionis",
-            "volpiano": "1---h--f--h--k--kJ---jk--h--g---g--g---h--g--hjhg--g---g---hk-- k--kJ---kl--h---hG--g---gf--h---g--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "hfhkkJjkhggghghjhggghkkkJklhhGggfhggkkjkhg"
+            "volpiano": "1--d---e---gh---h---g---h---j---h---g---h---hj---",
+            "search_volpiano": "deghhghjhghhj"
         },
         {
             "id": "033r2",
@@ -7551,8 +7551,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Per quem omnes gentes",
-            "volpiano": "1---cd--chkJ--h---h--hghkhg--- g---f--g--h--ge---gF---d--cd--d---ggfd---e--f--gh--g--fe---g---fe--d--d---3---hh-hg--f--gh--g---4",
-            "search_volpiano": "cdchkJhhhghkhggfghgegFdcddggfdefghgfegfeddhhhgfghg"
+            "volpiano": "1--kj---k---lk---lm-l---lm---nm-lk---k---k---hl---k---j---gh---",
+            "search_volpiano": "kjklklmllmnmlkkkhlkjgh"
         },
         {
             "id": "033r3",
@@ -7567,8 +7567,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Magnus sanctus Paulus",
-            "volpiano": "1---d---dc--f--gh--h---j--h--g---g---hG--fe--d---g---g--g--e--g---hg--f---fg--f-- f---fe--dc--dg--e---fe--d--cd--d---3---h--h--g--f--gh--g---4",
-            "search_volpiano": "ddcfghhjhgghGfedgggeghgffgfffedcdgefedcddhhgfghg"
+            "volpiano": "1--f--f---h---j---g--fgh--h---h--g--h---",
+            "search_volpiano": "ffhjgfghhhgh"
         },
         {
             "id": "033r4",
@@ -7583,8 +7583,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "In regeneratione cum sederit",
-            "volpiano": "1---l--k--jk---l--k--j---l--m-- k---l--g---gh---k--k--j---h--kl--l---l---l---jk--lkj---h--g--g---3---l--l---m--l--k--jk---4",
-            "search_volpiano": "lkjklkjlmklgghkkjhklllljklkjhggllmlkjk"
+            "volpiano": "1--c---d---dh--hj---h---g--h--ghg---",
+            "search_volpiano": "cddhhjhghghg"
         },
         {
             "id": "033r5",
@@ -7599,8 +7599,8 @@ var data = {
             "mode": "2",
             "differentia": "D1",
             "full_text_standard": "Bonum certamen certavi",
-            "volpiano": "1---g--fd--e--f---gh--h---g--fg--g---h--gf--g--gh---f--f---gf--gh--k--k---g--jk--h--- g---gf--gh--h--g--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "gfdefghhgfgghgfgghffgfghkkgjkhggfghhggkkjkhg"
+            "volpiano": "1--g---f---g---g---hg---f---gh---gfd---fg---",
+            "search_volpiano": "gfgghgfghgfdfg"
         },
         {
             "id": "033r6",
@@ -7615,8 +7615,8 @@ var data = {
             "mode": "2",
             "differentia": "D1",
             "full_text_standard": "De reliquo reposita est",
-            "volpiano": "1---g--gk--hg--h---gf--gh--h---g--g---g---h-- g---h--g--f---fh--k--k---kl--h--h---gf--gh---h---g--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "ggkhghgfghhggghghgffhkkklhhgfghhggkkjkhg"
+            "volpiano": "1--h--h---hj--g---g--g--h--g---",
+            "search_volpiano": "hhhjggghg"
         },
         {
             "id": "033r7",
@@ -7631,8 +7631,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Constitues eos principes",
-            "volpiano": "1---d--fd--ff--f---f---4",
-            "search_volpiano": "dfdffff"
+            "volpiano": "1--f---f---f---f---f---g---g---f---gh--hg---",
+            "search_volpiano": "fffffggfghhg"
         },
         {
             "id": "033r8",
@@ -7647,8 +7647,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Tu es vas electionis",
-            "volpiano": "1---k--k---k---k-kjhg---3",
-            "search_volpiano": "kkkkkjhg"
+            "volpiano": "1--h--hj--g---g--g--g--f---g--g--h---",
+            "search_volpiano": "hhjggggfggh"
         }
     ],
     "33v": [
@@ -7665,8 +7665,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Intercede pro nobis",
-            "volpiano": "1---g--g--fd--df--fg---g--g---h--k--- l--k--kj--h---kj--h--g--g---g---hk--h---g--h--g---h--f---fe--df---c--d---f--f---g--hg-- f--gh--h---f---g--h--kj--h---g--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "ggfddffggghklkkjhkjhggghkhghghffedfcdffghgfghhfghkjhggkkjkhg"
+            "volpiano": "1--f---f---f---g---g---f---g---g---hg---",
+            "search_volpiano": "fffggfgghg"
         },
         {
             "id": "033v2",
@@ -7681,8 +7681,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Gratia dei sum id quod sum",
-            "volpiano": "1---ed--ed--e--fgded---ed-dfef--ed---d--dfe--f--fg-hijhg--hg---g---gh--g--fe--de--e---cd--dede-- dc---g--g--f---gh--g--fe---de--fe--de--e---3---e--g--h---4",
-            "search_volpiano": "ededefgdededdfefedddfeffghijhghggghgfedeecddededcggfghgfedefedeeegh"
+            "volpiano": "1--h---h---h---hj--g---",
+            "search_volpiano": "hhhhjg"
         },
         {
             "id": "033v3",
@@ -7697,8 +7697,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Qui operatus est petro",
-            "volpiano": "1---cd---dhk--h--h---hk--h--h---h--hghkhg---fg--gh--fe---d--d---fed---e--f---gh--ghgf--- ef--gfe---d--cd--d---3---h--h--g--f--gh--gfed---4",
-            "search_volpiano": "cddhkhhhkhhhhghkhgfgghfeddfedefghghgfefgfedcddhhgfghgfed"
+            "volpiano": "1--f---fg---g---hjk---kj---hg---h---g---k---kj---hg---h---ghg---",
+            "search_volpiano": "ffgghjkkjhghgkkjhghghg"
         },
         {
             "id": "033v4",
@@ -7713,8 +7713,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Saulus qui et Paulus magnus",
-            "volpiano": "1---g---g---h--k--j--h---k--k---h---g--h--h-- h--h---h--k--h--g---k--j---h--h---k--gf---e---g--g--g--g--g---gF--e---3---k--k--k---h---k--j---4",
-            "search_volpiano": "gghkjhkkhghhhhhkhgkjhhkgfeggggggFekkkhkj"
+            "volpiano": "1--df---d---dc---f---g---fgh---h---",
+            "search_volpiano": "dfddcfgfghh"
         },
         {
             "id": "033v5",
@@ -7729,8 +7729,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Ostendens quia hic est",
-            "volpiano": "1---k---k--k---g--gk---h--h--g---hf--g---f--e--d---ef---g---fe--de-- e---3---k--k--h---k---k---4",
-            "search_volpiano": "kkkggkhhghfgfedefgfedeekkhkk"
+            "volpiano": "1--a---cd---d---dc---defd---dc---d---",
+            "search_volpiano": "acdddcdefddcd"
         }
     ],
     "34r": [
@@ -7747,8 +7747,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Saulus qui et Paulus magnus",
-            "volpiano": "1---l--l--j---l--m---l--kl--l---lk--kj---g--g---k---k--k--- k--k--h--j--kh---gh--j--h---g--g---3---l--l--m--l---k--jk---4",
-            "search_volpiano": "lljlmlklllkkjggkkkkkhjkhghjhggllmlkjk"
+            "volpiano": "1--ed--g--hk---jkl--k--k--kj---h--kj--hg--g---",
+            "search_volpiano": "edghkjklkkkjhkjhgg"
         },
         {
             "id": "034r2",
@@ -7763,8 +7763,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Ostendens quia hic est",
-            "volpiano": "1---df--d--d---d--d--dc--d--f---f--f-- c--c---f--g--fd---f--f---fg--f--e---f---g--fE--d--d---3---f--f--f--e---c--d---4",
-            "search_volpiano": "dfdddddcdfffccfgfdfffgfefgfEddfffecd"
+            "volpiano": "1--f---fe-d---f---gh---gf---gh---gf---e---e---",
+            "search_volpiano": "ffedfghgfghgfee"
         },
         {
             "id": "034r3",
@@ -7779,8 +7779,8 @@ var data = {
             "mode": "1",
             "differentia": "D1",
             "full_text_standard": "Ne magnitudo revelationum",
-            "volpiano": "1---d--dc---f--g---f--gh--h---h--g--ef--g---fe--d--d---d---f--d--e---f--gF--g---g--e--f-- g--fe---d--d---3---h--h--g---f--gh--g---4",
-            "search_volpiano": "ddcfgfghhhgefgfedddfdefgFggefgfeddhhgfghg"
+            "volpiano": "1--fh---k---hk---llk-klm---m---l---k---",
+            "search_volpiano": "fhkhkllkklmmlk"
         },
         {
             "id": "034r4",
@@ -7795,8 +7795,8 @@ var data = {
             "mode": "1",
             "differentia": "D1",
             "full_text_standard": "Nam virtus in infirmitate",
-            "volpiano": "1---k---k--k---k--kkjhg-hj-kh---4",
-            "search_volpiano": "kkkkkkjhghjkh"
+            "volpiano": "1--fghf---g---gff-f---fe---dc---c---fgh---kh-hgfe-gf---f---",
+            "search_volpiano": "fghfggffffedccfghkhhgfegff"
         },
         {
             "id": "034r5",
@@ -7811,8 +7811,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Reposita est mihi corona",
-            "volpiano": "1---adcdeD--d---d--de--eD--d---de-gd-dc---cdedef--ef--e---ef-gf-fe--defed-e--fd---dc--- f--ghg---h--g---fg--gfe-fed-e--fd---d---d--defedc---d--fefgf--fed-e--dc---4---c--d---f--fe---d---dgfgh-- g---h--fgF---fg--ffed-e--fd---f--fdc-df--f---e--fE--dfd--d---3",
-            "search_volpiano": "adcdeDdddeeDddegddccdedefefeefgffedefedefddcfghghgfggfefedefddddefedcdfefgffededccdffeddgfghghfgFfgffedefdffdcdffefEdfdd"
+            "volpiano": "1--c---de---ed---ffe-dc---d---d---e---e---",
+            "search_volpiano": "cdeedffedcddee"
         },
         {
             "id": "034r6",
@@ -7827,8 +7827,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Cooperante in me gratia",
-            "volpiano": "1---cdf-fg--f--f--- gh--g---fe--fg--ef---de-fe--fd---d---cd--d--d--d---dC--d---d--defedc---d--fefgf---fed-e--dc---3---c--d---3",
-            "search_volpiano": "cdffgffghgfefgefdefefddcdddddCdddefedcdfefgffededccd"
+            "volpiano": "1--cd---d---f---ed---dc---fg---h---hfg---f---d---",
+            "search_volpiano": "cddfeddcfghhfgfd"
         }
     ],
     "34v": [
@@ -7845,8 +7845,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Nimis honorati sunt",
-            "volpiano": "1---g---gk-kJ--k---kg-kh-hgh--hg---g--jkl---hg--g---g-gh-ed-ege---g--g---gh-khj--hg---j---l--l--- lm-ml---k--l---k--kj--hj--j---l---k--kjkh--k---khkhg-h--hg---4---k-kl--hjkjhg-h--hg--- k--h---k--kjk--hg---g-hed-ege---ghg--ghjh-jkjh---g--ghjhg-h--hg---3",
-            "search_volpiano": "ggkkJkkgkhhghhggjklhgggghedegeggghkhjhgjlllmmlklkkjhjjlkkjkhkkhkhghhgkklhjkjhghhgkhkkjkhgghedegeghgghjhjkjhgghjhghhg"
+            "volpiano": "1--df---ed---c---f---g---ed---f---gh---h---",
+            "search_volpiano": "dfedcfgedfghh"
         },
         {
             "id": "034v2",
@@ -7861,8 +7861,8 @@ var data = {
             "mode": "5",
             "differentia": null,
             "full_text_standard": "Sancte Paule apostole",
-            "volpiano": "1---k---k--k--k--k-- kj--klk-jkjh-hg---h--k--k--k---k---jh---jk--hj--g--gh-jh---hg---g---hkhg-hjh--ghf--gh--hkjklkjh---hkhg-hg---3",
-            "search_volpiano": "kkkkkkjklkjkjhhghkkkkjhjkhjgghjhhgghkhghjhghfghhkjklkjhhkhghg"
+            "volpiano": "1--e---e---ed---g---hk---jhg---hk---k---jk---l---k---",
+            "search_volpiano": "eeedghkjhghkkjklk"
         },
         {
             "id": "034v3",
@@ -7877,8 +7877,8 @@ var data = {
             "mode": "5",
             "differentia": null,
             "full_text_standard": "Tu es vas electionis",
-            "volpiano": "1---c---efh--f--f---f--f--h---hg-hjfg--fe---f--fhG--f---f---f--ef--- dfgfe-fgfg--gf---fg--gefd-fgfgfe---d--defed-e--fd---3---f---fg-hg-hj--h---hg-ge--fg--- fgefed-e--fd---defedc--dfefgf---fed-e--dc---cd---f--efE---dc--df--dfcd--cdca---cd--dfd-dc--- fefg--gefedc-dfdc-d--defed-e--ed---3",
-            "search_volpiano": "cefhffffhhghjfgfeffhGfffefdfgfefgfggffggefdfgfgfeddefedefdffghghjhhggefgfgefedefddefedcdfefgffededccdfefEdcdfdfcdcdcacddfddcfefggefedcdfdcddefedeed"
+            "volpiano": "1--d---d---d---dc---defd---d---c---d---fg---ed---",
+            "search_volpiano": "ddddcdefddcdfged"
         },
         {
             "id": "034v5",
@@ -7893,8 +7893,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Deus et pater domini",
-            "volpiano": "1---d--cd-f-fg--f---gh--g---fe--fg--ef--de-fe---ed---defedc-- dfefgf---fed-e--dc---3---f---fg-hg---3",
-            "search_volpiano": "dcdffgfghgfefgefdefeeddefedcdfefgffededcffghg"
+            "volpiano": "1--dh--hghgfed--g--h---h--h--hlklkjh--gh---h---",
+            "search_volpiano": "dhhghgfedghhhhlklkjhghh"
         }
     ],
     "35r": [
@@ -7911,8 +7911,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Magnus sanctus Paulus",
-            "volpiano": "1---fgh--g---g---g--gh---4",
-            "search_volpiano": "fghggggh"
+            "volpiano": "1--dcd---efd-efed-d---cd---fedeca-edf-edc-d---fd---ede-eg-fef-defe---edcd---acj---cd---de---fd-ecd-ce-gfef-d---ef---e---",
+            "search_volpiano": "dcdefdefeddcdfedecaedfedcdfdedeegfefdefeedcdacjcddefdecdcegfefdefe"
         },
         {
             "id": "035r2",
@@ -7927,8 +7927,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "A Christo de caelo vocatus",
-            "volpiano": "1---dhk---h---h--hk--h--h---h--hghkhg---fg---h---gF--fg--fed--d---fed--e--f---gh--ghgf--- ef--fgfe---d--cd--d---3---h--h--g---f--gh--gh---4",
-            "search_volpiano": "dhkhhhkhhhhghkhgfghgFfgfeddfedefghghgfeffgfedcddhhgfghgh"
+            "volpiano": "1--d---cdf--fgf-f---gh--g---fg--f---fe--fg---",
+            "search_volpiano": "dcdffgffghgfgffefg"
         },
         {
             "id": "035r3",
@@ -7943,8 +7943,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Ego plantavi Apollo rigavit",
-            "volpiano": "1---g--fE---e---f--gh--h--g--- g--hg---h--gf--f---f---h--k--k---kl--h---hG--g---g--fd--e---f--gh--h---g---3---k--k--j-- k---h--g---4",
-            "search_volpiano": "gfEefghhgghghgfffhkkklhhGggfdefghhgkkjkhg"
+            "volpiano": "1--g---h---ef-gh---hg-g---hkh---jk-jhk---hhg---efg---gfgf---fd---fgfe---ffe-",
+            "search_volpiano": "ghefghhgghkhjkjhkhhgefggfgffdfgfeffe"
         },
         {
             "id": "035r4",
@@ -7959,8 +7959,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Unusquisque propriam mercedem",
-            "volpiano": "1---d--ef---g--g--f---gh--fe---d--dc---f--gh--h---h--g---ef--g--fe---d--d--- d---dc--f--g--f---gF--h---h--g---e--f---g--f---gh--fe--d--d---3---h---h--g---f--gh--g---4",
-            "search_volpiano": "defggfghfeddcfghhhgefgfeddddcfgfgFhhgefgfghfeddhhgfghg"
+            "volpiano": "1--klkkjhg---hjg-eghf-ghj-kkj-hg---hj--j--lm--lkj--h---",
+            "search_volpiano": "klkkjhghjgeghfghjkkjhghjjlmlkjh"
         },
         {
             "id": "035r5",
@@ -7975,8 +7975,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Libenter gloriabor",
-            "volpiano": "1---f--c--d---dhkJ--h---h--h---h--hghkhg-gF---f---g--h--g--fe---fg--d---cd---f--ef-- d--d---c---d---fe--d---d--c---f--f---hh---g--h--h---h---g---h--g---h--g---fe--fg--g--- cd--fe---d--cd--d---3---h--h--hg--f--gh--g---4",
-            "search_volpiano": "fcddhkJhhhhhghkhggFfghgfefgdcdfefddcdfeddcffhhghhhghghgfefggcdfedcddhhhgfghg"
+            "volpiano": "1--klkkjhg--hjg-egh-fg-hjk-kj--hg---hhj--h---",
+            "search_volpiano": "klkkjhghjgeghfghjkkjhghhjh"
         }
     ],
     "35v": [
@@ -7993,8 +7993,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Quando enim infirmor",
-            "volpiano": "1---f--c---d---d--dhk--hg-gF---f--g---h--g---f--- gfgF--d---fg--hg---e--fg--g---f--f--ef---g--fE--d--d---3---h--h--g---f--gh--g---4",
-            "search_volpiano": "fcdddhkhggFfghgfgfgFdfghgefggffefgfEddhhgfghg"
+            "volpiano": "1--ffe---d---f---gh---gf---e---gh---gf---e---e---e---",
+            "search_volpiano": "ffedfghgfeghgfeee"
         },
         {
             "id": "035v2",
@@ -8009,8 +8009,8 @@ var data = {
             "mode": "4",
             "differentia": "E2",
             "full_text_standard": "Gratia dei in me vacua",
-            "volpiano": "1---d---dc--f--g--fh--h---h--j--h---g---g--f--gh--g---g--g--g---e--g--hg--f---f---fg-- f--f---ef--g---fe--d--cd--d---3---h--h--g---f--gh--g---4",
-            "search_volpiano": "ddcfgfhhhjhggfghggggeghgfffgffefgfedcddhhgfghg"
+            "volpiano": "1--fh---k---hk---llk-k---l---nml---k---j---klk---h---",
+            "search_volpiano": "fhkhkllkklnmlkjklkh"
         },
         {
             "id": "035v3",
@@ -8025,8 +8025,8 @@ var data = {
             "mode": "4",
             "differentia": "E2",
             "full_text_standard": "Gratia dei sum id quod sum",
-            "volpiano": "1---k--k--k--k---k--k---kkk-kjhg---4",
-            "search_volpiano": "kkkkkkkkkkjhg"
+            "volpiano": "1--efd---cd---d---fg---g---g---ghg---f---f---",
+            "search_volpiano": "efdcddfgggghgff"
         },
         {
             "id": "035v4",
@@ -8041,8 +8041,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Damasci praepositus gentis",
-            "volpiano": "1---g--g---ghkjhj--hg---kj-klklm--l---l---lk-kh-kgh--gf-ghgh--hg---k--g-hkl---ml-mkl--l7-hklkjk--kj---jk--lj--l---kl-mk-kj--gh-kg-hg-gf---3---jk--l--lj--l---klm-kkj--gh-kg-hg-gf---fh7---kl--lklml---l--l--lj-klkjh-jkjh---ghkhgh--hg---4",
-            "search_volpiano": "ggghkjhjhgkjklklmlllkkhkghgfghghhgkghklmlmkllhklkjkkjjkljlklmkkjghkghggfjklljlklmkkjghkghggffhkllklmlllljklkjhjkjhghkhghhg"
+            "volpiano": "1--f---gf---df---egh---fef-fe---f---gf---df---gfg-fe---",
+            "search_volpiano": "fgfdfeghfeffefgfdfgfgfe"
         },
         {
             "id": "035v5",
@@ -8057,8 +8057,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Deus et pater domini",
-            "volpiano": "1---lmnml--kj---klk-kj---k--k--k---k---k-- lj---kl--kl---l--lm-nm--ml---l---l--lmlmlk---lk--kl-ml-mnm--lk-lmlm--lkj-kj---3---jkl--l---3",
-            "search_volpiano": "lmnmlkjklkkjkkkkkljklklllmnmmllllmlmlklkklmlmnmlklmlmlkjkjjkll"
+            "volpiano": "1--h--h--gh---gf---ghghge-fe-g--g--gf---gh--gf---",
+            "search_volpiano": "hhghgfghghgefegggfghgf"
         },
         {
             "id": "035v6",
@@ -8073,8 +8073,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Ter virgis caesus sum",
-            "volpiano": "1---k-klK---k---k--mnM--lk--jljkhg-hkh---g---h--kj--kl--kj--k---l--kj--h---hklkj-klkl--- lk---hg---hkjklk--k---jh-jkjhg-hkh---4---gh---kjkl--ljkjhg-hkh---gh-kjk--k---kl--klmlkj-k--- kj---kj--k--lm--l--lmnlk-lkhg-jkg-jkl-jkh-jkjh---ghG--g---3",
-            "search_volpiano": "kklKkkmnMlkjljkhghkhghkjklkjklkjhhklkjklkllkhghkjklkkjhjkjhghkhghkjklljkjhghkhghkjkkklklmlkjkkjkjklmllmnlklkhgjkgjkljkhjkjhghGg"
+            "volpiano": "1--f---f---h---gk---kl---k---k---hgk---k---",
+            "search_volpiano": "ffhgkklkkhgkk"
         },
         {
             "id": "035v7",
@@ -8089,8 +8089,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Nocte et die in profundum",
-            "volpiano": "1---lmnml--klk-kj---k-- kl--k--k---k---k--lj--kl--kl---lm-nm--ml---klk-kj---klk--l---lm--l---l--lmlmlk-- lk--kl-ml-mnm---lk-lmlm--lkj-kj---3---gh---kjkl---4",
-            "search_volpiano": "lmnmlklkkjkklkkkkljklkllmnmmlklkkjklkllmlllmlmlklkklmlmnmlklmlmlkjkjghkjkl"
+            "volpiano": "1--k--k--klkk---hjh-kl--k---k--k--kh--hl--l---",
+            "search_volpiano": "kkklkkhjhklkkkkhhll"
         },
         {
             "id": "035v8",
@@ -8105,8 +8105,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Exsultet caelum*",
-            "volpiano": "1---gjkl--l--l---mnm--kl---l--ljkl--lmlj- kjhg-hg---g--gl---ljkjh-k--k---k---k--jklkjh-jkjh--ghkhg-h--hg---k---ghk--k---k--jkl--kj--k--klkj- kjhg-hg---l--l--lm--l---ml-lk--klm--lkljk---l-hklkj-k--kj---4---k---klm--l--mnm--kl---ljkl--lmlj- kjhg-hg---gl--ljk---jh--k--klk---khjkjhg-h--hg---3",
-            "search_volpiano": "gjklllmnmkllljkllmljkjhghggglljkjhkkkkjklkjhjkjhghkhghhgkghkkkjklkjkklkjkjhghglllmlmllkklmlkljklhklkjkkjkklmlmnmklljkllmljkjhghgglljkjhkklkkhjkjhghhg"
+            "volpiano": "1--kl---lk---lmk-k---kh---jk-hg---k---ln---n---",
+            "search_volpiano": "kllklmkkkhjkhgklnn"
         },
         {
             "id": "035v9",
@@ -8121,8 +8121,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Tu es vas electionis",
-            "volpiano": "1---l---lmnml--kj--klk-kj---k--kl--k--k---k--kl-- k--k---k--lj--kl---kl---lm-nm--nl---klk-kj---kl--l--l---lm--l---l--l--l---l--l--l--l--l--- lmlmlk---lK--kl-ml-mnm--lk-lmlm--lkj-kj---3---k---jklm---3",
-            "search_volpiano": "llmnmlkjklkkjkklkkkklkkkljklkllmnmnlklkkjkllllmllllllllllmlmlklKklmlmnmlklmlmlkjkjkjklm"
+            "volpiano": "1--k--kl--k--k---lmnm--lk---km---oop-o---on---",
+            "search_volpiano": "kklkklmnmlkkmoopoon"
         },
         {
             "id": "035v10",
@@ -8137,8 +8137,8 @@ var data = {
             "mode": "2",
             "differentia": "D1",
             "full_text_standard": "Vos qui secuti estis me",
-            "volpiano": "1---fg-hf-gef---f--fgef--d--cdf--- fgh--hg---jhjkh--jhgf---d---f-gef--f---f--hijk--gf---hijk---lk-kijh-ij--g--g--h--def---c--- df---gf---gh--dc--df---g--ed-ef--f---hgf-g--ed---b--d--d---dcb---d--eD-- def-fE---ge-fg--fgf---f--hjk---k---lkjh-jk--k---k--hjk-kjhg-gF---gh--g---4---f--- hjk---lK--jh-jk--k---lmnmlk-ljk-lmnmlk-ljk-kh-jhgf--fghkjh-k--f---jhg-hG--gf--e--- f-gf--f---3",
-            "search_volpiano": "fghfgefffgefdcdffghhgjhjkhjhgfdfgefffhijkgfhijklkkijhijgghdefcdfgfghdcdfgedeffhgfgedbdddcbdeDdeffEgefgfgffhjkklkjhjkkkhjkkjhggFghgfhjklKjhjkklmnmlkljklmnmlkljkkhjhgffghkjhkfjhghGgfefgff"
+            "volpiano": "1--kkl--k--kl---mn-ml--k---m---oop--o--o---",
+            "search_volpiano": "kklkklmnmlkmoopoo"
         }
     ],
     "36r": [
@@ -8155,8 +8155,8 @@ var data = {
             "mode": "2",
             "differentia": "D1",
             "full_text_standard": "Cum sederit filius",
-            "volpiano": "1---h--f---g--fe--d---fE---g--edef--f---k--k--h--k---lK--jh-jk--k--- k-fgh--j--g--fed---f---gF--edef---3---f--hijk---3",
-            "search_volpiano": "hfgfedfEgedeffkkhklKjhjkkkfghjgfedfgFedeffhijk"
+            "volpiano": "1--g---jk---l---l---m---o---lm---l---jk---l---",
+            "search_volpiano": "gjkllmolmljkl"
         },
         {
             "id": "036r2",
@@ -8171,8 +8171,8 @@ var data = {
             "mode": "6",
             "differentia": "F1",
             "full_text_standard": "Gloriosi principes terrae",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--gfd---e---f---hg---f---fg---g---hkjh---kl-kjhg---fg---g---",
+            "search_volpiano": "gfdefhgffgghkjhklkjhgfgg"
         },
         {
             "id": "036r3",
@@ -8187,8 +8187,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Petrus apostolus et Paulus doctor gentium",
-            "volpiano": "1---g--fd---e--f--gh--h---g---g--gk--h---gf--gh--g---g---g--g---h--g--- f--e--fd---cd---ef--gh---h--g--fg--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "gfdefghhgggkhgfghgggghgfefdcdefghhgfggkkjkhg"
+            "volpiano": "1--f---gh---f---f---f---d---cdf---f---f---fgj---pqk-jhgf---",
+            "search_volpiano": "fghfffdcdffffgjpqkjhgf"
         },
         {
             "id": "036r4",
@@ -8203,8 +8203,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Juravit dominus*",
-            "volpiano": "1---k--k--k---k--k--k--k-kjhg---4",
-            "search_volpiano": "kkkkkkkkjhg"
+            "volpiano": "1--gl---lkj---kl---ml---mlm---kj---hgf---gh-g---",
+            "search_volpiano": "gllkjklmlmlmkjhgfghg"
         },
         {
             "id": "036r5",
@@ -8219,8 +8219,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Nardi Maria pistici*",
-            "volpiano": "1---dhk--h---h---hgf--ghjhg-hj--hg---g---f--ghg---h--g---fg--gefed--dfd-dc---cd---fgfe--fgh---hghf-gfd-- fd--dfef--ed---4---d--fgh--g---gh--h--gfg--ghfd-fed-fd---df-gf--fd---f--ghg--h--gfd-fgfg---fg-hg---cd-- fgfe--fgh---hghf-gfe--fd--dfef--ed---3",
-            "search_volpiano": "dhkhhhgfghjhghjhggfghghgfggefeddfddccdfgfefghhghfgfdfddfefeddfghgghhgfgghfdfedfddfgffdfghghgfdfgfgfghgcdfgfefghhghfgfefddfefed"
+            "volpiano": "1--kj---hg---kl--lml--l---kj--kl--l---",
+            "search_volpiano": "kjhgkllmllkjkll"
         },
         {
             "id": "036r6",
@@ -8235,8 +8235,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Specie tua et pulchritudine*",
-            "volpiano": "1---h--hghg-gf---g--g--gh--g---g---g--hf--gh---gh-- hijh--h---jg---gh--h---h--h---hk--h--h---h---h--hghg---hf--fg-hghijh--hgfe-gh--gf---3---d--fgh--g---3",
-            "search_volpiano": "hhghggfggghggghfghghhijhhjgghhhhhkhhhhhghghffghghijhhgfeghgfdfghg"
+            "volpiano": "1--dgf---gh-g---g---g---ghj---h---hg---hj-kghgf-hf---ghg---h---",
+            "search_volpiano": "dgfghgggghjhhghjkghgfhfghgh"
         },
         {
             "id": "036r7",
@@ -8251,8 +8251,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "In diebus illis mulier quae erat in civitate",
-            "volpiano": "1---gh--g--ghk--k---k--k---kj--k---hjkjhg--ghkjh-jkg-g-efe---fgh--g--g---g-- g--hghk--h---h--h--hg--hk--h---hg-gf--fgj-kg-hg--egef--ef-f---dg--g--hkhg-hk--k---k--k--k-- kj--hkh-hg---gh--g--ghk---kjh-jh--hg---4---g--h---hlkl--jk---h--h--hg---hk---hghg--efgfe- fed-ed---fE--f---f---gh--hkjg---g--gf-gefgF--fe---3",
-            "search_volpiano": "ghgghkkkkkjkhjkjhgghkjhjkggefefghgggghghkhhhhghkhhggffgjkghgegefeffdgghkhghkkkkkkjhkhhgghgghkkjhjhhgghhlkljkhhhghkhghgefgfefededfEffghhkjgggfgefgFfe"
+            "volpiano": "1--gk--kj--kl---lk--kj-hg---gl--kl--l---lml--kj---",
+            "search_volpiano": "gkkjkllkkjhgglklllmlkj"
         }
     ],
     "36v": [
@@ -8269,8 +8269,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Laudemus deum nostrum in conversione",
-            "volpiano": "1---k---klk-k--hj-kh-hg--jk--h--hg--- h--k--jlk-k--kj---kg--hk---k--k---k--k---k--k--k---k--k--klk-kjh-hj-kj---hG--ghk-- kjkh-khg-h--hg---3---g--h---3",
-            "search_volpiano": "kklkkhjkhhgjkhhghkjlkkkjkghkkkkkkkkkkklkkjhhjkjhGghkkjkhkhghhggh"
+            "volpiano": "1--d--cd---dfd--edcd-dc---fe---gh-de--fef-ed---dhj--h---",
+            "search_volpiano": "dcddfdedcddcfeghdefefeddhjh"
         },
         {
             "id": "036v2",
@@ -8285,8 +8285,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Nardi Maria pistici*",
-            "volpiano": "1---g--gh-kjk--k---klkj-kl-mlm--ml---n--mn---l--k--k---kh-- k--klk---khjkjhg--gh-kg-hg-gf---fhk--klkjh-jkjh---e--efhfe-f--fe---4---knmno---oN-- nomnlnl---l--m--n--l---lK--klk-kj---lk--l--ml-lml--l--lml-ljkj---j---kl--lk--l---kl-mk-kj-- gh-kg-hg-gf---fhkjh-hlkl--ljklkjh-jkjh---ghkhg-h--hg---3",
-            "search_volpiano": "gghkjkkklkjklmlmmlnmnlkkkhkklkkhjkjhgghkghggffhkklkjhjkjheefhfeffeknmnooNnomnlnllmnllKklkkjlklmllmlllmlljkjjkllklklmkkjghkghggffhkjhhlklljklkjhjkjhghkhghhg"
+            "volpiano": "1--dh--h--hghg---gf-gh---gh--h--hjh--h---",
+            "search_volpiano": "dhhhghggfghghhhjhh"
         },
         {
             "id": "036v3",
@@ -8301,8 +8301,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "O quam pulchra*",
-            "volpiano": "1---l--l--lmnml--klk-kj---k--k---k--k--k--- lK--kl--kl--lm-nm--ml---klk-kj--klk---l--l---lm--l---l--l--lm--l---l--l--l--lmlmlk--lk-- kl-mlmnm---lk-lmlm--lkj-kj---3---lnmno---3",
-            "search_volpiano": "lllmnmlklkkjkkkkklKklkllmnmmlklkkjklklllmllllmlllllmlmlklkklmlmnmlklmlmlkjkjlnmno"
+            "volpiano": "1--dh--h--hghg---gf-hf--gh---gh---h--hjh--h---",
+            "search_volpiano": "dhhhghggfhfghghhhjhh"
         },
         {
             "id": "036v4",
@@ -8317,8 +8317,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Maria Magdalena*",
-            "volpiano": "1---cd---fghge-f--dcd--df---cf--hkgf-hgh--kh-- hg-gF---fg-hg--h--gfe-fgfg--gf---hghgfe-fgfgh---dfef--ed---4---d---d--fef--dfedc-dc---fgh--kh--- gfg--hg--ghgf-gf---f--gh--h---hg-gf--gf--f--dc--c---e---gh--g-fgfedc-dfdc-d--dfef--ed---3",
-            "search_volpiano": "cdfghgefdcddfcfhkgfhghkhhggFfghghgfefgfggfhghgfefgfghdfefedddfefdfedcdcfghkhgfghgghgfgffghhhggfgffdcceghgfgfedcdfdcddfefed"
+            "volpiano": "1--dhj---h---ghg---f---ed---ef---e---d---cd---d---hkl---l---",
+            "search_volpiano": "dhjhghgfedefedcddhkll"
         },
         {
             "id": "036v5",
@@ -8333,8 +8333,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Congratulamini*",
-            "volpiano": "1---h--hghg-gf---g--g--hf---gh--gh---hijh--h---h---h--hghg--hf---fg-hg-hjh---hgfe-gh--gf---3",
-            "search_volpiano": "hhghggfgghfghghhijhhhhhghghffghghjhhgfeghgf"
+            "volpiano": "1--d---ca---cd---d---fe---d---ed---cd---d---d---",
+            "search_volpiano": "dcacddfededcddd"
         },
         {
             "id": "036v6",
@@ -8349,8 +8349,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Tulerunt dominum*",
-            "volpiano": "1---d--dc---f--g---fh--h---hg--j--h---g---g--fh--g---g--g--g---e--g---hg--fg---fc--df--f---d--d---3---h--h--g--f---gh--g---4",
-            "search_volpiano": "ddcfgfhhhgjhggfhggggeghgfgfcdffddhhgfghg"
+            "volpiano": "1--gh---jk---k---jkl---kj---hj---h---g---",
+            "search_volpiano": "ghjkkjklkjhjhg"
         },
         {
             "id": "036v7",
@@ -8365,8 +8365,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Diffusa est*",
-            "volpiano": "1---g---g---h--k--j--h---k--k---g---h--h--- h--k---h--h--g---hf--g---g--fg--g---3---k--k--k--h---k--k---4",
-            "search_volpiano": "gghkjhkkghhhkhhghfggfggkkkhkk"
+            "volpiano": "1--f---fede-c---dfe---fg---gf---dc---df---ef---e---",
+            "search_volpiano": "ffedecdfefggfdcdfefe"
         },
         {
             "id": "036v8",
@@ -8381,8 +8381,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Specie tua*",
-            "volpiano": "1---j--k---l--m--l---lm-- kJ---k--k---k---l--l--k---k---lml--kjklk---h---g--hkh--k---g--g---3---l--l--m--l---k--lk---4",
-            "search_volpiano": "jklmllmkJkkkllkklmlkjklkhghkhkggllmlklk"
+            "volpiano": "1--hg---fh---kkl-k---klm---nm---lmll---k---",
+            "search_volpiano": "hgfhkklkklmnmlmllk"
         },
         {
             "id": "036v9",
@@ -8397,8 +8397,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Propter veritatem*",
-            "volpiano": "1---d---dc---fg---f--gh--h---h---j---h--g--gF---fhG--g---g--eg---h--gf--f--- g--f--f---g--f--e---f---f---gF--fe---d--d---3---h--h--g--f---gh--h---4",
-            "search_volpiano": "ddcfgfghhhjhggFfhGggeghgffgffgfeffgFfeddhhgfghh"
+            "volpiano": "1--dh--gfg---hjh---hgf--gf---df--ggf---",
+            "search_volpiano": "dhgfghjhhgfgfdfggf"
         },
         {
             "id": "036v10",
@@ -8413,8 +8413,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Dilexisti justitiam*",
-            "volpiano": "1---d--d--f---dC--f--- g--f--gh--h---hG--g---ef--g---fe--d--d---d--d---dC--f--g---fh--h---h--g--h---h--g-- ef---g--fE--d--d---3---h--h--g--f---gh--g---4",
-            "search_volpiano": "ddfdCfgfghhhGgefgfedddddCfgfhhhghhgefgfEddhhgfghg"
+            "volpiano": "1--hhg---fh---kkl-k---ln---nm---lk---k---",
+            "search_volpiano": "hhgfhkklklnnmlkk"
         },
         {
             "id": "036v11",
@@ -8429,8 +8429,8 @@ var data = {
             "mode": "5",
             "differentia": null,
             "full_text_standard": "Regnum mundi et omnem",
-            "volpiano": "1---f--f---g--f--g--gh---hg---f--gh--gfe--- fg--g--f---4",
-            "search_volpiano": "ffgfgghhgfghgfefggf"
+            "volpiano": "1--f---c---d---dhj---h---h---g---f---gh---h---",
+            "search_volpiano": "fcddhjhhgfghh"
         },
         {
             "id": "036v12",
@@ -8445,8 +8445,8 @@ var data = {
             "mode": "5S",
             "differentia": null,
             "full_text_standard": "Eructavit cor meum",
-            "volpiano": "1---f---g--h---h--h---hk--h--h---h---h--g---f--g--gh--hg---3",
-            "search_volpiano": "fghhhhkhhhhgfgghhg"
+            "volpiano": "1--egh---g---g---gh---g---ghj---h---hg---hj-kghgf-",
+            "search_volpiano": "eghggghgghjhhghjkghgf"
         },
         {
             "id": "036v13",
@@ -8461,8 +8461,8 @@ var data = {
             "mode": "5S",
             "differentia": null,
             "full_text_standard": "Gloria sit deo patri et filio et spiritui sancto",
-            "volpiano": "1---k-- k---k--k--k--k---k-kjhg-hj-kh---3",
-            "search_volpiano": "kkkkkkkkjhghjkh"
+            "volpiano": "1--gk--k--kj--klkj---kjhg-hg-hj--jh--jk---hj--ghjh--hg---",
+            "search_volpiano": "gkkkjklkjkjhghghjjhjkhjghjhhg"
         }
     ],
     "37r": [
@@ -8479,8 +8479,8 @@ var data = {
             "mode": "3",
             "differentia": "A2",
             "full_text_standard": "Cum esset rex in accubitu suo",
-            "volpiano": "1---dC--d--f--d---dc--d--fe--dfec---fg-hg--h--g--hghijh--- h--gf--ef---gfe---d--d---d---dC--f--g---fh--h---h--g--ef---g--fe--d--cd--d---fed---e--f--ghG--ghgf--- ef--gfe--d--d---3---h--h--g--f---gh--g---4",
-            "search_volpiano": "dCdfddcdfedfecfghghghghijhhgfefgfeddddCfgfhhhgefgfedcddfedefghGghgfefgfeddhhgfghg"
+            "volpiano": "1--f---df---f---f---ge---efgfe---fed-ed-f---f---ef---defec---",
+            "search_volpiano": "fdfffgeefgfefededffefdefec"
         },
         {
             "id": "037r2",
@@ -8495,8 +8495,8 @@ var data = {
             "mode": "4",
             "differentia": "E2",
             "full_text_standard": "In odore[m] unguentorum tuorum",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--h--gf---ghghge-fe-g--gh--g---gf--gh--gf--efgf--fe---",
+            "search_volpiano": "hgfghghgefegghggfghgfefgffe"
         },
         {
             "id": "037r3",
@@ -8511,8 +8511,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Jam hiems transiit imber",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--a---cde---d---f---fe---egde-dc---d---f---efedc---de-def---gefe-",
+            "search_volpiano": "acdedffeegdedcdfefedcdedefgefe"
         },
         {
             "id": "037r4",
@@ -8527,8 +8527,8 @@ var data = {
             "mode": "4",
             "differentia": "E2",
             "full_text_standard": "Veni electa mea",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--cd--efg-f---f--f--fe---fg--ef---de--fe-ed---",
+            "search_volpiano": "cdefgffffefgefdefeed"
         },
         {
             "id": "037r5",
@@ -8543,8 +8543,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Ista est speciosa",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--g---g---h---k---k---h---k---j---",
+            "search_volpiano": "gghkkhkj"
         },
         {
             "id": "037r6",
@@ -8559,8 +8559,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Hujus obtentu*",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--k---k---k---jjkjh---h---k---k---j---",
+            "search_volpiano": "kkkjjkjhhkkj"
         },
         {
             "id": "037r7",
@@ -8575,8 +8575,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Elegit eam deus et*",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--d---dc---f---g---fgh---hg---f---g---h---g---",
+            "search_volpiano": "ddcfgfghhgfghg"
         },
         {
             "id": "037r8",
@@ -8591,8 +8591,8 @@ var data = {
             "mode": "6",
             "differentia": "F1",
             "full_text_standard": "Maria ergo unxit pedes Jesu",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--c---cd---d---d---d---d---d---d---f---defec---",
+            "search_volpiano": "ccdddddddfdefec"
         },
         {
             "id": "037r9",
@@ -8607,8 +8607,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Dum esset rex*",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--e---de---g---g---gj---h---h---g---",
+            "search_volpiano": "edegggjhhg"
         },
         {
             "id": "037r10",
@@ -8623,8 +8623,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Mulier quae erat in civitate",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--g--g---g---gd--fh--h--g---g--h--g---",
+            "search_volpiano": "ggggdfhhgghg"
         }
     ],
     "37v": [
@@ -8641,8 +8641,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Petrus beatus*",
-            "volpiano": "1---k--k---k--k--k--kk---k-kjhg-hj-kh---4",
-            "search_volpiano": "kkkkkkkkkjhghjkh"
+            "volpiano": "1--c---d---efed---d---d---dc---e---fe---d---d---",
+            "search_volpiano": "cdefeddddcefedd"
         },
         {
             "id": "037v2",
@@ -8657,8 +8657,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Tu es Petrus*",
-            "volpiano": "1---f--c---d---d--dhk--h---h---h--h---h--h---h--g--h---f--gh--fed--d---df--f--fe---de--f--dc-- c---c--d---f--f--fg--f---f---f--ef--g---fe--d--cd-d---3---h--h--g--f---gh--g---4",
-            "search_volpiano": "fcdddhkhhhhhhhghfghfedddfffedefdcccdfffgfffefgfedcddhhgfghg"
+            "volpiano": "1--c---cd---d---defd---dc---d---fe---fded---cd---defd---dc---",
+            "search_volpiano": "ccdddefddcdfefdedcddefddc"
         },
         {
             "id": "037v3",
@@ -8673,8 +8673,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Tu es pastor ovium*",
-            "volpiano": "1---g--gk--h---g---h--g---f--gh---h--g--g---k---k--k--k--kJ---h--k---jk-- k---k---j--k--l--lK---j---k--j--hg---h--ghjkjh---e---f--g--h---g--f---fdc--c---gh--- gh-kjh--j--hk---g--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "ggkhghgfghhggkkkkkJhkjkkkjkllKjkjhghghjkjhefghgffdccghghkjhjhkggkkjkhg"
+            "volpiano": "1--ghk---k---jh---k---kjhj---jg---gkh---khj---kj-ghg---h---ghgf---",
+            "search_volpiano": "ghkkjhkkjhjjggkhkhjkjghghghgf"
         },
         {
             "id": "037v4",
@@ -8689,8 +8689,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Regem apostolorum*",
-            "volpiano": "1---c--d---de-fd--dc---d--e-- fgfe---cd--de-fd--dc---d--f--egfe--e---g--gh---hkgh--fe---g---fed--de-fd--dc---d--f--fgfed-efd-- cd--d---3---dh--h--gfe---4",
-            "search_volpiano": "cddefddcdefgfecddefddcdfegfeegghhkghfegfeddefddcdffgfedefdcdddhhgfe"
+            "volpiano": "1--k--k--k--klk--hjkjhg---hg-k--jk--h---h--hg--h---",
+            "search_volpiano": "kkkklkhjkjhghgkjkhhhgh"
         },
         {
             "id": "037v5",
@@ -8705,8 +8705,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Petrus beatus*",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--f---df---f---f---efgfe---fed-ed-f---f---dedc---ef---gfg-hg-egf---ef---",
+            "search_volpiano": "fdfffefgfefededffdedcefgfghgegfef"
         },
         {
             "id": "037v6",
@@ -8721,8 +8721,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "In omnem terram*",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--h---h--h--h--gh--gf---ghghge-fe-g--g--g--gh--g---",
+            "search_volpiano": "hhhhghgfghghgefegggghg"
         },
         {
             "id": "037v7",
@@ -8737,8 +8737,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Simon Petre*",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--gkj---k---lk---lmlm-ml---l---l---mnml---kl---lkj---kl-lmlkj---kjhg-hg-",
+            "search_volpiano": "gkjklklmlmmlllmnmlkllkjkllmlkjkjhghg"
         },
         {
             "id": "037v8",
@@ -8753,8 +8753,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Si diligis me*",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--l--l--lmnml--kj--klkj---k--lj--kl---kl--lmnm--ml---",
+            "search_volpiano": "lllmnmlkjklkjkljklkllmnmml"
         },
         {
             "id": "037v9",
@@ -8769,8 +8769,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Tu es Petrus*",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--d---d---dfd---c---fgf---g---ghgf---ghg-hj-h---h---ghge---fg-fg---",
+            "search_volpiano": "dddfdcfgfgghgfghghjhhghgefgfg"
         },
         {
             "id": "037v10",
@@ -8785,8 +8785,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Domine si tu es*",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--dh--h--h ghgf---gh--g---g---g--g--g---hf--gh---",
+            "search_volpiano": "dhhhghgfghggggghfgh"
         },
         {
             "id": "037v11",
@@ -8801,8 +8801,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Surge Petre*",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--dgf---gh-g---g---ghj---h---hg---hj-kghgf-hf---ghg---h---hjk---hg---",
+            "search_volpiano": "dgfghggghjhhghjkghgfhfghghhjkhg"
         },
         {
             "id": "037v12",
@@ -8817,8 +8817,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Tu es pastor*",
-            "volpiano": "1---h---gF--g--hk---kj-klkl--lk---l--n--n---l--k---k--k--hjkjhg-h-- hg---hk--kjh-kh--ghjkjh-j--kh---4---l--k---j---k--lnlk-lmL--l---l--k--hkj---jhjkjhg-- hghkh---gf---g--hk--kj-klkl--lk---k--l--k---k--gh-kh-jh-hG--hg---fg--gk-k---k-- k--l--k---l--k--k---gh-kh-jh-hG--hghjh---h--gf---g--hk--kj-klkl--lk---kl--k--k---kjkjh- kk--k---jklkjh-jkjh--ghkhg-h--hg---3",
-            "search_volpiano": "hgFghkkjklkllklnnlkkkhjkjhghhghkkjhkhghjkjhjkhlkjklnlklmLllkhkjjhjkjhghghkhgfghkkjklkllkklkkghkhjhhGhgfggkkkklklkkghkhjhhGhghjhhgfghkkjklkllkklkkkjkjhkkkjklkjhjkjhghkhghhg"
+            "volpiano": "1--kj--klkj---kjhg-hg-jh---kl--k--k---k--k---",
+            "search_volpiano": "kjklkjkjhghgjhklkkkk"
         },
         {
             "id": "037v13",
@@ -8833,8 +8833,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Quem dicunt*",
-            "volpiano": "1---lmnml--klk-kj---k---k--k---kl--k---k--k-- lj---kl--kl--lm-nm-ml---klk-kj--klK---l--l---lm--l---l---l--lm--l---l---l--l--- lmlmlk--lk---kl-ml-mnm--lk-lmlm--lkj-kj---3---l--k---3",
-            "search_volpiano": "lmnmlklkkjkkkklkkkljklkllmnmmlklkkjklKlllmllllmlllllmlmlklkklmlmnmlklmlmlkjkjlk"
+            "volpiano": "1--d---fgf---gh---h---gfg---fgfd---fe---f---ghf---fe---ghfgfe---",
+            "search_volpiano": "dfgfghhgfgfgfdfefghffeghfgfe"
         },
         {
             "id": "037v14",
@@ -8849,8 +8849,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Solve jubente*",
-            "volpiano": "1---d--e--gh--hG---h--k-- k---g--kgh-kk-ljk--kj---k--g---gh-jkh--gfgfe-fed-fd---4---fE---e--f--gh--g---hkjk-- hG--f--fgh-hg---f---f---efdc--dfdf---f---gefd-fgfg--gf-ghgh--egef--fe---3",
-            "search_volpiano": "deghhGhkkgkghkkljkkjkgghjkhgfgfefedfdfEefghghkjkhGffghhgffefdcdfdffgefdfgfggfghghegeffe"
+            "volpiano": "1--dh--h--h--h ghgf---g---hf---gh--gh--h--hjh--h---",
+            "search_volpiano": "dhhhhghgfghfghghhhjhh"
         },
         {
             "id": "037v15",
@@ -8865,8 +8865,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Herodes rex apposuit",
-            "volpiano": "1---klk-k--hj-kj-- hg---jk--h--h---h--h--h---h--hg--h---k--jlk-k--kj---kljkjh-jkj---hg--ghk--kjkh-khg-h--- hg---3---fE---e--f--gh--g---3",
-            "search_volpiano": "klkkhjkjhgjkhhhhhhhghkjlkkkjkljkjhjkjhgghkkjkhkhghhgfEefghg"
+            "volpiano": "1--c---d---de---c---ede---fd-d---ef---gh---ghg---",
+            "search_volpiano": "cddecedefddefghghg"
         },
         {
             "id": "037v16",
@@ -8881,8 +8881,8 @@ var data = {
             "mode": "3",
             "differentia": "G2",
             "full_text_standard": "Petrus quidem servabatur",
-            "volpiano": "1---h--g--h--klk--kJ---kl--lk-lmlm--ml---l---l--lo--ol---l--nm--nonml-- lml-l-jkj---4---j--l--m---mk--l--lk---k--kh---k--lml---m--l---kl--lkj-kjhg-h--gf---fhkjh-hlkl-- lj-klkjh-jkjh---ghkhg-h--hg---3",
-            "search_volpiano": "hghklkkJkllklmlmmlllloollnmnonmllmlljkjjlmmkllkkkhklmlmlkllkjkjhghgffhkjhhlklljklkjhjkjhghkhghhg"
+            "volpiano": "1--dh--h ghgf---g---gh--g--g---g--g--hf--gh---",
+            "search_volpiano": "dhhghgfgghgggghfgh"
         },
         {
             "id": "037v17",
@@ -8897,8 +8897,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Dixit angelus ad Petrum*",
-            "volpiano": "1---l--l--lmnml--klk-kj---k--k---kl--k--k---k---k--lK--kl--kl--lnmn--ml--- klk-kj--klK--l---l--lmlmlk--lk--kl-ml-mnm---lk-lmlm--lkj-kj---3---j--lmL--l---3",
-            "search_volpiano": "lllmnmlklkkjkkklkkkklKklkllnmnmlklkkjklKlllmlmlklkklmlmnmlklmlmlkjkjjlmLl"
+            "volpiano": "1--g---g---g---gd---f---h---g---g---g---g---hj---",
+            "search_volpiano": "ggggdfhgggghj"
         },
         {
             "id": "037v18",
@@ -8913,8 +8913,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Misit dominus*",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--l---l---j---l---m---l---kl---l---l---l---",
+            "search_volpiano": "lljlmlkllll"
         },
         {
             "id": "037v19",
@@ -8929,8 +8929,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Tu es Petrus*",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--f---g---f---f---f---g---f---*---hg---f---f---",
+            "search_volpiano": "fgfffgfhgff"
         },
         {
             "id": "037v20",
@@ -8945,8 +8945,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Jam bone pastor*",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--gff---e---f---gh---h---g---g---g---",
+            "search_volpiano": "gffefghhggg"
         },
         {
             "id": "037v21",
@@ -8961,8 +8961,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Tu es Petrus*",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--l---j---l---m---l---l---l---l---l---m---l---",
+            "search_volpiano": "ljlmlllllml"
         },
         {
             "id": "037v22",
@@ -8977,8 +8977,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Quodcumque ligaveris*",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--g---g---g---*---gh---hgf---gh---h---g---",
+            "search_volpiano": "gggghhgfghhg"
         },
         {
             "id": "037v23",
@@ -8993,8 +8993,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Petrus beatus*",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--d---dc---f---g---fgh---h---h---g---ef---g---fe---",
+            "search_volpiano": "ddcfgfghhhgefgfe"
         },
         {
             "id": "037v24",
@@ -9009,8 +9009,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Tu es Petrus*",
-            "volpiano": "1---eD--e--e---fd--cd--d---e--f--g---f--edc--d---e--efd--d---f---e--d--e---e---3---h--g---h--k--g--e---4",
-            "search_volpiano": "eDeefdcddefgfedcdeefddfedeehghkge"
+            "volpiano": "1--c---d---dhj---h---h---h---hg---hjhg-g---f---g---h---g---f---",
+            "search_volpiano": "cddhjhhhhghjhggfghgf"
         },
         {
             "id": "037v25",
@@ -9025,8 +9025,8 @@ var data = {
             "mode": "7",
             "differentia": "C1",
             "full_text_standard": "Solve jubente deo terrarum",
-            "volpiano": "1---k--k---k--k---k-kjhg---4",
-            "search_volpiano": "kkkkkkjhg"
+            "volpiano": "1--g---g---fgh---g---g---gh---hgf---h---",
+            "search_volpiano": "ggfghggghhgfh"
         },
         {
             "id": "037v26",
@@ -9041,8 +9041,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Deus tuorum militum*",
-            "volpiano": "1---cd--dhk--h---hgf-ghghkJ--h---fg--fgh-- hg---fed--dfd-dc---c--c---dfe--f---hk--g---hg---fe-fgfg--gf--3---h---ghgf--gh--hghgf--gh---ghfg-- dfdc-dfd---cd--fgfe--fgh---hghfgfe--dfef--ed---3",
-            "search_volpiano": "cddhkhhgfghghkJhfgfghhgfeddfddcccdfefhkghgfefgfggfhghgfghhghgfghghfgdfdcdfdcdfgfefghhghfgfedfefed"
+            "volpiano": "1--g---j---k---l---lml---k---kl---l---",
+            "search_volpiano": "gjkllmlkkll"
         },
         {
             "id": "037v27",
@@ -9057,8 +9057,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Gloria et honore*",
-            "volpiano": "1---h---h--hghg-gf---gh--g---g--g--- hG--gh---gh--hjh--h---hG--gh--h---h--h--h---h--hghg---hf--fg-hg-hjh---hgfe-gh--gf---3---h---ghgf--gh---3",
-            "search_volpiano": "hhhghggfghggghGghghhjhhhGghhhhhhhghghffghghjhhgfeghgfhghgfgh"
+            "volpiano": "1--lj---lm-lm---l---l---j---kl---k---",
+            "search_volpiano": "ljlmlmlljklk"
         },
         {
             "id": "037v28",
@@ -9073,8 +9073,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Levita Laurentius bonum opus",
-            "volpiano": "1---k--jk---hghk---jlk-k--kj---h---j--k---h---hk-k--hg---hkghg--- e--egef--fe---h--khjkjhg--hg---efgfe-fed--ed-efef---4---d--e---g--h---g---kgh- kkkhgf-gh-hg---hghgh--e--fgef--fe---3",
-            "search_volpiano": "kjkhghkjlkkkjhjkhhkkhghkghgeegeffehkhjkjhghgefgfefededefefdeghgkghkkkhgfghhghghghefgeffe"
+            "volpiano": "1--g---hk---k---k---j---h---k---j---",
+            "search_volpiano": "ghkkkjhkj"
         }
     ],
     "38r": [
@@ -9091,8 +9091,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Beatus Laurentius Christi martyr",
-            "volpiano": "1---klk-k--hj-kj--hg---jk--h--h---3---h--j---3",
-            "search_volpiano": "klkkhjkjhgjkhhhj"
+            "volpiano": "1--d---ef---g---g---fg---fe---dc---fgh---g---ghgh---",
+            "search_volpiano": "defggfgfedcfghgghgh"
         },
         {
             "id": "038r2",
@@ -9107,8 +9107,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Deus tuorum militum*",
-            "volpiano": "1---dfE--d--f--dfdc---fg-hijh--hg---fg---fg--gf---f--fe--ghgh---hG--fe---def-gd-dc---4--- ef---df---d---dc-dfg-hg-gfe-fgfg--gf---f--gh--hg-ge---fg--fgefed-e--fd---de-fed---df--gf-fe---defed-e-- fd---3",
-            "search_volpiano": "dfEdfdfdcfghijhhgfgfggfffeghghhGfedefgddcefdfddcdfghggfefgfggffghhggefgfgefedefddefeddfgffedefedefd"
+            "volpiano": "1--lj---lm-lm---l---l---j---k---h---j---h---g---",
+            "search_volpiano": "ljlmlmlljkhjhg"
         },
         {
             "id": "038r3",
@@ -9123,8 +9123,8 @@ var data = {
             "mode": "7",
             "differentia": "C3",
             "full_text_standard": "Quo progrederis sine filio",
-            "volpiano": "1---cdf-fg---f---f---f---f--f--gh--g--f---f---f---fe--fg--ef--cd-fe-- fd---d--defedc--d---fefg--fed-e---dc---3---ef---df---3",
-            "search_volpiano": "cdffgfffffghgffffefgefcdfefdddefedcdfefgfededcefdf"
+            "volpiano": "1--k---k---k---klk---kjk---k---k---k---h---k---",
+            "search_volpiano": "kkkklkkjkkkkhk"
         },
         {
             "id": "038r4",
@@ -9139,8 +9139,8 @@ var data = {
             "mode": "7",
             "differentia": "C3",
             "full_text_standard": "Beatus Laurentius dixit",
-            "volpiano": "1---k--k---k--kjg---4",
-            "search_volpiano": "kkkkjg"
+            "volpiano": "1--cd---fged-efd-d---h---ge---gh-defd---d---defe---de---dc---",
+            "search_volpiano": "cdfgedefddhgeghdefdddefededc"
         },
         {
             "id": "038r5",
@@ -9155,8 +9155,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Noli me derelinquere",
-            "volpiano": "1---d--dc--f--g---f--gh--h---j--h---g--g--f--gh--g---g--g--e---g--h--g---fe---c---d--c--- f--e--d--cd---d---4",
-            "search_volpiano": "ddcfgfghhjhggfghgggeghgfecdcfedcdd"
+            "volpiano": "1--g---fgh---g---g---gh---g---g---g---gh---hgf---",
+            "search_volpiano": "gfghggghgggghhgf"
         },
         {
             "id": "038r6",
@@ -9171,8 +9171,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Quid in me ergo displicuit",
-            "volpiano": "1---k--k--k---k-kjhg--hj--kh---4",
-            "search_volpiano": "kkkkkjhghjkh"
+            "volpiano": "1--gh---g---g---g---g---gh---jk-k---jh---kh---jkjhg-ghjg---efef-",
+            "search_volpiano": "ghggggghjkkjhkhjkjhgghjgefef"
         },
         {
             "id": "038r7",
@@ -9187,8 +9187,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Non ego te desero fili",
-            "volpiano": "1---c---df--fff---fd-fgfe-f--ef---dghG--g---g-- gf---hk-kgh--ef-hkg-ff-dfd---4---e--egh--g---hg-gF--fgh--hkgf-ghg---egef--fe---fd--fd-dcf--- gfghg--ge---3",
-            "search_volpiano": "cdfffffdfgfefefdghGgggfhkkghefhkgffdfdeeghghggFfghhkgfghgegeffefdfddcfgfghgge"
+            "volpiano": "1--g---gk---h---gf---gh---g---j---",
+            "search_volpiano": "ggkhgfghgj"
         },
         {
             "id": "038r8",
@@ -9203,8 +9203,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Beatus Sixtus dixit",
-            "volpiano": "1---h---h--h--gf-ghghge-fe---gh--g---g--gh--g---g--gf---gh--gf--ef-gf-f--fe--- f--df--f--f---efgfe---g--ghghgf--efgef--ed---3---fe--fgh--g---3",
-            "search_volpiano": "hhhgfghghgefeghggghgggfghgfefgfffefdfffefgfegghghgfefgefedfefghg"
+            "volpiano": "1--d---c---def---f---fe---de---d---c---df---",
+            "search_volpiano": "dcdefffededcdf"
         }
     ],
     "38v": [
@@ -9221,8 +9221,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Gloria et honore*",
-            "volpiano": "1---e--e--gh--kjkl--- h--gf---h--kj--hkg-efg---g--gh-kjk--hg---fg--g--ghkhg-h--hg---4---g--g---hk--kjkl---h---gf---h-- kj--hkge-fed-fd---f---gh--hfg--gh-kghg---egef--fe---3",
-            "search_volpiano": "eeghkjklhgfhkjhkgefggghkjkhgfggghkhghhggghkkjklhgfhkjhkgefedfdfghhfgghkghgegeffe"
+            "volpiano": "1--e---de---e---gh---f---gh---jg---h---h---",
+            "search_volpiano": "edeeghfghjghh"
         },
         {
             "id": "038v2",
@@ -9237,8 +9237,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Levita Laurentius bonum opus",
-            "volpiano": "1---k--k--klk-k--hj-kh-hg--- jkJ--h---hG---h--k---jlk-k--kj---k--hk--k--k---k---k--k---kljkjh-jkj---hG--ghk---kjkh-khg-h--hg---3---g--g---3",
-            "search_volpiano": "kkklkkhjkhhgjkJhhGhkjlkkkjkhkkkkkkkljkjhjkjhGghkkjkhkhghhggg"
+            "volpiano": "1--cd---c---c---c---cd---c---c---d---fg---gjghgf---gf-",
+            "search_volpiano": "cdccccdccdfggjghgfgf"
         },
         {
             "id": "038v3",
@@ -9253,8 +9253,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Dispersit dedit pauperibus",
-            "volpiano": "1---c--df---fff--fgef---f-dfgfe-f--ef---dhghk--h---hg-gf--gh---ghgfd-f--fe---fg--gfe- fedc-dc---de---f---dc--d---f--egf-f--ef---fgh--g--g---4---f---f--efgfe-fed--fd---e--fg--- gfgh--g---fE---ef--g---hghk--h---gF--fgh-kg-hg---egf-f--fe---f---hgfec-dfed-fghG-- fgh--hkgf-ghg---egf-f--fe---3",
-            "search_volpiano": "cdfffffgeffdfgfefefdhghkhhggfghghgfdffefggfefedcdcdefdcdfegffeffghggffefgfefedfdefggfghgfEefghghkhgFfghkghgegfffefhgfecdfedfghGfghhkgfghgegfffe"
+            "volpiano": "1--dh--h--h ghgf---gh--g--g---g--hf--gh--gh---",
+            "search_volpiano": "dhhhghgfghggghfghgh"
         },
         {
             "id": "038v4",
@@ -9269,8 +9269,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Puer meus noli timere",
-            "volpiano": "1---h---gf-ghghge-fe---g---g---g--g--gh--g--g---3---f--f---3",
-            "search_volpiano": "hgfghghgefeggggghggff"
+            "volpiano": "1--ghj---kjhj-hg---gl---lmlj---kl-mlm-ml---lm---l---lkjh---jklkjh---",
+            "search_volpiano": "ghjkjhjhggllmljklmlmmllmllkjhjklkjh"
         },
         {
             "id": "038v5",
@@ -9285,8 +9285,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Liberado te de manu",
-            "volpiano": "1---dC--d-fg-fgd-fdc-dc---f--g--ghgf-ghghij--h---fg--g--gefed-fgfgfe---d--- defed-e--fd---h---h--k---hkjg-hgf---gh---hj-kh--h---fg-hghk---hgfe-gd---d--dC--- f--g--ghgf--fhgh--ge---gF---g---f--fe--cd--defed-e--fd---h--k--hkjg-hgf---gh--hG--- gh--gh--hj-kj-j--h---4---fg-hghk--h--h---hgfe-fgfg--gf---gF---f--d---ef---defedc-d--dc--- fgd--fgh---hghegfe---dfef--ed---3",
-            "search_volpiano": "dCdfgfgdfdcdcfgghgfghghijhfgggefedfgfgfeddefedefdhhkhkjghgfghhjkhhfghghkhgfegdddCfgghgffhghgegFgffecddefedefdhkhkjghgfghhGghghhjkjjhfghghkhhhgfefgfggfgFfdefdefedcddcfgdfghhghegfedfefed"
+            "volpiano": "1--l---l--lmnml--klkj---k--k--k--lj---d---d---fgh---g---g---gh---h---hg---hjgf-",
+            "search_volpiano": "lllmnmlklkjkkkljddfghggghhhghjgf"
         }
     ],
     "39r": [
@@ -9303,8 +9303,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Strinxerunt corporis membra",
-            "volpiano": "1---h---h--h---hghg-gf---g---g--gh--g--g---g--gh--g--g--- hf--gh---gh---hjh--h---hf---gh---h--h---hG--hk--h---h---h---h--h--hghg---hG--fghg-hjh--hgfe-fgh--gf---3---fg--hg---3",
-            "search_volpiano": "hhhhghggfggghgggghgghfghghhjhhhfghhhhGhkhhhhhhghghGfghghjhhgfefghgffghg"
+            "volpiano": "1--gkj--klkj---kjhg-hg-hj--j--j--j--j--jh---kl--k---",
+            "search_volpiano": "gkjklkjkjhghghjjjjjjhklk"
         },
         {
             "id": "039r2",
@@ -9319,8 +9319,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Mea nox obscurum",
-            "volpiano": "1---d--dc--f---g--fh--h---h--j--h---g--g---f--gh--g---g---g--e--g---hg--fg--- f--dc--df--e---f--d---3---h--h--hg--f---gh--gF---4",
-            "search_volpiano": "ddcfgfhhhjhggfghgggeghgfgfdcdfefdhhhgfghgF"
+            "volpiano": "1--d---g---f---e---c---d---d---d---d---",
+            "search_volpiano": "dgfecdddd"
         },
         {
             "id": "039r3",
@@ -9335,8 +9335,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Beatus Laurentius orabat",
-            "volpiano": "1---d---ef--g--g---f---fe--d---d--f--e---fg--g--- d--f--e---f--d--c---df--ef---cf--d--d---3---f--f--f--e---cd--d---4",
-            "search_volpiano": "defggffeddfefggdfefdcdfefcfddfffecdd"
+            "volpiano": "1--g---gl---l---l---l---k---jk---lj---kj---g---g---",
+            "search_volpiano": "ggllllkjkljkjgg"
         },
         {
             "id": "039r4",
@@ -9351,8 +9351,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Quia accusatus non negavi",
-            "volpiano": "1---d---c---d--e---f-- g--fe---d---c--d--f---fd---e--d--c--c---fc--d---f--e---c--d--fe---d--d---3---f--f--f--e---c--d---4",
-            "search_volpiano": "dcdefgfedcdffdedccfcdfecdfeddfffecd"
+            "volpiano": "1--d---e---g---g---g---g---hj---h---h---g---h---j---g---",
+            "search_volpiano": "degggghjhhghjg"
         },
         {
             "id": "039r5",
@@ -9367,8 +9367,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "Dixit Romanus ad beatum Laurentium",
-            "volpiano": "1---g--khjk--h---g--g---g--g---gf--fh---kk--klkh---kk--k--klg---hkJ--g--g---fe-- d---f--gh---g--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "gkhjkhgggggffhkkklkhkkkklghkJggfedfghggkkjkhg"
+            "volpiano": "1--dfgf---g---fgf---g---ghgf---fghg---hj-h---h---ghge---f---",
+            "search_volpiano": "dfgfgfgfgghgffghghjhhghgef"
         }
     ],
     "39v": [
@@ -9385,8 +9385,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "Afferens autem urceum",
-            "volpiano": "1---g--kh-hkJ--hG---g--g---k--k--k--- lm--l---l--l---m--n---ono--l---n---mnlk--ml---l---l--l--lm--l---kj--g---h---jkJ--h---h--h--h---3---l--l--n--l---k--jh---4",
-            "search_volpiano": "gkhhkJhGggkkklmlllmnonolnmnlkmlllllmlkjghjkJhhhhllnlkjh"
+            "volpiano": "1--dh--h ghgf---gh--g--g---g---hf---gh--gh---",
+            "search_volpiano": "dhhghgfghggghfghgh"
         },
         {
             "id": "039v2",
@@ -9401,8 +9401,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Beatus Laurentius dixit mea",
-            "volpiano": "1---dhk---h---h---h---h--h--h--h--hghkhg---f---h--- g--h--gf--gfg--d---g--g--g---h--gF---f---f---f--f--g---efe-eD--dc---cd--fE--fgf--- d-cd--d---3---h--h--hg--f---gh--gh---4",
-            "search_volpiano": "dhkhhhhhhhhghkhgfhghgfgfgdggghgFffffgefeeDdccdfEfgfdcddhhhgfghgh"
+            "volpiano": "1--fgh---g---gh---g---g---gh---h---h---hg---hjkg-hgf-",
+            "search_volpiano": "fghgghggghhhhghjkghgf"
         },
         {
             "id": "039v3",
@@ -9417,8 +9417,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Quia ipse dominus novit",
-            "volpiano": "1---d--c--d---f--e---d--d---dC---f--g-- h---g--f---f--fg--f---fE---ef--g--fe---d--d---3---h--h--g--f---gh--g---4",
-            "search_volpiano": "dcdfedddCfghgfffgffEefgfeddhhgfghg"
+            "volpiano": "1--gk--k--kj--klkj---kjhg-hg-hj--j--j---j--j--j--jh---",
+            "search_volpiano": "gkkkjklkjkjhghghjjjjjjjh"
         },
         {
             "id": "039v4",
@@ -9433,8 +9433,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Posuisti domine super caput*",
-            "volpiano": "1---g--g--h---h--g--gF--- gh--lk---hk--kh---f--h--h---g--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "gghhggFghlkhkkhfhhggkkjkhg"
+            "volpiano": "1--fgh---g---gh---g---g---gh---h---h---hg---hjkg-hgf-",
+            "search_volpiano": "fghgghggghhhhghjkghgf"
         },
         {
             "id": "039v5",
@@ -9449,8 +9449,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Quo progrederis sine filio",
-            "volpiano": "1---d--ef--g--g---g-- g---f---fe--d---f--f--f---gh--h---g---h---j---k--h--g---h--g--h---e--f--e---d--- e--fgF---e--e---3---h--g--h--k---gf--e---4",
-            "search_volpiano": "defggggffedfffghhghjkhghghefedefgFeehghkgfe"
+            "volpiano": "1--gk--kj--klkj---kjhg-hg-hj--j--j---j--j--j---",
+            "search_volpiano": "gkkjklkjkjhghghjjjjjj"
         },
         {
             "id": "039v6",
@@ -9465,8 +9465,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Quid in me ergo displicuit",
-            "volpiano": "1---h--g--h---k--kl--l---kl--m--lk---l---l---h--l--j--- k---hg--hg---fg---h---k--h--h---l--k--l--n---k--h---4",
-            "search_volpiano": "hghkkllklmlkllhljkhghgfghkhhlklnkh"
+            "volpiano": "1--l---k---j---k---lml---kl---lh---g---h---jk---",
+            "search_volpiano": "lkjklmlkllhghjk"
         }
     ],
     "40r": [
@@ -9483,8 +9483,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Noli me derelinquere pater",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--k---kj---hg---h---g---f---fh---h---",
+            "search_volpiano": "kkjhghgffhh"
         },
         {
             "id": "040r2",
@@ -9499,8 +9499,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Nos quasi senes levioris",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--dh---h---hk---h---gh---h---g---e---f---g---f---",
+            "search_volpiano": "dhhhkhghhgefgf"
         },
         {
             "id": "040r3",
@@ -9515,8 +9515,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Beatus Laurentius clamavit",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--d---fgh---g---gh---h---hg---hjgf-fg---gkl---k---",
+            "search_volpiano": "dfghgghhhghjgffggklk"
         }
     ],
     "40v": [
@@ -9533,8 +9533,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Mea nox obscurum non habet",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--gk---k--k--k---kj--klkj---kjhg-hg-hj--j--j--j---",
+            "search_volpiano": "gkkkkkjklkjkjhghghjjjj"
         },
         {
             "id": "040v2",
@@ -9549,8 +9549,8 @@ var data = {
             "mode": "7",
             "differentia": "C1",
             "full_text_standard": "Strinxerunt corporis membra",
-            "volpiano": "1---dC--d---4",
-            "search_volpiano": "dCd"
+            "volpiano": "1--fgh---g---g---gh---h---h---hg---hjgf-hf---ghg---",
+            "search_volpiano": "fghggghhhhghjgfhfghg"
         },
         {
             "id": "040v3",
@@ -9565,8 +9565,8 @@ var data = {
             "mode": "7",
             "differentia": "C1",
             "full_text_standard": "Carnifices vero urgentes",
-            "volpiano": "1---dhk---h---hg---gf--ghg--hijh---fg-hg---h--g--- f--f--g--fe--df--dc---c---d--f--gF---gh--fe---d--d---h---k--kJ--g--h--fe---df--dc---deD---fg- fghgfed---fe--cd---d--d---3---h--h--hg--f---gh--gh---4",
-            "search_volpiano": "dhkhhggfghghijhfghghgffgfedfdccdfgFghfeddhkkJghfedfdcdeDfgfghgfedfecdddhhhgfghgh"
+            "volpiano": "1--gkj--klkj---kjhg-hg-hj--j--j---j--jh---jk--hj---",
+            "search_volpiano": "gkjklkjkjhghghjjjjjhjkhj"
         },
         {
             "id": "040v4",
@@ -9581,8 +9581,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Igne me examinasti",
-            "volpiano": "1---ghkjh-j--hg---gkJ--k---lk-lmlm--ml---l---kl-mk-kj--gh-kg-hg-gf---fhk--kjkj-kmlk-kjh-- khjkjh---ghkhg-h--hg---jhj-onml-n-nm-no--ol-lnmnm-lmlmlk-nl---l---lnm---n--pr--op--- lnm-non-opop--po---4---lm---l---mnm---lmlk--kl-mnl-l-jkj---l--nl---ln-on-nm---l-- lnomn---nm---m--m---m---m---mlk-lmlk-lK--klk-kh---klm--lk--k--klkj-kjhg-hg---jkj- kjkJ--h--hl--lj-kjh--khjkjh---g--ghg--g---3",
-            "search_volpiano": "ghkjhjhggkJklklmlmmllklmkkjghkghggffhkkjkjkmlkkjhkhjkjhghkhghhgjhjonmlnnmnoollnmnmlmlmlknlllnmnproplnmnonopoppolmlmnmlmlkklmnlljkjlnllnonnmllnomnnmmmmmmlklmlklKklkkhklmlkkklkjkjhghgjkjkjkJhhlljkjhkhjkjhgghgg"
+            "volpiano": "1--c---d---def---fgfe---dc---cd---fg---gh---",
+            "search_volpiano": "cddeffgfedccdfggh"
         },
         {
             "id": "040v5",
@@ -9597,8 +9597,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Probasti domine cor meum",
-            "volpiano": "1---lmnml---klk-kj---k--k--kl--k--k---k--- k--?--lj--kl---kl--lm-nm--ml---3---lm---l---3",
-            "search_volpiano": "lmnmlklkkjkkklkkkkljklkllmnmmllml"
+            "volpiano": "1--dh--h ghgf---gh--g--g---g--hf--gh---",
+            "search_volpiano": "dhhghgfghggghfgh"
         },
         {
             "id": "040v6",
@@ -9613,8 +9613,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "Interrogatus te dominum",
-            "volpiano": "1---l---l--lmnml--kj---klk-kj---lj---kl--kl---l-- lm-nm--nm---klk-kj---klk---l--l---lm--l---lmlmlk--lk---kl-ml-mnm--lk-lmlm---lkj-kj---3---m--m---3",
-            "search_volpiano": "lllmnmlkjklkkjljklklllmnmnmklkkjklklllmllmlmlklkklmlmnmlklmlmlkjkjmm"
+            "volpiano": "1--d---e---g---gh---h---g---h---j---g---",
+            "search_volpiano": "degghhghjg"
         },
         {
             "id": "040v7",
@@ -9629,8 +9629,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "Gracias tibi ago domine",
-            "volpiano": "1---fgh--g--g---ghk---h--g--gh-kg-hg-gf---hf--ghg---h--hjkjh-hG--hg---hf-ghkjh-jk-j-hkhg-- ghkjh-j--hg---4---klk--kh---klk--klmnml---lk-kl--hjkjhg-h--hg---f--hkh--hg---k--k--k--kjkjhg--- gh--hgh--ghg-gf---hG---ghg---h--k---kjkl--klk---k--klk-kj---hg---kJ--k--klk-kjh-jkjh-khg--- gh-khj--hg---3",
-            "search_volpiano": "fghggghkhgghkghggfhfghghhjkjhhGhghfghkjhjkjhkhgghkjhjhgklkkhklkklmnmllkklhjkjhghhgfhkhhgkkkkjkjhgghhghghggfhGghghkkjklklkkklkkjhgkJkklkkjhjkjhkhgghkhjhg"
+            "volpiano": "1--g---g---j---k---lkml---l---l---k---h---",
+            "search_volpiano": "ggjklkmlllkh"
         },
         {
             "id": "040v8",
@@ -9645,8 +9645,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Magna est gloria ejus*",
-            "volpiano": "1---kj--klk-jkh-hg---hk--k--kh---kl--k--k---k--k---kj--kJ--jk--- hkJ---gh-jh--hg---g--fg--g---g--g--g---gh--g---g--g---g--hkhg-hjh--ghf---gh--hkj-klkjh--hkhg-hg---3---klk--kh---3",
-            "search_volpiano": "kjklkjkhhghkkkhklkkkkkjkJjkhkJghjhhggfgggggghgggghkhghjhghfghhkjklkjhhkhghgklkkh"
+            "volpiano": "1--g---g---g---f---h---k---k---k---l---k---j---",
+            "search_volpiano": "gggfhkkklkj"
         },
         {
             "id": "040v9",
@@ -9661,8 +9661,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "In craticula te deum",
-            "volpiano": "1---f--hk--k--h---kj---klkjh--hkgf-gh-hg---f---ghgh--h--hkhg-hjhg---f-- fghgf-g--gf---kjh--kl---4---lkjh-jh--gh--hkghg-gf---f---g--hk-kg--hkjhg-hjhg---fghgf-g--gf---3",
-            "search_volpiano": "fhkkhkjklkjhhkgfghhgfghghhhkhghjhgffghgfggfkjhkllkjhjhghhkghggffghkkghkjhghjhgfghgfggf"
+            "volpiano": "1--g---c---d---f---fg---g---h---g---h---",
+            "search_volpiano": "gcdffgghgh"
         }
     ],
     "41r": [
@@ -9679,8 +9679,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Probasti domine cor meum",
-            "volpiano": "1---k--k--klk-k-hkh---k---k--k--k--kl--k---k--k--k--k--k---k---kl--k---k---kJ--- kl--jk---k--kj-klkl--lk---f---h--k--k---kh--kl---jk---kj-klkl--lk---f---h---k--kl--k--k--- k---kjkj--kh--kl---kj--klkjh-j--jh---3---kjh-kl---3",
-            "search_volpiano": "kkklkkhkhkkkkklkkkkkkkklkkkJkljkkkjklkllkfhkkkhkljkkjklkllkfhkklkkkkjkjkhklkjklkjhjjhkjhkl"
+            "volpiano": "1--l---k---j---k---lml---kl---lg---h---h---",
+            "search_volpiano": "lkjklmlkllghh"
         },
         {
             "id": "041r2",
@@ -9695,8 +9695,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "O Hippolyte si credis in dominum",
-            "volpiano": "1---g--gkj--k--l--k--kj---l--lm--- mkl--lmlj-kjhg-hg---g---gl--ljk--hk--jklkjh-jkjh---g--ghkhg-h--hg---gh-kjk--k---k---k-- jkl---kj--k--klkj-kjhg-hg---l--ml--k---klm--ml-mkl--l-hklkj-k--kj---4---k---kl---l--k---l-- kl--lkj-kjhg-h--gh-kg-hg-gf---fhk-klK--k--k---k--hk---jklkjh-jkjh---g--ghkhg-h--hg---3",
-            "search_volpiano": "ggkjklkkjllmmkllmljkjhghggglljkhkjklkjhjkjhgghkhghhgghkjkkkkjklkjkklkjkjhghglmlkklmmlmkllhklkjkkjkkllklkllkjkjhghghkghggffhkklKkkkhkjklkjhjkjhgghkhghhg"
+            "volpiano": "1--f---fg---g---hk---k---j---klk---h---h---g---",
+            "search_volpiano": "ffgghkkjklkhhg"
         },
         {
             "id": "041r3",
@@ -9711,8 +9711,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Beatus Laurentius Hippolyto",
-            "volpiano": "1---lmnml--klk-kj---k--k--k---kl--k--k---k--k--lj---kl--kl---l--lm-nm--ml---klk-kJ--kl---l-- l--l---l--l--l---l--lm--l---lmlmlk---lK---kl-ml-mnm--lk-lmlm--lkj-kj---3---k--kl---3",
-            "search_volpiano": "lmnmlklkkjkkkklkkkkljklklllmnmmlklkkJklllllllllmllmlmlklKklmlmnmlklmlmlkjkjkkl"
+            "volpiano": "1--f---g---f---gh---hg---f---gh---gfd---fg---",
+            "search_volpiano": "fgfghhgfghgfdfg"
         },
         {
             "id": "041r4",
@@ -9727,8 +9727,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Gaudeo plane quia hostia",
-            "volpiano": "1---lmnml---klk-kj---k--lmlk-lnM--l---lno--on---lno--on---noponm-nml-ml---nm--no---oN--on-nm---lk-- klnm-nm---lnlk--ln---lnkl--klk-kh---klK--k--jknm-nm-mL---lk-kJ--k---kj-khj--j-gjkjh-j-- jh---hk-ln--l---lk-kj--hkg---hk--jljk--kj---4---gh---ghk--kj---hkgh--ghg-ge---gh-- g--hkhg-hk-k--jh---h---hk-kjkJ--hg---hg-gf--fgh--hkgf--ghg---egfg--fe---3",
-            "search_volpiano": "lmnmlklkkjklmlklnMllnoonlnoonnoponmnmlmlnmnooNonnmlkklnmnmlnlklnlnklklkkhklKkjknmnmmLlkkJkkjkhjjgjkjhjjhhklnllkkjhkghkjljkkjghghkkjhkghghggeghghkhghkkjhhhkkjkJhghggffghhkgfghgegfgfe"
+            "volpiano": "1--hj--g---g--g--g--g--g---h--g--g---",
+            "search_volpiano": "hjgggggghgg"
         },
         {
             "id": "041r5",
@@ -9743,8 +9743,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Probasti domine cor meum",
-            "volpiano": "1---klk-k-- hj-kh-hg---k--jk--h---h--hg--h--k---k--jljk--kj---kJ---h--k---k---k--k---k--k--- k---k--k--k---kljkjh-jkj---hg--ghk--kjkh-khg-h--hg---3---gh---ghk--kj---3",
-            "search_volpiano": "klkkhjkhhgkjkhhhghkkjljkkjkJhkkkkkkkkkkkljkjhjkjhgghkkjkhkhghhgghghkkj"
+            "volpiano": "1--h--h--h---",
+            "search_volpiano": "hhh"
         }
     ],
     "41v": [
@@ -9761,8 +9761,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Voluit esse hostia levita",
-            "volpiano": "1---h-hg---hg-- fg---ghjhg-h--hg---f--ghg---h--gf--fefed-fd---fe--fg--ghg--fefg---ghgfe-fgfe--fd--dfef--ed--- f---h--g--fgh---hghfg--fged--df-g-gf---d---fgf--fd--fgh---hgfe-fg-hg-gF--gf---4---hk--h--- hg-gF---gh--gh--fed--dfdc-dfd---c---d---fgfe--fgh--hghfgfe---dfef--ed---3",
-            "search_volpiano": "hhghgfgghjhghhgfghghgffefedfdfefgghgfefgghgfefgfefddfefedfhgfghhghfgfgeddfggfdfgffdfghhgfefghggFgfhkhhggFghghfeddfdcdfdcdfgfefghhghfgfedfefed"
+            "volpiano": "1--f---f---f---g---g---f---g---g---hg---",
+            "search_volpiano": "fffggfgghg"
         },
         {
             "id": "041v2",
@@ -9777,8 +9777,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Immola deo sacrificium laudis",
-            "volpiano": "1---h--h--hghg-gf--- g--gh--g---g--gh--g---hf--gh---gh---h--hijh--h---hG--gj--j--hj--g---gj--g--gf---gh--hf---gh---gh-- hjh--h---hG---gh--h--h---hkJ--h---hghg--hf--fg-hg-hjh--hgfe-gh--gf---3---hk--h---3",
-            "search_volpiano": "hhhghggfgghggghghfghghhhijhhhGgjjhjggjggfghhfghghhjhhhGghhhhkJhhghghffghghjhhgfeghgfhkh"
+            "volpiano": "1--hj---g--f---g--g--h---",
+            "search_volpiano": "hjgfggh"
         },
         {
             "id": "041v3",
@@ -9793,8 +9793,8 @@ var data = {
             "mode": "1",
             "differentia": "G1",
             "full_text_standard": "Laurentius ingressus est",
-            "volpiano": "1---c--cd--df---c--d---ef---g--fe---d---cd--fgf-f---d--cd--d---f--gh--h---k--hG---h-- g---f--fd---f--g---d--dC--f--e---f--c---d--fe--d--d---3---h--h--hg--f---gh--gfed---4",
-            "search_volpiano": "ccddfcdefgfedcdfgffdcddfghhkhGhgffdfgddCfefcdfeddhhhgfghgfed"
+            "volpiano": "1--f---f---g---g---f---g---gh---hg---",
+            "search_volpiano": "ffggfgghhg"
         },
         {
             "id": "041v4",
@@ -9809,8 +9809,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Laurentius bonum opus",
-            "volpiano": "1---fgh--g--- h--g---h--g---hghjh---f---g--h--hg--h---kJ---g--g---kk---l--k--k---l--k--k---kk--hkh--- f--g--h---g--h---g--f--g--h--kk---hkJ---g--g---g--gF---fgh--fe--d---d---e--f--gh--h---k--hkh-- g--g---3---k--k--j--k---h--ghg---4",
-            "search_volpiano": "fghghghghghjhfghhghkJggkklkklkkkkhkhfghghgfghkkhkJggggFfghfeddefghhkhkhggkkjkhghg"
+            "volpiano": "1--h---h--h--hj--g---g---g--g---g--g---",
+            "search_volpiano": "hhhhjgggggg"
         },
         {
             "id": "041v5",
@@ -9825,8 +9825,8 @@ var data = {
             "mode": "3",
             "differentia": "A2",
             "full_text_standard": "Adhaesit anima mea post te",
-            "volpiano": "1---f--f-fd-dC---d---dC--f--fg--gf--g---ghG--f--g--f---f--gh--- hg---j--h--g---gf--g--hG---f--g--f---fd--f---g---h--g---e--fg--g---gh---f--ff--dfc--- cd--fd---e--fg--gf---g--ghg--f--f---3---h--h--f--gh---g--f---4",
-            "search_volpiano": "fffddCddCffggfgghGfgffghhgjhggfghGfgffdfghgefggghfffdfccdfdefggfgghgffhhfghgf"
+            "volpiano": "1--c--d---f--g--fe--d--fe--dc---f--gh--h---",
+            "search_volpiano": "cdfgfedfedcfghh"
         }
     ],
     "42r": [
@@ -9843,8 +9843,8 @@ var data = {
             "mode": "7",
             "differentia": "C3",
             "full_text_standard": "Misit dominus angelum suum",
-            "volpiano": "1---k--kk--h---hG--k--l---mL--k---lm-- lK---kj--h---k--lk--k---k--l--m---lK--lm--lK---kJ--h---k---k--h--j--- kjh--gf--f---khjk--g---k--l---m--lk--l--k---k---l--m---lK--lm--l---k---3---m--m--k--lm---l--k---4",
-            "search_volpiano": "kkkhhGklmLklmlKkjhklkkklmlKlmlKkJhkkhjkjhgffkhjkgklmlklkklmlKlmlkmmklmlk"
+            "volpiano": "1--cd---dhj---h---h---gf---g---fe---d---",
+            "search_volpiano": "cddhjhhgfgfed"
         },
         {
             "id": "042r2",
@@ -9859,8 +9859,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Beatus Laurentius orabat",
-            "volpiano": "1---d--dc--f---gF---f--gh--h---jh--g---fe--g--fe---fE--d--d---h--h---h--gf---g--gh-- h---h--gk--h---h--gf--ef--g---fe--d--d---d---f---fE--d---dfdc-d--dc---fd--e--- f---gF--gh--fe---d--d---3---h--h--hg--f---gh--g---4",
-            "search_volpiano": "ddcfgFfghhjhgfegfefEddhhhgfgghhhgkhhgfefgfedddffEddfdcddcfdefgFghfeddhhhgfghg"
+            "volpiano": "1--cd---d---d---fed---ca---c---cd---d---",
+            "search_volpiano": "cdddfedcaccdd"
         },
         {
             "id": "042r3",
@@ -9875,8 +9875,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Martyr dei qui unicum*",
-            "volpiano": "1---fd---f--e---d--d---e--f---g--h--g---g-- h--gF--g---ghg--fe--de--e---dhk--h--gh---hg--fg--g---h---gF--g--ghg---e--e---e-- fg---gF---de--f--dc--c---g---g---gf--g--ghg---e--e---3---h--g--h--k---g--e---3",
-            "search_volpiano": "fdfeddefghgghgFgghgfedeedhkhghhgfgghgFgghgeeefggFdefdccgggfgghgeehghkge"
+            "volpiano": "1--e---ghkk---k---j---k---l---k---l---",
+            "search_volpiano": "eghkkkjklkl"
         },
         {
             "id": "042r4",
@@ -9891,8 +9891,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Dispersit dedit pauperibus*",
-            "volpiano": "1---c--d---f--f---cf-- d--d---dC---f--g---h---g--f---gh--hjh---f---hgh--g---fe---fgfgF--d---g--fe--dc---d-- fe---d--d---c--d---f--f---cf--d--d---dC--f--g---h--g--f---gh--hjh---fg---h--g---fE-- fg--fe--dfd-dc---d--c--df--fgh--fec---efd--d---3---h--h--hg--f---gh--gfed---4",
-            "search_volpiano": "cdffcfdddCfghgfghhjhfhghgfefgfgFdgfedcdfeddcdffcfdddCfghgfghhjhfghgfEfgfedfddcdcdffghfecefddhhhgfghgfed"
+            "volpiano": "1--efg---fe---e---d---g---g---f---g---g---h---g---gfe---",
+            "search_volpiano": "efgfeedggfgghggfe"
         },
         {
             "id": "042r5",
@@ -9907,8 +9907,8 @@ var data = {
             "mode": "1",
             "differentia": "D1",
             "full_text_standard": "In craticula te deum",
-            "volpiano": "1---f--f---g--f--g---gh--f--f---f--f---fh-jh-hG--g---j--h--j---gF--f--g--f---f--f---g--f---f---f---fh-jh--g---g---g--h--g---f--f---g--dfE--c---c--d--f--fg---g---hkJ---hg--h--f--df--f---4---h--h--f--gh---g--f---3",
-            "search_volpiano": "ffgfgghfffffhjhhGgjhjgFfgfffgffffhjhggghgffgdfEccdffgghkJhghfdffhhfghgf"
+            "volpiano": "1--hh---f---hk---kj---hg---h---g---f---f---h---j---k---",
+            "search_volpiano": "hhfhkkjhghgffhjk"
         },
         {
             "id": "042r6",
@@ -9923,8 +9923,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Laurentius*",
-            "volpiano": "1---f--f---f--e---g--g---h---f--f--d--d---f---f--f--f--f---e--- g--h---h--jh--gF--f---3---h--h--f--gh---g--f---4",
-            "search_volpiano": "fffegghffddfffffeghhjhgFfhhfghgf"
+            "volpiano": "1--f--hk---k---l--j---k--k--mk---",
+            "search_volpiano": "fhkkljkkmk"
         },
         {
             "id": "042r7",
@@ -9939,8 +9939,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Levita Laurentius bonum opus*",
-            "volpiano": "1---g--f---h---k--kg---j--k--h---g--hg--f---g7---g---f--h---k--k--k---g---j--k--h--j---h--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "gfhkkgjkhghgfggfhkkkgjkhjhgkkjkhg"
+            "volpiano": "1--fghf---g---f---gh---jh---g---h---",
+            "search_volpiano": "fghfgfghjhgh"
         },
         {
             "id": "042r8",
@@ -9955,8 +9955,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Beatus Laurentius dum in craticula",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--cd---d---dc---defe---d---ed---cd---d---d---e---",
+            "search_volpiano": "cdddcdefededcddde"
         }
     ],
     "42v": [
@@ -9973,8 +9973,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Assumpta est*",
-            "volpiano": "1---k--kj--hg---hG--g---f---g---hG--kj--hg---h--g---f---g--gk--kl-k---l--kj-klkl--lk---k---k---kj7--hk--kj--g---gh--fe--d---d---e--f--gh--hG---g--gfd---e--fg--g--g---3---k--k--j--k---h--gh---4",
-            "search_volpiano": "kkjhghGgfghGkjhghgfggkklklkjklkllkkkkjhkkjgghfeddefghhGggfdefgggkkjkhgh"
+            "volpiano": "1--d---efg--fe--d---c--f--e--d---",
+            "search_volpiano": "defgfedcfed"
         },
         {
             "id": "042v2",
@@ -9989,8 +9989,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Ave maris stella*",
-            "volpiano": "1---f--f--f---g--f---g--gh---f--f---f--f--fhijhg---g--ij---h--ijg--f---f--f--g--f---f7--f--fhijhg--hg---g--g---h--g---f--f--ff--dfc---c--d---f--f---f--gh--g---h--hk--h---gf---gh--gh7---f--f---3---h--h--f--gh---g--f---4",
-            "search_volpiano": "fffgfgghfffffhijhggijhijgfffgffffhijhghggghgffffdfccdfffghghhkhgfghghffhhfghgf"
+            "volpiano": "1--cd---defd---dcd-dh---h---gf---g---gh---h---",
+            "search_volpiano": "cddefddcddhhgfgghh"
         },
         {
             "id": "042v3",
@@ -10005,8 +10005,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Exaltata es  sancta dei*",
-            "volpiano": "1---c--d---f--f---c--df--d---cd--fe---d--f--fg-gf---f--g7---h--g--f---g--de-fed---cd--fg--e---fe--d---3---f--f--f--e---c--d---4",
-            "search_volpiano": "cdffcdfdcdfedffggffghgfgdefedcdfgefedfffecd"
+            "volpiano": "1--dea---cd---d---fe---d---ed---cd---d---",
+            "search_volpiano": "deacddfededcdd"
         },
         {
             "id": "042v4",
@@ -10021,8 +10021,8 @@ var data = {
             "mode": "1",
             "differentia": "D1",
             "full_text_standard": "Virgo prudentissima quo progrederis",
-            "volpiano": "1---f--f--fg--g---gF--g7---gh--f--f---f--f--f---fhijhg--g---ij--h---ij---hG---gF--f---g--f--f---f--g--f---fhijhg7--hg---g--h--g--f---ff--dfE--c---c---d--e--fg--g---h--hk---hG--h--gh--f--f---3---h--h--f--gh---g--f---4",
-            "search_volpiano": "fffgggFgghffffffhijhggijhijhGgFfgfffgffhijhghgghgfffdfEccdefgghhkhGhghffhhfghgf"
+            "volpiano": "1--e---g---hk---kj---h---jkl---k---jhg---",
+            "search_volpiano": "eghkkjhjklkjhg"
         },
         {
             "id": "042v5",
@@ -10037,8 +10037,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Venite adoremus regem regum",
-            "volpiano": "1---gg--f---h---k--kg---jk--h---g---hg--f---g--f---h---k--k--k---g---j--k---h---h--j77--h--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "ggfhkkgjkhghgfgfhkkkgjkhhjhgkkjkhg"
+            "volpiano": "1--ddc---defd---ecd-efgf-ed---dh---hgf---gh---hd-cd---d---",
+            "search_volpiano": "ddcdefdecdefgfeddhhgfghhdcdd"
         },
         {
             "id": "042v6",
@@ -10053,8 +10053,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Quem terra pontus*",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--h--gh---gf-g---jg--gjk---jh--gh--h---",
+            "search_volpiano": "hghgfgjggjkjhghh"
         },
         {
             "id": "042v7",
@@ -10069,8 +10069,8 @@ var data = {
             "mode": "4",
             "differentia": "E2",
             "full_text_standard": "Exaltata est sancta dei",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--dcd---efd-cd---d---d---efg---fed---eca-c---d---d---e---",
+            "search_volpiano": "dcdefdcdddefgfedecacdde"
         },
         {
             "id": "042v8",
@@ -10085,8 +10085,8 @@ var data = {
             "mode": "4",
             "differentia": "E2",
             "full_text_standard": "Paradisi portae per te nobis",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--d---d--d--cd--ffg-f---gh--g--f---",
+            "search_volpiano": "dddcdffgfghgf"
         },
         {
             "id": "042v9",
@@ -10101,8 +10101,8 @@ var data = {
             "mode": "4",
             "differentia": "E2",
             "full_text_standard": "Benedicta tu in mulieribus",
-            "volpiano": "1---gF---fgh--g--g---g--g--g--g---g--g--gF---fgh--fed--dfg---gF---fg---g---h--g---h7--f---hk--jkJ---h--f--e--d---f--f--ef--dcd---f--g---h--g---f--gh--h---g---g--fgh--fe--d---g--h--k7---hg--f---gh--h--g--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "gFfghgggggggggFfghfeddfggFfgghghfhkjkJhfedffefdcdfghgfghhggfghfedghkhgfghhggkkjkhg"
+            "volpiano": "1--efd---g---hk---jghe---fghg---fe---de---e---",
+            "search_volpiano": "efdghkjghefghgfedee"
         },
         {
             "id": "042v10",
@@ -10117,8 +10117,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Exaltata es  sancta dei*",
-            "volpiano": "1---f--c---df--efg---f--f--f--gh--h---h--hk--h---g---hg--f--gh7--gf--fg-gf---f--f---fg--ef---d---c--f--f--f---3---h--h--f--gh---g--f---4",
-            "search_volpiano": "fcdfefgfffghhhhkhghgfghgffggffffgefdcfffhhfghgf"
+            "volpiano": "1--kkj--hg---h--g---f--g--f--efg---",
+            "search_volpiano": "kkjhghgfgfefg"
         },
         {
             "id": "042v11",
@@ -10133,8 +10133,8 @@ var data = {
             "mode": "3",
             "differentia": null,
             "full_text_standard": "Vidi speciosam sicut columbam",
-            "volpiano": "1---h--hkh-hg---h---kJ--h--k--kjh---4",
-            "search_volpiano": "hhkhhghkJhkkjh"
+            "volpiano": "1--kkj--hg--hgf---gf--efg---jkd---j--kjhg--hgfe---",
+            "search_volpiano": "kkjhghgfgfefgjkdjkjhghgfe"
         }
     ],
     "43r": [
@@ -10151,8 +10151,8 @@ var data = {
             "mode": "3",
             "differentia": null,
             "full_text_standard": "Quae est ista quae ascendit",
-            "volpiano": "1---k--k---k--k--k--kkjhg-hj-kh---4",
-            "search_volpiano": "kkkkkkkjhghjkh"
+            "volpiano": "1--ghkk---hk---k---j---kl---l---kj---j---",
+            "search_volpiano": "ghkkhkkjkllkjj"
         },
         {
             "id": "043r2",
@@ -10167,8 +10167,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Sicut cedrus exaltata sum",
-            "volpiano": "1---e---fd---g--hk---k---jk---l--l---kl--kj--g---g---h---k--k---hg--hg---e--f---gF--fe7---d---f---d---e--f---gh---h--g--f---g---gf--e--e---e---e--f--g--g--g---fE--d---dc--g7---hk--k--k---j---k--l---l--kl--kj--g---g--g---g--h--k--j--h---hG--gh--g---ged--ef---gf--gh7---gf--gf---e---3---k--k--k--hk---h--g---4",
-            "search_volpiano": "efdghkkjkllklkjgghkkhghgefgFfedfdefghhgfggfeeeefgggfEddcghkkkjkllklkjgggghkjhhGghggedefgfghgfgfekkkhkhg"
+            "volpiano": "1--h---g---h---f---h---kkl---k---k---",
+            "search_volpiano": "hghfhkklkk"
         },
         {
             "id": "043r3",
@@ -10183,8 +10183,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Et sicut cinnamomum",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--f---gh---h---hgh---f---ghjh---gh---h---",
+            "search_volpiano": "fghhhghfghjhghh"
         }
     ],
     "43v": [
@@ -10201,8 +10201,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Quae est ista quae processit",
-            "volpiano": "1---fef--dc--c---f--d---4",
-            "search_volpiano": "fefdccfd"
+            "volpiano": "1--edfed---ec-d---ef---g---fe---d---e---e---",
+            "search_volpiano": "edfedecdefgfedee"
         },
         {
             "id": "043v2",
@@ -10217,8 +10217,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Et sicut dies verni",
-            "volpiano": "1---k---kj--hk---k--kjh--h---h--k--k--g--h---g--f---f---g--f7---g--hG---kl-mL--kjk---kl--jk--h---g---jk--hG--g---g--f---3---k--k--l--j---k--h---4",
-            "search_volpiano": "kkjhkkkjhhhkkghgffgfghGklmLkjkkljkhgjkhGggfkkljkh"
+            "volpiano": "1--h--gfef---d---e--f---g--f--g---",
+            "search_volpiano": "hgfefdefgfg"
         },
         {
             "id": "043v3",
@@ -10233,8 +10233,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Specie tua*",
-            "volpiano": "1---k--k--kl--k--g---h--g---h--f--hk--k---k---h--k--klk--kjg---hij-kh---f--f--f---3---k--k--l--ij---k--h---4",
-            "search_volpiano": "kkklkghghfhkkkhkklkkjghijkhfffkklijkh"
+            "volpiano": "1--h--gfef-def--gfg---gh--ge-e---gd---ggh--g--g---",
+            "search_volpiano": "hgfefdefgfgghgeegdgghgg"
         },
         {
             "id": "043v4",
@@ -10249,8 +10249,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Adjuvabit eam*",
-            "volpiano": "1---f--g--fd-df--dfc---fh--g---g---gh--f--e---d--f--c---d--fd--f---f---gh--g--f---e---fg--e7--f---d--d---3---h--h--g--f---gh--g---3---kj---k--h---k---3---g--g--h--h---g--g---3",
-            "search_volpiano": "fgfddfdfcfhggghfedfcdfdffghgfefgefddhhgfghgkjkhkgghhgg"
+            "volpiano": "1--f---hk---kjkh-gh-jgh-f---f---hjk---lk---nmk---ljk-k---",
+            "search_volpiano": "fhkkjkhghjghffhjklknmkljkk"
         },
         {
             "id": "043v5",
@@ -10265,8 +10265,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Sicut laetantium*",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--k---k--kl---kh-jhg-hf-h--kk---l--jhj--k---",
+            "search_volpiano": "kkklkhjhghfhkkljhjk"
         },
         {
             "id": "043v6",
@@ -10281,8 +10281,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Assumpta est Maria*",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--k--k--kl---kh-jhg-hf-h--kk---ljk---jhg-h--j--k---",
+            "search_volpiano": "kkklkhjhghfhkkljkjhghjk"
         },
         {
             "id": "043v7",
@@ -10297,8 +10297,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Ornatam in monilibus filiam",
-            "volpiano": "1---k--k---k--kkjhg-hj-kh---4",
-            "search_volpiano": "kkkkkjhghjkh"
+            "volpiano": "1--f---gh---hg-jh-hf-e---f---g---fedf---f---f---",
+            "search_volpiano": "fghhgjhhfefgfedfff"
         },
         {
             "id": "043v8",
@@ -10313,8 +10313,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Astitit regina a dextris tuis",
-            "volpiano": "1---d---fd--e--fgfe-fed---4",
-            "search_volpiano": "dfdefgfefed"
+            "volpiano": "1--h---f--g---fe--d---f--e--g---",
+            "search_volpiano": "hfgfedfeg"
         }
     ],
     "44r": [
@@ -10331,8 +10331,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Beatam me dicent omnes",
-            "volpiano": "1---h--gh--gf-ghghgfe-fe---gF---gh---gf--ef-gf--fe---f---df--f--f--f--f---f--f---efgfe--g--ghg7-hgf--ef-gef--ef-f---3---dg-hk--h---3",
-            "search_volpiano": "hghgfghghgfefegFghgfefgffefdfffffffefgfegghghgfefgefeffdghkh"
+            "volpiano": "1--h--f--g---fe--d---fe---g--hg--f---",
+            "search_volpiano": "hfgfedfeghgf"
         },
         {
             "id": "044r2",
@@ -10347,8 +10347,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Et misericordia ejus",
-            "volpiano": "1---d--d--dfd-dc---fgh---4",
-            "search_volpiano": "dddfddcfgh"
+            "volpiano": "1--gl---lkjk---hg---h---hjh---g---fg---g---",
+            "search_volpiano": "gllkjkhghhjhgfgg"
         },
         {
             "id": "044r3",
@@ -10363,8 +10363,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Beata es Maria quae dominum",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--gh---h---g---fef---d---fhg---fg---g---",
+            "search_volpiano": "ghhgfefdfhgfgg"
         },
         {
             "id": "044r4",
@@ -10379,8 +10379,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Ave maria gratia plena",
-            "volpiano": "1---gh-jkj---k--kj---h--hj-kj---4",
-            "search_volpiano": "ghjkjkkjhhjkj"
+            "volpiano": "1--d---d---f---d---c---f---g---h---",
+            "search_volpiano": "ddfdcfgh"
         },
         {
             "id": "044r5",
@@ -10395,8 +10395,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Gaude Maria*",
-            "volpiano": "1---h--hkh-hg---h---kJ---4",
-            "search_volpiano": "hhkhhghkJ"
+            "volpiano": "1--ejj--kjhgf---jk--lkl-g---k--jh--jk-jhg---fef--de--g---",
+            "search_volpiano": "ejjkjhgfjklklgkjhjkjhgfefdeg"
         },
         {
             "id": "044r6",
@@ -10411,8 +10411,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Dignare me*",
-            "volpiano": "1---f--f--f---f---df---4",
-            "search_volpiano": "ffffdf"
+            "volpiano": "1--lmnml--kjl---kjh--g---j--k---lm--l---o--nml---",
+            "search_volpiano": "lmnmlkjlkjhgjklmlonml"
         },
         {
             "id": "044r7",
@@ -10427,8 +10427,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Post partum virgo*",
-            "volpiano": "1---lklm--l---4",
-            "search_volpiano": "lklml"
+            "volpiano": "1--lmnml--kj--l---kjh--g---j---k--lm--l---",
+            "search_volpiano": "lmnmlkjlkjhgjklml"
         },
         {
             "id": "044r8",
@@ -10443,8 +10443,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Maria virgo assumpta*",
-            "volpiano": "1---f--f---f--e--g--g---h7---f--f--d--c---f--f---f--e---g---h---h--hg--gF--f---4",
-            "search_volpiano": "fffegghffdcfffeghhhggFf"
+            "volpiano": "1--gh---hg-hjg-ge-fd-dc-g---hj---jc---jg---hg---fg---g---",
+            "search_volpiano": "ghhghjggefddcghjjcjghgfgg"
         },
         {
             "id": "044r9",
@@ -10459,8 +10459,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Diffusa est gratia in labiis",
-            "volpiano": "1---h--k--h7--g---h--kj--g---h--g---gF--fgh--h---h--k---h--h--g---hk--h--g---gh--f--hG---gf--f---3---k--k--l--j---k--h---4",
-            "search_volpiano": "hkhghkjghggFfghhhkhhghkhgghfhGgffkkljkh"
+            "volpiano": "1--kj--jg-jlm-ml-l--lm--ml--k---l--k--j---",
+            "search_volpiano": "kjjgjlmmlllmmlklkj"
         }
     ],
     "44v": [
@@ -10477,8 +10477,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Myrrha et gutta et casia",
-            "volpiano": "1---g---g--gk--h--g---4",
-            "search_volpiano": "gggkhg"
+            "volpiano": "1--kj--jg-jlm-ml-l--l---m--mlk-lkj---jkl---kjh--jh---gf--hg---",
+            "search_volpiano": "kjjgjlmmlllmmlklkjjklkjhjhgfhg"
         },
         {
             "id": "044v2",
@@ -10493,8 +10493,8 @@ var data = {
             "mode": "6",
             "differentia": null,
             "full_text_standard": "Beata es virgo Maria",
-            "volpiano": "1---f--f---f--e---4",
-            "search_volpiano": "fffe"
+            "volpiano": "1--dh---hghgf---gjg-hh-h---hgf---ed---efd---cd---d---",
+            "search_volpiano": "dhhghgfgjghhhhgfedefdcdd"
         },
         {
             "id": "044v3",
@@ -10509,8 +10509,8 @@ var data = {
             "mode": "6",
             "differentia": null,
             "full_text_standard": "Ave Maria gratia plena",
-            "volpiano": "1---k--k--k--k---k--kkjhg-hj-kh---4",
-            "search_volpiano": "kkkkkkkjhghjkh"
+            "volpiano": "1--dh--hg---hjhg--fe---d--ef--gef-e--d---",
+            "search_volpiano": "dhhghjhgfedefgefed"
         },
         {
             "id": "044v4",
@@ -10525,8 +10525,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "O gloriosa femina excelsa",
-            "volpiano": "1---fgh--g--g---4",
-            "search_volpiano": "fghgg"
+            "volpiano": "1--dh--hg--hjhg-fed---ef--gef-ed---fe---de--dc--fgh---",
+            "search_volpiano": "dhhghjhgfedefgefedfededcfgh"
         }
     ],
     "45r": [
@@ -10543,8 +10543,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Sola fuit mulier paruit",
-            "volpiano": "1---h--h--h---hjkjhg-h---4",
-            "search_volpiano": "hhhhjkjhgh"
+            "volpiano": "1--ghkk---hk---k---kj---h---jkl---k---jhkjh---k-jg---hge-fed-e---e---",
+            "search_volpiano": "ghkkhkkkjhjklkjhkjhkjghgefedee"
         },
         {
             "id": "045r2",
@@ -10559,8 +10559,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "Assumpta est Maria in caelum",
-            "volpiano": "1---g--gkj--k--l--k--kj---4",
-            "search_volpiano": "ggkjklkkj"
+            "volpiano": "1--kj---kl--kj--hjg---h--k--jk--ljk-kj---",
+            "search_volpiano": "kjklkjhjghkjkljkkj"
         },
         {
             "id": "045r3",
@@ -10575,8 +10575,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Maria virgo assumpta est",
-            "volpiano": "1---c--d--fd--hk-h---4",
-            "search_volpiano": "cdfdhkh"
+            "volpiano": "1--kj--kl--kj---hj--g---h---k--jk--ljk-kj---",
+            "search_volpiano": "kjklkjhjghkjkljkkj"
         },
         {
             "id": "045r4",
@@ -10591,8 +10591,8 @@ var data = {
             "mode": "4",
             "differentia": "E2",
             "full_text_standard": "In odore unguentorum tuorum",
-            "volpiano": "1---g--j--l--k7---hk---k--hg--g---gk--l--k---hk--k---g--j--k---h--h---j--h--g---3---l--l--m--l---k--jh---4",
-            "search_volpiano": "gjlkhkkhgggklkhkkgjkhhjhgllmlkjh"
+            "volpiano": "1--hgf---hk---ljk-hg-f---kk---lkj---kl---mnlm-kjlk---k---",
+            "search_volpiano": "hgfhkljkhgfkklkjklmnlmkjlkk"
         },
         {
             "id": "045r5",
@@ -10607,8 +10607,8 @@ var data = {
             "mode": "7",
             "differentia": "C2",
             "full_text_standard": "Benedicta filia tu a domino",
-            "volpiano": "1---k--k7---k--k--k--k---kkjhg-hj-kh---4",
-            "search_volpiano": "kkkkkkkkjhghjkh"
+            "volpiano": "1--kk---k--h---k---k--l--j--kh---jk-k-",
+            "search_volpiano": "kkkhkkljkhjkk"
         }
     ],
     "45v": [
@@ -10625,8 +10625,8 @@ var data = {
             "mode": "1",
             "differentia": "A1",
             "full_text_standard": "Pulchra es et decora",
-            "volpiano": "1---ghkjh-k--hg---gkJ--k---4",
-            "search_volpiano": "ghkjhkhggkJk"
+            "volpiano": "1--kkk--h--kk---ljk--hjk-k---fh---kk-lmn--ml--mk---",
+            "search_volpiano": "kkkhkkljkhjkkfhkklmnmlmk"
         },
         {
             "id": "045v2",
@@ -10641,8 +10641,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "O gloriosa domina*",
-            "volpiano": "1---l---l---lmnml--klk-kj---4",
-            "search_volpiano": "lllmnmlklkkj"
+            "volpiano": "1--g---h---hghgf---hkjhg-hgfef---d---fhg---fg---g---",
+            "search_volpiano": "ghhghgfhkjhghgfefdfhgfgg"
         },
         {
             "id": "045v3",
@@ -10657,8 +10657,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Exaltata es  sancta dei*",
-            "volpiano": "1---gj-kl--l--l7---l--l---4",
-            "search_volpiano": "gjklllll"
+            "volpiano": "1--gk---kj--*---h--jkl--jg---h--g--g---",
+            "search_volpiano": "gkkjhjkljghgg"
         },
         {
             "id": "045v4",
@@ -10673,8 +10673,8 @@ var data = {
             "mode": "1",
             "differentia": "A1",
             "full_text_standard": "Quae est ista quae ascendit",
-            "volpiano": "1---hg---hg--fg---ijhg-hij---4",
-            "search_volpiano": "hghgfgijhghij"
+            "volpiano": "1--gk--kj-hj--kl-jg---h--g---jl---lmn--mlk--jh---jll-",
+            "search_volpiano": "gkkjhjkljghgjllmnmlkjhjll"
         },
         {
             "id": "045v5",
@@ -10689,8 +10689,8 @@ var data = {
             "mode": "r",
             "differentia": null,
             "full_text_standard": "Exaltata es sancta dei",
-            "volpiano": "1---dgf-fE--g---g--ghk---4",
-            "search_volpiano": "dgffEggghk"
+            "volpiano": "1--c---d---d---ed---dc---def---ed---d---",
+            "search_volpiano": "cddeddcdefedd"
         },
         {
             "id": "045v6",
@@ -10705,8 +10705,8 @@ var data = {
             "mode": "r",
             "differentia": null,
             "full_text_standard": "Super choros angelorum",
-            "volpiano": "1---kj--klk-jkh-hg---kh--jk---hkJ7---gh-jh--hg---g---fg--g--g---hkhg-hjh--ghf---gh---hkjklkjh--hkhg-hg---3---g---kk---4",
-            "search_volpiano": "kjklkjkhhgkhjkhkJghjhhggfggghkhghjhghfghhkjklkjhhkhghggkk"
+            "volpiano": "1--g---gk---h---g---hkh---j---j---j---",
+            "search_volpiano": "ggkhghkhjjj"
         },
         {
             "id": "045v7",
@@ -10721,8 +10721,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Assumpta est Maria in caelum",
-            "volpiano": "1---efd-dc---f--f--fg--g--g---gF--gh--gf--f---f--ghG--f---g--f--g---gh--f--f---f--f--fh-ijh77--g---ij--h---g--f---f---g--f--f---g--f---f--fhij--h---g---g---g--gh--g---fg7--f---fe--df---fg--fe--dc---cd--f--f---f---gh--g---h--hk---hg--hG--f--f---3---h--h--f--gh---g--f---4",
-            "search_volpiano": "efddcfffggggFghgfffghGfgfgghfffffhijhgijhgffgffgfffhijhgggghgfgffedffgfedccdfffghghhkhghGffhhfghgf"
+            "volpiano": "1--e---f---e---d---efg---fe---d---e---",
+            "search_volpiano": "efedefgfede"
         },
         {
             "id": "045v8",
@@ -10737,8 +10737,8 @@ var data = {
             "mode": "r",
             "differentia": null,
             "full_text_standard": "Assumpta est Maria in caelum",
-            "volpiano": "1---e--fd---g--hk---k---k--kj--hg--hj--k--h---gf---gh--h--g---g---h--k--k---hghG7--gh--e--e---g--h---k--k--klk---kJ---kJ--h---h--g--jk--h---k---k--k---k--k--g---hgf-g7---gh--e--e---hk---g--gfe--de---g--ghg---e--e---3---k--k--k--hk---h--g---4",
-            "search_volpiano": "efdghkkkkjhghjkhgfghhgghkkhghGgheeghkkklkkJkJhhgjkhkkkkkghgfggheehkggfedegghgeekkkhkhg"
+            "volpiano": "1--f---hk---k---l---m---nm---l---k---",
+            "search_volpiano": "fhkklmnmlk"
         },
         {
             "id": "045v9",
@@ -10753,8 +10753,8 @@ var data = {
             "mode": "r",
             "differentia": null,
             "full_text_standard": "Laudantes benedicunt dominum",
-            "volpiano": "1---d--e---f7---g--g--g---gfd-f--f--f---e---f--g--g---g--g--g--f---g--h--gh--e---dh--h7---h--hk--h--gF---g--g--gf--e--e---h--gf---g--fe--d---f--g--h--g---f---g--e---3---h--g--h--j---g--e---4",
-            "search_volpiano": "defggggfdfffefgggggfghghedhhhhkhgFgggfeehgfgfedfghgfgehghjge"
+            "volpiano": "1--h---jk---f---fg---dc---f---gf---f---",
+            "search_volpiano": "hjkffgdcfgff"
         },
         {
             "id": "045v10",
@@ -10769,8 +10769,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Maria virgo assumpta est",
-            "volpiano": "1---d--ef--g--g---f--e---cd--dfd-d---dC--f---g---h--f---gh---g--f---f--g---h--g--f7---gF--f--fgfd--d---hk---g--ge--de---g--ghg-gF---e--e---3---h--g--h--k---g--e---4",
-            "search_volpiano": "defggfecddfdddCfghfghgffghgfgFffgfddhkggedegghggFeehghkge"
+            "volpiano": "1--f---hk---k---l---j---k---l---mk---",
+            "search_volpiano": "fhkkljklmk"
         },
         {
             "id": "045v11",
@@ -10785,8 +10785,8 @@ var data = {
             "mode": "r",
             "differentia": null,
             "full_text_standard": "Maria virgo assumpta est",
-            "volpiano": "1---f--c---d--d--d7---f--e--d---f--dc---de--f--d--d---c---d--f--f---d--fhgf---c--d--fe--fgfe7---d--d---f--f---f--d---f--d---f--fe---d---f--d---c--de--f---d--dca---b--cd--d--d---3---f--f--f--e---cd--d---4",
-            "search_volpiano": "fcdddfedfdcdefddcdffdfhgfcdfefgfeddfffdfdffedfdcdefddcabcdddfffecdd"
+            "volpiano": "1--gj---kl-m---l---kj---h---j---k---l---",
+            "search_volpiano": "gjklmlkjhjkl"
         },
         {
             "id": "045v12",
@@ -10801,8 +10801,8 @@ var data = {
             "mode": "r",
             "differentia": null,
             "full_text_standard": "In quo rex regum",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--gfd---efg--g---gh--hg--fg--g---f---hg--hk---",
+            "search_volpiano": "gfdefggghhgfggfhghk"
         },
         {
             "id": "045v13",
@@ -10817,8 +10817,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Dignare  me laudare te*",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--dcd---fgfedc-d---e---fg---gf---h---g---ffed---cd---d---",
+            "search_volpiano": "dcdfgfedcdefggfhgffedcdd"
         },
         {
             "id": "045v14",
@@ -10833,8 +10833,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Assumpta est*",
-            "volpiano": "1---g--g--f--fe---d--f7--f--df---f--g--h--g---hk--gh--gh---f--h--k--kj---hg--h--g---g--gf---gh--h---g--fg---g---g7---gf---gh--h---gF--gF--d---d---d---d---f--fe---d--fghG--h---k---k--k--k--l7--j---k--h---h--g---h--k--k--g--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "ggffedffdffghghkghghfhkkjhghgggfghhgfggggfghhgFgFddddffedfghGhkkkkljkhhghkkggkkjkhg"
+            "volpiano": "1--cdd---d---f---gfg---d---fg---f---ed---",
+            "search_volpiano": "cdddfgfgdfgfed"
         },
         {
             "id": "045v15",
@@ -10849,8 +10849,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Ave maris stella*",
-            "volpiano": "1---fd-dc--f--f--fg--g--g---4",
-            "search_volpiano": "fddcfffggg"
+            "volpiano": "1--dcc---a---cd---ed---cd---d---d---de---d---",
+            "search_volpiano": "dccacdedcdddded"
         },
         {
             "id": "045v16",
@@ -10865,8 +10865,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Exaltata es  sancta dei genetrix",
-            "volpiano": "1---e--fd---g--hk---4",
-            "search_volpiano": "efdghk"
+            "volpiano": "1--g---jkl---l---mk---mnm-l---kjhj---kjh---g---",
+            "search_volpiano": "gjkllmkmnmlkjhjkjhg"
         },
         {
             "id": "045v17",
@@ -10881,8 +10881,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Hodie Maria virgo caelos ascendit",
-            "volpiano": "1---d--e---f---g---4",
-            "search_volpiano": "defg"
+            "volpiano": "1--c---cd---d---dc---def---de---dc---fghg---f---",
+            "search_volpiano": "ccdddcdefdedcfghgf"
         }
     ],
     "46r": [
@@ -10899,8 +10899,8 @@ var data = {
             "mode": "1",
             "differentia": "D1",
             "full_text_standard": "Sacerdos in aeternum",
-            "volpiano": "1---d--ef--g--g---4",
-            "search_volpiano": "defgg"
+            "volpiano": "1--c---d---defd---dc---d---fe---fded---cd---defd---dc---",
+            "search_volpiano": "cddefddcdfefdedcddefddc"
         },
         {
             "id": "046r2",
@@ -10915,8 +10915,8 @@ var data = {
             "mode": "2",
             "differentia": "D1",
             "full_text_standard": "Miserator dominus",
-            "volpiano": "1---f--c---dd--dhk--h--h---4",
-            "search_volpiano": "fcdddhkhh"
+            "volpiano": "1--g---hk---jk---k---k---k---kj---hk---kj---hg---",
+            "search_volpiano": "ghkjkkkkkjhkkjhg"
         },
         {
             "id": "046r3",
@@ -10931,8 +10931,8 @@ var data = {
             "mode": "3",
             "differentia": "G1",
             "full_text_standard": "Calicem salutaris",
-            "volpiano": "1---c--d--fd-hk--h---4",
-            "search_volpiano": "cdfdhkh"
+            "volpiano": "1--g---j---j---l---k---h---k---kh---k---k---",
+            "search_volpiano": "gjjlkhkkhkk"
         },
         {
             "id": "046r4",
@@ -10947,8 +10947,8 @@ var data = {
             "mode": "4",
             "differentia": "E2",
             "full_text_standard": "Sicut novellae olivarum",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--c---d---dhj---h---h---h---h---gf---gh---h---",
+            "search_volpiano": "cddhjhhhhgfghh"
         },
         {
             "id": "046r5",
@@ -10963,8 +10963,8 @@ var data = {
             "mode": "5",
             "differentia": "A1",
             "full_text_standard": "Qui pacem ponit fines",
-            "volpiano": "1---hgh-klkjh--h---h--g--h--k--kj---h--hklkjh-jkh--gh--h---l--l---l--k---l7--kj---h---k--kj--g---hk--kg--hk---h--h---h---h---h--hk--h---g---fg--g---hkJ---g7---hk--h--h---hg-hg-gF--gh---kl--k---l--kj--h---g--hg--f---h--g--f---g--h---hklkjh-jkh--gh--h---3---k--k--k--j---g--h---4",
-            "search_volpiano": "hghklkjhhhghkkjhhklkjhjkhghhlllklkjhkkjghkkghkhhhhhhkhgfgghkJghkhhhghggFghklklkjhghgfhgfghhklkjhjkhghhkkkjgh"
+            "volpiano": "1--d---de---fgf-fd---fgf---g---gh---gf-fghg---hj-h---h---",
+            "search_volpiano": "ddefgffdfgfgghgffghghjhh"
         },
         {
             "id": "046r6",
@@ -10979,8 +10979,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Pange lingua*",
-            "volpiano": "1---d--e--f--g--fE---e---h--gf---g--fe--d---fe--d---e---f---gf--gh---gf7---e--e---f--fE---f--d---d---e---f--gh--gf--e---3---h--g--h--k---gF--e---4",
-            "search_volpiano": "defgfEehgfgfedfedefgfghgfeeffEfddefghgfehghkgFe"
+            "volpiano": "1--dh--h--h---h ghgf---g--g---gh--g--g---",
+            "search_volpiano": "dhhhhghgfggghgg"
         },
         {
             "id": "046r7",
@@ -10995,8 +10995,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Panem de caelo praestitisti",
-            "volpiano": "1---e--defE--d---d--f--d--c---f---g--f--gh--h--h---hG--g---fe---d--fg--e---fe---d--cd--d7---h--g---h--k---l--kj--h---hg--e---fgf--d--d---3---h--h--hg--f---gh--g---4",
-            "search_volpiano": "edefEddfdcfgfghhhhGgfedfgefedcddhghklkjhhgefgfddhhhgfghg"
+            "volpiano": "1--h---f---g---f---fe---dc---de---fef-ed---",
+            "search_volpiano": "hfgffedcdefefed"
         },
         {
             "id": "046r8",
@@ -11011,8 +11011,8 @@ var data = {
             "mode": "6",
             "differentia": "F1",
             "full_text_standard": "O quam suavis est domine",
-            "volpiano": "1---d--d---c--d---f7--e--d---fdbc--d---fe--dC--d---e--f--g--e--f---d--cd--c---c---d--f---fe--d---e--fg--f--fe---df7--dc--c---dc--f---fe--d--d---3---f--f--f--e---c--d---4",
-            "search_volpiano": "ddcdfedfdbcdfedCdefgefdcdccdffedefgffedfdccdcffeddfffecd"
+            "volpiano": "1--dh--h--h ghgf---g--hf---gh--gh---hjh--h---",
+            "search_volpiano": "dhhhghgfghfghghhjhh"
         }
     ],
     "46v": [
@@ -11029,8 +11029,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Christum regem adoremus",
-            "volpiano": "1---g--h---ghk--k---k---j--k--l--k7---kj--hk--hg--g---g--g--g--h--g---hk--k--k---k--h---j--kl---kj--hj--j---hl---l--kj---hkJ--hg--g7---j-jkhg-gF--g---gh--e--e---3---k--k--k--h---k--jh---4",
-            "search_volpiano": "ghghkkkjklkkjhkhggggghghkkkkhjklkjhjjhllkjhkJhggjjkhggFggheekkkhkjh"
+            "volpiano": "1--d---dfdc---d---ec---d---f---efedc---de-d---",
+            "search_volpiano": "ddfdcdecdfefedcded"
         },
         {
             "id": "046v2",
@@ -11045,8 +11045,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Sacris sollemniis*",
-            "volpiano": "1---f---d--e--e---fe--d--ef---gh--f--g---e--e7---f--fE--f---dc--d--de--e---dhk--h--g---h---h--gf--g--hg---fe--de--e---ef--ghgf--gf---de--e--e7---3---h--g--h--k---gF--e---4",
-            "search_volpiano": "fdeefedefghfgeeffEfdcddeedhkhghhgfghgfedeeefghgfgfdeeehghkgFe"
+            "volpiano": "1--d--c--cd--efg-f---f---fe---fg--ef--d--defe--ed---",
+            "search_volpiano": "dccdefgfffefgefddefeed"
         },
         {
             "id": "046v3",
@@ -11061,8 +11061,8 @@ var data = {
             "mode": "1",
             "differentia": "D1",
             "full_text_standard": "Fructum salutiferum gustandum",
-            "volpiano": "1---h--f---hG--k--h--kl--k--k---k--k--k--l--n--m---l77--l--k--k---k--k--ijhij---kh--gh--ijgf--f---fh--h--g---f--hk--kl--k---k---k--k--l--kij--k--klk---ijh--gh--h7---fgh--h---h--h--h--g--h--gf---gh--ghG--f--f---3---k--k--l--ij---k--h---4",
-            "search_volpiano": "hfhGkhklkkkkklnmllkkkkijhijkhghijgfffhhgfhkklkkkklkijkklkijhghhfghhhhhghgfghghGffkklijkh"
+            "volpiano": "1--f---f---efd---dc-f---f---fg---g---g---gf---",
+            "search_volpiano": "ffefddcfffggggf"
         },
         {
             "id": "046v4",
@@ -11077,8 +11077,8 @@ var data = {
             "mode": "2",
             "differentia": "D1",
             "full_text_standard": "A fructu frumenti et vini",
-            "volpiano": "1---dc--deD-d---d---4",
-            "search_volpiano": "dcdeDdd"
+            "volpiano": "1--gk---k---k---j---h---gj---j---h---k---j---hg---h---g---ef---",
+            "search_volpiano": "gkkkjhgjjhkjhghgef"
         },
         {
             "id": "046v5",
@@ -11093,8 +11093,8 @@ var data = {
             "mode": "3",
             "differentia": "G1",
             "full_text_standard": "Communione calicis quo deus",
-            "volpiano": "1---f--f---ffedc---3",
-            "search_volpiano": "ffffedc"
+            "volpiano": "1--g---k---h---g---hjk---kj---hj---j---",
+            "search_volpiano": "gkhghjkkjhjj"
         },
         {
             "id": "046v6",
@@ -11109,8 +11109,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Panem caeli dedit eis",
-            "volpiano": "1---cdf--f--f---fe--d--dC---e---c---e---g--f--g---ghg--e---e---e---e--d7---e--d--c---d--e--efe--d---e---f-fe--dc--de---e--ef---gh--ge--dC---e--e---d---e--gh---hgf---g7---ghg--fe--de--e---e--f--ghgf--gF---de--e--e---dhk---h---hk--h---hk--h---h--g--h---hkj--gh---hgfe--e---e7---f--g--e---fe--d---dC--d---f--e--e---cdf--f---fe--d--df---dc--d--de--e---fe---dC--df--f7--ef---g--gf--g--ghg---fe--de--e---3---h--g--h--k---gf--efed---4",
-            "search_volpiano": "cdffffeddCecegfgghgeeeededcdeefedeffedcdeeefghgedCeedeghhgfgghgfedeeefghgfgFdeeedhkhhkhhkhhghhkjghhgfeeefgefeddCdfeecdfffeddfdcddeefedCdffefggfgghgfedeehghkgfefed"
+            "volpiano": "1--d---d---fgh---g---g---gh---h---hg---",
+            "search_volpiano": "ddfghggghhhg"
         },
         {
             "id": "046v7",
@@ -11125,8 +11125,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Immolabit haedum multitudo",
-            "volpiano": "1---f--g--f---f--gf--g---gh7--fgF--f---f---f--fg--f--f---fe--dC--d--c---c--d---f-fg--f--f---f--g--f---g---ghg--f--df--f7---f--g--f--f---f---f--fhijhg--hg--g---g--g--h--g---f--ff--dfd-dc---g---gf--g--ghg---f--df--f7---3---h--h--f--gh---g--f---4",
-            "search_volpiano": "fgffgfgghfgFffffgfffedCdccdffgfffgfgghgfdfffgfffffhijhghgggghgfffdfddcggfgghgfdffhhfghgf"
+            "volpiano": "1--gkj--klkj---kjhg-hg-hj--j--j--j--j--j---j--jh---",
+            "search_volpiano": "gkjklkjkjhghghjjjjjjjjh"
         },
         {
             "id": "046v8",
@@ -11141,8 +11141,8 @@ var data = {
             "mode": "1S",
             "differentia": null,
             "full_text_standard": "Pascha nostrum immolatus est",
-            "volpiano": "1---g--jkl--l--l---l--k---lk--j---jk--lm--l---m--k--m---o--m---l--l7---l---l--m--l--l---lk--jk---lkh---j--h---g--g---gk-lm--l---l--m--n---o--nm---lm---l---l--l7---m--lk---l---kh---j--h--g--g---g---gF--h--g--f---ghg--h---f---hk-lk--hg--hkh---g--g7---3---l--l--m--l---k--jh---4",
-            "search_volpiano": "gjkllllklkjjklmlmkmomllllmlllkjklkhjhgggklmllmnonmlmlllmlklkhjhggggFhgfghghfhklkhghkhggllmlkjh"
+            "volpiano": "1--d--fg--g---gh--g--fh---hk--gfg-gf---",
+            "search_volpiano": "dfggghgfhhkgfggf"
         }
     ],
     "47r": [
@@ -11159,8 +11159,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Comedetis carnes et saturabimini",
-            "volpiano": "1---g--gk-kJ--h---h--g---h--g---f---g--hj---g--g---g--g--gh--g7---g---gH--h--g--g---h--gH---h--gf--f---hk-lk--hg--hjh---g--g---kl--lkjh---kj---hG--h--g7---g---g---gh--g--g---g--f---h--hkh--g--g---g--gf-fg---c---d---fg--g---h--g---fg-hg--h---h--h--g77--hk--kJ---g---3---k--k--j--k--h--g---4",
-            "search_volpiano": "ggkkJhhghgfghjggggghgggHhgghgHhgffhklkhghjhggkllkjhkjhGhgggghgggfhhkhggggffgcdfgghgfghghhhghkkJgkkjkhg"
+            "volpiano": "1--gkj---klkj---kjhg-hg-hj--j---jh--kl--k---",
+            "search_volpiano": "gkjklkjkjhghghjjjhklk"
         },
         {
             "id": "047r2",
@@ -11175,8 +11175,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Non Moyses dedit vobis panem",
-            "volpiano": "1---f--gh--f---fE--dc---d--f---fgf--f---f---h--k--k7--ij---k--hf---gij---fe--g--f---f---g---ij--ij---ij--gf---gij---fe--g--f---f---h---k--k---k--ij7---k--hj--gf---gk--gf---g--gf--f---3---k--k--h--ijk---ij--h---4",
-            "search_volpiano": "fghffEdcdffgfffhkkijkhfgijfegffgijijijgfgijfegffhkkkijkhjgfgkgfggffkkhijkijh"
+            "volpiano": "1--f--fg---g---g---g--h--gf---hk---kj--klkl-lk---",
+            "search_volpiano": "ffgggghgfhkkjklkllk"
         },
         {
             "id": "047r3",
@@ -11191,8 +11191,8 @@ var data = {
             "mode": "3",
             "differentia": null,
             "full_text_standard": "Respexit Elias ad caput suum",
-            "volpiano": "1---h---gF--g--hk---4",
-            "search_volpiano": "hgFghk"
+            "volpiano": "1--gk---kj--klkj---kjhg-hg-hj--j---j--j--j---",
+            "search_volpiano": "gkkjklkjkjhghghjjjjj"
         },
         {
             "id": "047r4",
@@ -11207,8 +11207,8 @@ var data = {
             "mode": "3",
             "differentia": null,
             "full_text_standard": "Si quis manducaverit",
-            "volpiano": "1---g--gefd-efed---cd---fghgf-gh-ijh-h--hg---kk---k---k--k--kl--lkj-kjhg-h--hg7---h--kj--k--hkjh-k---ghg--g---fh--h--hfg--hg-gf---kk--kl---lkj-kjhg---hghg-gF--gf7---hfgh-khg--hf-ghkjh-jkjh---g--ghkhg-h---hg---4",
-            "search_volpiano": "ggefdefedcdfghgfghijhhhgkkkkkkllkjkjhghhghkjkhkjhkghggfhhhfghggfkkkllkjkjhghghggFgfhfghkhghfghkjhjkjhgghkhghhg"
+            "volpiano": "1--d---f---dc---f---gh---h---h---g---h---f---",
+            "search_volpiano": "dfdcfghhhghf"
         },
         {
             "id": "047r5",
@@ -11223,8 +11223,8 @@ var data = {
             "mode": "3",
             "differentia": null,
             "full_text_standard": "Gloria patri et filio",
-            "volpiano": "1---kj---klk-jkh-hg---hk---k---3",
-            "search_volpiano": "kjklkjkhhghkk"
+            "volpiano": "1--gh--kjk-k--k---hkj---k--l--lm---l---k--kj---",
+            "search_volpiano": "ghkjkkkhkjkllmlkkj"
         }
     ],
     "47v": [
@@ -11241,8 +11241,8 @@ var data = {
             "mode": "4",
             "differentia": "E2",
             "full_text_standard": "Memor sit dominus sacrificii             ",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--c---d--dhj--h--h---h--g--h---g--f--h--k---",
+            "search_volpiano": "cddhjhhhghgfhk"
         },
         {
             "id": "047v2",
@@ -11257,8 +11257,8 @@ var data = {
             "mode": "5",
             "differentia": "A1",
             "full_text_standard": "Paratur nobis mensa domini",
-            "volpiano": "1---f-fd-dc---f--f--fg--g--g---3---h--h--f--gh--g--f---4",
-            "search_volpiano": "ffddcfffggghhfghgf"
+            "volpiano": "1--g---gh---jkjh-jkjh-ghj---hgh-hg---g---g---gkj---k---",
+            "search_volpiano": "gghjkjhjkjhghjhghhggggkjk"
         },
         {
             "id": "047v3",
@@ -11273,8 +11273,8 @@ var data = {
             "mode": "6",
             "differentia": "F1",
             "full_text_standard": "In voce exsultationis",
-            "volpiano": "1---e--fd---g---4",
-            "search_volpiano": "efdg"
+            "volpiano": "1--gk--kj--klkj---kjhg-hg-hj--j--j--jh---jk--hj---ghjh--hg---",
+            "search_volpiano": "gkkjklkjkjhghghjjjjhjkhjghjhhg"
         },
         {
             "id": "047v4",
@@ -11289,8 +11289,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Cibavit illos nos dominus ex",
-            "volpiano": "1---d--e---f---4",
-            "search_volpiano": "def"
+            "volpiano": "1--ddca---cd---d---fe---d---edcd---de---fef-ed---",
+            "search_volpiano": "ddcacddfededcddefefed"
         },
         {
             "id": "047v5",
@@ -11305,8 +11305,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Panis quem ego dabo caro mea",
-            "volpiano": "1---d--ef--g--g---4",
-            "search_volpiano": "defgg"
+            "volpiano": "1--dh--h--gh--gfe---gh--h---hk--kj---gh--hjh--h---",
+            "search_volpiano": "dhhghgfeghhhkkjghhjhh"
         },
         {
             "id": "047v6",
@@ -11321,8 +11321,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Locutus est populus contra",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--d---dc---f---g---fgh---h---h---",
+            "search_volpiano": "ddcfgfghhh"
         },
         {
             "id": "047v7",
@@ -11337,8 +11337,8 @@ var data = {
             "mode": "5",
             "differentia": null,
             "full_text_standard": "Cenantibus illis accepit",
-            "volpiano": "1---k--k---k--k---k---k--k--k-kjhg-hj-kh---4",
-            "search_volpiano": "kkkkkkkkkjhghjkh"
+            "volpiano": "1--dc---f---g---f---gh---h---h---h---",
+            "search_volpiano": "dcfgfghhhh"
         }
     ],
     "48r": [
@@ -11355,8 +11355,8 @@ var data = {
             "mode": "5",
             "differentia": null,
             "full_text_standard": "Dixerunt viri tabernaculi mei",
-            "volpiano": "1---fgh--g---gh--hgf--gh---hG7--g---g--gk-k--hkh---f---gh--h--g---kk---l--k---kJ--h---kj--hg---g---d--fgh--g7---g---g--g--hk--gh---g--f---h---f--hk--k--k---kj--h---k--h--ghg---e--f---gh---h---g7--g---3---k--k--j--k---h--ghg---4",
-            "search_volpiano": "fghgghhgfghhGgggkkhkhfghhgkklkkJhkjhggdfghgggghkghgfhfhkkkkjhkhghgefghhggkkjkhghg"
+            "volpiano": "1--gf---d---fgh---g---g---gh---g---g---gh---g---",
+            "search_volpiano": "gfdfghggghggghg"
         },
         {
             "id": "048r2",
@@ -11371,8 +11371,8 @@ var data = {
             "mode": "6",
             "differentia": null,
             "full_text_standard": "Accepit Jesus calicem        ",
-            "volpiano": "1---de-gh--g---g--hg-hijk--jh--g---h-hgh--fefg7---defg--g--gh-hg-hf-fe---defghG--g--fg-hgh--fe---3---dh--hk--h---4",
-            "search_volpiano": "deghgghghijkjhghhghfefgdefggghhghffedefghGgfghghfedhhkh"
+            "volpiano": "1--g---g---gk---h---gf---ghg---fg---g---j---k---",
+            "search_volpiano": "gggkhgfghgfggjk"
         },
         {
             "id": "048r3",
@@ -11387,8 +11387,8 @@ var data = {
             "mode": "6",
             "differentia": null,
             "full_text_standard": "Memoria memor ero et tabescet",
-            "volpiano": "1---h--j--k---l--m--l---kj--h--h---kl--k---k--l--j--k---h--g--h---gf---g--h---kJ--h7---g--g---3---l--l--m--l---k--j---4",
-            "search_volpiano": "hjklmlkjhhklkkljkhghgfghkJhggllmlkj"
+            "volpiano": "1--gk--hgf---gh--h--g---jk--lh---k--j---",
+            "search_volpiano": "gkhgfghhgjklhkj"
         },
         {
             "id": "048r4",
@@ -11403,8 +11403,8 @@ var data = {
             "mode": "6",
             "differentia": null,
             "full_text_standard": "Gloria patri  et filio  ",
-            "volpiano": "1---f--f--f---f--f--f---e--g--g--h---e--fE--dC--c---f--f77--f--e---g--h---h--hg--g--f---3---h--h---f---gh--g--f---4",
-            "search_volpiano": "ffffffegghefEdCcfffeghhhggfhhfghgf"
+            "volpiano": "1--gh---kj---kl---lml---l---l---m---l---kj---klk---",
+            "search_volpiano": "ghkjkllmlllmlkjklk"
         },
         {
             "id": "048r5",
@@ -11419,8 +11419,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "Introibo ad altare dei",
-            "volpiano": "1---d--c--d---f--e---d--d---f7-- d--c---f--gh--h---gF--e---f--g---f--f--c---d--fe--d--d---3---h--h---g--f---gh--g---4",
-            "search_volpiano": "dcdfeddfdcfghhgFefgffcdfeddhhgfghg"
+            "volpiano": "1--ffdc---f---g---g---gf---g---gh---fgf---f---",
+            "search_volpiano": "ffdcfgggfgghfgff"
         },
         {
             "id": "048r6",
@@ -11435,8 +11435,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Cibavit nos dominus ex adipe",
-            "volpiano": "1---f--d---f--ed---ef--g--f---f---f---fE--c---d--d---c--dC---f--f---f--f--f7---f--e---d--f--e---3---h--g--h--jg--gF--e---4",
-            "search_volpiano": "fdfedefgffffEcddcdCffffffedfehghjggFe"
+            "volpiano": "1--cf---e---f---d---e---d---c---df---f---dedc---c---",
+            "search_volpiano": "cfefdedcdffdedcc"
         },
         {
             "id": "048r7",
@@ -11451,8 +11451,8 @@ var data = {
             "mode": "6",
             "differentia": "F1",
             "full_text_standard": "Ex altari tuo domine Christum",
-            "volpiano": "1---f--e---d--d---d---e--f--ghghijh---h--g--f---g7--f--fE---g--fe---d--cd--d---3---h--h--g---f--g--gh---4",
-            "search_volpiano": "fedddefghghijhhgfgffEgfedcddhhgfggh"
+            "volpiano": "1--cd---d---defd---edc-d---fe---fgfe---e---",
+            "search_volpiano": "cdddefdedcdfefgfee"
         },
         {
             "id": "048r8",
@@ -11467,8 +11467,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Educas panem de terra ",
-            "volpiano": "1---e--d---f--ed---ef--g--f7---f--cd--d---c--df--f---f---f--f--df--f---f--f---e---d--f--e---3---h--g--h---k--g--e---3---k--k--k--k-kjhg---4",
-            "search_volpiano": "edfedefgffcddcdfffffdffffedfehghkgekkkkkjhg"
+            "volpiano": "1--g---j---k---lk---h---k---jh---g---g---g---",
+            "search_volpiano": "gjklkhkjhggg"
         },
         {
             "id": "048r9",
@@ -11483,8 +11483,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Qui manducat meam carnem                 ",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--g---g---j---k---l---k---lm---l---",
+            "search_volpiano": "ggjklklml"
         }
     ],
     "48v": [
@@ -11501,8 +11501,8 @@ var data = {
             "mode": "7S",
             "differentia": null,
             "full_text_standard": "Non est alia natio ",
-            "volpiano": "1---g--hk-k---k-kj---h--hk-kj--ghkjh-jkg-g-efe---e--fg--g--hg-gf---g--hghk--h---h--khk-k7--g---ghgf-ghg---egef--fe---gf-f---fd--gh---g--kgh-kk-ljk--kj---g--ghk---kjkh-khg-h--hg7---k--k--jh---kjh-jh-hG--hg---gh---glkl---jk--h---h--hgh--fgefed-e--fd---4---gf-fdfd7-ghkhg-hk---k---k--jh--h---h--gf---gh--g--gfe-fed-fd---f---ghg---hijhgf-gh--g---ghkijh7--kg-hjkhg--e--egf-f--fe---3",
-            "search_volpiano": "ghkkkkjhhkkjghkjhjkggefeefgghggfghghkhhkhkkgghgfghgegeffegfffdghgkghkkljkkjgghkkjkhkhghhgkkjhkjhjhhGhgghglkljkhhhghfgefedefdgffdfdghkhghkkkjhhhgfghggfefedfdfghghijhgfghgghkijhkghjkhgeegfffe"
+            "volpiano": "1--l---j---l---m---l---l---l---m---l---l---",
+            "search_volpiano": "ljlmlllmll"
         },
         {
             "id": "048v2",
@@ -11517,8 +11517,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Misit me pater vivens et ego",
-            "volpiano": "1---klk-k--hjkjh-hg---k--j--h---hG---h--k---jlk-k--kj---kJ---hk---k--klj-kh-jkj---hG--ghk--kjkh-khg-h---hg---3---gf-fd---3",
-            "search_volpiano": "klkkhjkjhhgkjhhGhkjlkkkjkJhkkkljkhjkjhGghkkjkhkhghhggffd"
+            "volpiano": "1--gh---g---fh---kl-kj---klk-lm-l---l---lm---l---kjh---jklk---",
+            "search_volpiano": "ghgfhklkjklklmlllmlkjhjklk"
         },
         {
             "id": "048v3",
@@ -11533,8 +11533,8 @@ var data = {
             "mode": "8S",
             "differentia": null,
             "full_text_standard": "Cibavit eum dominus pane",
-            "volpiano": "1---gfg-hj--jhjkj7---l--n--nmnmk---ln--mnml-m--nl---lm-nm-mL--nm---kJ---lk---ljkjh--jklk--kjh-k--gh-kg7-hg-gf---4---h---f--hk---kjkl--hjkjhg-hjH--hg---g--gkj-lmL--kj--gh-Hjh-hG--hg---3",
-            "search_volpiano": "gfghjjhjkjlnnmnmklnmnmlmnllmnmmLnmkJlkljkjhjklkkjhkghkghggfhfhkkjklhjkjhghjHhgggkjlmLkjghHjhhGhg"
+            "volpiano": "1--lmnml--klkj---k--lj--kl--kl---lmnm--ml---",
+            "search_volpiano": "lmnmlklkjkljklkllmnmml"
         },
         {
             "id": "048v4",
@@ -11549,8 +11549,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Unus panis et unum corpus                               ",
-            "volpiano": "1---lmnml--klk-kj---kJ--k---k---k--k--k---lj--kl--kl---l--lm-nm--ml---klk-kj--klk77---lm--l--l---l---l--l---lmlmlk--lk---klml-mnm--lk-lmlm--lkj-kj---3---h---f--hk---3",
-            "search_volpiano": "lmnmlklkkjkJkkkkkljklklllmnmmlklkkjklklmllllllmlmlklkklmlmnmlklmlmlkjkjhfhk"
+            "volpiano": "1--cde---d---d---c---d---f---g---f---ed---ef---gde-dc---",
+            "search_volpiano": "cdeddcdfgfedefgdedc"
         },
         {
             "id": "048v5",
@@ -11565,8 +11565,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Parasti in dulcedine tua",
-            "volpiano": "1---fgh--g---g---g--g--ghk---h--hg-hkg-hg-gf---hf---g--hk--k--lk-kh-kg-gf---hG--ghg7--h--hkhg--hf-ghkjh-jkjh---ghkhg-h--hg---k--ghk---k--k--k---jkl---kj--klkj-kjhg-hg---gkj--kl7---lkl-kh--k---klk-k--kj---k--kJ--kl---kJ--kl---kj--klhgf-gh-hg---4---k--k--ghG---g---kk-kJ7--k--jklkjh-jkjh---ghkhg-h--hg---3",
-            "search_volpiano": "fghggggghkhhghkghggfhfghkklkkhkggfhGghghhkhghfghkjhjkjhghkhghhgkghkkkkjklkjklkjkjhghggkjkllklkhkklkkkjkkJklkJklkjklhgfghhgkkghGgkkkJkjklkjhjkjhghkhghhg"
+            "volpiano": "1--cde--fg-f--f---f---gh--g--f---f---fg--f---",
+            "search_volpiano": "cdefgfffghgfffgf"
         }
     ],
     "49r": [
@@ -11583,8 +11583,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Gloria patri et filio",
-            "volpiano": "1---k---k--k--k---kj--klk-jkh-hg---h--k--k--kJ7---kl--k--k---k---k--kj--jh---jk--hk---gh-jh--hg--h-g---fg--g--g--g---g--g--hkhg-hjh--ghf-gh---hkjklkjh7--hkhg-hg---3---k--k--gh---3",
-            "search_volpiano": "kkkkkjklkjkhhghkkkJklkkkkkjjhjkhkghjhhghgfgggggghkhghjhghfghhkjklkjhhkhghgkkgh"
+            "volpiano": "1--fgh---g---g---gh---h---hg---hj-kghgf---hjhgf---gh-gh---g---",
+            "search_volpiano": "fghggghhhghjkghgfhjhgfghghg"
         },
         {
             "id": "049r2",
@@ -11599,8 +11599,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Sapientia aedificavit sibi               ",
-            "volpiano": "1---f--f--gh--hg-gfg--gf---fgF--f--gh--hklkj-klkl--lk---kl7--lk-hkgijg--hj-kij-ijhij--ijh---khkgf-hfgh-k-kl--kj---lmn---lk--klk-k-hkh---4---k---lkln7--n-nk--kij---khjk--ghjhgf-g--gf---f--f---hfhgf-hfgh-k-klk-kg-ijhgf-h-gh-ijhg-h-fghg-hijhg7---f--fghgf-g---gf---3",
-            "search_volpiano": "ffghhggfggffgFfghhklkjklkllkkllkhkgijghjkijijhijijhkhkgfhfghkklkjlmnlkklkkhkhklklnnnkkijkhjkghjhgfggfffhfhgfhfghkklkkgijhgfhghijhghfghghijhgffghgfggf"
+            "volpiano": "1--gk--kj--klkj---kjhg-hg-hj---j--j---j--j--jh---kl--k---",
+            "search_volpiano": "gkkjklkjkjhghghjjjjjjhklk"
         },
         {
             "id": "049r3",
@@ -11615,8 +11615,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Angelorum esca nutrivisti                ",
-            "volpiano": "1---k---k--k--k--klk-k-hkh---k--k---k---kh--kl--jk---kj-klkl--lk---f7---h--k---k---k--k--kjkj---kJ--kl---kijklkijh-j--ijh---3---k---lkln---3",
-            "search_volpiano": "kkkkklkkhkhkkkkhkljkkjklkllkfhkkkkkjkjkJklkijklkijhjijhklkln"
+            "volpiano": "1--g---gk---h---gf---gfg---fg---g---jk---l---k---hk---",
+            "search_volpiano": "ggkhgfgfgfggjklkhk"
         },
         {
             "id": "049r4",
@@ -11631,8 +11631,8 @@ var data = {
             "mode": "3",
             "differentia": null,
             "full_text_standard": "Pinguis est panis Christi  ",
-            "volpiano": "1---g--k--kg---j--k--h--g---hg--f---gf--gh---k--k---k---g--j--k---h--h---g--g7---3---k--k--j--k---h--g---4",
-            "search_volpiano": "gkkgjkhghgfgfghkkkgjkhhggkkjkhg"
+            "volpiano": "1--g---lj---lm-l---l---m---l---l---k---lm---l---kj---g---",
+            "search_volpiano": "gljlmllmllklmlkjg"
         },
         {
             "id": "049r5",
@@ -11647,8 +11647,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Sacerdotes sancti incensum ",
-            "volpiano": "1---f--f--f--e---g--g--h---f--f--e--d---f---f--f---f--e---g--h---h7--hg--gF--f---3---h--h--f--gh--g--f---4",
-            "search_volpiano": "fffegghffedffffeghhhggFfhhfghgf"
+            "volpiano": "1--k---k---k---k---h---k---jh---g---g---j---gh---h---",
+            "search_volpiano": "kkkkhkjhggjghh"
         },
         {
             "id": "049r6",
@@ -11663,8 +11663,8 @@ var data = {
             "mode": "5",
             "differentia": null,
             "full_text_standard": "Vincenti dabo manna                      ",
-            "volpiano": "1---f--f--f--e---g--g--h---f--f--d--c---f--f7---f--f--e---g--h---h--hg--gF--f---3---h--h--f--gh--g--f---4",
-            "search_volpiano": "fffegghffdcffffeghhhggFfhhfghgf"
+            "volpiano": "1--cd---fdf-f---f---efg---fe---e---efgfe---fed-ed-fd---fe---fg---",
+            "search_volpiano": "cdfdfffefgfeeefgfefededfdfefg"
         },
         {
             "id": "049r7",
@@ -11679,8 +11679,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Posuit fines tuos*",
-            "volpiano": "1---f--f--f---3---h--h--f---gh--g--f---4",
-            "search_volpiano": "fffhhfghgf"
+            "volpiano": "1--h---h--h--gh--gf---ghghge-fe-g--gh--g---",
+            "search_volpiano": "hhhghgfghghgefegghg"
         },
         {
             "id": "049r8",
@@ -11695,8 +11695,8 @@ var data = {
             "mode": "1",
             "differentia": "G1",
             "full_text_standard": "Ego sum panis vivus         ",
-            "volpiano": "1---kj---hk---kj--g---g--g--h--kj--hg---h--g---gkj--k---lm--l---m--l--k---l--kj--h---kJ--g--hG--g---g--jkl7--kJ--h---j--hj--g--g---3---k--k--j---h--gh---4",
-            "search_volpiano": "kjhkkjggghkjhghggkjklmlmlklkjhkJghGggjklkJhjhjggkkjhgh"
+            "volpiano": "1--ef---dg---g---g---hg---hj-kjk-kj---jk---lml-k---jh---kh---jk-jhgh-hg---",
+            "search_volpiano": "efdggghghjkjkkjjklmlkjhkhjkjhghhg"
         },
         {
             "id": "049r9",
@@ -11711,8 +11711,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Sapientia aedificavit*            ",
-            "volpiano": "1---f--f--f--f--e---g--g--h---e--f--d--c---f--f7---f--f--e---g--h---h--hg--gF--f---3---h--h--f--gh---g--f---4",
-            "search_volpiano": "ffffegghefdcffffeghhhggFfhhfghgf"
+            "volpiano": "1--klk--hjkj--hg---jk--h--h---gh--h---",
+            "search_volpiano": "klkhjkjhgjkhhghh"
         }
     ],
     "49v": [
@@ -11729,8 +11729,8 @@ var data = {
             "mode": "5",
             "differentia": "A1",
             "full_text_standard": "O sacrum convivium ",
-            "volpiano": "1---k--k---k--k---k--k--k---k--k--k-kjhg---3",
-            "search_volpiano": "kkkkkkkkkkkjhg"
+            "volpiano": "1--a---cde---d---f---fef---de---dc---d---f---efedc---de-d---",
+            "search_volpiano": "acdedffefdedcdfefedcded"
         },
         {
             "id": "049v2",
@@ -11745,8 +11745,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Misso Herodes spiculatore",
-            "volpiano": "1---f--df--f--f--f---f--f---f--fe--fgfe-fed-fd---g---h--gF---gh--g--fgfed-f---c7--d---f-fed--fg-hgf-ghg---efef--ef-f---d--g---hJ--h---hG--hghG--f---fghG7--g---gF--g---g--h--gf--fe---fd-efefE--dc---4---f---cdf---f--fgf--fg-hgh--hg7---gF---g-gfg--d--def-gd-dc---c--df--f-fed--fg-fgh-kghg---e--egef--fe---3",
-            "search_volpiano": "fdffffffffefgfefedfdghgFghgfgfedfcdffedfghgfghgefefeffdghJhhGhghGffghGggFgghgffefdefefEdcfcdfffgffghghhggFggfgddefgddccdfffedfgfghkghgeegeffe"
+            "volpiano": "1--cde--fg-f---gh--g---f--f--fe--fg---ef---",
+            "search_volpiano": "cdefgfghgfffefgef"
         },
         {
             "id": "049v3",
@@ -11761,8 +11761,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Misit Herodes rex manus",
-            "volpiano": "1---h--gf-ghghge-fe7---gh--g--g---gf---gh--gf--ef-gf-f--fe---f--df--f--f---f--f--f---f--f--efgfe---g---ghghgf--ef-gef7--ed---3---f---cdf---3",
-            "search_volpiano": "hgfghghgefeghgggfghgfefgfffefdffffffffefgfegghghgfefgefedfcdf"
+            "volpiano": "1--gk---h---h---hg---f---gh---g---gj---l---",
+            "search_volpiano": "gkhhhgfghggjl"
         }
     ],
     "50r": [
@@ -11779,8 +11779,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Arguebat Herodem Joannes",
-            "volpiano": "1---fgh--g---gh--g--g---g---g--ghk--h--hg-hkg-hg-gf---g--h--k7--h--g---g--hijhgf-gh--g--g---ghkjh-jkjh--ghkhg-h--hg---klk--kh---klk---kl---lk-kl--hjkjhg-h7---hg---fgh-kh--hg---k--k---kjkjhg--hghgf-g--gf---3---hG---g--gf-fed-e--fd---f--gh--g--ghkjh7-jkjh---g--ghkhg-h--hg---3",
-            "search_volpiano": "fghgghggggghkhhghkghggfghkhgghijhgfghggghkjhjkjhghkhghhgklkkhklkkllkklhjkjhghhgfghkhhgkkkjkjhghghgfggfhGggffedefdfghgghkjhjkjhgghkhghhg"
+            "volpiano": "1--g---j---k---l---k---hk---k---k---k---kl---k---",
+            "search_volpiano": "gjklkhkkkkklk"
         },
         {
             "id": "050r2",
@@ -11795,8 +11795,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Joannes Baptista arguebat",
-            "volpiano": "1---k--kj--klk-jkh-hg---hkJ--hk---gh-jh--hg---hkhg-hjh7---ghf--gh--hkj-klkjh--hkhg-hg---3---h--g---3",
-            "search_volpiano": "kkjklkjkhhghkJhkghjhhghkhghjhghfghhkjklkjhhkhghghg"
+            "volpiano": "1--g---gf---gh---h---g---g---f---hk---k---kj---",
+            "search_volpiano": "ggfghhggfhkkkj"
         },
         {
             "id": "050r3",
@@ -11811,8 +11811,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Misso Herodes spiculatore",
-            "volpiano": "1---dc--f---ghG---h--g--f---h--g--gk-kij-ijhij--ijh7---f---f--gh--h--g---hG--fh---gh--fed--dfd-dc---fgfe--fg-h--hghf-gfe---dfef--ed---d---fgh7--g---gh---hf-hkg-ff-dfd---d--fgf--fe---fgh--hg-hfg--fe-fgfg--fg---4---dcd---dhij--h---h---h--h77--h--g---h--g---hk--kjh-jh--gjk-kjh-j--kh---fg-h---hkhjk--hg---f--gh--h--g---hG--f7---hG--gh--fed--dfd-dc---fe---fG---ghgfe-fgfg--gf---f--g--f--gf-fed-dC---d--dgfe-fE--dc-def7--ed---3",
-            "search_volpiano": "dcfghGhgfhggkkijijhijijhffghhghGfhghfeddfddcfgfefghhghfgfedfefeddfghgghhfhkgffdfddfgffefghhghfgfefgfgfgdcddhijhhhhhghghkkjhjhgjkkjhjkhfghhkhjkhgfghhghGfhGghfeddfddcfefGghgfefgfggffgfgffeddCddgfefEdcdefed"
+            "volpiano": "1--dgf---gh-g---g---ghj---h---hg---hjkg-hgf-hf---ghg---h---",
+            "search_volpiano": "dgfghggghjhhghjkghgfhfghgh"
         },
         {
             "id": "050r4",
@@ -11827,8 +11827,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Puellae saltanti imperavit",
-            "volpiano": "1---h--hghg-gf---g--g---g---g--g--g---hf--gh--gh---h--hijh--h---hG--gh7---hk--h--h---h---h--h---hghg--hf---fg-hg-hijh--hgfe-gh--gfg---3---cd---dhk--h---3",
-            "search_volpiano": "hhghggfgggggghfghghhhijhhhGghhkhhhhhhghghffghghijhhgfeghgfgcddhkh"
+            "volpiano": "1--gk--k--kj--klkj---kjhg-hg-hj--j--j---j--jh--kl--k---",
+            "search_volpiano": "gkkkjklkjkjhghghjjjjjhklk"
         },
         {
             "id": "050r5",
@@ -11843,8 +11843,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Ait puella matri suae",
-            "volpiano": "1---gkh-hg--g---gF--gh--g--hk--k---k--h--kj---ghkhg-h--hg---kk--l--kh---kh-kkk--hg7---gd---g--hk--k--kh-klm---j--kljk--kj---4---kj--k---l--k--kj---hg--g--gh-khj--hg---k---kk-kJ7--k---jklkjh-jkjh---ghkhg-h--hg---3",
-            "search_volpiano": "gkhhgggFghghkkkhkjghkhghhgkklkhkhkkkhggdghkkkhklmjkljkkjkjklkkjhggghkhjhgkkkkJkjklkjhjkjhghkhghhg"
+            "volpiano": "1--d---d---dfdc---fg---fg---hg-hj-h---hj---h---hgfe---fgfg-gf---",
+            "search_volpiano": "dddfdcfgfghghjhhjhhgfefgfggf"
         },
         {
             "id": "050r6",
@@ -11859,8 +11859,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Justus germinavit*",
-            "volpiano": "1---k--kj--klk-jkh-hg---hk--kh--jk--hk---gh-jh--hg---g--fg7---gh--g---g---g--g--hkhg-hjh---ghf--gh---hkjklkjh--hkhg-hg---3---hg--h---3",
-            "search_volpiano": "kkjklkjkhhghkkhjkhkghjhhggfgghgggghkhghjhghfghhkjklkjhhkhghghgh"
+            "volpiano": "1--dh--h--h ghgf---g--gh--g--g---g--hf--gh---",
+            "search_volpiano": "dhhhghgfgghggghfgh"
         }
     ],
     "50v": [
@@ -11877,8 +11877,8 @@ var data = {
             "mode": "3",
             "differentia": "A2",
             "full_text_standard": "Herodes enim tenuit",
-            "volpiano": "1---fd--e---f---g--fE--efef---d---e--f--g--g---g--f---gh--h--g---gF--d7---e---f---gF--e---f--gh--h---gF--f---g--f---e--fed---e--fg--e--e---3---h--g--h--k---g--e---4",
-            "search_volpiano": "fdefgfEefefdefgggfghhggFdefgFefghhgFfgfefedefgeehghkge"
+            "volpiano": "1--ff---dgf-fg-hghge-fgfe-defed-ed-f---f---efd---dc---d---f---",
+            "search_volpiano": "ffdgffghghgefgfedefededffefddcdf"
         },
         {
             "id": "050v2",
@@ -11893,8 +11893,8 @@ var data = {
             "mode": "3",
             "differentia": "A2",
             "full_text_standard": "Domine mi rex da mihi",
-            "volpiano": "1---k--k--k--k---k--k--k-kjhg---hj--kh---4",
-            "search_volpiano": "kkkkkkkkjhghjkh"
+            "volpiano": "1--h--h--gf---ghghge-fe-g--g---gh--g---gh--g---",
+            "search_volpiano": "hhgfghghgefeggghgghg"
         },
         {
             "id": "050v3",
@@ -11909,8 +11909,8 @@ var data = {
             "mode": "1",
             "differentia": "F1",
             "full_text_standard": "Puellae saltanti imperavit",
-            "volpiano": "1---gh---g---gh--g---fhk--kj-klk-lm--l---lK---lm7---lK--lm--l---lk-kjh-k--k---jklkjh-jkjh--g--ghkhg-h--hg---kJ---g--ghk--k---k7--jkl--kj--klkj-kjhg-hg---l--l--lm---ml-lk---lm--ml-mkl--l-hklkj-k--kj---klm--l7---l--l---mnm--kl---l--ljkl--lmlkj-kjhg-hg---4---fhk-klK--k--kj-klkl--lk---klnml-lK7---kl--k--k---jhjkjhg-h--hg---gh--hfghgf-g--ghkhg-h--hg---3",
-            "search_volpiano": "ghgghgfhkkjklklmllKlmlKlmllkkjhkkjklkjhjkjhgghkhghhgkJgghkkkjklkjklkjkjhghglllmmllklmmlmkllhklkjkkjklmlllmnmkllljkllmlkjkjhghgfhkklKkkjklkllkklnmllKklkkjhjkjhghhgghhfghgfgghkhghhg"
+            "volpiano": "1--g---g---j---k---l---m---l---lk---h---jk---lk---",
+            "search_volpiano": "ggjklmllkhjklk"
         },
         {
             "id": "050v4",
@@ -11925,8 +11925,8 @@ var data = {
             "mode": "1",
             "differentia": "D1",
             "full_text_standard": "Arguebat Herodem Joannes",
-            "volpiano": "1---l---l--l--lmnml--klk-kj77---kl--k---k--k--k--k---kl--k--k---k---k--k--lj---kl--kl---lm-nm--nl---klk-kj---kl7--l--l--l---l--l--lmlmlk--lk--kl-ml-mnm---lk-lmlm--lkj-kj---3---fhk-klK--k--kj-klkl---lk---3",
-            "search_volpiano": "llllmnmlklkkjklkkkkkklkkkkkljklkllmnmnlklkkjklllllllmlmlklkklmlmnmlklmlmlkjkjfhkklKkkjklkllk"
+            "volpiano": "1--lj---lm-l---l---l---l---lml---l---l---l---l---l---",
+            "search_volpiano": "ljlmlllllmllllll"
         },
         {
             "id": "050v5",
@@ -11941,8 +11941,8 @@ var data = {
             "mode": "4",
             "differentia": "E2",
             "full_text_standard": "Da mihi in disco caput",
-            "volpiano": "1---fff--f-df-gfe-f--fff---fd---dfe--fg--g--gh---hg-gf--fg-hg-hk--h---hkhk-kk---g--gf--fg7--gf-fE--fd---f--hf-gh--hkgf-ghg---e--egf-f--fe---h--gh---f--h--kh-kk-kJ--hg---h7---hk--h---h---h---h---hg--hk---hkgh--f---ef--g--f---f--f-fed-e--ed---efg---g-gfed--fd-efe--dc-de-fe7---4---cd-fe--f---f---fgf--fg-hijhg-h--hg---gjgj-jj--f--df---c---g--f--fgh7-kghg--egf-f--fe---3",
-            "search_volpiano": "ffffdfgfefffffddfefggghhggffghghkhhkhkkkggffggffEfdfhfghhkgfghgeegfffehghfhkhkkkJhghhkhhhhhghkhkghfefgffffedeedefgggfedfdefedcdefecdfefffgffghijhghhggjgjjjfdfcgffghkghgegfffe"
+            "volpiano": "1--g---h---gf---h---jh---g---fg---g---h---gf---g---gh---",
+            "search_volpiano": "ghgfhjhgfgghgfggh"
         },
         {
             "id": "050v6",
@@ -11957,8 +11957,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Misso Herodes*",
-            "volpiano": "1---h--h--gh--gf-ghghgfe-fe---gh--g---gF--gh--gf---ef-gf-f7--fe---f---df--f---efgfe--g---ghghgf--ef-gef--ed-efe---3---cd--fe-f---3",
-            "search_volpiano": "hhghgfghghgfefeghggFghgfefgfffefdffefgfegghghgfefgefedefecdfef"
+            "volpiano": "1--g---g---j---k---l---m---l---k---m---n---",
+            "search_volpiano": "ggjklmlkmn"
         },
         {
             "id": "050v7",
@@ -11973,8 +11973,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Misit rex incedulus ministros",
-            "volpiano": "1---h---e--gkh7--h---kjk--kjh-j--hg---g--h--k---kjhg-h--hk-lk-kj---h--hjkjkh-j---kh---k--kl-mlmn--m7---ml-lk---kl--kl--k-kjh-j---kh---4---k---h---k--jkJ--h---hg--hkj---k--kjh-j--hg---g---hk---k--j7---k--hg---kJ--hk--g--ef-fgfe-fed-fd---hkjg--gh---jh-hg--fghgf-g--hf---3",
-            "search_volpiano": "hegkhhkjkkjhjhgghkkjhghhklkkjhhjkjkhjkhkklmlmnmmllkklklkkjhjkhkhkjkJhhghkjkkjhjhgghkkjkhgkJhkgeffgfefedfdhkjgghjhhgfghgfghf"
+            "volpiano": "1--g---fg---g---gh---g---g---gh---g---h---g---",
+            "search_volpiano": "gfggghggghghg"
         }
     ],
     "51r": [
@@ -11991,8 +11991,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Nativitas gloriosae*",
-            "volpiano": "1---efh-hjH--h7---k--l--l---kJ---kl--jk---hj-kj--kh---h---gh---h--hjkjhg---h--kjklk--kjh-j---hg---3---k---3",
-            "search_volpiano": "efhhjHhkllkJkljkhjkjkhhghhhjkjhghkjklkkjhjhgk"
+            "volpiano": "1--cf---f---e---f---d---e---cd---d---",
+            "search_volpiano": "cffefdecdd"
         },
         {
             "id": "051r2",
@@ -12007,8 +12007,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Ave maris stella*",
-            "volpiano": "1---f--f--fff-dfd---ef--g---hghkJ--h---h--kh-kk--g---ef---hG--gh--hkgf-ghg7---efef--ef-f---d---g--hJ--h---h-hgh--f---e--f--gh--gF---gh--ghgfe-f--fe---e---f7--gh--g---hkjk--h---gh--g---hG---h--hg--h-hgh--f---f--gh--gf--ghgf--g---efed-e--de-fef---4---d77---e--ghk-kJ--hghijh---fed--ef--g---hg-hjhj--kh---h--h--kh-kkk--ghg---f--gh---g--gefed-e--fd7---f--ghG---hfg---gh-kg-hg---egef--fe---3",
-            "search_volpiano": "fffffdfdefghghkJhhkhkkgefhGghhkgfghgefefeffdghJhhhghfefghgFghghgfeffeefghghkjkhghghGhhghhghffghgfghgfgefededefefdeghkkJhghijhfedefghghjhjkhhhkhkkkghgfghggefedefdfghGhfgghkghgegeffe"
+            "volpiano": "1--cdf---f---f---f---d---ed---cd---d---f---f---h---",
+            "search_volpiano": "cdffffdedcddffh"
         },
         {
             "id": "051r3",
@@ -12023,8 +12023,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Nativitas est hodie sanctae",
-            "volpiano": "1---h--gf-ghghge-fe---g--g---g--gh7--g--g---gf--gh--gf---f--ef-gf-f--fe---f--df---f--f--f---f---f--f---efgfe--g---ghghgf--ef-gef--ed-efef---3---d---3",
-            "search_volpiano": "hgfghghgefegggghgggfghgffefgfffefdfffffffefgfegghghgfefgefedefefd"
+            "volpiano": "1--f---df---f---f---f---f---g---fef---def---",
+            "search_volpiano": "fdfffffgfefdef"
         },
         {
             "id": "051r4",
@@ -12039,8 +12039,8 @@ var data = {
             "mode": "1",
             "differentia": "D1",
             "full_text_standard": "Gloriosae virginis Mariae",
-            "volpiano": "1---dfE--c---d--dgh--f--fE---df--d--d---dc---f--g---h--g--f---f--fed--fd7---f--f--e---f--d---f--cd--dfc-ca---cd--f---f--c--ef--d---3---f--f--f--e---c--d---4",
-            "search_volpiano": "dfEcddghffEdfdddcfghgfffedfdffefdfcddfccacdffcefdfffecd"
+            "volpiano": "1--g---gfd---e---f---gh---g---f---h---kj---h---",
+            "search_volpiano": "ggfdefghgfhkjh"
         },
         {
             "id": "051r5",
@@ -12055,8 +12055,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Nativitatem virginis Mariae",
-            "volpiano": "1---f--ghg7---h--fgf---g--f---fgf--dc--cdfed-e--fd---d---dgfgh--gf--f---ghgij--h--ghg---f--gh---hg---ghgf--fg-hgh7---hg---g---g--gf--g--fe---d--fgf---f---f--fe--d---d--c---df--fed--d--d---3---h--h--g--f---ghg---4",
-            "search_volpiano": "fghghfgfgffgfdccdfedefdddgfghgffghgijhghgfghhgghgffghghhggggfgfedfgffffeddcdffedddhhgfghg"
+            "volpiano": "1--g---gk---hgf---gh---h---g---g---jk---l---",
+            "search_volpiano": "ggkhgfghhggjkl"
         },
         {
             "id": "051r6",
@@ -12071,8 +12071,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Quem terra pontus*",
-            "volpiano": "1---f--h--g---h--g--f---g--d---hkhg---h--kl--klk---kj--g---jk--j--h---hG--hg---e7---f---ghG--g---hG--fgef--d--d---3---h--h--h--g---h--g---4",
-            "search_volpiano": "fhghgfgdhkhghklklkkjgjkjhhGhgefghGghGfgefddhhhghg"
+            "volpiano": "1--g---gk---h---hg---f---gh---hg---g---k---h---",
+            "search_volpiano": "ggkhhgfghhggkh"
         },
         {
             "id": "051r7",
@@ -12087,8 +12087,8 @@ var data = {
             "mode": "3",
             "differentia": null,
             "full_text_standard": "Hodie nata est beata virgo",
-            "volpiano": "1---f--d--e---f---g--g--efg---d--ef--g7--g--f---gh--h--g---g--g---jk--h--g---hG--g---g--fe--d---e--fgF--e--e---3---h--g--h--k---g--e---4",
-            "search_volpiano": "fdefggefgdefggfghhgggjkhghGggfedefgFeehghkge"
+            "volpiano": "1--d---fgh---g---gh---h---gf---ghgh-ghjh---f---hjh---g---hkjk---lk-",
+            "search_volpiano": "dfghgghhgfghghghjhfhjhghkjklk"
         },
         {
             "id": "051r8",
@@ -12103,8 +12103,8 @@ var data = {
             "mode": "3",
             "differentia": null,
             "full_text_standard": "Nativitatem beata virginis",
-            "volpiano": "1---d--c---d--ef--gf---d--dc---f--g--h--gF---fg--f--f---f--g---e---fE7---d--d---3---h--h--g--f---gh--g---4",
-            "search_volpiano": "dcdefgfddcfghgFfgfffgefEddhhgfghg"
+            "volpiano": "1--gk--k--kj--klkj---kjhg-hg-hj---j--jh--kl--k---",
+            "search_volpiano": "gkkkjklkjkjhghghjjjhklk"
         }
     ],
     "51v": [
@@ -12121,8 +12121,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Beatissimae virginis Mariae",
-            "volpiano": "1---g--f---f---f--gf---g--gh--hg---f--ghG---g---fe7---f--g--gF--f---4",
-            "search_volpiano": "gfffgfgghhgfghGgfefggFf"
+            "volpiano": "1--ghkj---k---k---kj---h---hkj---hg---gh---jkjh-jkge-fe-f---ef---gh-g---",
+            "search_volpiano": "ghkjkkkjhhkjhgghjkjhjkgefefefghg"
         },
         {
             "id": "051v2",
@@ -12137,8 +12137,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Cum jucunditate nativitatem",
-            "volpiano": "1---h---hG--g---gh--h--h---h--g--f--gh--hg---3",
-            "search_volpiano": "hhGgghhhhgfghhg"
+            "volpiano": "1--k--klk--hjkj--hg---hg---h--k---jlkk---kj---",
+            "search_volpiano": "kklkhjkjhghghkjlkkkj"
         },
         {
             "id": "051v3",
@@ -12153,8 +12153,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Gloriosae virginis Mariae",
-            "volpiano": "1---k--k---k---k--k-kjhg---4",
-            "search_volpiano": "kkkkkkjhg"
+            "volpiano": "1--g---fg---g---g---g---gh---h---hg---hjgf-",
+            "search_volpiano": "gfggggghhhghjgf"
         },
         {
             "id": "051v4",
@@ -12169,8 +12169,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Beatissimae virginis Mariae",
-            "volpiano": "1---e--fg--g---hk--kJ--g---hG--g---k--k---h---gf--gh--h--g---g--h--k---k---k--kl--k---k--k7---k--k---kj--hk---kl--kj--g---k--g---h---k--k--h--j---kj--g---g---g--h--k---h--gf--e77---f---g---g--f---h--k---k--hkh---g--hk--g---gF--fe--d---f--gh--g--g---3---k--k--j--k---h--ghg---4",
-            "search_volpiano": "efgghkkJghGgkkhgfghhgghkkkklkkkkkkjhkklkjgkghkkhjkjggghkhgfefggfhkkhkhghkggFfedfghggkkjkhghg"
+            "volpiano": "1--gk---k--kj--klkj---kjhg-hg-hj--j--jh--kl--k---",
+            "search_volpiano": "gkkkjklkjkjhghghjjjhklk"
         },
         {
             "id": "051v5",
@@ -12185,8 +12185,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Nativitas gloriosae virginis",
-            "volpiano": "1--kj---hk---kj--g---4",
-            "search_volpiano": "kjhkkjg"
+            "volpiano": "1--fgh---g---g---g---g---gh---g---g---g---fe---f---",
+            "search_volpiano": "fghggggghgggfef"
         }
     ],
     "52r": [
@@ -12203,8 +12203,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Hodie nata est beata virgo",
-            "volpiano": "1---fd--e---f---g---4",
-            "search_volpiano": "fdefg"
+            "volpiano": "1--g---gk---k---k---lm---ml---l---m---l---",
+            "search_volpiano": "ggkkklmmllml"
         },
         {
             "id": "052r2",
@@ -12219,8 +12219,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Cum jucunditate nativitatem",
-            "volpiano": "1---fE--d---e--f---g--fe---d---f7---f--fh--hG---g--fg---g---g--g--d---g--f--e--e---3---h--g--h--k---g--e---4",
-            "search_volpiano": "fEdefgfedfffhhGgfggggdgfeehghkge"
+            "volpiano": "1--l---l---l---j---l---m---l---l---",
+            "search_volpiano": "llljlmll"
         },
         {
             "id": "052r3",
@@ -12235,8 +12235,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Corde et animo Christo",
-            "volpiano": "1---k--k--k--k---k--k--k-kjhg---4",
-            "search_volpiano": "kkkkkkkkjhg"
+            "volpiano": "1--d---fgh---g---g---g---gh---g---g---gh---g---",
+            "search_volpiano": "dfghgggghggghg"
         },
         {
             "id": "052r4",
@@ -12251,8 +12251,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Nativitas tua dei genetrix",
-            "volpiano": "1---h--h--h---jk--h---gF--gh--h---hg--f---g--f--g--h---gh---e---fgf--d--cd--d7---h---h---k--lK--h---gh--h---h--g--h---hg--f---g--f---g--g--ghG---fe--fgf--d--d---3---h--h--hg--f---g--gh---4",
-            "search_volpiano": "hhhjkhgFghhhgfgfghghefgfdcddhhklKhghhhghhgfgfggghGfefgfddhhhgfggh"
+            "volpiano": "1--gkj---klkj---kjhg-hg-jk--hj---g--ghjh--hg---",
+            "search_volpiano": "gkjklkjkjhghgjkhjgghjhhg"
         }
     ],
     "52v": [
@@ -12269,8 +12269,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Benedicta tu in mulieribus",
-            "volpiano": "1---k--k---k---k--k--k---k--k--k--kjhg-hj-kh---4",
-            "search_volpiano": "kkkkkkkkkkjhghjkh"
+            "volpiano": "1--g---gk---hg---g---kl---kj---h---k---kh---kl-kjk-kj---",
+            "search_volpiano": "ggkhggklkjhkkhklkjkkj"
         },
         {
             "id": "052v2",
@@ -12285,8 +12285,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Felix namque es sacra virgo",
-            "volpiano": "1---f--c---d--d---4",
-            "search_volpiano": "fcdd"
+            "volpiano": "1--jlk--hjkj--hg---jk--h--h---h--hg--h---",
+            "search_volpiano": "jlkhjkjhgjkhhhhgh"
         },
         {
             "id": "052v3",
@@ -12301,8 +12301,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Ora pro populo interveni",
-            "volpiano": "1---g--g7---j--l--k---4",
-            "search_volpiano": "ggjlk"
+            "volpiano": "1--fgh---g---g---g---g---gh---g---g---eg---",
+            "search_volpiano": "fghggggghggeg"
         }
     ],
     "53r": [
@@ -12319,8 +12319,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Nativitas gloriosae virginis",
-            "volpiano": "1---l--ljlm--l---l---4",
-            "search_volpiano": "lljlmll"
+            "volpiano": "1--gk---kj--klkj---kjhg-hg-hj---j--j---",
+            "search_volpiano": "gkkjklkjkjhghghjjj"
         },
         {
             "id": "053r2",
@@ -12335,8 +12335,8 @@ var data = {
             "mode": "7",
             "differentia": "C1",
             "full_text_standard": "Nativitas est hodie sanctae",
-            "volpiano": "1---h---k--jh---jk--hg---hg--fh---k--jH7---j--k---h--h---g--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "hkjhjkhghgfhkjHjkhhggkkjkhg"
+            "volpiano": "1--f---fe---dc---de---d---ef---g---e---f---e---",
+            "search_volpiano": "ffedcdedefgefe"
         },
         {
             "id": "053r3",
@@ -12351,8 +12351,8 @@ var data = {
             "mode": "6",
             "differentia": "F1",
             "full_text_standard": "Regali ex progenie Maria",
-            "volpiano": "1---d---a--cfd--d---4",
-            "search_volpiano": "dacfdd"
+            "volpiano": "1--l---j---lm---l---m---k---l---j---",
+            "search_volpiano": "ljlmlmklj"
         },
         {
             "id": "053r4",
@@ -12367,8 +12367,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Corde et animo Christo",
-            "volpiano": "1---d--c---df--fgfed-fd--cd--d---dC--f--g---h--gF---gF--df---fgfed-fd--cd--d---f7--gh--h---hG--g---hg--f---gh--fec---d---fe--d--cd--d---e--fg--g---h--g---f---fe--d---f7--gf---e---fE---d--cd--d---f--gh--h---h---g--hG--f---g--g---g--gh--hg--f---g--fed--dfd-dc---cd7---fgF--ghgfe--d---c---d--fe--d--d---3---h--h--g--f---gh--g---4",
-            "search_volpiano": "dcdffgfedfdcdddCfghgFgFdffgfedfdcddfghhhGghgfghfecdfedcddefgghgffedfgfefEdcddfghhhghGfgggghhgfgfeddfddccdfgFghgfedcdfeddhhgfghg"
+            "volpiano": "1--gk---h---hg---f---gh---g---g---j---k---",
+            "search_volpiano": "gkhhgfghggjk"
         },
         {
             "id": "053r5",
@@ -12383,8 +12383,8 @@ var data = {
             "mode": "7",
             "differentia": "C1",
             "full_text_standard": "Cum jocunditate nativitatem",
-            "volpiano": "1---g--f---fh--hg---fg---h--g--f---f--f--g---g7--f--f---4",
-            "search_volpiano": "gffhhgfghgfffggff"
+            "volpiano": "1--d---fgh---g---gh---h---g---gh---jkghgf-fhk---k---jklkjh---jkjh-g---ghj---hgh-hg---",
+            "search_volpiano": "dfghgghhgghjkghgffhkkjklkjhjkjhgghjhghhg"
         }
     ],
     "53v": [
@@ -12401,8 +12401,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "O gloriosa domina*",
-            "volpiano": "1---h--g---gh--h--h---h---h--h---h--g---f--gh--hg---3",
-            "search_volpiano": "hgghhhhhhhgfghhg"
+            "volpiano": "1--gkj--klkj---kjhg-hg-hj--j---j--jh---kl--k---k--k---",
+            "search_volpiano": "gkjklkjkjhghghjjjjhklkkk"
         },
         {
             "id": "053v2",
@@ -12417,8 +12417,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Nativitas est hodie sanctae",
-            "volpiano": "1---k--k---k7--k---k---k--k--k-kjhg-hj-kh---4",
-            "search_volpiano": "kkkkkkkkkjhghjkh"
+            "volpiano": "1--ed---g---hk---k---k---kj---hg---hjk-jlkk---kj---",
+            "search_volpiano": "edghkkkkjhghjkjlkkkj"
         },
         {
             "id": "053v3",
@@ -12433,8 +12433,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Nativitatem hodiernam",
-            "volpiano": "1---h---e--fg--ghG--g---fh--k--kJ---klm--l---mL---kk7--j--h---h--l--k--jk---h--g--hkg-g---f---g--h--g---h--g--f---gh--h---h--l--k--jk---h77--g--hkg---e--fg--g--g---lK--gh-kh---f--h---kh--jh---g--g---l---k--l---n--m--lk7--k---l--lkj-kh---h--l--k--k---ghG--hg---e--fg--g--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "hefgghGgfhkkJklmlmLkkjhhlkjkhghkggfghghgfghhhlkjkhghkgefggglKghkhfhkhjhgglklnmlkkllkjkhhlkkghGhgefgggkkjkhg"
+            "volpiano": "1--k---k--k--k--klkk---hjkjhg---hg-h--h--hg---",
+            "search_volpiano": "kkkkklkkhjkjhghghhhg"
         },
         {
             "id": "053v4",
@@ -12449,8 +12449,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Nativitas gloriosae*",
-            "volpiano": "1---f--e--d7---e--f---gh--g---h---f--g--fe--d---g---f--e--c---e---f--g--h--g---g--h--f--g---e--de--e7---3---h--g--h--k---g--e---4",
-            "search_volpiano": "fedefghghfgfedgfecefghgghfgedeehghkge"
+            "volpiano": "1--kj---kl---lk---lmlm-ml---lmnm---l---klmk---jkj-gh---jkgh-gf-",
+            "search_volpiano": "kjkllklmlmmllmnmlklmkjkjghjkghgf"
         },
         {
             "id": "053v5",
@@ -12465,8 +12465,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Ave maris stella*",
-            "volpiano": "1---g--fd--e---fg---g---g---g--g--g--hk--h---h--g---h---f--hk--k--kj7---g--jk--h--g---gf--gh---h--g--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "gfdefgggggghkhhghfhkkkjgjkhggfghhggkkjkhg"
+            "volpiano": "1--l--lmnml--kj--klkj---k--lj--kl--kl---l--lmnm--ml---",
+            "search_volpiano": "llmnmlkjklkjkljklklllmnmml"
         },
         {
             "id": "053v6",
@@ -12481,8 +12481,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Nativitas est hodie sanctae",
-            "volpiano": "1---j--k---lm--l---m--m---m--l7---l--k--k---lK---lm--l---kj--gh---kh--j---h--g--g---k-klml--klkj---h--k---k--g7--h---gF---g--h---k--g---h--g--f---gh--h--g--g---3---l--l--m--l---k--lk---4",
-            "search_volpiano": "jklmlmmmllkklKlmlkjghkhjhggkklmlklkjhkkghgFghkghgfghhggllmlklk"
+            "volpiano": "1--d---f---f---e---fg---fed---def---fd---f---gh---h---",
+            "search_volpiano": "dffefgfeddeffdfghh"
         },
         {
             "id": "053v7",
@@ -12497,8 +12497,8 @@ var data = {
             "mode": "1",
             "differentia": "F1",
             "full_text_standard": "Nativitas tua dei genetrix",
-            "volpiano": "1---f---d--f--ef7---g--g--e---f---gh---h--g---gF--fg--fed---d---f---d---e--f--g---g--f---f---gh---h--g7---gF--fg--fed--d---fed--f---fgF--e--e---3---h--g--h--k---g--e---4",
-            "search_volpiano": "fdfefggefghhggFfgfeddfdefggffghhggFfgfeddfedffgFeehghkge"
+            "volpiano": "1--g---j---k---lkml---l---m---k---l---k---j---",
+            "search_volpiano": "gjklkmllmklkj"
         },
         {
             "id": "053v8",
@@ -12513,8 +12513,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "O crux ave*",
-            "volpiano": "1---g--g--g---j--k---lmL--l7---k--n--n---n---n--m--l---nM--l---l---l--m--n---ono--l---l--l--m--l---l7--j--kh---g--h---j---hG---g--g---3---l--l--m--l---k--jh---4",
-            "search_volpiano": "gggjklmLlknnnnmlnMlllmnonolllmlljkhghjhGggllmlkjh"
+            "volpiano": "1--ed---g---hk---k---k---j---h---h---g---hjkj---hg---g---",
+            "search_volpiano": "edghkkkjhhghjkjhgg"
         },
         {
             "id": "053v9",
@@ -12529,8 +12529,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Hoc signum crucis*",
-            "volpiano": "1---k--kj---hk--k--kj---hg7---k--l---l--k---kl---m---l--k---k---k---kj--kl---kl--h---l---k---jk--h--g---h--g---f--gh7--h---h---h---h--k---k--g--g--g---3---k--k--?--j---l--h-gh---4",
-            "search_volpiano": "kkjhkkkjhgkllkklmlkkkkjklklhlkjkhghgfghhhhhkkgggkkjlhgh"
+            "volpiano": "1--g---gd---f---fg---g---g---g---g---g---h---",
+            "search_volpiano": "ggdffggggggh"
         },
         {
             "id": "053v10",
@@ -12545,8 +12545,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "O crux splendidior*",
-            "volpiano": "1---d--c--d---f--e---f7--g--e---f--d---f--gh---h---g---hkJ--hg---e--f--g--fe---d--d--d---f--c--d7---f--g---e---f--d---fe--df---d--c---f---f--hh---g--hG---h---h--g--fg--f---fg--f---f--f--fe--dc77---d--fe--d--d---3---h--h--h--gF---fgh--gF---4",
-            "search_volpiano": "dcdfefgefdfghhghkJhgefgfedddfcdfgefdfedfdcffhhghGhhgfgffgffffedcdfeddhhhgFfghgF"
+            "volpiano": "1--d---ef---g---g---g---gh---g---g---g---g---g---",
+            "search_volpiano": "defgggghggggg"
         },
         {
             "id": "053v11",
@@ -12561,8 +12561,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Regem martyrum*",
-            "volpiano": "1---gl--l---l--l--kj---l--m--l---l--klK--g---f--h7--k---k--h--gh--h---k---l--m---nM--l---k--j---k--h--g--jk--h---g--g---3---l--l--m--l---lk--l---4",
-            "search_volpiano": "gllllkjlmllklKgfhkkhghhklmnMlkjkhgjkhggllmllkl"
+            "volpiano": "1--d---f---d---dc---f---g---fgh---h---",
+            "search_volpiano": "dfddcfgfghh"
         },
         {
             "id": "053v12",
@@ -12577,8 +12577,8 @@ var data = {
             "mode": "1",
             "differentia": "F1",
             "full_text_standard": "Adoramus te Christe et benedicimus",
-            "volpiano": "1---gl--l---l---l--kj---l--m--l---k--l--kl--g---k--j--h---kJ--l---l--l--h--k---lm--lk7--k---m--l---k--l--j---k---h--g--jkJ--h---g--g---3---l--l--m--l---lk--l---4",
-            "search_volpiano": "gllllkjlmlklklgkjhkJlllhklmlkkmlkljkhgjkJhggllmllkl"
+            "volpiano": "1--g---h---gf---gh---g---h---k---l---k---k---hk---",
+            "search_volpiano": "ghgfghghklkkhk"
         }
     ],
     "54r": [
@@ -12595,8 +12595,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Propter lignum servi facti",
-            "volpiano": "1---g--g--j--k7---lkml--l---l---l--l--l--l--j---lmL--l---kJ--g---h---k--j--h---kl--l---l--l--l--l7--l---k--lm--lk--k---m--l---k---l--k--j---kJ--h---g--jkJ--h--g---3---l--l--m--l---k--jh---4",
-            "search_volpiano": "ggjklkmllllllljlmLlkJghkjhklllllllklmlkkmlklkjkJhgjkJhgllmlkjh"
+            "volpiano": "1--d---cd---d---d---d---d---f---defedc---f---g---h---g---f---",
+            "search_volpiano": "dcdddddfdefedcfghgf"
         },
         {
             "id": "054r2",
@@ -12611,8 +12611,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "Salvator mundi salva nos",
-            "volpiano": "1---g--g---g--f---gh--g--g---gh--g---g--ghgf--g---ghG--fg--f---f--g--f---g---h7--k--j---k--h--gF---gh--h--g--g---g--g--g---gf---gh--hG--g---g--g--g---h--g--h--g7---f---h---k---k--kj--g---gF--fe--d---f--gh--h---g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "gggfghggghggghgfgghGfgffgfghkjkhgFghhggggggfghhGgggghghgfhkkkjggFfedfghhgkkjkhg"
+            "volpiano": "1--d---fgh---g---gh---g---gh---h---hg---hjkg-hgf-",
+            "search_volpiano": "dfghgghgghhhghjkghgf"
         },
         {
             "id": "054r3",
@@ -12627,8 +12627,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Hoc signum crucis*",
-            "volpiano": "1---g--g7--gf-fd-efed---c--d---fgh--g---g--g---hk--g--hG---g--f---f--g--h---kJ--g--ghgf-gh7--g---g--g---g--g--gd---f--gh--g---g--g--g---h--g--ghgf--f---g--g--f---g---h--k--k7---j---k---h---gf--gh--h---g--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "gggffdefedcdfghggghkghGgffghkJgghgfghggggggdfghgggghgghgffggfghkkjkhgfghhggkkjkhg"
+            "volpiano": "1--kj--klkj--kjhg-hg-hj--jh---kl--kjh---jk--hj---",
+            "search_volpiano": "kjklkjkjhghghjjhklkjhjkhj"
         },
         {
             "id": "054r4",
@@ -12643,8 +12643,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Dulce lignum*",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--df---ede-dc---ef---gf---gh-g---g---gf---fgh---jghg-egf---fe---",
+            "search_volpiano": "dfededcefgfghgggffghjghgegffe"
         },
         {
             "id": "054r5",
@@ -12659,8 +12659,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Hoc signum crucis*",
-            "volpiano": "1---gF--f---g--gh--g---g--g--fe--fgh--fed---df---fg--h---kj--hg--h--g7---gF---fgh--fed--dfec---fg--hg---fg--gh-hg--g---gh--kj--gh---k-klk---k---l---k--kj---h--hg7--ghgf--f---h--k--k--kj--hg---hkj--hG---gF---h--k---h--ge--fed--d---fe--f---h--hjh---g--g77---3---k--k--j--k---h--g---4",
-            "search_volpiano": "gFfgghgggfefghfeddffghkjhghggFfghfeddfecfghgfgghhggghkjghkklkklkkjhhgghgffhkkkjhghkjhGgFhkhgefeddfefhhjhggkkjkhg"
+            "volpiano": "1--h---h--gf---ghghge-fe-g--g---gh--g---",
+            "search_volpiano": "hhgfghghgefeggghg"
         },
         {
             "id": "054r6",
@@ -12675,8 +12675,8 @@ var data = {
             "mode": "7",
             "differentia": "C1",
             "full_text_standard": "O magnum pietatis",
-            "volpiano": "1---g--g--j---k--l--l---l--l---k--j--k--l---km--kl--l---m--l---k--k--g---h---kj--h---kl--l---l--kj--h---k--kl---l---m---l---kl7--k--j---k--h---g--jk--h---h--h--g--g---3---l--l--m--l---k--j--h---4",
-            "search_volpiano": "ggjkllllkjklkmkllmlkkghkjhklllkjhkkllmlklkjkhgjkhhhggllmlkjh"
+            "volpiano": "1--d---fgh---g---gh---g---g---g---ghj---h---h---hg---hj-kghgf-",
+            "search_volpiano": "dfghgghgggghjhhhghjkghgf"
         },
         {
             "id": "054r7",
@@ -12691,8 +12691,8 @@ var data = {
             "mode": "3",
             "differentia": "A2",
             "full_text_standard": "Salva nos Christe salvator   ",
-            "volpiano": "1---d---d--d--d---e--de--e---d--d--d---d--d---e--de7---e---e--g--gh---h---f--f--e---dfd---c---cd---dc--f--e---d--d---3---f--f--f--e---cd--d---4",
-            "search_volpiano": "ddddedeedddddedeeegghhffedfdccddcfeddfffecdd"
+            "volpiano": "1--gk--kj--klkj---kjhg-hg-hj--j--j---j--jh---kl--k---",
+            "search_volpiano": "gkkjklkjkjhghghjjjjjhklk"
         },
         {
             "id": "054r8",
@@ -12707,8 +12707,8 @@ var data = {
             "mode": "1",
             "differentia": "G1",
             "full_text_standard": "Ecce crucem domini fugite    ",
-            "volpiano": "1---gl--l---l--k--j---l--m--l---k--ll--g---gl--k---kJ---gh--h--h---k7---l--m--no---o---n--o--n---m---k---mk--lm---n--l--l--k--k---k--k--k--lm--l--k---l--j7---kJ--h--g--jkJ--h---g---3---l--l--m--l---lk--l---4",
-            "search_volpiano": "glllkjlmlkllgglkkJghhhklmnoononmkmklmnllkkkkklmlkljkJhgjkJhgllmllkl"
+            "volpiano": "1--j---lj---lm---l---lm---l---k---klk---kjk---",
+            "search_volpiano": "jljlmllmlkklkkjk"
         }
     ],
     "54v": [
@@ -12725,8 +12725,8 @@ var data = {
             "mode": "7",
             "differentia": "C1",
             "full_text_standard": "Nos autem gloriari oportet",
-            "volpiano": "1---gl---l---l---l--k--kj---l---mL--l---k--l7--kl--g---f--h--k---kJ--h--gh--h---k--l---m---n--l--k--j---k--h---g--jk--h--g--g7---3---l--l--m--l---lk--l---4",
-            "search_volpiano": "gllllkkjlmLlklklgfhkkJhghhklmnlkjkhgjkhggllmllkl"
+            "volpiano": "1--lj---l---m---l---kl---l---l---l---",
+            "search_volpiano": "ljlmlkllll"
         },
         {
             "id": "054v2",
@@ -12741,8 +12741,8 @@ var data = {
             "mode": "8",
             "differentia": "C1",
             "full_text_standard": "Per signum crucis de inimicis",
-            "volpiano": "1---g--gl--l---l--l--k--kj---l---m---lK--k---l--kl--g---f--h7---k--j---h--gh--h---k---l--m---n---l--k--j---kJ--h--g--j--k---hG--g--g---3---l--l--m--l---lk--l---4",
-            "search_volpiano": "ggllllkkjlmlKklklgfhkjhghhklmnlkjkJhgjkhGggllmllkl"
+            "volpiano": "1--l---j---l---m---l---l---lj---kj---",
+            "search_volpiano": "ljlmllljkj"
         },
         {
             "id": "054v3",
@@ -12757,8 +12757,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "O crux ave*",
-            "volpiano": "1---gl--l---l--l--kj---l--m--l---k--ll--g---f---h--k--j---h--gh--h---k---l--m7---n--l--k--j---kJ--h---g--jk--h--g---3---l--l--m--l---lk--l---4",
-            "search_volpiano": "gllllkjlmlkllgfhkjhghhklmnlkjkJhgjkhgllmllkl"
+            "volpiano": "1--l---j---l---m---l---l---jk---l---kj---",
+            "search_volpiano": "ljlmlljklkj"
         },
         {
             "id": "054v4",
@@ -12773,8 +12773,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Adoramus te Christe et benedicimus",
-            "volpiano": "1---gl--l---l--l--k--kj7---l--m--l--k---l--kl--g---g--f---h--k--j---h--gh--h---k---l--n--m---l--k--j---k--h7---g--jk--h--g---3---l--l--m--l---lk--l---4",
-            "search_volpiano": "gllllkkjlmlklklggfhkjhghhklnmlkjkhgjkhgllmllkl"
+            "volpiano": "1--k---k---klk---kjk---h---k---j---",
+            "search_volpiano": "kkklkkjkhkj"
         },
         {
             "id": "054v5",
@@ -12789,8 +12789,8 @@ var data = {
             "mode": "2",
             "differentia": "D1",
             "full_text_standard": "Super omnia ligna cedrorum",
-            "volpiano": "1---g--gl--l---l--lK--k---k--lm--l---lmkh7---jh--g--g---g--gl--l--k---j--kl--l---k--ln---n---n--m---l--m--l---l--k--nn--m--l---k--ln---n7---n--n--n--m---l--m--l---k--mn--m--l---l--lmkh--k--hG---g--g---f--h---k--kj---h--kl7--l---l--lmkh--j--h---g--g---3---l--l--m--l---lk--l---4",
-            "search_volpiano": "ggllllKkklmllmkhjhggggllkjkllklnnnmlmllknnmlklnnnnnmlmlkmnmlllmkhkhGggfhkkjhkllllmkhjhggllmllkl"
+            "volpiano": "1--d---d---f---d---dc---f---g---fgh---h---",
+            "search_volpiano": "ddfddcfgfghh"
         },
         {
             "id": "054v6",
@@ -12805,8 +12805,8 @@ var data = {
             "mode": "1",
             "differentia": "D1",
             "full_text_standard": "O crux benedicta quae sola",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--d---d---d---d---d---dc---f---g---f---gh---h---",
+            "search_volpiano": "ddddddcfgfghh"
         },
         {
             "id": "054v7",
@@ -12821,8 +12821,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Tibi Christe splendor*",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--e---d---c---d---e---d---d---d---c---d---f---e---d---d---",
+            "search_volpiano": "edcdedddcdfedd"
         },
         {
             "id": "054v8",
@@ -12837,8 +12837,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Stetit angelus juxta aram",
-            "volpiano": "1---d--f--d---f--f---g--g--h---fg--f--f---fe--e---e--f---e--f--d---c---f---g--g--h---g---h--j--k---h--g---h--g--h--f---g--g--h---f--gh---f---fg--fe--d---3---h--h--g--f---gh--g---4",
-            "search_volpiano": "dfdffgghfgfffeeefefdcfgghghjkhghghfgghfghffgfedhhgfghg"
+            "volpiano": "1--f---f---fe---d---d---d---d---d---f---e---c---c---",
+            "search_volpiano": "fffedddddfecc"
         },
         {
             "id": "054v9",
@@ -12853,8 +12853,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Dum sacrum mysterium cerneret",
-            "volpiano": "1---d--e--f---g--g---f--fe--d--d---fg--h--h---fg--fe---d---f--f--f---ef---g--f---d---3---h--h--g--f---g--hg---4",
-            "search_volpiano": "defggffeddfghhfgfedfffefgfdhhgfghg"
+            "volpiano": "1--c---cd---d---d---e---d---d---d---e---d---d---c---",
+            "search_volpiano": "ccdddedddeddc"
         }
     ],
     "55r": [
@@ -12871,8 +12871,8 @@ var data = {
             "mode": "3",
             "differentia": null,
             "full_text_standard": "Regem archangelorum dominum",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--l---k---j---k---l---l---l---l---l---kj---h---",
+            "search_volpiano": "lkjklllllkjh"
         },
         {
             "id": "055r2",
@@ -12887,8 +12887,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Concussum est mare",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--f---fe---d---f---f---f---f---f---f---",
+            "search_volpiano": "ffedffffff"
         },
         {
             "id": "055r3",
@@ -12903,8 +12903,8 @@ var data = {
             "mode": "2",
             "differentia": "D1",
             "full_text_standard": "Laudemus dominum quem laudant",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--lj---lm-l---l---lm---l---k---klk---kjk---",
+            "search_volpiano": "ljlmlllmlkklkkjk"
         },
         {
             "id": "055r4",
@@ -12919,8 +12919,8 @@ var data = {
             "mode": "4",
             "differentia": "E2",
             "full_text_standard": "Ascendit fumus aromatum",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--lj---lm-l---l---lm---l---k---k---k---klk---kjk---",
+            "search_volpiano": "ljlmlllmlkkkklkkjk"
         },
         {
             "id": "055r5",
@@ -12935,8 +12935,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Stetit angelus juxta aram",
-            "volpiano": "1---g--gfd---f--gh---g---g--g--h--g---f---gh7--g---fef--df---c--d---f--fg--g---h--g---h---kjkj-jH--kh---k--h--g---hg--f---f---gh--g--g---3---k--k--k--j---k--h--g---4",
-            "search_volpiano": "ggfdfghggghgfghgfefdfcdffgghghkjkjjHkhkhghgffghggkkkjkhg"
+            "volpiano": "1--g---gff---e---f---gh---g---g---g---h---g---g---h---g---f---",
+            "search_volpiano": "ggffefghggghgghgf"
         },
         {
             "id": "055r6",
@@ -12951,8 +12951,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Factum est silentium in caelo",
-            "volpiano": "1---fg--g---h---h--h--gf---gh--h---f---hk--kj---hG---h--g---h--g---g--fef--fd---e--f--gh--h---g---kl---l---l---m---l--k--k-klK--h---h--f--hk--klK7--h---h--f---h---k---j---k--h---h--g---h---gf--gh--j---h---g--g---3---k--k--j--k7---h--g--4",
-            "search_volpiano": "fgghhhgfghhfhkkjhGhghggfeffdefghhgklllmlkkklKhhfhkklKhhfhkjkhhghgfghjhggkkjkhg"
+            "volpiano": "1--h---fg---g---h---g---g---g---h---g---h---g---f---",
+            "search_volpiano": "hfgghggghghgf"
         }
     ],
     "55v": [
@@ -12969,8 +12969,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Milia milium ministrabant ei",
-            "volpiano": "1---g---ge-fg---g---g---c--d--fg-hg--g---g---g--h--g--hj-kj--h7---h--h---g---g---h---fe--d---fe--fg---gf---h--k--h---g---h--gfd---e--fg--g--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "ggefgggcdfghgggghghjkjhhhgghfedfefggfhkhghgfdefgggkkjkhg"
+            "volpiano": "1--gk---k---k---k---k---hk---k---jklkjh---jkjh-",
+            "search_volpiano": "gkkkkkhkkjklkjhjkjh"
         },
         {
             "id": "055v2",
@@ -12985,8 +12985,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Stetit angelus juxta aram",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--gk---k--k--kj---klkj---kjhg-hg-hj--j---",
+            "search_volpiano": "gkkkkjklkjkjhghghjj"
         },
         {
             "id": "055v3",
@@ -13001,8 +13001,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "In conspectu angelorum",
-            "volpiano": "1---e--fg--ghg-gf---h--k---h---g---h--gf---g--h--kl--lkjh---h---klm--l---lm--kj7---h--hlkjg---g---h--h--h---k--k---g--g---3---k--k--j--k---h--ghg---4",
-            "search_volpiano": "efgghggfhkhghgfghkllkjhhklmllmkjhhlkjgghhhkkggkkjkhghg"
+            "volpiano": "1--d---dfed---f-f---fgf---ded-fd---ef---g---hg---hj-h---",
+            "search_volpiano": "ddfedfffgfdedfdefghghjh"
         },
         {
             "id": "055v4",
@@ -13017,8 +13017,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "In conspectu angelorum",
-            "volpiano": "1---g---kjkl7--k---jkJ---hgf--h---kj---g--fg--g---g--jk---l--mk---lm--m---l--l---j---l--mL--l---k--kj7---hG---hk-lk--k---k---l--j--k--h---f---g--h---k--hf--g--gh---f--f---f---g--h--g--g7---g--hG--g---f--h---klm--l---l---m--j--k--h--g---gf--gh--h---g--g---3---l--l--m--l---k--jh---4",
-            "search_volpiano": "gkjklkjkJhgfhkjgfgggjklmklmmlljlmLlkkjhGhklkkkljkhfghkhfgghfffghggghGgfhklmllmjkhggfghhggllmlkjh"
+            "volpiano": "1--h---h--h--gh---gf---ghghge-fe-g--g--gh--g---",
+            "search_volpiano": "hhhghgfghghgefeggghg"
         }
     ],
     "56r": [
@@ -13035,8 +13035,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Super misericordiam tuam",
-            "volpiano": "1---d--d--dc--f--g---fh--h---h--h---hk--h---g--h--g---ef--g--fe---d--d---hjkjh---g---fe7--g---fE--d--fe---dc---d--fe--d--d---3---h--h--g--f---gh--g---4",
-            "search_volpiano": "dddcfgfhhhhhkhghgefgfeddhjkjhgfegfEdfedcdfeddhhgfghg"
+            "volpiano": "1--g---fe---fgf-gh-g---g---fe---fgf-f---de---dcd-dc---",
+            "search_volpiano": "gfefgfghggfefgffdedcddc"
         },
         {
             "id": "056r2",
@@ -13051,8 +13051,8 @@ var data = {
             "mode": "2",
             "differentia": "D1",
             "full_text_standard": "Michael archangele veni ",
-            "volpiano": "1---g---h--gF---g--hG--kj--gh---kh--j---hjh--g--g---f--g---h--kj--hg---hk--hg--ghgf---h--k7--kj--hg---hk--hG---g--g---g--fd--e---fg---gf---hg--hk---kj---hJ--hg--g---f---g--hG--g---efg7--gefed---e--f--f---gh--hG---fgh--h---hjkjh--hg---hJ--hg--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "ghgFghGkjghkhjhjhggfghkjhghkhgghgfhkkjhghkhGgggfdefggfhghkkjhJhggfghGgefggefedeffghhGfghhhjkjhhghJhggkkjkhg"
+            "volpiano": "1--gk--k--k---kj--klkj---kjhg-hg-jh--kl--k---",
+            "search_volpiano": "gkkkkjklkjkjhghgjhklk"
         },
         {
             "id": "056r3",
@@ -13067,8 +13067,8 @@ var data = {
             "mode": "7",
             "differentia": "D1",
             "full_text_standard": "Michael praepositus paradisi",
-            "volpiano": "1---f--gh--h---f---h---ghfd---f--g---e---fE--d--d---d---ef--dfec---f--ghg-hijh---h--gfe---fg7--d--d---3---h--h--hg--f---g--hjh---4",
-            "search_volpiano": "fghhfhghfdfgefEdddefdfecfghghijhhgfefgddhhhgfghjh"
+            "volpiano": "1--g---f---h---k---k---jg---j---k---h---",
+            "search_volpiano": "gfhkkjgjkh"
         },
         {
             "id": "056r4",
@@ -13083,8 +13083,8 @@ var data = {
             "mode": "4",
             "differentia": "E2",
             "full_text_standard": "Gloriosus apparuisti in conspectu",
-            "volpiano": "1---f--gh--h---k--hG---h--ghg---e--f---g--f--g--f--f---f---fe--c7---ef---g--fe---cD--d--d---cd--f---g--e---f--d---f--f---h--gf--e---f---g--e--f---d--d---3---h--h--g7--f---g--ghg---4",
-            "search_volpiano": "fghhkhGhghgefgfgffffecefgfecDddcdfgefdffhgfefgefddhhgfgghg"
+            "volpiano": "1--k---hj---j---g---g---h---g---g---g---g---h---g---f---",
+            "search_volpiano": "khjjgghgggghgf"
         },
         {
             "id": "056r5",
@@ -13099,8 +13099,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Ascendit fumus aromatum",
-            "volpiano": "1---f--gh--h---h---g---h--ghg---e---f--g---e---gh--fE---d7--d---d---dgfgH--g---g---gg--g---g---g--g--f--gh---fe--fE---d--d---3---h--h--h--g---f--g-ghg---4",
-            "search_volpiano": "fghhhghghgefgeghfEddddgfgHggggggggfghfefEddhhhgfgghg"
+            "volpiano": "1--f---g---e---fe---d---g---h---j---k---j---",
+            "search_volpiano": "fgefedghjkj"
         },
         {
             "id": "056r6",
@@ -13115,8 +13115,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "In conspectu gentium nolite",
-            "volpiano": "1---c---d---dhk--h---h--g---h---g---e--f--g--f---f--f--efd--d---fE--dc7---d---fe---d--cd--d---hkh---g--h---hl--l---kj--g---kk---h--h---h-hg---f--g---h--ghg---ef---g7---fe---d--d---3---h--h--hg--f---gh--ghfed---4",
-            "search_volpiano": "cddhkhhghgefgfffefddfEdcdfedcddhkhghhllkjgkkhhhhgfghghgefgfeddhhhgfghghfed"
+            "volpiano": "1--d---d---cdca---cj---cd---de---fef-ed---",
+            "search_volpiano": "ddcdcacjcddefefed"
         }
     ],
     "56v": [
@@ -13133,8 +13133,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Stetit angelus juxta aram",
-            "volpiano": "1---fgh--g---gh--g--g---gh---hgf--gh--hG--g---f---g--h--g7---f---g--fed--f---cd---e--fg--g---f---ghg--h---fg---hg--gh---h--g--gfd---e--fg--g--g---3---k--k--j--k---h--ghg---4",
-            "search_volpiano": "fghgghggghhgfghhGgfghgfgfedfcdefggfghghfghgghhggfdefgggkkjkhghg"
+            "volpiano": "1--d---d--cde--fg-f---f--f--fe---",
+            "search_volpiano": "ddcdefgffffe"
         },
         {
             "id": "056v2",
@@ -13149,8 +13149,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Hic est Michael archangelus",
-            "volpiano": "1---g--h--ghk--k---kj--hg---h---hkh--g--fg--g---g--gf---f--fd---ghkJ--hg7---h--j---kj---h---hg--g---f---g--h--k--kj--hJ---hg--g---g--gf--f--fd---gh--k---hkh--ghkJ--hg7---g--hk--jkjkh---hG--hk---kj---hj--hg--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "ghghkkkjhghhkhgfggggfffdghkJhghjkjhhggfghkkjhJhggggfffdghkhkhghkJhgghkjkjkhhGhkkjhjhggkkjkhg"
+            "volpiano": "1--cf---fe---d---ec---cd---defd---dc-",
+            "search_volpiano": "cffedeccddefddc"
         },
         {
             "id": "056v3",
@@ -13165,8 +13165,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Archangelus Michael",
-            "volpiano": "1---f--gh--h---f--g77---h---gf--gf--d---d--g--f---ef---d---c--d---c--b--c--d--fE---d--d---3---k--k--j7--f---g--ghg---4",
-            "search_volpiano": "fghhfghgfgfddgfefdcdcbcdfEddkkjfgghg"
+            "volpiano": "1--cde--fg-f--f---gh--g---f--fe--fg---ef---",
+            "search_volpiano": "cdefgffghgffefgef"
         },
         {
             "id": "056v4",
@@ -13181,8 +13181,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Venit Michael archangelus",
-            "volpiano": "1---f--f---fg--f--c---cd---f-fgF--f---f---f--f--f--gh---fe--f---d--d---3---f--f--e--cd--de---4",
-            "search_volpiano": "fffgfccdffgFfffffghfefddffecdde"
+            "volpiano": "1--dc---f---fgh---hgfg---gf---fd---f---gj---jhg---j---",
+            "search_volpiano": "dcffghhgfggffdfgjjhgj"
         }
     ],
     "57r": [
@@ -13199,8 +13199,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Emitte domine spiritum",
-            "volpiano": "1---g--hk--jkjkh---hG--hk---k---hjh--g--g---hG--?--kJ---hG---gh---g--f---gF7--h-kj--hg--fg---g--g---gk-klK--k---l--j--kJ---hG---g--hkg-gf--f---f---g--gf--gh7---jk--hG---hk--g--g---g--f---fe---df---f--g---hG--f---hG--gk--kj---hG---g--f---g7---h--jk--hg--fg---g--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "ghkjkjkhhGhkkhjhgghGkJhGghgfgFhkjhgfggggkklKkljkJhGghkggfffggfghjkhGhkgggffedffghGfhGgkkjhGgfghjkhgfgggkkjkhg"
+            "volpiano": "1--fgj--j--jhjhg---hg-hj--kl-k--kjh---h--ghg---",
+            "search_volpiano": "fgjjjhjhghghjklkkjhhghg"
         },
         {
             "id": "057r2",
@@ -13215,8 +13215,8 @@ var data = {
             "mode": "7",
             "differentia": "D1",
             "full_text_standard": "Angelus archangelus Michael",
-            "volpiano": "1---gF--gd-fed---cd-fd--d---fE--d--f7--f---gF--h---hkJ---g--g---gh---k--k---kl---hG--ghgf--hkJ--hG---g--g---g---ghfd--e--fg7---g---h--hjh--g--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "gFgdfedcdfddfEdffgFhhkJggghkkklhGghgfhkJhGgggghfdefgghhjhggkkjkhg"
+            "volpiano": "1--d---def---e---d---d---d---e---d---d---",
+            "search_volpiano": "ddefedddedd"
         },
         {
             "id": "057r3",
@@ -13231,8 +13231,8 @@ var data = {
             "mode": "8",
             "differentia": "C1",
             "full_text_standard": "Data sunt ei incensa",
-            "volpiano": "1---g--gkj--k--lklm--l---l--l--lml-lK---k--lml--klk-lk-kj---gkj---kl---lklk-lmk-kJ7--hg---h--kj--klk-kjh--kh-jkjh---efhfe-f--fe---3---l--lm--nl--k---4",
-            "search_volpiano": "ggkjklklmllllmllKklmlklklkkjgkjkllklklmkkJhghkjklkkjhkhjkjhefhfeffellmnlk"
+            "volpiano": "1--f---f---f---e---d---f---f---e---f---e---",
+            "search_volpiano": "fffedffefe"
         },
         {
             "id": "057r4",
@@ -13247,8 +13247,8 @@ var data = {
             "mode": "1",
             "differentia": "A3",
             "full_text_standard": "Magna magnalia de Michaele",
-            "volpiano": "1---de-fed--de-fed--df---c---d---fg--fg---fe--fgf-fe---dC--d--dfd-dfef---ed---h--hg-hkg-gf7---g---h--kk--lk---kj--hkhj--kh---fgh--fe--d--dfef---ed---4---g--h--klm--l-lk---kj--hg---klkjh7-jkjh--ghkjh-j--kh---h--g--hgh-h-ef-gfge-fg-hghG---ff--df-fe--defed-e---fd---3",
-            "search_volpiano": "defeddefeddfcdfgfgfefgffedCddfddfefedhhghkggfghkklkkjhkhjkhfghfeddfefedghklmllkkjhgklkjhjkjhghkjhjkhhghghhefgfgefghghGffdffedefedefd"
+            "volpiano": "1--e---cd---d---ef---e---d---e---d---c---d---de---",
+            "search_volpiano": "ecddefededcdde"
         },
         {
             "id": "057r5",
@@ -13263,8 +13263,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "In conspectu angelorum",
-            "volpiano": "1---h--ghgf---g---h--ghgf---gh--h--hG---gh--hijh---h---hG---gh--hG--hk--h---h---h7--h--hj-kjh---gh---hjkjh--hk-ljkjh3---g--h---3",
-            "search_volpiano": "hghgfghghgfghhhGghhijhhhGghhGhkhhhhhjkjhghhjkjhhkljkjhgh"
+            "volpiano": "1--f---h---g---hg---f---ghjh---gh---hg---f---h---",
+            "search_volpiano": "fhghgfghjhghhgfh"
         },
         {
             "id": "057r6",
@@ -13279,8 +13279,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "In tempore illo consurget",
-            "volpiano": "1---f--gef---df---eg-hf-f-fef7--fe---f--gef---efgfe-f--ef-f---dg---hk--h--h---hg-gf--gh--ghgh--fe---h--ghg---f7--?--?--?---?--?--?---?---ghg-hijh--gf--ghgh--fd--fghge-fed--fd-efe---4---c--d7---?--?--?---?--?--?---?---?--?--?---ghgh--e--efgfe--e---3",
-            "search_volpiano": "fgefdfeghfffeffefgefefgfefeffdghkhhhggfghghghfehghgfghghijhgfghghfdfghgefedfdefecdghgheefgfee"
+            "volpiano": "1--h--h ghgf---g---[g]---g--g---g--hf---gh--gh---",
+            "search_volpiano": "hhghgfggggghfghgh"
         }
     ],
     "57v": [
@@ -13297,8 +13297,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "In tempore illo salvabitur",
-            "volpiano": "1---h--gf-ghghge-fe7---gh--g---g--g--gf-gh--gf---efgf---f--fe---f--cdf--f---f---efgfe--g---ghghgf--ef-gef--ed-efe7---3---c--d---3",
-            "search_volpiano": "hgfghghgefeghggggfghgfefgfffefcdfffefgfegghghgfefgefedefecd"
+            "volpiano": "1--gh---g---g---g---g---g---g---eg---gh---fede-ed---",
+            "search_volpiano": "ghggggggegghfedeed"
         },
         {
             "id": "057v2",
@@ -13313,8 +13313,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Michael archangelus venit",
-            "volpiano": "1---g--ghk--k---kjkjh-kh---h--k---kjk--hk--hg---h---khjkjh7--g--ghkhg-h--hg---k--k---k-klh-hg---k--k--k--k---kjkjhg-hg---hk---jkjk--kj---4---k7---kjh--k--hg--hghjh---ghgf--fg---gh-khj--hg---3",
-            "search_volpiano": "gghkkkjkjhkhhkkjkhkhghkhjkjhgghkhghhgkkkklhhgkkkkkjkjhghghkjkjkkjkkjhkhghghjhghgffgghkhjhg"
+            "volpiano": "1--gk--kj--klkj---kjhg-hg-hj--j---jh---kl--k--k---",
+            "search_volpiano": "gkkjklkjkjhghghjjjhklkk"
         },
         {
             "id": "057v3",
@@ -13329,8 +13329,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Stetit angelus juxta aram",
-            "volpiano": "1---k--k--kj---klk-jkh-hg---hk--k--k---k7--k--k---kJ---jk---hk--gh-jh--hg---g--fg---gh--g--g---g--hkhg-hjh---ghf--gh---hkj-klkjh---hkhg-hg---3",
-            "search_volpiano": "kkkjklkjkhhghkkkkkkkJjkhkghjhhggfgghggghkhghjhghfghhkjklkjhhkhghg"
+            "volpiano": "1--d---dc---d---f---ed---efd-cd---d---egg---g--d---",
+            "search_volpiano": "ddcdfedefdcddegggd"
         },
         {
             "id": "057v4",
@@ -13345,8 +13345,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Fidelis sermo et omni",
-            "volpiano": "1---f--f--f---g--f---gh--hg---fgh---gfe---fg--g--f---4",
-            "search_volpiano": "fffgfghhgfghgfefggf"
+            "volpiano": "1--f--e---f--e---d---e--d---",
+            "search_volpiano": "fefeded"
         }
     ],
     "58r": [
@@ -13363,8 +13363,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Gaudent angeli laetantur",
-            "volpiano": "1---f--g---h---h---h---h7--h--h---h--h--h--h--h---h---h---g--f--gh---hg---3---fgh---gfe---3",
-            "search_volpiano": "fghhhhhhhhhhhhhgfghhgfghgfe"
+            "volpiano": "1--f--e---f--d--e--dc---cd--d---",
+            "search_volpiano": "fefdedccdd"
         },
         {
             "id": "058r2",
@@ -13379,8 +13379,8 @@ var data = {
             "mode": "4",
             "differentia": "E2",
             "full_text_standard": "Stetit angelus juxta aram",
-            "volpiano": "1---fgh--g---gh--g---g7--g--ghk---h--h--hg-hkg-hg-gf---k-kjh--jklkjh-jkjh---ghkhg-h--gh-jh---f--h--klk--kJ---klk7---kl--ljkl--hjkjhg-h--hg---hkjg---kk--lkj-kjhg---hghgf-g--gf---4---f--gh--h--g--gh--g---g---gh--fe--eg7---ghfed--dfdc-dfd---ghgf-gh--g---ghkjh-jkjh---ghkhg-h--hg---3",
-            "search_volpiano": "fghgghgggghkhhhghkghggfkkjhjklkjhjkjhghkhghghjhfhklkkJklkklljklhjkjhghhghkjgkklkjkjhghghgfggffghhgghggghfeegghfeddfdcdfdghgfghgghkjhjkjhghkhghhg"
+            "volpiano": "1--f--e--f---d--e--d---d--d---e--fg---",
+            "search_volpiano": "fefdedddefg"
         },
         {
             "id": "058r3",
@@ -13395,8 +13395,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "Dum proeliaretur Michael",
-            "volpiano": "1---k--k--kj---3---f--gh---3",
-            "search_volpiano": "kkkjfgh"
+            "volpiano": "1--d---ef---g---g---f---e---d---h---ghg---ef---g---fe---d---d---",
+            "search_volpiano": "defggfedhghgefgfedd"
         },
         {
             "id": "058r4",
@@ -13411,8 +13411,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Archangele Michael constitui",
-            "volpiano": "1---fff--dfgf--fgh-hG---hg---h--fg-hg--gf---gef--df---egef--ef-f---d--g--hkh---h--h7--hg-gF--fgh-kghg---egef--f-fe---c---df--f-fed--fg--g-fgh-kghg---egef--fe---4",
-            "search_volpiano": "fffdfgffghhGhghfghggfgefdfegefeffdghkhhhhggFfghkghgegefffecdfffedfggfghkghgegeffe"
+            "volpiano": "1--h---g---f---g---h---g---g---h---f---g---h---kl---kj---klk-",
+            "search_volpiano": "hgfghgghfghklkjklk"
         },
         {
             "id": "058r5",
@@ -13427,8 +13427,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Angeli domini dominum",
-            "volpiano": "1---h7--gf-ghghge-fe---g--gf--gh--gf---f--ef-gf-f--fe---f---df---f--f--f--f---f--efgfe---g77--ghghgf---ef-gef--ef-f---3---d--g--?---3",
-            "search_volpiano": "hgfghghgefeggfghgffefgfffefdffffffefgfegghghgfefgefeffdg"
+            "volpiano": "1--l---j---lmnl---l---l---l---j---k---jh---",
+            "search_volpiano": "ljlmnlllljkjh"
         },
         {
             "id": "058r6",
@@ -13443,8 +13443,8 @@ var data = {
             "mode": "7",
             "differentia": "C1",
             "full_text_standard": "Angeli archangeli throni",
-            "volpiano": "1---?--?--?---?---?--?---ghg--h--hkhg--hf-gh-kjh-jkjh---ghkhg-h--?---?--?--?---?---?--kjhg--hghg-gF--gf---fd---efe--f--fh---?---?--?---4",
-            "search_volpiano": "ghghhkhghfghkjhjkjhghkhghkjhghghggFgffdefeffh"
+            "volpiano": "1--d---cd---fe---d---f---dc---fg---h---g---fg---f---f---",
+            "search_volpiano": "dcdfedfdcfghgfgff"
         }
     ],
     "58v": [
@@ -13461,8 +13461,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Christe sanctorum*",
-            "volpiano": "1---?--?---?--kJ---kl--k--kj---kJ--jk--hkJ---gh-jh--hg---g---?--?---?--?--?---?--?--?--?---hkj-jkjhg--hkhg-hg---3---klk--kh---3",
-            "search_volpiano": "kJklkkjkJjkhkJghjhhgghkjjkjhghkhghgklkkh"
+            "volpiano": "1--g---jk---l---m---l---k---jh---",
+            "search_volpiano": "gjklmlkjh"
         },
         {
             "id": "058v2",
@@ -13477,8 +13477,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Stetit angelus juxta aram",
-            "volpiano": "1---f---f---g--f--f---f--gh--hg---f---gh--g--fe7---f---g--g--f---4",
-            "search_volpiano": "ffgfffghhgfghgfefggf"
+            "volpiano": "1--f---ef---d---d---c---d---c---d---fe---de---dc---",
+            "search_volpiano": "fefddcdcdfededc"
         },
         {
             "id": "058v3",
@@ -13493,8 +13493,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Factum est silentium in caelo",
-            "volpiano": "1---f---g--h--h--h---h--h---g--f--gh---hg---3---f---gh---3",
-            "search_volpiano": "fghhhhhgfghhgfgh"
+            "volpiano": "1--cd---dhj---h---h---gf---g---fe---d---",
+            "search_volpiano": "cddhjhhgfgfed"
         },
         {
             "id": "058v4",
@@ -13509,8 +13509,8 @@ var data = {
             "mode": "r",
             "differentia": null,
             "full_text_standard": "Stetit angelus juxta aram",
-            "volpiano": "1---c---cd-f-fe7---c--d--fe---g--fgf-fed-e--de-fe---dc--d--f---fg--fe-fg-gf---4---c--d---f--fe---dC---dfdc---fE7--dfcd--cdca---dfec---ff--gf-fe--defed-e--fd---3",
-            "search_volpiano": "ccdffecdfegfgffededefedcdffgfefggfcdffedCdfdcfEdfcdcdcadfecffgffedefedefd"
+            "volpiano": "1--cd---d---d---fd---ca---c---cd---d---",
+            "search_volpiano": "cdddfdcaccdd"
         },
         {
             "id": "058v5",
@@ -13525,8 +13525,8 @@ var data = {
             "mode": "r",
             "differentia": null,
             "full_text_standard": "Habens thuribulum aureum",
-            "volpiano": "1---cd-f-fg--f---f--gh--g--fE---f7---f--fe--fg--ef---de-fe--fd---d--cd--d---d--d--d--d---d---df--d--d---d---defedc---d--fefgf7--fed-e--dc---3---c--d---3",
-            "search_volpiano": "cdffgffghgfEfffefgefdefefddcddddddddfddddefedcdfefgffededccd"
+            "volpiano": "1--ed---ghk---k--j--j---l--k--l---",
+            "search_volpiano": "edghkkjjlkl"
         },
         {
             "id": "058v6",
@@ -13541,8 +13541,8 @@ var data = {
             "mode": "r",
             "differentia": null,
             "full_text_standard": "Gloria*",
-            "volpiano": "1---g--gh-kjk--kj---klk-kj--kl-mlm--ml---lm-nml-mnml7--lK---jkjh--klm---lmlkj-k--kj---4---k---jk-lmL--l--lk---kj--h--jkl--lk-klh-hg---h--kj--klk7--hk--jklkjh-jkjh---ghkhg-h--hg---3",
-            "search_volpiano": "gghkjkkjklkkjklmlmmllmnmlmnmllKjkjhklmlmlkjkkjkjklmLllkkjhjkllkklhhghkjklkhkjklkjhjkjhghkhghhg"
+            "volpiano": "1--efg--fe---e--d---g--g--f--g---",
+            "search_volpiano": "efgfeedggfg"
         },
         {
             "id": "058v7",
@@ -13557,8 +13557,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Ascendit fumus aromatum",
-            "volpiano": "1---lmnml--kj--klk-kj---k--kl--k---k--k--lK---kl--kl---lm-nm--nl7---klk-kj---klk--l---l--l--l--l--lm--l---lmlmlk--lk--kl-ml-mnm---lk-lmlm--lkj-kj---3---k---jk-klK---3",
-            "search_volpiano": "lmnmlkjklkkjkklkkklKklkllmnmnlklkkjklkllllllmllmlmlklkklmlmnmlklmlmlkjkjkjkklK"
+            "volpiano": "1--hh---f---hk---kj---hg---f---e---d---",
+            "search_volpiano": "hhfhkkjhgfed"
         },
         {
             "id": "058v8",
@@ -13573,8 +13573,8 @@ var data = {
             "mode": "r",
             "differentia": null,
             "full_text_standard": "Ascendit fumus aromatum",
-            "volpiano": "1---d--fgh--g---g---g--g--g---h--hg-hkg-gf---hf--ghg--h--jk---hG---hgf-gh--g--g7---g--g--gh--g---g--ghkjh-jkjh---ghkhg-h--gh-jh---fh--klk---kJ--kl---lk-klhj--hg77---h--hkjg--kk---k---lkj-kjhg---gh--hghgf-g--gf---4---fg-hkg---h--g--g---gf---hk--kj-klkl--lk7---k---k--k--kjkjh-k--k---jklkjh-jkjh--ghkhg-h--hg---3",
-            "search_volpiano": "dfghggggghhghkggfhfghghjkhGhgfghggggghggghkjhjkjhghkhghghjhfhklkkJkllkklhjhghhkjgkkklkjkjhgghhghgfggffghkghgggfhkkjklkllkkkkkjkjhkkjklkjhjkjhghkhghhg"
+            "volpiano": "1--fghf---g---f---gh---jh---gh---h---",
+            "search_volpiano": "fghfgfghjhghh"
         },
         {
             "id": "058v9",
@@ -13589,8 +13589,8 @@ var data = {
             "mode": "r",
             "differentia": null,
             "full_text_standard": "De manu angeli",
-            "volpiano": "1---k--kj--klk-jkh-hg7---hk--kh---kl--k--k---k--kj--kh---jk--hk---gh-jh--hg---g--fg--g---g--g--g---g--g--hkhg-hjh---ghf7--gh---hkj-klkjh--hkhg-hg---3---fg---hkg---3",
-            "search_volpiano": "kkjklkjkhhghkkhklkkkkjkhjkhkghjhhggfggggggghkhghjhghfghhkjklkjhhkhghgfghkg"
+            "volpiano": "1--cd---d---dc---defe---d---ed---cd---d---",
+            "search_volpiano": "cdddcdefededcdd"
         },
         {
             "id": "058v10",
@@ -13605,8 +13605,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "In conspectu angelorum*",
-            "volpiano": "1---dc--f--gh---h-hg--gh---hg-gf--fg-hg-hk--h---h--h7---dhk--hgf-gh--hgfe-fgfe-fed-fd---f--dfe--fg---ghgfe-fgfe---dfef---ed---dc---f--gh--h7---hk--h--g---h--g--fg---ijhg-hij--h---4---hj-kij--jh---hg---hij-kij--h--ghg---h--gf--dhk--hgf-gh7--hge-fgfe-fed-fd---fe--fg--gF--eg--ghfe-fgfe---dfef--ed---3",
-            "search_volpiano": "dcfghhhgghhggffghghkhhhdhkhgfghhgfefgfefedfdfdfefgghgfefgfedfefeddcfghhhkhghgfgijhghijhhjkijjhhghijkijhghghgfdhkhgfghhgefgfefedfdfefggFegghfefgfedfefed"
+            "volpiano": "1--f---hk---k---",
+            "search_volpiano": "fhkk"
         },
         {
             "id": "058v11",
@@ -13621,8 +13621,8 @@ var data = {
             "mode": "r",
             "differentia": null,
             "full_text_standard": "In conspectu angelorum",
-            "volpiano": "1---h--h--hghg-gf---g--g--g7---g--g---gh--g---hf--gh---gh--hijh--h---hG---gh--h--h---hk--h---h--h---h---h---h--h7---h--h---hghg--hf---fg-hg-hijh--hgfe-gh--gf---3---hijkij--ijh---3",
-            "search_volpiano": "hhhghggfgggggghghfghghhijhhhGghhhhkhhhhhhhhhhghghffghghijhhgfeghgfhijkijijh"
+            "volpiano": "1--cd---dfg---dcd-d---dh---gf---g---gh---h---",
+            "search_volpiano": "cddfgdcdddhgfgghh"
         },
         {
             "id": "058v12",
@@ -13637,8 +13637,8 @@ var data = {
             "mode": "r",
             "differentia": null,
             "full_text_standard": "Adorabo ad templum sanctam",
-            "volpiano": "1---f--h---k--jk--h---hk-lk7---k---hkgh--ghgf--fg-hg-hijh---4---f--gh--hg--h--hjkjhg-hjhg---fghgf-g--fe---3",
-            "search_volpiano": "fhkjkhhklkkhkghghgffghghijhfghhghhjkjhghjhgfghgfgfe"
+            "volpiano": "1--dca---cd---d---fe---d---ed---cd---d---",
+            "search_volpiano": "dcacddfededcdd"
         },
         {
             "id": "058v13",
@@ -13653,8 +13653,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Adorate dominum omnes angeli",
-            "volpiano": "1---k--k--klk-k-hkh7---k---kl--k---k---k--k---kh--kl--jk---kj-klkl--lk---3---f--gh--hg--h--h---3",
-            "search_volpiano": "kkklkkhkhkklkkkkkhkljkkjklkllkfghhghh"
+            "volpiano": "1--ed---g---hk---kj---h---jkl---k---jhg---",
+            "search_volpiano": "edghkkjhjklkjhg"
         },
         {
             "id": "058v14",
@@ -13669,8 +13669,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Stetit angelus*",
-            "volpiano": "1---d---df-gf--fd---fg--ghg--hghk--h---fghG--h--g--fe---d--g---gfed-efed--cdfed-e7--fd---df-gf---fd--fgh-k--gh-hg--fe-fgfgh---d--df-ff--fg-hf-fe--defed-e---fd---4",
-            "search_volpiano": "ddfgffdfgghghghkhfghGhgfedggfedefedcdfedefddfgffdfghkghhgfefgfghddffffghffedefedefd"
+            "volpiano": "1--ddc---defd---ecd-efgff-ed---dh---hgf---gh---hd-cd---d---",
+            "search_volpiano": "ddcdefdecdefgffeddhhgfghhdcdd"
         },
         {
             "id": "058v15",
@@ -13685,8 +13685,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Tibi Christe splendor*",
-            "volpiano": "1---h--h--h--hghg-gf---gh--g---hf---gh--gh---hijh---h---hG---gh--hk--h---h--h--hghg--hf---fghg7-hjh--hgfe-fghG--gf---3---df-gf---3",
-            "search_volpiano": "hhhhghggfghghfghghhijhhhGghhkhhhhghghffghghjhhgfefghGgfdfgf"
+            "volpiano": "1--h--ghgf---g---jg--hjk---jh--gh--h---",
+            "search_volpiano": "hghgfgjghjkjhghh"
         },
         {
             "id": "058v16",
@@ -13701,8 +13701,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "In conspectu angelorum*",
-            "volpiano": "1---f--hk--k--h---hk-lkl--jk--hkg-hg-gf77---fe---ghg--gh---f--fg--gf-f-df---4---f--g---ghkg---ef-gf-fE--dc---fe---ghgh--khkgf-fg-hijg-hijhg7---fghgf-g--gf---3",
-            "search_volpiano": "fhkkhhklkljkhkghggffeghgghffggffdffgghkgefgffEdcfeghghkhkgffghijghijhgfghgfggf"
+            "volpiano": "1--dcd---efd-cd---d---d---efg---fgh---eca-cd---d---",
+            "search_volpiano": "dcdefdcdddefgfghecacdd"
         },
         {
             "id": "058v17",
@@ -13717,8 +13717,8 @@ var data = {
             "mode": "1",
             "differentia": "D1",
             "full_text_standard": "Princeps gloriossime Michael",
-            "volpiano": "1---k---k--k--klk-k-hkh---k--kl--k--k---kh--kl--jk---kj-klkl--lk---d--f--h7---k--k--k--kjkj---kJ---kl--kijklkijh-j--ijh---3---f--g---3",
-            "search_volpiano": "kkkklkkhkhkklkkkhkljkkjklkllkdfhkkkkjkjkJklkijklkijhjijhfg"
+            "volpiano": "1--d--d---d--cd--efg-f---f--f---fe--fg--ef---",
+            "search_volpiano": "dddcdefgffffefgef"
         }
     ],
     "59r": [
@@ -13735,8 +13735,8 @@ var data = {
             "mode": "1",
             "differentia": "G1",
             "full_text_standard": "Franciscus vir catholicus ",
-            "volpiano": "1---f--hk--k--kj---kJ---kl--kj-klkl7--lk---4---lK---k-kjh--k---kj-klh-hgh--gh-kh---gf--g--hk--kjhg-h--h---hk-kj--gh---hg-gfg--gf---3",
-            "search_volpiano": "fhkkkjkJklkjklkllklKkkjhkkjklhhghghkhgfghkkjhghhhkkjghhggfggf"
+            "volpiano": "1--efd---g---hk---jghe---fghg---fe---de---e---",
+            "search_volpiano": "efdghkjghefghgfedee"
         },
         {
             "id": "059r2",
@@ -13751,8 +13751,8 @@ var data = {
             "mode": "2",
             "differentia": "D1",
             "full_text_standard": "Coepit sub innocentio                    ",
-            "volpiano": "1---k--klk-k-hkh---k--kl--k--k---k---kh---kl--jk--kj-klkl--lk---f--h--k--k---k--k---k7---k--kl--k---k---k--kjkj--kh--kl---kij-klkijh-j--ijh---3---lK---k-kijh---3",
-            "search_volpiano": "kklkkhkhkklkkkkhkljkkjklkllkfhkkkkkkklkkkkjkjkhklkijklkijhjijhlKkkijh"
+            "volpiano": "1--kkj---hg--h--g--f---g--f--efg---jkl--j---",
+            "search_volpiano": "kkjhghgfgfefgjklj"
         },
         {
             "id": "059r3",
@@ -13767,8 +13767,8 @@ var data = {
             "mode": "3",
             "differentia": "A1",
             "full_text_standard": "Hunc sanctus praeelegerat",
-            "volpiano": "1---g---h--kl--klnml--lkj-kjh-kh7---k-klk--kjg---h---ghgf--ghgh--hkjh--gf-ghgh--gh-kh---4---g--h---kl--klmlk--lkj-kjh-kh7---k-klk--kjg---h--ghgf---ghjh-hG--hg---3",
-            "search_volpiano": "ghklklnmllkjkjhkhkklkkjghghgfghghhkjhgfghghghkhghklklmlklkjkjhkhkklkkjghghgfghjhhGhg"
+            "volpiano": "1--kkj--hg--hgf---gf--efg---jkd---j--kjhg--hgfe---",
+            "search_volpiano": "kkjhghgfgfefgjkdjkjhghgfe"
         },
         {
             "id": "059r4",
@@ -13783,8 +13783,8 @@ var data = {
             "mode": "4",
             "differentia": "E2",
             "full_text_standard": "Franciscus evangelicum nec apicem",
-            "volpiano": "1---lmnml--kj--klk-kj---kl--k---lj--kl--kl---l--lm-nm--nl7---klk-k---klK---l--l---lm--l---l--l--lm--l---l---l--l---l--lmlmlk---lk--kl-ml-mnm7---lk-lmlm--mlk-lk---3---g--h---3",
-            "search_volpiano": "lmnmlkjklkkjklkljklklllmnmnlklkkklKlllmllllmllllllmlmlklkklmlmnmlklmlmmlklkgh"
+            "volpiano": "1--ghk---hk---k---j---kl---l---kj---j---",
+            "search_volpiano": "ghkhkkjkllkjj"
         }
     ],
     "59v": [
@@ -13801,8 +13801,8 @@ var data = {
             "mode": "5",
             "differentia": "A1",
             "full_text_standard": "Hic creaturis imperat qui nutui               ",
-            "volpiano": "1---h--h--h---h--gf---gh--fe---defed-e--ed---d---f--fe7--gh--dfef---ed---4",
-            "search_volpiano": "hhhhgfghfedefedeeddffeghdfefed"
+            "volpiano": "1--h---g---h---f---h---kkl---k---k---",
+            "search_volpiano": "hghfhkklkk"
         },
         {
             "id": "059v2",
@@ -13817,8 +13817,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Proles de caelo prodiit*",
-            "volpiano": "1---h--hg-hg-gf---g--gh--g--g---g---gh--g---g--hf--gh--gh---hijh--h7---3---d--h--hg---3",
-            "search_volpiano": "hhghggfgghgggghgghfghghhijhhdhhg"
+            "volpiano": "1--f---gh---h---hgh---f---ghjh---gh---h---",
+            "search_volpiano": "fghhhghfghjhghh"
         },
         {
             "id": "059v3",
@@ -13833,8 +13833,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Ora pro nobis beate Francisce",
-            "volpiano": "1---dC--cdca--cd---df--f--dfe---fd-dfed--cdfdc-d--cdca---dfec--ef7--gefe---defed-e--fd---dcf---hgh--g--fg---ijhg-ijij--hg-gF---fg-hg--h--g---fd-dfef--fd7---4---d--dg--gF---fg--fed--dgf---f--fe---cd-efd---d--dc-dfcd---cdc-ca---dfec---ef-ghg--fe7--fgfe-fed-dfef--fd---3",
-            "search_volpiano": "dCcdcacddffdfefddfedcdfdcdcdcadfecefgefedefedefddcfhghgfgijhgijijhggFfghghgfddfeffdddggFfgfeddgfffecdefdddcdfcdcdccadfecefghgfefgfefeddfeffd"
+            "volpiano": "1--edfed---ec-d---ef---g---fe---d---e---e---",
+            "search_volpiano": "edfedecdefgfedee"
         },
         {
             "id": "059v4",
@@ -13849,8 +13849,8 @@ var data = {
             "mode": "6",
             "differentia": "F1",
             "full_text_standard": "O stupor et gaudium",
-            "volpiano": "1---cd-f-fg--f---f--gh--g--fe---fg--ef---de-fe--fd---d---cd77---d--df--d---defedc---d--fefgf---fed-f--dc---3---d-dg-gF---3",
-            "search_volpiano": "cdffgffghgfefgefdefefddcdddfddefedcdfefgffedfdcddggF"
+            "volpiano": "1--h--g--gfef-d--e--f---g--f--g---ghg--e--e---",
+            "search_volpiano": "hggfefdefgfgghgee"
         }
     ],
     "60r": [
@@ -13867,8 +13867,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Regi quae fecit opera Christo            ",
-            "volpiano": "1---dhk--h--h---hkjk7--g--gfghg---f--g---gh-kh--ghg---fgf-fe--cd---defed-e--fd---d---d--fgh--g---g--g7---gfg--fgf-fd---fgfe--fgh---hgfe-fgfg--gf---4---f---gh--hkhijk--ijh---ghfg---fgf-fd---ef--dfd-dc7---fgfe--fgh--hghfgfe---dfef--ed---3",
-            "search_volpiano": "dhkhhhkjkggfghgfgghkhghgfgffecddefedefdddfghggggfgfgffdfgfefghhgfefgfggffghhkhijkijhghfgfgffdefdfddcfgfefghhghfgfedfefed"
+            "volpiano": "1--f---hk---kjkh-gh-jgh-f---f---hjk---lk---nmk-ljk---k---",
+            "search_volpiano": "fhkkjkhghjghffhjklknmkljkk"
         },
         {
             "id": "060r2",
@@ -13883,8 +13883,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "In caelestis collegio*",
-            "volpiano": "1---h--h--hghg-gf---g--g--g--g---gh--g--hf7---gh---gh--h--hjh---h---hf---gh--h--hk--h---h--h--h--hghg--hf--fg-hg-hkh---hgfe-gh--gf---3---f--d---3",
-            "search_volpiano": "hhhghggfggggghghfghghhhjhhhfghhhkhhhhhghghffghghkhhgfeghgffd"
+            "volpiano": "1--k---k--klk---khjhg-hf-h--k---l--jhj--k---",
+            "search_volpiano": "kkklkkhjhghfhkljhjk"
         },
         {
             "id": "060r3",
@@ -13899,8 +13899,8 @@ var data = {
             "mode": "1",
             "differentia": "D1",
             "full_text_standard": "Hic vir in vanitatibus",
-            "volpiano": "1---e--fgf-f-dfd---fe--fg---g--gf-ghgh--hg---ghgf-hjhg--gf-fed--fgh--g---egef--fe---g--gh7---h--hg-gf--gh---ghgfe-f--fe---f--ef-gh---g--hg-gf--fgh-kg-hg---egef--fe---4",
-            "search_volpiano": "efgffdfdfefgggfghghhgghgfhjhggffedfghgegeffegghhhggfghghgfeffefefghghggffghkghgegeffe"
+            "volpiano": "1--f---gh---hg-jh-hf-e---f---g---fedf---f---f---",
+            "search_volpiano": "fghhgjhhfefgfedfff"
         },
         {
             "id": "060r4",
@@ -13915,8 +13915,8 @@ var data = {
             "mode": "2",
             "differentia": "D1",
             "full_text_standard": "Excelsi dextrae gratia                  ",
-            "volpiano": "1---h--gh--gf7-ghghge-fe---g---g---gh--g---g--gf---gh--gf--ef-gf-f---fe---f--df---f---f--ff--f---ff--f---efgfe--fg7--ghghgf--efgef---fe---3---g--gh---3",
-            "search_volpiano": "hghgfghghgefeggghgggfghgfefgfffefdfffffffffefgfefgghghgfefgeffeggh"
+            "volpiano": "1--h---f---g--fe---d--f--e--g---",
+            "search_volpiano": "hfgfedfeg"
         },
         {
             "id": "060r5",
@@ -13931,8 +13931,8 @@ var data = {
             "mode": "3",
             "differentia": "A1",
             "full_text_standard": "Mansuescit sed non penitus               ",
-            "volpiano": "1---dhk--h---h--h---h--hg-hkhg-g---f---gjh--g--f7---f--fed--fd---dC--cd---dfe--fg--ghfg--fgf-fd---fe-eD--c---d--f---f-fed--fd---4",
-            "search_volpiano": "dhkhhhhhghkhggfgjhgfffedfddCcddfefgghfgfgffdfeeDcdfffedfd"
+            "volpiano": "1--h--f--g---fe--d---fe---g--hg--f---",
+            "search_volpiano": "hfgfedfeghgf"
         }
     ],
     "60v": [
@@ -13949,8 +13949,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Amavit eum dominus",
-            "volpiano": "1---h--h--h--hghg7-gf---g--gh--g--g---g---g--gh--g---hf--gh--gh--hjh--h---hf--gh--h--h---hk--h---h---h--hghg7---hf--fg-hf-hjh---hgfe-fgh--gf---3---d--d---3",
-            "search_volpiano": "hhhhghggfgghggggghghfghghhjhhhfghhhhkhhhhghghffghfhjhhgfefghgfdd"
+            "volpiano": "1--gl---lkj---kj-hg---h---hjh---g---fg---g---",
+            "search_volpiano": "gllkjkjhghhjhgfgg"
         },
         {
             "id": "060v2",
@@ -13965,8 +13965,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Franciscus ut in publicum              ",
-            "volpiano": "1---d--f-fgF--f---f--gh---hG--hg-f-fgdc-dfd---cd--fe--ghkhg-hijhg---fghgf-g--gf7---hG---k--kl-ml--klk---kJ---h-hg--gh---hgfe-fgfg--gf---fg--d--f--f-fe--ghkhg-hjhg---fghgf-g--gf---4---f7--g--hk--g---f--g---f--gf-fgdc-dfd---f--c--d---f--gfghg---g--d--f--fe--g77--ghkhg-hjhg---fghgf-g--gf---3",
-            "search_volpiano": "dffgFffghhGhgffgdcdfdcdfeghkhghijhgfghgfggfhGkklmlklkkJhhgghhgfefgfggffgdfffeghkhghjhgfghgfggffghkgfgfgffgdcdfdfcdfgfghggdffegghkhghjhgfghgfggf"
+            "volpiano": "1--gh---h---g---fef---d---fhg---eg---g---",
+            "search_volpiano": "ghhgfefdfhgegg"
         },
         {
             "id": "060v3",
@@ -13981,8 +13981,8 @@ var data = {
             "mode": "1S",
             "differentia": null,
             "full_text_standard": "Deum quid agat unicum",
-            "volpiano": "1---fgh--j--ijhijhg-hg---h--h--h--hkl--kJ---jk7--ijh---hg--h---ghg--fg-hg--gf---f--df--f--f---fg--f---f--f---f---f---f--f---f--f7---ghf--gf---fgij--hg-hijhg--ghgf-gf---3---f--g---3",
-            "search_volpiano": "fghjijhijhghghhhhklkJjkijhhghghgfghggffdffffgfffffffffghfgffgijhghijhgghgfgffg"
+            "volpiano": "1--d---d---f---d---c---f---g---h---",
+            "search_volpiano": "ddfdcfgh"
         },
         {
             "id": "060v4",
@@ -13997,8 +13997,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "In dei fervens opere statim",
-            "volpiano": "1---h--f--hG---k---h--hk---kh-hkjk--kj7---l--kjk--g---gh-kjk--hkh--h---4---f--h-fhg--gh---f---hijh-hG--g---hjk--jh---f7--fgf--f---3",
-            "search_volpiano": "hfhGkhhkkhhkjkkjlkjkgghkjkhkhhfhfhgghfhijhhGghjkjhffgff"
+            "volpiano": "1--gl---mlkjh---jk---lkl-g---k---jh---jk-jhg---",
+            "search_volpiano": "glmlkjhjklklgkjhjkjhg"
         }
     ],
     "61r": [
@@ -14015,8 +14015,8 @@ var data = {
             "mode": "2S",
             "differentia": null,
             "full_text_standard": "Quam formidante paupere",
-            "volpiano": "1---k--k--klk-k-hkh---k--k--k---kl--k---k--kl--k---k--k--kh--kl---hk---k--kj7-klkl--lk---k--k--kjkj---kh--kl--kj-klkjh-j--jh---3---f---3",
-            "search_volpiano": "kkklkkhkhkkkklkkklkkkkhklhkkkjklkllkkkkjkjkhklkjklkjhjjhf"
+            "volpiano": "1--lmnml--kjl---kjh--g---j--k---lm--l---",
+            "search_volpiano": "lmnmlkjlkjhgjklml"
         },
         {
             "id": "061r2",
@@ -14031,8 +14031,8 @@ var data = {
             "mode": "3",
             "differentia": null,
             "full_text_standard": "Dum pater hunc persequitur            ",
-            "volpiano": "1---hG--f--h---k--kj---k7--kl---lnl--kl-mnl-klm-nl---k--l---n--m---l--klkij--k---ijk--ijh---gh-jg-gf---4---f--hG7---k--kj---h--hg--f--gh--kij--ijh---fghgf-g--gf---3",
-            "search_volpiano": "hGfhkkjkkllnlklmnlklmnlklnmlklkijkijkijhghjggffhGkkjhhgfghkijijhfghgfggf"
+            "volpiano": "1--gh---hg-hjg-gefd-dc-g---hj---k---jg---hg---fef---g---",
+            "search_volpiano": "ghhghjggefddcghjkjghgfefg"
         },
         {
             "id": "061r3",
@@ -14047,8 +14047,8 @@ var data = {
             "mode": "3S",
             "differentia": null,
             "full_text_standard": "Luto saxis impetitur",
-            "volpiano": "1---k--k--k---klk-khkh---k---k--k--k--k---k7--kh---kl--jk---kj-klkl--lk---f---h---k--k--kL--k--k---k---kjkj---kh--kl--kij-klkjh-j7---jh---3---f--h---kj---3",
-            "search_volpiano": "kkkklkkhkhkkkkkkkhkljkkjklkllkfhkkkLkkkkjkjkhklkijklkjhjjhfhkj"
+            "volpiano": "1--kj---jg-jlm-ml-l--lm--ml---k--l--k--j---j--k---",
+            "search_volpiano": "kjjgjlmmlllmmlklkjjk"
         },
         {
             "id": "061r4",
@@ -14063,8 +14063,8 @@ var data = {
             "mode": "3S",
             "differentia": null,
             "full_text_standard": "Gloria patri et filio",
-            "volpiano": "1---g--gkj--k---lk-lmlm--ml---l--lk--k--kh--k--klk---kh-jkjhg-h--hg---g--hkhk--ljk---kh--kj7--kl--lk--klm---lmlkj-k--kj---4---jk---l--k--kj---hklkj-klkl--lk---k---lk---lK--klkjhg-h--hg---k-kjh-jkjh7--ghkhg-h--hg---4",
-            "search_volpiano": "ggkjklklmlmmlllkkkhkklkkhjkjhghhgghkhkljkkhkjkllkklmlmlkjkkjjklkkjhklkjklkllkklklKklkjhghhgkkjhjkjhghkhghhg"
+            "volpiano": "1--kj--jg-jl-mml-l--l---mlk--lkj---jkl---kjh--jh-gf--hg---",
+            "search_volpiano": "kjjgjlmmlllmlklkjjklkjhjhgfhg"
         },
         {
             "id": "061r5",
@@ -14079,8 +14079,8 @@ var data = {
             "mode": "4",
             "differentia": "D1",
             "full_text_standard": "Pertractum domi verberat",
-            "volpiano": "1---l---l--l--l--lmnml---klk-kj---k---kl--k---k---k--lj---kl--kl--l7--lm-nm---nl---klk-kj--klk--lm--l---l---l--l---lm--l---l---lmlmlk--lk--kl-ml-mnm---ml-mnmn7--lkj-kj---3---jk---l--k--kj---3",
-            "search_volpiano": "lllllmnmlklkkjkklkkkljklklllmnmnlklkkjklklmlllllmlllmlmlklkklmlmnmmlmnmnlkjkjjklkkj"
+            "volpiano": "1--c---d---d---ed---dc---def---e---d---",
+            "search_volpiano": "cddeddcdefed"
         }
     ],
     "61v": [
@@ -14097,8 +14097,8 @@ var data = {
             "mode": "5",
             "differentia": "A1",
             "full_text_standard": "Jam libet patris furiae",
-            "volpiano": "1---cd-fd-ef--f---ef---ghg-hkh---gf--gefeg--dc---g--fghgf77--efed-fd---cd-ed-eg---e--edc-def-eD--fd---efgh---g--gf-fef--f-fed-fd---4---fE---fed--efe---f--ghg-hkh--gf7--gf-fg---h--g--hkhg-hk-k---gf---g---ljlmlj-khg-hkj-klk---hgf-gh-kg-hg--egef--fe---3",
-            "search_volpiano": "cdfdeffefghghkhgfgefegdcgfghgfefedfdcdedegeedcdefeDfdefghggffefffedfdfEfedefefghghkhgfgffghghkhghkkgfgljlmljkhghkjklkhgfghkghgegeffe"
+            "volpiano": "1--g---gk---h---g---hkh---j---j---j---",
+            "search_volpiano": "ggkhghkhjjj"
         },
         {
             "id": "061v2",
@@ -14113,8 +14113,8 @@ var data = {
             "mode": "6",
             "differentia": "F1",
             "full_text_standard": "Ductus ad loci praesulem",
-            "volpiano": "1---klk-k--hj-kh7-hg---jk--h---hk--h--h---h---h--hG---h--k--jlk-k--kj---kg---hk---kk--k---k--k--k---k7---k--kljkjh-jkj---hg---ghk--kj-jh-ljh-j--jh---3---hG---hgf--g---3",
-            "search_volpiano": "klkkhjkhhgjkhhkhhhhhGhkjlkkkjkghkkkkkkkkkkljkjhjkjhgghkkjjhljhjjhhGhgfg"
+            "volpiano": "1--e---f---e---d---efg---fe---de---e---",
+            "search_volpiano": "efedefgfedee"
         },
         {
             "id": "061v3",
@@ -14129,8 +14129,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Os justi meditabitur",
-            "volpiano": "1---d--d--fgh--g---g7---g--ghk---h--hg-hkg-hg-gf---hf---g--hk---kj--jklkj-kjhg-hg---g--g--gkj-klk---kh-jkjhg-h--hg7--gkj--kl---lg-hkg-hkh--hghkh---ghG---g--h--hgh--g--fg---ijhg-hij--hg---f--gh---h---hg--h--g--g---g---h7--g--hgf-g---gef--d--fd-dfe--dc-dfdf---4---d---d--fgh--g--g---g--gh---h--hg-hkg-gf---fgh--hghg-gf7---fhk---kjklk--hgf--g--gh-khj--hg---3",
-            "search_volpiano": "ddfghgggghkhhghkghggfhfghkkjjklkjkjhghggggkjklkkhjkjhghhggkjkllghkghkhhghkhghGghhghgfgijhghijhgfghhhghggghghgfggefdfddfedcdfdfddfghgggghhhghkggffghhghggffhkkjklkhgfgghkhjhg"
+            "volpiano": "1--f---hk---k---l---m---nm---l---k---",
+            "search_volpiano": "fhkklmnmlk"
         },
         {
             "id": "061v4",
@@ -14145,8 +14145,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Dum seminudo corpore laudes",
-            "volpiano": "1---k--kj--klk-jkh-hg---hk--k--kh---kl--k7---k---kj--kh--jk--hk---gh-kh--hg---g---fg--g--g---gh--g---hkg---kk--lkj-kjhg--hghgf-g--gf---3---f---3",
-            "search_volpiano": "kkjklkjkhhghkkkhklkkkjkhjkhkghkhhggfgggghghkgkklkjkjhghghgfggff"
+            "volpiano": "1--f---gh---f---fe---dc---f---gf---f---",
+            "search_volpiano": "fghffedcfgff"
         },
         {
             "id": "061v5",
@@ -14161,8 +14161,8 @@ var data = {
             "mode": "4S",
             "differentia": null,
             "full_text_standard": "Audit in nivis frigore",
-            "volpiano": "1---hG--f--h---k--jk--hg---hg-gfg--gf---f---gh-hfh--h--kh-hg--hkj---klkjh--hlk-kjh---4---h---hjk7--l--l---lk-lnmlk-l--lk---kl---ij--ijhg--kk--lk-khf-g---fgh-klmlj-jkhg-hkghg--fghgf-g--gf---3",
-            "search_volpiano": "hGfhkjkhghggfggffghhfhhkhhghkjklkjhhlkkjhhhjklllklnmlkllkklijijhgkklkkhfgfghklmljjkhghkghgfghgfggf"
+            "volpiano": "1--dc---defd-d---cd---dc---f---gh---gf---ed---",
+            "search_volpiano": "dcdefddcddcfghgfed"
         },
         {
             "id": "061v6",
@@ -14177,8 +14177,8 @@ var data = {
             "mode": "4S",
             "differentia": null,
             "full_text_standard": "Gloria patri et filio",
-            "volpiano": "1---k---k---k--k---k--klk-k-hkh---k--k--kl--k--k---k--kh--kl--jk---kj-kljk--lk---k--k---k--kjkj7---kJ--kl---kij-klkijh-ij--ijh---3---h---klml--l--l---3",
-            "search_volpiano": "kkkkkklkkhkhkkklkkkkhkljkkjkljklkkkkkjkjkJklkijklkijhijijhhklmlll"
+            "volpiano": "1--ffg---def---f---gj---j---jhgfe---gh-gf---f---",
+            "search_volpiano": "ffgdeffgjjjhgfeghgff"
         },
         {
             "id": "061v7",
@@ -14193,8 +14193,8 @@ var data = {
             "mode": "5",
             "differentia": null,
             "full_text_standard": "Amicum quaerit pristinum",
-            "volpiano": "1---g--hk-k--kj--k-hkh---k-kjhg--gh-kg-ff-dfd---ghG--kl-ml--kl-lk---j---kl--kl-mk---h--h-hgh7--gefed-fd---ef---gf-f-hgfe-fed--fd-efed---c--cdfdc-d--dc---4---ghgh---f--g--gk-kj--khkh---jkjhg-hg77---ghkjh-j--hghkh---gF---gh-hk-lmL--k---kj--klkj-kjhg-hg---gh---h--hge-fgfe-fed-fd---fe--fg7--gklkj-kjh--kh-jkjh---ghkhg-h--hg---3",
-            "search_volpiano": "ghkkkjkhkhkkjhgghkgffdfdghGklmlkllkjklklmkhhhghgefedfdefgffhgfefedfdefedccdfdcddcghghfggkkjkhkhjkjhghgghkjhjhghkhgFghhklmLkkjklkjkjhghgghhhgefgfefedfdfefggklkjkjhkhjkjhghkhghhg"
+            "volpiano": "1--l---",
+            "search_volpiano": "l"
         }
     ],
     "62r": [
@@ -14211,8 +14211,8 @@ var data = {
             "mode": "5S",
             "differentia": null,
             "full_text_standard": "Sub typo trium ordinum",
-            "volpiano": "1---k--k--kj--klk-jkh-hg---hk--k--k--k--k--k---k--kh7---jkJ--hk---gh-kh--hg--fg--g---g---g---g--hkhg-hjh--ghe--ef---hkj-klkjh--hkhg-hg---3---gh---3",
-            "search_volpiano": "kkkjklkjkhhghkkkkkkkkhjkJhkghkhhgfggggghkhghjhgheefhkjklkjhhkhghggh"
+            "volpiano": "1--l---k---h---k---l---k---q---",
+            "search_volpiano": "lkhklkq"
         },
         {
             "id": "062r2",
@@ -14227,8 +14227,8 @@ var data = {
             "mode": "7S",
             "differentia": null,
             "full_text_standard": "Gloria patri et filio",
-            "volpiano": "1---dc--f--ghg---hghk--h---fg-hg--h--g--fdg---gefed--dfd-dc---fgfe--fgh--hg-hfgfe---dfef--ed7---4---f---ghG--h--hghg-hkh---g--gf--f--fd--f--fgf---fd-efedc--dcdfd---cdC---f-efg-cdf-ghg-hf-gfe-eD7--dfef--ed---3",
-            "search_volpiano": "dcfghghghkhfghghgfdggefeddfddcfgfefghhghfgfedfefedfghGhhghghkhggfffdffgffdefedcdcdfdcdCfefgcdfghghfgfeeDdfefed"
+            "volpiano": "1--d---",
+            "search_volpiano": "d"
         },
         {
             "id": "062r2",
@@ -14243,8 +14243,8 @@ var data = {
             "mode": "5S",
             "differentia": null,
             "full_text_standard": "Gloria patri et filio",
-            "volpiano": "1---h--h--h---hghg-gf---gh--g---g--hf--gh--gh---hijh--h---hf--gh---hk--h--h7---hG--h--h---hk--h---h--h--hghg---hf--fg-hg-hjh--hgfe-gh--gf---3---f---ghg---3",
-            "search_volpiano": "hhhhghggfghgghfghghhijhhhfghhkhhhGhhhkhhhhghghffghghjhhgfeghgffghg"
+            "volpiano": "1--d---c---d---f---g---f---e---",
+            "search_volpiano": "dcdfgfe"
         },
         {
             "id": "062r3",
@@ -14259,8 +14259,8 @@ var data = {
             "mode": "6",
             "differentia": null,
             "full_text_standard": "Audit in evangelio",
-            "volpiano": "1---fff--df-gf7---fgh--ghg---h--ghg--ef---ghgf-ghgh--hg---hg-gf--g---hg-gf-ghg---ef-gef--ef-f---fE---ghg-gF--hkhk--k--k7---jk-lkl--k-kjhg-hg---h--k--k---jh---khg-h--hg---hkhk--h---khk--ghgfe-f--fe---fd7---fgh--g--g---g--hgh--fg--gef---efgfe-fed-f--de-fef---4---de---gh--ghkhg-hk--h---j7---kJ--hghge-f--gh-hkh-hg---hg-gf--fgh--hkgf-ghg---egef--fe---3",
-            "search_volpiano": "fffdfgffghghghghgefghgfghghhghggfghggfghgefgefefffEghggFhkhkkkjklklkkjhghghkkjhkhghhghkhkhkhkghgfeffefdfghggghghfggefefgfefedfdefefdeghghkhghkhjkJhghgefghhkhhghggffghhkgfghgegeffe"
+            "volpiano": "1--c---d---f---d---ed---c---d---f---g---h---j---hgf---g---h---",
+            "search_volpiano": "cdfdedcdfghjhgfgh"
         },
         {
             "id": "062r4",
@@ -14275,8 +14275,8 @@ var data = {
             "mode": "6S",
             "differentia": null,
             "full_text_standard": "Non utens virga calceo",
-            "volpiano": "1---klk-k--hkJ--hg--jk--h7---h--hk--h---h--hG--h--h---hk--h--h---h---hg--h---k---jljk--kj---kJ---hk--k--k---kljkjh-jkJj7--hg--ghk---kjkh-khg-h--hg---3---de---gh---3",
-            "search_volpiano": "klkkhkJhgjkhhhkhhhGhhhkhhhhghkjljkkjkJhkkkkljkjhjkJjhgghkkjkhkhghhgdegh"
+            "volpiano": "1--ef---ge---fed---e---c---dcd---f---f---",
+            "search_volpiano": "efgefedecdcdff"
         }
     ],
     "62v": [
@@ -14293,8 +14293,8 @@ var data = {
             "mode": "6S",
             "differentia": null,
             "full_text_standard": "Gloria patri et filio",
-            "volpiano": "1---d--fd--ff--f---ff--f---ef-gf--fed--f---efde--dc---d---dfdf--f---fed--ff-hgf-ghg7---egef--ef-f---d---dhg--hk--h--hg--hkgh--hg-gf-efe---d--fgf---fe--g---h---ghgf--ef-gef--ed-efe7---4---fed--f---f--f--e--dh-kh--g--g---gf--g---fg--efed-e--fd---f--ghg---hgf-gf-fhgf-ghg---e--egef7---fe---3",
-            "search_volpiano": "dfdffffffefgffedfefdedcddfdfffedffhgfghgegefeffddhghkhhghkghhggfefedfgffeghghgfefgefedefefedfffedhkhgggfgfgefedefdfghghgfgffhgfghgeegeffe"
+            "volpiano": "1--d---de---f---gh---hg---f---g---h---fe---d---",
+            "search_volpiano": "ddefghhgfghfed"
         },
         {
             "id": "062v2",
@@ -14309,8 +14309,8 @@ var data = {
             "mode": "7",
             "differentia": "D2",
             "full_text_standard": "Cor verbis novae gratiae                 ",
-            "volpiano": "1---h---h--h--h--h--gf-ghghge-fe---gf--gh--gF---ef-gf--fe---f---df--f--f---efgfe7--g--ghghgf--ef-gef--ed-efe---3---fed--f---3",
-            "search_volpiano": "hhhhhgfghghgefegfghgFefgffefdfffefgfegghghgfefgefedefefedf"
+            "volpiano": "1--gh---g---g---g---g---ghk---k---jh---kh---jkhhg-gh---jkg-efef-",
+            "search_volpiano": "ghggggghkkjhkhjkhhgghjkgefef"
         },
         {
             "id": "062v3",
@@ -14325,8 +14325,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Pacem salutem nuntiat",
-            "volpiano": "1---dc--fg--f--g--h--gf---gh--h---gh--fed--dgf7---f--f---dfd-dc---f--ghg-gF--hgfe-fg-gf---4---fE---fgf--ghg--h--fg-hg---g--f--fe-eD---dfh-dfdc-d--cd-fd7---c---d--fgF--fefg---gf-fe--ef--gf-fe--defed-e--fd---3",
-            "search_volpiano": "dcfgfghgfghhghfeddgfffdfddcfghggFhgfefggffEfgfghghfghggffeeDdfhdfdcdcdfdcdfgFfefggffeefgffedefedefd"
+            "volpiano": "1--d---f---f---fg---g---f---d---f---",
+            "search_volpiano": "dfffggfdf"
         },
         {
             "id": "062v4",
@@ -14341,8 +14341,8 @@ var data = {
             "mode": "1",
             "differentia": "G1",
             "full_text_standard": "Ut novis sancti merita                   ",
-            "volpiano": "1---h--hghg-gf---g--gh--g---g--g--hf--gh7--gh---hijh---h---hG---gh--h---h--h--hk--h---hghg--hf--fg-hg--hkh---hgfe-gh--gf---3---fE---3",
-            "search_volpiano": "hhghggfgghggghfghghhijhhhGghhhhhkhhghghffghghkhhgfeghgffE"
+            "volpiano": "1--kj---k---lk---lm-l---lk---h---k---j---h---j---",
+            "search_volpiano": "kjklklmllkhkjhj"
         },
         {
             "id": "062v5",
@@ -14357,8 +14357,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Lex dei ejus",
-            "volpiano": "1---gh--g---g---g--ghk---klk-kj--kl-mlm--ml---lK---lm-ml--kl--hkj-klh-hgh--gh-kh7---4---gF---g--hk---kjk-lkl--lk---k---jk--kl--k-kjhg-h--hg---k--jklkjh-jkjh---ghkhg-h--hg---3",
-            "search_volpiano": "ghgggghkklkkjklmlmmllKlmmlklhkjklhhghghkhgFghkkjklkllkkjkklkkjhghhgkjklkjhjkjhghkhghhg"
+            "volpiano": "1--g---g---g---j---l---k---h---k---k---",
+            "search_volpiano": "gggjlkhkk"
         },
         {
             "id": "062v6",
@@ -14373,8 +14373,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Carnis spicam contemptus area",
-            "volpiano": "1---lmnml--klk-kj---k--k--k--k---kl--k--k---k--lj---kl--kl--kl-ml--nl---lmlmlk--lk--kl-ml-mnm7---lk-lmlm--lkj-kj---3---gF---g--hk---3",
-            "search_volpiano": "lmnmlklkkjkkkkklkkkljklklklmlnllmlmlklkklmlmnmlklmlmlkjkjgFghk"
+            "volpiano": "1--gh---g---gh---g---gh---g---g---g---ghk---kj---klk-lm-l---",
+            "search_volpiano": "ghgghgghgggghkkjklklml"
         }
     ],
     "63r": [
@@ -14391,8 +14391,8 @@ var data = {
             "mode": "7S",
             "differentia": null,
             "full_text_standard": "Vivo pani morte junctus vita",
-            "volpiano": "1---g--g--g--hG--k--k---k---k--k--jh--h---g--k--k7---hkg--hk---k--kghkg-gfe--fe---ef-ghG--g---g---gh--hj-kh--hg-hjhj--kh---4---g---hk--j---kh-hG7---hk--hk--g--gf-f-hkg-ff-dfd---f--ghg---h--gfg--gd-df---egef---fe---3",
-            "search_volpiano": "ggghGkkkkkjhhgkkhkghkkkghkggfefeefghGggghhjkhhghjhjkhghkjkhhGhkhkggffhkgffdfdfghghgfggddfegeffe"
+            "volpiano": "1--l---lmnml--klk---kj-k--k l--k---k--lj--kl---",
+            "search_volpiano": "llmnmlklkkjkklkkljkl"
         },
         {
             "id": "063r3",
@@ -14407,8 +14407,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "De paupertatis horreo         ",
-            "volpiano": "1---k--k7--k--klk-k--hj-kh-hg---k---k--k--jk--h--hg---h--k---jlk-k--kj---kJ---hk--k--kljkh-jkj---hg7--ghk---kjkh-khg-h--hg---3---g---hk---3",
-            "search_volpiano": "kkkklkkhjkhhgkkkjkhhghkjlkkkjkJhkkkljkhjkjhgghkkjkhkhghhgghk"
+            "volpiano": "1--gh---g---g---gh---g---g---ghk---",
+            "search_volpiano": "ghggghggghk"
         },
         {
             "id": "063r4",
@@ -14423,8 +14423,8 @@ var data = {
             "mode": "8S",
             "differentia": null,
             "full_text_standard": "Pro paupertatis copia",
-            "volpiano": "1---fgh--g--g---ghk--h--hg-hkg-hg-gf---hf--ghg--h--hkhg--hf-ghkjh-jkjh---ghkhg-h--gh-jh7---fh---klkh--kl---lj-klhj--hg---hkjg--kk---lkj-kjhg--hghgf-g--gf---4---gh--g---fhkl---lk-kjh7--k---hkgh--g-efg---fgh--gf-ghgf-g---g--ghg--g---3",
-            "search_volpiano": "fghggghkhhghkghggfhfghghhkhghfghkjhjkjhghkhghghjhfhklkhklljklhjhghkjgkklkjkjhghghgfggfghgfhkllkkjhkhkghgefgfghgfghgfggghgg"
+            "volpiano": "1--l---l--l--l--lmnml--klkj---kl--lmnm--ml---",
+            "search_volpiano": "lllllmnmlklkjkllmnmml"
         }
     ],
     "63v": [
@@ -14441,8 +14441,8 @@ var data = {
             "mode": "8S",
             "differentia": null,
             "full_text_standard": "Gloria patri et filio",
-            "volpiano": "1---k--k--kJ--klk-jkh-hg7---hk--k--kh---jkJ--hk---g--gh-kh--hg---g--fg--g---g--g--hkhg-hjh---ghf--gh---hkjklkjh--hkhg-hg7---3---gh--g---3",
-            "search_volpiano": "kkkJklkjkhhghkkkhjkJhkgghkhhggfgggghkhghjhghfghhkjklkjhhkhghgghg"
+            "volpiano": "1--ed---g---hk---k---k---k---k---kj---hg---",
+            "search_volpiano": "edghkkkkkkjhg"
         },
         {
             "id": "063v2",
@@ -14457,8 +14457,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Sex fratrum pater septimus",
-            "volpiano": "1---fg-gklkj-klkl--k--k---hk--k-kjh--k---k-kjh-jkjh--g--ghkhg-h--hg7---4---gh--gfgh---gh--g--hgh-kk-ljk--kj---lk--hG---hkgh--hg-ff-dfd---g--ghkjh-jkjh---ghkhg-h--hg---3",
-            "search_volpiano": "fggklkjklklkkhkkkjhkkkjhjkjhgghkhghhgghgfghghghghkkljkkjlkhGhkghhgffdfdgghkjhjkjhghkhghhg"
+            "volpiano": "1--k---klkk--hjkjhg---hg-k---jk--hg---",
+            "search_volpiano": "kklkkhjkjhghgkjkhg"
         },
         {
             "id": "063v3",
@@ -14473,8 +14473,8 @@ var data = {
             "mode": "1S",
             "differentia": null,
             "full_text_standard": "Quadrans quoque novissimus",
-            "volpiano": "1---k--k---kj--klk-jkh-hg---hk--kh---k--kj---kh--jk--hkJ--gh-kh---hg---g---fg--g---g--g---hkhg7-hjh--ghf---gh-hkj-klkjh--hkhg-hg---3---gh--gf---3",
-            "search_volpiano": "kkkjklkjkhhghkkhkkjkhjkhkJghkhhggfgggghkhghjhghfghhkjklkjhhkhghgghgf"
+            "volpiano": "1--g---g---g---h---h---g---hf---",
+            "search_volpiano": "ggghhghf"
         },
         {
             "id": "063v4",
@@ -14489,8 +14489,8 @@ var data = {
             "mode": "1S",
             "differentia": null,
             "full_text_standard": "Gloria patri et filio",
-            "volpiano": "1---d--dc---d---ff---fef--df--dc7---dfec--df-gf-fe---defed-e--fd---d---f--ghg--h---g---fe---fg--f--ef-gfg--f-fed-e--fd---4---d7---dC--d--d--df--d---dfec--d--fefgf---fed-e--dc---cdE---f-fedc--df--dfcd--efec---cdf---f-fedc-dfE7--df-gef-fe---defed-e--fd---3",
-            "search_volpiano": "ddcdfffefdfdcdfecdfgffedefedefddfghghgfefgfefgfgffedefdddCdddfddfecdfefgffededccdEffedcdfdfcdefeccdfffedcdfEdfgeffedefedefd"
+            "volpiano": "1--g---k---jg---jk---h---g---hg---f---",
+            "search_volpiano": "gkjgjkhghgf"
         },
         {
             "id": "063v5",
@@ -14505,8 +14505,8 @@ var data = {
             "mode": "3",
             "differentia": null,
             "full_text_standard": "Arcana suis reserans octavum",
-            "volpiano": "1---d--cd-f-fg--f---gh--g---fg--f--f---f---f--f--fg7--f--f---fe--fg--ef---de-fe--fd---d--cd--d---d---d---d--defedc--d--fefgf---fed-f--dc---3---d---df---3",
-            "search_volpiano": "dcdffgfghgfgffffffgfffefgefdefefddcddddddefedcdfefgffedfdcddf"
+            "volpiano": "1--g---g---f---h---k---jg---jk---h---g---hg---f---",
+            "search_volpiano": "ggfhkjgjkhghgf"
         }
     ],
     "64r": [
@@ -14523,8 +14523,8 @@ var data = {
             "mode": "3S",
             "differentia": null,
             "full_text_standard": "Grex procidit obtemperans",
-            "volpiano": "1---ff-dfgfe-f--fe---dgf--fd---fg-hgh--hg---h---h--gF---fgh-kg-hg---e--fgef--ef-f7---fd--fe---f--gh--g---g--gd---fgh--hgf-ghkJ--hg---4---hk--h--hg-gf-ghgh--ge---ghg--ge--gh-kh--g---fg-hf7-fed--fd---fg-hg-hgf-fghghgd-ef--efef--fe---3",
-            "search_volpiano": "ffdfgfeffedgffdfghghhghhgFfghkghgefgefefffdfefghgggdfghhgfghkJhghkhhggfghghgeghggeghkhgfghffedfdfghghgffghghgdefefeffe"
+            "volpiano": "1--f---fgff---ded-f---ef---g---hg---hj-h---",
+            "search_volpiano": "ffgffdedfefghghjh"
         },
         {
             "id": "064r2",
@@ -14539,8 +14539,8 @@ var data = {
             "mode": "3S",
             "differentia": null,
             "full_text_standard": "Gloria patri et filio",
-            "volpiano": "1---h--h--gf-ghghge-fe---g--g---gh--gf7---gh---g--e--ef--fd---f--gh--g---g--gF---gh--gF---f--ef-gf--fe---f--df---f--ff--f7---efgfe---g---ghghgf--ef-gef--ed---3---hk--h---3",
-            "search_volpiano": "hhgfghghgefeggghgfghgeeffdfghgggFghgFfefgffefdfffffefgfegghghgfefgefedhkh"
+            "volpiano": "1--h--gf---ghghge-fe-g--g--g---g--g---gh--g---",
+            "search_volpiano": "hgfghghgefegggggghg"
         },
         {
             "id": "064r3",
@@ -14555,8 +14555,8 @@ var data = {
             "mode": "5",
             "differentia": null,
             "full_text_standard": "Euntes inquit in eum",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--gh---gh---g---gh---hf---ghgh-hg---g---g---g---gh---g---g---",
+            "search_volpiano": "ghghgghhfghghhggggghgg"
         },
         {
             "id": "064r4",
@@ -14571,8 +14571,8 @@ var data = {
             "mode": "5S",
             "differentia": null,
             "full_text_standard": "Sic curis cor extraneum",
-            "volpiano": "1---k--k--k--k---k--k--k--k-kjhg-hj-kh---4",
-            "search_volpiano": "kkkkkkkkkjhghjkh"
+            "volpiano": "1--l---l---lmnml--kj--klk---kj-kl--k--k---",
+            "search_volpiano": "lllmnmlkjklkkjklkk"
         }
     ],
     "64v": [
@@ -14589,8 +14589,8 @@ var data = {
             "mode": "5S",
             "differentia": null,
             "full_text_standard": "Gloria patri et filio",
-            "volpiano": "1---cdf--f---f--fe--df---f--ef---gF--f--e--e---dhghkhg---gh--fe--df---f--ef---gF--f--e7--e---c--df--f---f--fe--df--f---dC--d--fE---d--de--e---efgfe---fE--dfdc---d--dfd--e7--e---d--dc-df-gfe--d--e---dhk--hg--gh--hge-fd--d---de--e---c--d---f--f--f---fe--de7--e--e---efgfe--dc--d---fE---d--de--e---dhg-hkhg-hgfe---e--f--gf--dc--gF7---fe--e---d--hg-hkhg-hgfe-efg-gfedc-gF--e--e---f--dfc-de-fd---f--fE--ed--fdc---defE--d--df---e--e---d--dc-de-fgfe--d--e---3---h--g--h--k---g--efed---4",
-            "search_volpiano": "cdffffedffefgFfeedhghkhgghfedffefgFfeecdffffedffdCdfEddeeefgfefEdfdcddfdeeddcdfgfededhkhgghhgefdddeecdffffedeeeefgfedcdfEddeedhghkhghgfeefgfdcgFfeedhghkhghgfeefggfedcgFeefdfcdefdffEedfdcdefEddfeeddcdefgfedehghkgefed"
+            "volpiano": "1--f---df---f---fd---df---fg---gf---ghgh-hg---",
+            "search_volpiano": "fdfffddffggfghghhg"
         },
         {
             "id": "064v2",
@@ -14605,8 +14605,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Regressis quos emiserat                ",
-            "volpiano": "1---d--fgf--df--efd-dc---df--f--f---fdf---e--egef--fe---3---dh--hk--h---3",
-            "search_volpiano": "dfgfdfefddcdffffdfeegeffedhhkh"
+            "volpiano": "1--h--gh---gf---ghghge-fe-g---g--gh--g---",
+            "search_volpiano": "hghgfghghgefeggghg"
         },
         {
             "id": "064v3",
@@ -14621,8 +14621,8 @@ var data = {
             "mode": "8S",
             "differentia": null,
             "full_text_standard": "In vina Franciscus foenerat",
-            "volpiano": "1---c---d--f--fg--g---h--g---hG--f---hij-ijh--h---f---ef-gfg--fgf-fd---d---d--fgh--g---f---gh--h7---hghfg--fe-fgfg--gf---4---f---g--ghkjh--gfe-fgfg--gf---f---f--f--f--g--f--gf-fe---defed-e7--fd---3",
-            "search_volpiano": "cdffgghghGfhijijhhfefgfgfgffdddfghgfghhhghfgfefgfggffgghkjhgfefgfggfffffgfgffedefedefd"
+            "volpiano": "1--f---f---g---h---f---gh---g---f---fe---dc---",
+            "search_volpiano": "ffghfghgffedc"
         },
         {
             "id": "064v4",
@@ -14637,8 +14637,8 @@ var data = {
             "mode": "8S",
             "differentia": null,
             "full_text_standard": "Gloria patri et filio",
-            "volpiano": "1---h--h--hghg-gf---gh--g--g---gh--g--g---gh--g--g---hf---gh--gh7---hijh--h---hf---gh--h--h--h---h---h--h--h---h--h---h--hghg--hf--fg-hg-hjh---hgfe-gh7--gf---3---f---g--ghkjh---3",
-            "search_volpiano": "hhhghggfghggghggghgghfghghhijhhhfghhhhhhhhhhhhghghffghghjhhgfeghgffgghkjh"
+            "volpiano": "1--f---f--f---e---g--h---f--e--d--c---",
+            "search_volpiano": "fffeghfedc"
         },
         {
             "id": "064v5",
@@ -14653,8 +14653,8 @@ var data = {
             "mode": "2",
             "differentia": "D1",
             "full_text_standard": "Sanctus Franciscus praeviis",
-            "volpiano": "1---f---f--ghgh--g--fg---ijhg-hij--h---fg-hg--h--g---fg--f7---fg-hf-gfe---dfef--ed---d---fgh--g--g---h--g--fe-fed-fd---d--fgf--fe--g---gh--hgh77---fe-fgfg--gf---4---hG---hjkjh--h---ghk-jg-khg-fhgh-fhkge-fed--fdefe---fE--fd-efef---de7---gh--ghkhg-hk--h---h---hgh--ef---gF--ef-ghf-gfe---dfef--ed---3",
-            "search_volpiano": "ffghghgfgijhghijhfghghgfgffghfgfedfefeddfghgghgfefedfddfgffegghhghfefgfggfhGhjkjhhghkjgkhgfhghfhkgefedfdefefEfdefefdeghghkhghkhhhghefgFefghfgfedfefed"
+            "volpiano": "1--e---d---e---gh---h---g---h---j---h---g---h---h---",
+            "search_volpiano": "edeghhghjhghh"
         }
     ],
     "65r": [
@@ -14671,8 +14671,8 @@ var data = {
             "mode": "3",
             "differentia": "B1",
             "full_text_standard": "Hic praedicando circuit",
-            "volpiano": "1---h--h--hghg-gf---g--gh7--g---g---hf--gh---gh---hjh--h---hf---gh--h---h--hghg--hf---fg-hg-hjh--hgfe-gh--gf---3---hG--hkjh---3",
-            "search_volpiano": "hhhghggfgghgghfghghhjhhhfghhhhghghffghghjhhgfeghgfhGhkjh"
+            "volpiano": "1--f---fg---g---g---g---h---gf---",
+            "search_volpiano": "ffgggghgf"
         },
         {
             "id": "065r2",
@@ -14687,8 +14687,8 @@ var data = {
             "mode": "4",
             "differentia": "E3",
             "full_text_standard": "Tres ordines hic ordinat",
-            "volpiano": "1---gh--gh--g---gh--g--fhk---klkj--kl-mlm--ml---l--k--kj---jh---j--klk---jhjkjhg--hghkh7---gf---g--h--hklkj-klkl--lk---k---l--k--kh---gh-kh-jh--hghjh---h--hgf-gh--g--ghkjh-jkjh7---ghkhg-h--hg---4---jk---l--kl---lk-jkhgf-ghg-hjh---fg-hgh--gf---gf---g--hkj--k-kjh-k---jklkjh7-jkjh--ghkhg-h--hg---3",
-            "search_volpiano": "ghghgghgfhkklkjklmlmmllkkjjhjklkjhjkjhghghkhgfghhklkjklkllkklkkhghkhjhhghjhhhgfghgghkjhjkjhghkhghhgjklkllkjkhgfghghjhfghghgfgfghkjkkjhkjklkjhjkjhghkhghhg"
+            "volpiano": "1--gk---kj--klkj---kjhg-hg-hj--j---j--j--j---",
+            "search_volpiano": "gkkjklkjkjhghghjjjjj"
         },
         {
             "id": "065r3",
@@ -14703,8 +14703,8 @@ var data = {
             "mode": "5",
             "differentia": "A1",
             "full_text_standard": "Doctus doctrice gratia doctus",
-            "volpiano": "1---l---l--lmnml--kj--klk-kj---k--k---kl--k---lj--kl---kl---lm-nm7--nl---klk-kj---klk--lm--l---l---lmlmlk--lk---kl-ml-mnm--lk-lmlm--lkj-kj---3---jk---3",
-            "search_volpiano": "lllmnmlkjklkkjkkklkljklkllmnmnlklkkjklklmlllmlmlklkklmlmnmlklmlmlkjkjjk"
+            "volpiano": "1--gh---g---g---g---ghj---h---hg---hjkg-hg-gf-",
+            "search_volpiano": "ghgggghjhhghjkghggf"
         },
         {
             "id": "065r4",
@@ -14719,8 +14719,8 @@ var data = {
             "mode": "6",
             "differentia": "F1",
             "full_text_standard": "Laudans laudare monuit",
-            "volpiano": "1---f--f--f---g--f---gh--hg---4",
-            "search_volpiano": "fffgfghhg"
+            "volpiano": "1--gkj--klkj---kjhg-hg-jh---kl--k---jh--jk--hj---",
+            "search_volpiano": "gkjklkjkjhghgjhklkjhjkhj"
         }
     ],
     "65v": [
@@ -14737,8 +14737,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Plaude turba paupercula*",
-            "volpiano": "1---c--g-gfe-fg---gH--g---ef-gef--defedc-d--dc---fgh--g7--g---hG---g--hfh--h---hkjk--ghg---f---h--h--hf-ghgh--hg---g--ghkjh-jkjh--ghkhg-h7--hg---3---ghgh---gf--g--hk---kj-kl--klk---k---k--k--kjkjh-k--jklkjh-jkjh---ghkhg-h--hg---3",
-            "search_volpiano": "cggfefggHgefgefdefedcddcfghgghGghfhhhkjkghgfhhhfghghhggghkjhjkjhghkhghhgghghgfghkkjklklkkkkkjkjhkjklkjhjkjhghkhghhg"
+            "volpiano": "1--a---ced---d---dc---d---fe---f---dc---",
+            "search_volpiano": "acedddcdfefdc"
         },
         {
             "id": "065v2",
@@ -14753,8 +14753,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Ora pro nobis beate Francisce",
-            "volpiano": "1---h--hg--hjh-ghf-fd---hk--k--kJ---kl--k--k---kl--k--kj---kh---jk--hk---gh-jh--hg---g7---fg--g--g---gh--g---hkhg-hjh---ghf--fg--ghjh-jkjhg--hkhg-hg---3---ghgh---3",
-            "search_volpiano": "hhghjhghffdhkkkJklkkklkkjkhjkhkghjhhggfgggghghkhghjhghffgghjhjkjhghkhghgghgh"
+            "volpiano": "1--d--d--ce--fg-f---gh--g--f---fg--f---",
+            "search_volpiano": "ddcefgfghgffgf"
         },
         {
             "id": "065v3",
@@ -14769,8 +14769,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "O martyr desiderio",
-            "volpiano": "1---f-fg--f---hk7--gf--f---f--gf-fdc-fg-hg-gf---fh-k-kl-l---k---kl--k---klmlk-l--lk---k--kij-klkijh-ij--ijh7---hij-kh-hijhij--ijh---4---h--k--k--kk---hg--gh---hg--gh--hghfg--fe-fgfg--gf---f--fdfec--f-fgh-khg-hijhg77---fghgf-g--gf---3",
-            "search_volpiano": "ffgfhkgfffgffdcfghggffhkkllkklkklmlkllkkkijklkijhijijhhijkhhijhijijhhkkkkhgghhgghhghfgfefgfggfffdfecffghkhghijhgfghgfggf"
+            "volpiano": "1--k---kj---hg---hj---h---gh---g---",
+            "search_volpiano": "kkjhghjhghg"
         }
     ],
     "66r": [
@@ -14787,8 +14787,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "O virum mirabilem in signis",
-            "volpiano": "1---k--k---k--klk-k-hkh---k---k--k--k--k--kl--k---k--kl--k---kh--k--k---kj-klkl7---lk---k--kjkj---kh--kl---kjklkjh-j--jh---3---h--k--k--kk---3",
-            "search_volpiano": "kkkklkkhkhkkkkkklkkklkkhkkkjklkllkkkjkjkhklkjklkjhjjhhkkkk"
+            "volpiano": "1--d---c---d---f---e---d---dc---f---gh---hg---hjh-h---",
+            "search_volpiano": "dcdfeddcfghhghjhh"
         },
         {
             "id": "066r2",
@@ -14803,8 +14803,8 @@ var data = {
             "mode": "1",
             "differentia": "G1",
             "full_text_standard": "Sancte Francisce propere veni",
-            "volpiano": "1---f--f--h---kh-klkl7---lijk--khij---hg--gijh--ijk---k---kh-ijhij--ijh---f---ghgh--h---h--h---h---kh-hgh--hkhg-hijhg7---fghgf-g--gf---f---gh--h--g--h--g---h--hghijh---f---h--k--k---kl--k--k---k---l--kj7---hG---h--ijk--kij-ijhij--ijh---f---gh--h--h---kh-hghij--h---kh-hg-hijhg---fghgf-g--gf---f---gh--hfg7--ghd---f-fe---fe--g--hg-hijhg---fghgf-g--gf---4---fhkl---k--kl--k---khij--g---hj-kj--jhj--jh7---khkgf-hfgh-k-kj-ln--lk--klk-k-hkh---khk-k--lk-kh-kg-hg-gf---f---ghghj--h---kh-hgh-h--h---kh-hg7--hijhg--fghgf-g--gf---3",
-            "search_volpiano": "ffhkhklkllijkkhijhggijhijkkkhijhijijhfghghhhhhkhhghhkhghijhgfghgfggffghhghghhghijhfhkkklkkklkjhGhijkkijijhijijhfghhhkhhghijhkhhghijhgfghgfggffghhfgghdffefeghghijhgfghgfggffhklkklkkhijghjkjjhjjhkhkgfhfghkkjlnlkklkkhkhkhkklkkhkghggffghghjhkhhghhhkhhghijhgfghgfggf"
+            "volpiano": "1--dh---hk---h---g---h---gf---gh---h---",
+            "search_volpiano": "dhhkhghgfghh"
         }
     ],
     "66v": [
@@ -14821,8 +14821,8 @@ var data = {
             "mode": "1",
             "differentia": "D1",
             "full_text_standard": "Plange turba paupercula",
-            "volpiano": "1---k---klk-k-hkh---k---k---kh--kl--jk---kj-klkl--lk---f---h--k7---kjkj---kJ--kl---kij-klkijh-ij--ijh---3---fhk---k---3",
-            "search_volpiano": "kklkkhkhkkkhkljkkjklkllkfhkkjkjkJklkijklkijhijijhfhkk"
+            "volpiano": "1--d---dc---f---g---f---gh---h---g---j---h---g---g---",
+            "search_volpiano": "ddcfgfghhgjhgg"
         },
         {
             "id": "066v2",
@@ -14837,8 +14837,8 @@ var data = {
             "mode": "2",
             "differentia": "D1",
             "full_text_standard": "Salve sancte pater patriae",
-            "volpiano": "1---f---f---g---f---4",
-            "search_volpiano": "ffgf"
+            "volpiano": "1--d---c---d---ef---g---fe---d---dc---",
+            "search_volpiano": "dcdefgfeddc"
         },
         {
             "id": "066v3",
@@ -14853,8 +14853,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "Caelorum candor splenduit                ",
-            "volpiano": "1---ghk--h---hg--f--gh--h--g---k---kJ--hk--kJ--g---k--l--k---kj--gh---j--h---g--fg--g7---3---k--k--j--k---h--g---4",
-            "search_volpiano": "ghkhhgfghhgkkJhkkJgklkkjghjhgfggkkjkhg"
+            "volpiano": "1--d---c---d---d---f---e---fg---fed---def---",
+            "search_volpiano": "dcddfefgfeddef"
         }
     ],
     "67r": [
@@ -14871,8 +14871,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Vidi turbam magnam*",
-            "volpiano": "1---f---fgf-f-dfd--dfE--f--g--g---h--gkghkJ--h---f--h--g7---gf-fef--fe---f---gh--hg---hgf---gfd--e--fgef--ef-f---dfEgh--hg--g---gdf---efef--fe---ef-ghG7--g---ghgfe--fgfd---fdefe---c--df--f---f--f--f---ff--ef---dgf-ghgh--hg---4---g---gh--hg-gF7--fghgfe-f--fe---3",
-            "search_volpiano": "ffgffdfddfEfgghgkghkJhfhggffeffefghhghgfgfdefgefeffdfEghhgggdfefeffeefghGgghgfefgfdfdefecdfffffffefdgfghghhggghhggFfghgfeffe"
+            "volpiano": "1--f---g---f---gh---hg---",
+            "search_volpiano": "fgfghhg"
         },
         {
             "id": "067r2",
@@ -14887,8 +14887,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Christe redemptor*",
-            "volpiano": "1---h--gh--gf-ghghge-fe---g--gh--g---g--gh--g---gf--gh---gF---f7--ef-gf-f--fe---3---g---gh---3",
-            "search_volpiano": "hghgfghghgefegghggghggfghgFfefgfffeggh"
+            "volpiano": "1--h---h---hj--g---g--g---h--g---",
+            "search_volpiano": "hhhjggghg"
         },
         {
             "id": "067r3",
@@ -14903,8 +14903,8 @@ var data = {
             "mode": "1",
             "differentia": "D1",
             "full_text_standard": "Angeli archangeli throni",
-            "volpiano": "1---g---g--gh-khj--hg---gkj--k---lk-lmlm--ml---mn--l--lkj-kjh-kh77---k--klk---jh-jkhg-h--gh-kg-hg-gf---kj--kl---lkl--hk--jklkjh-jkjh---g---ghkhg-h--hg---k7---hjl--l--l--l---l--l--klm---kj--klkj-kjhg-hg---4---lm---l--lm---ml-lK--lm---lmlkj-k--kj7---jk---l--lkl---lK---kl--lkj-kjhg-h--gh-kg-hg-gf---h--k--kjkjh-k--jklkjh-jkjh---ghkhg-h--hg---3",
-            "search_volpiano": "ggghkhjhggkjklklmlmmlmnllkjkjhkhkklkjhjkhghghkghggfkjkllklhkjklkjhjkjhgghkhghhgkhjllllllklmkjklkjkjhghglmllmmllKlmlmlkjkkjjkllkllKkllkjkjhghghkghggfhkkjkjhkjklkjhjkjhghkhghhg"
+            "volpiano": "1--f---f---f---f---g---g---f---g---hg---",
+            "search_volpiano": "ffffggfghg"
         },
         {
             "id": "067r4",
@@ -14919,8 +14919,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Regem regum dominum venite",
-            "volpiano": "1---l---lmnml--klk-kj---k---k--k--kl--k---k--k---k--kl--k---k--lj---kl---kl---lm-nm-nl---klk-kj7--klk--l--l---l--l---l---lmlmlk--lk--kl-ml-mnm---lk-lmlm--lkj-kj---3---lm---3",
-            "search_volpiano": "llmnmlklkkjkkkklkkkkklkkljklkllmnmnlklkkjklkllllllmlmlklkklmlmnmlklmlmlkjkjlm"
+            "volpiano": "1--hj--g--g---h--g---g--g--h---",
+            "search_volpiano": "hjgghgggh"
         },
         {
             "id": "067r5",
@@ -14935,8 +14935,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Christe redemptor omnium*",
-            "volpiano": "1---g--gefd-efed7---cd--fghgf-gh-ijh-hg---f--ghg---h--g---g---g--fg---fgh--fe---dfc-dfefed---d--f---ghgf-gh7--g---ghkjh-jkjh---ghkhg-h--hg---4---k--k--h---kjk---hG--h---hkjhg-h--hg---h--gF--g---fef7--dfc-dfefed---d---fgh-gh-kg-hg-gf---fhk---jklkjh-jkjh--ghkhg-h--hg---3",
-            "search_volpiano": "ggefdefedcdfghgfghijhhgfghghgggfgfghfedfcdfefeddfghgfghgghkjhjkjhghkhghhgkkhkjkhGhhkjhghhghgFgfefdfcdfefeddfghghkghggffhkjklkjhjkjhghkhghhg"
+            "volpiano": "1--f---f---g---g---f---g---hg---",
+            "search_volpiano": "ffggfghg"
         },
         {
             "id": "067r6",
@@ -14951,8 +14951,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Novit dominus viam justorum",
-            "volpiano": "1---k--kj7--klk-jkh-hg---kJ---kL--k--k---kl--k--kJ---kJ--jk---hk--g--gh-jh--hg---g---fg--g--g7---gH--g---g--hkhg-hjh---gh--gh---hkj-klkjh--hkhg-hg---3---k--k--h---3",
-            "search_volpiano": "kkjklkjkhhgkJkLkkklkkJkJjkhkgghjhhggfggggHgghkhghjhghghhkjklkjhhkhghgkkh"
+            "volpiano": "1--hj--g---g--g--h--g---g---",
+            "search_volpiano": "hjggghgg"
         }
     ],
     "67v": [
@@ -14969,8 +14969,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "Mirificavit dominus sanctos",
-            "volpiano": "1---gh--g---g---gh--g7---f--fhk---kj-klk-lm--l---l--lK---l-lkl--hk--jklkjh-jkjh---g---ghkhg-h--hg---lkl--no-on-nml7-nk-kj---nn--n--kl-mnl---l--l---mn-on--mn-omn---l--kj---l--n---n---n-nml-lnmn--ml7---l---m--l---k---jh-jkjhg-h--hg---gh---gf-hg-hkjh-j--hg---4---lm--gh---g---g--g--g---gh--g---hgh--gf7---fh--kl-lk---kl-kg--hijhf---ghg---fgf-fgef-dfd---fefg--gh-khj--hg---3",
-            "search_volpiano": "ghggghgffhkkjklklmlllKllklhkjklkjhjkjhgghkhghhglklnoonnmlnkkjnnnklmnlllmnonmnomnlkjlnnnnmllnmnmllmlkjhjkjhghhgghgfhghkjhjhglmghggggghghghgffhkllkklkghijhfghgfgffgefdfdfefgghkhjhg"
+            "volpiano": "1--gj---l---l---kl---k---k---k---k---",
+            "search_volpiano": "gjllklkkkk"
         },
         {
             "id": "067v2",
@@ -14985,8 +14985,8 @@ var data = {
             "mode": "1",
             "differentia": "G1",
             "full_text_standard": "Admirabile est nomen tuum",
-            "volpiano": "1---l--l--lmnml--klk-kj---k--k---k---lj--kl--kl7---lm-nm--ml---klk-kj---klk--lm--l--l---l---lm--l---l---l--l--l---lM--l--l---l--l---lm--l---lmlmlk---lk--kl-ml-mnm---lk-lmlm--lkj-kj---3---lm---3",
-            "search_volpiano": "lllmnmlklkkjkkkljklkllmnmmlklkkjklklmllllmllllllMlllllmllmlmlklkklmlmnmlklmlmlkjkjlm"
+            "volpiano": "1--k---kj---hg---hj---h---gh---g---g---",
+            "search_volpiano": "kkjhghjhghgg"
         },
         {
             "id": "067v3",
@@ -15001,8 +15001,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Laetamini in domino*",
-            "volpiano": "1---h--h--h--f---g--hk---h--h---h---h---k--j--k---h--g---h--g---hg---e--f---g--g---f--gh7---fe--d--d---3---h--h--g--f---g--gh---4",
-            "search_volpiano": "hhhfghkhhhhkjkhghghgefggfghfeddhhgfggh"
+            "volpiano": "1--g---h---k---k---k---lm---l---lk---h---k---jh---g---",
+            "search_volpiano": "ghkkklmllkhkjhg"
         },
         {
             "id": "067v4",
@@ -15017,8 +15017,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "In dedicatione templi",
-            "volpiano": "1---e--fg--g--gF---h--k---kl--k--k---k--j--h---hk--k7--g--fg---g---3---k--k--j--k---h--ghg---4",
-            "search_volpiano": "efgggFhkklkkkjhhkkgfggkkjkhghg"
+            "volpiano": "1--k---k---k---klk---kjc---h---jk---h---",
+            "search_volpiano": "kkkklkkjchjkh"
         },
         {
             "id": "067v5",
@@ -15033,8 +15033,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Fundata est domus domini",
-            "volpiano": "1---d--d---f--f---d--d---dC---fE---g---h--g---h--g--fgfe7-fedc-dc---c--d---f--g---f---ef--g--fE---d--d---3---h--h--hg--f---gh--gF---4",
-            "search_volpiano": "ddffdddCfEghghgfgfefedcdccdfgfefgfEddhhhgfghgF"
+            "volpiano": "1--k---k---lk---lm-l---lm---ml-l---l---lk---h---",
+            "search_volpiano": "kklklmllmmllllkh"
         },
         {
             "id": "067v6",
@@ -15049,8 +15049,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Vidi dominum sedentem super",
-            "volpiano": "1---d--d--f--e---d7---dC---f--g--hh--g---hg--h---h---gF--e--f--g---gF---gh--fe--c---d--fe---d--d---3---h--h--hg--f---gh--g---4",
-            "search_volpiano": "ddfeddCfghhghghhgFefggFghfecdfeddhhhgfghg"
+            "volpiano": "1--f---h---g---f---g---fg---gfg---d---",
+            "search_volpiano": "fhgfgfggfgd"
         }
     ],
     "68r": [
@@ -15067,8 +15067,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Seraphim stabant super illud",
-            "volpiano": "1---hG--h--g---e--f--g---fe---d--d---3---h--h--hg--f---g--h---4",
-            "search_volpiano": "hGhgefgfeddhhhgfgh"
+            "volpiano": "1--h---gf---gh---g---fh---k---k---k---k---",
+            "search_volpiano": "hgfghgfhkkkk"
         },
         {
             "id": "068r2",
@@ -15083,8 +15083,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Sancta et immaculata",
-            "volpiano": "1---c--cd---df--d---f--fed7--defgfedc-ef-gf-fed-dc---4---d--f--ed--fe---d--d---3",
-            "search_volpiano": "ccddfdffeddefgfedcefgffeddcdfedfedd"
+            "volpiano": "1--ghk---k---k---j---k---lj---k---hjhg---",
+            "search_volpiano": "ghkkkjkljkhjhg"
         },
         {
             "id": "068r3",
@@ -15099,8 +15099,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Benedicta tu in mulieribus",
-            "volpiano": "1---c--cd---df--d--d---df--d---d--d---d7--d--f---fed--defgfedc-ef-gf-fed-dc---3---d--f--fd---3",
-            "search_volpiano": "ccddfdddfdddddffeddefgfedcefgffeddcdffd"
+            "volpiano": "1--f---f---defec---fgh---g---hg---hjh-h---g---f---g---f---",
+            "search_volpiano": "ffdefecfghghghjhhgfgf"
         },
         {
             "id": "068r4",
@@ -15115,8 +15115,8 @@ var data = {
             "mode": "6",
             "differentia": "F1",
             "full_text_standard": "Domine qui operati sunt",
-            "volpiano": "1---cd-f-fg--f--f---gh-g---3",
-            "search_volpiano": "cdffgffghg"
+            "volpiano": "1--dhj---h---h---h---h---g---h---g---f---",
+            "search_volpiano": "dhjhhhhghgf"
         }
     ],
     "68v": [
@@ -15133,8 +15133,8 @@ var data = {
             "mode": "3",
             "differentia": "A2",
             "full_text_standard": "Haec est generatio quaerentium dominum ",
-            "volpiano": "1---f--d--c---d---dhk--h---h--h---h--h--hg-hkh---h--ge--e---f--g--fe--d--cd--d---cd7---dhk--h--h---h--g---hg--f---f--g--f--f---gh--fe--d--cd--d---d---fed--e--f---gh--ghgf---ef--gfe---d7--cd--d---3---h--h--g--f---gh--g---4",
-            "search_volpiano": "fdcddhkhhhhhhghkhhgeefgfedcddcddhkhhhghgffgffghfedcdddfedefghghgfefgfedcddhhgfghg"
+            "volpiano": "1--l---j---lmnl---l---l---l---j---kl---k---g---g---",
+            "search_volpiano": "ljlmnlllljklkgg"
         },
         {
             "id": "068v2",
@@ -15149,8 +15149,8 @@ var data = {
             "mode": "3",
             "differentia": "A2",
             "full_text_standard": "Laetamini in domino",
-            "volpiano": "1---g--g--g--j--k---l--k---lm--l---l---mno7--on--ml--n---nm--l--l---l--l---n--l---k--k--jkh---g---jh--j--h---g--g---3---l--l--m--l---k--jh---4",
-            "search_volpiano": "gggjklklmllmnoonmlnnmllllnlkkjkhgjhjhggllmlkjh"
+            "volpiano": "1--g---e---ghg---egdedc---c---df---f---f---e---",
+            "search_volpiano": "geghgegdedccdfffe"
         },
         {
             "id": "068v3",
@@ -15165,8 +15165,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "In conspectu angelorum",
-            "volpiano": "1---hk--kj---hG---h---gF---gh--k--hG---g--g---g---f---g--g---f--e--d---g--hj---h--h---37---k--k--j--k---h--g---4",
-            "search_volpiano": "hkkjhGhgFghkhGgggfggfedghjhhkkjkhg"
+            "volpiano": "1--g--g---ghgg---efe-g---g--g--ge---",
+            "search_volpiano": "ggghggefegggge"
         },
         {
             "id": "068v4",
@@ -15181,8 +15181,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Super misericordiam tuam",
-            "volpiano": "1---c---d---dh--hk---h--g---h--gh---fgh--fe--d--df---c--d--f--e---f7---d--cf-fg--f---f--g---e---fE--d--d---3---h-hG-g-f-gh-g-f-e-d---4",
-            "search_volpiano": "cddhhkhghghfghfeddfcdfefdcffgffgefEddhhGgfghgfed"
+            "volpiano": "1--dhj---h---h---h---hg---gf---g--hk---",
+            "search_volpiano": "dhjhhhhggfghk"
         }
     ],
     "69r": [
@@ -15199,8 +15199,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Praecursor domini venit",
-            "volpiano": "1---g--g---fh--h--h--jk77--m--l---l--k--h--k--k---g--g---g---g---gk--k---ln--n---nm--lk---lm--nm--l--l---j---l--m---l--k--h7--k---k--g--g---h--gf---g--h---k---hG--g--g---lm-no--ononml---l---lk--mn--m---l--l7---j---l---m--l---kj--h--jH---lkj--h---g--g---3---l--l--m--l---k--jh---4",
-            "search_volpiano": "ggfhhhjkmllkhkkgggggkklnnnmlklmnmlljlmlkhkkgghgfghkhGgglmnoononmlllkmnmlljlmlkjhjHlkjhggllmlkjh"
+            "volpiano": "1--dh--h--hghg---gf-hf---gh--gh---h--hjh--h---",
+            "search_volpiano": "dhhhghggfhfghghhhjhh"
         },
         {
             "id": "069r2",
@@ -15215,8 +15215,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Hic est enim propheta",
-            "volpiano": "1---g---ghjkh--h---hg--hkgh--ef---4---de---g--hg-gF--fgh--hkgf-ghg---egef--fe---3",
-            "search_volpiano": "gghjkhhhghkghefdeghggFfghhkgfghgegeffe"
+            "volpiano": "1--gk---k---k---k---kj---h---hjkj---hg---gh---jkjh-jkge-fe-",
+            "search_volpiano": "gkkkkkjhhjkjhgghjkjhjkgefe"
         },
         {
             "id": "069r3",
@@ -15231,8 +15231,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Isti sunt qui viventes",
-            "volpiano": "1---d---de-hkh---h--hG7--gh--g---g---g---gh--gf--g---h---gF--f---fh--h---gh-hg--g---degh--g---ghjkh--h---hg--hkgh--fef7---3---de--g---3",
-            "search_volpiano": "ddehkhhhGghgggghgfghgFffhhghhggdeghgghjkhhhghkghfefdeg"
+            "volpiano": "1--klkk--hjkj---hg---h---h--h--hg---h--k---",
+            "search_volpiano": "klkkhjkjhghhhhghk"
         },
         {
             "id": "069r4",
@@ -15247,8 +15247,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "In omnem terram exivit sonus",
-            "volpiano": "1---de-hkh--h--h---gh--g---g---gh--g--g---h---g--f--gj--j---gh--g---3",
-            "search_volpiano": "dehkhhhghggghgghgfgjjghg"
+            "volpiano": "1--f---def---f---f---fe---dc---f---fghg---hj-flht-hg---",
+            "search_volpiano": "fdeffffedcffghghjflhthg"
         },
         {
             "id": "069r5",
@@ -15263,8 +15263,8 @@ var data = {
             "mode": "1",
             "differentia": "G1",
             "full_text_standard": "Timete dominum omnes sancti",
-            "volpiano": "1---g---gkj--k---l--kj---h--j---kh--g---gkj--k---l--l--lm---kj--hj-j---j--h--j--g--h---g--g7---g--h---g--f--g--f--fd---cd---e--fg---g--h---hk--g--g---3---k--k--k--jH---k--hg---4",
-            "search_volpiano": "ggkjklkjhjkhggkjklllmkjhjjjhjghggghgfgffdcdefgghhkggkkkjHkhg"
+            "volpiano": "1--fe---d---e---f---d---c---d---f---",
+            "search_volpiano": "fedefdcdf"
         }
     ],
     "69v": [
@@ -15281,8 +15281,8 @@ var data = {
             "mode": "3",
             "differentia": "A2",
             "full_text_standard": "Domine spes sanctorum",
-            "volpiano": "1---dh---h--hk--h--hghijh---h--gf---ef--g---fe--d--d---d---fe--d---e--f---gf--f---f--d--d7---f---dC--d--f--d---fgh--hghijh---g--ef--g---fe---d--d---3---h--h--hg--f---gh--gh---4",
-            "search_volpiano": "dhhhkhhghijhhgfefgfedddfedefgfffddfdCdfdfghhghijhgefgfeddhhhgfghgh"
+            "volpiano": "1--d---d---g---f---f---cd---d---f---e---d---",
+            "search_volpiano": "ddgffcddfed"
         },
         {
             "id": "069v2",
@@ -15297,8 +15297,8 @@ var data = {
             "mode": "1",
             "differentia": "G1",
             "full_text_standard": "Qui diligitis dominum laetamini",
-            "volpiano": "1---ghk--h7---hG--g---h--g--f--gh--h--g---g--ljlm--l---l---m--l--k---l--k---kJ--jkl--kj--g---gk-k--k---k---k7--lm--l--k---kJ--h--k--g---h--g---gF--g---g---f--d---e---f---g--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "ghkhhGghgfghhggljlmllmlklkkJjklkjggkkkkklmlkkJhkghggFggfdefggkkjkhg"
+            "volpiano": "1--gh---gh---g---gh---g---g---hhk---klkj---kl---mlm-ml---",
+            "search_volpiano": "ghghgghgghhkklkjklmlmml"
         },
         {
             "id": "069v3",
@@ -15313,8 +15313,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Sancti mei qui in carne",
-            "volpiano": "1---k--kj---hg---h--gF---gh---h---g--g---g--f---g--g---f--e---d---e--f---g--fg--g7---3---k--k--j--k---h--gh---4",
-            "search_volpiano": "kkjhghgFghhgggfggfedefgfggkkjkhgh"
+            "volpiano": "1--l--l--lmnml--klk---kj-k---lj--kl---",
+            "search_volpiano": "lllmnmlklkkjkljkl"
         },
         {
             "id": "069v4",
@@ -15329,8 +15329,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Venite benedicti patris mei",
-            "volpiano": "1---cd--dhk--h---h---k--h--g---h--g---gF--fgh--fed--d---fe-eD--f---f---f--gh--g--f7---f--d--f--c---d--c---fe-eD--e---f---g--f---h---fE---d--d---3---h--h--hg--f---gh--gfed---4",
-            "search_volpiano": "cddhkhhkhghggFfghfeddfeeDfffghgffdfcdcfeeDefgfhfEddhhhgfghgfed"
+            "volpiano": "1--d---fd---f---f---fg---ffd-ed-gh---g---gdf---egf---ef---",
+            "search_volpiano": "dfdfffgffdedghggdfegfef"
         }
     ],
     "70r": [
@@ -15347,8 +15347,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Sint lumbi vestri praecincti",
-            "volpiano": "1---g77--gk--h---h--g---h--gf--gh---h---g--g---g---lj-lm--l--l---l--k---l--k---kjklk7---k--h---k--g---h--g---gF---gh--h---g--fg--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "ggkhhghgfghhgggljlmlllklkkjklkkhkghggFghhgfggkkjkhg"
+            "volpiano": "1--h--gh--gf---ghghge-fe-g--g--g--g---gh--g---",
+            "search_volpiano": "hghgfghghgefeggggghg"
         },
         {
             "id": "070r2",
@@ -15363,8 +15363,8 @@ var data = {
             "mode": "1S",
             "differentia": null,
             "full_text_standard": "Vigilate ergo quia nescitis",
-            "volpiano": "1---h--g---h--g7---fE--gh--fe--d---e---f--gh--fd--fe---d--d---hkh--g---h---klm--l---lk--lnkl--klkh---h--g---h7--g---f--g--f---g--fe---d--cd--d---3---h--h--g--f---g--gh---4",
-            "search_volpiano": "hghgfEghfedefghfdfeddhkhghklmllklnklklkhhghgfgfgfedcddhhgfggh"
+            "volpiano": "1--ghjk---jk-jhj-ghg---g---gkj---kl---lmkj---klk-lm-l---klkj---hg---g---",
+            "search_volpiano": "ghjkjkjhjghgggkjkllmkjklklmlklkjhgg"
         },
         {
             "id": "070r3",
@@ -15379,8 +15379,8 @@ var data = {
             "mode": "1",
             "differentia": "G1",
             "full_text_standard": "Vidi turbam magnam",
-            "volpiano": "1---h---fg--g---g--h--g--f---gh--h7---k---k--l---kh--k--k--k---k--k---k--j---k---h--gk--h---h--g---ef--gh---h--g--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "hfggghgfghhkklkhkkkkkkjkhgkhhgefghhggkkjkhg"
+            "volpiano": "1--l--lmnml--klk---kj-k--k---k l--k--k---",
+            "search_volpiano": "llmnmlklkkjkkklkk"
         },
         {
             "id": "070r4",
@@ -15395,8 +15395,8 @@ var data = {
             "mode": "1",
             "differentia": "F1",
             "full_text_standard": "Et omnes angeli stabant",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--l---j---lmnl---kl---l---l---l---l---j---kl---",
+            "search_volpiano": "ljlmnlkllllljkl"
         }
     ],
     "70v": [
@@ -15413,8 +15413,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Redemisti nos domine deus",
-            "volpiano": "1---fgh--g---gh--g---gh---g--ghgf--f7---hk-lk--j---k--h---g--h--ghg---fe--f---g--fg--g---3---k--k--j--k---h--ghg---4",
-            "search_volpiano": "fghgghgghgghgffhklkjkhghghgfefgfggkkjkhghg"
+            "volpiano": "1--fe---d---f---e---d---e---f---g---f---e---fg---g---",
+            "search_volpiano": "fedfedefgfefgg"
         },
         {
             "id": "070v2",
@@ -15429,8 +15429,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Benedicite dominum omnes",
-            "volpiano": "1---d--ef7---g---g--g---f--fe--d---fgh---hk--h---h--ghg---e--f--g--fe---d--cd--d---3---h--h--g--f7---gh--g---4",
-            "search_volpiano": "defgggffedfghhkhhghgefgfedcddhhgfghg"
+            "volpiano": "1--d---e---g---g---g---hj---h---g---h---j---g---",
+            "search_volpiano": "deggghjhghjg"
         },
         {
             "id": "070v3",
@@ -15445,8 +15445,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Hymnus omnibus sanctis",
-            "volpiano": "1---g---gk--h---fg--g--g---h--g--hk--hg---g---g---gkj7--k--lm--l--kj-klk---h--gf--g--kJ---k---g--g---gh--f---e---f--f--gf--df--dc--c---gh--gf--g---hk7---k--kh--hk---g--fd--e--f---gh--h---g--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "ggkhfggghghkhggggkjklmlkjklkhgfgkJkggghfeffgfdfdccghgfghkkkhhkgfdefghhggkkjkhg"
+            "volpiano": "1--k---ghk---jkl---kj---j---jklkj---kjhg-hg-g---ghk---kjh---k---",
+            "search_volpiano": "kghkjklkjjjklkjkjhghggghkkjhk"
         },
         {
             "id": "070v4",
@@ -15461,8 +15461,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Jesu salvator saeculi*",
-            "volpiano": "1---k--h--j---k7---l--kl--j---k--h--g--h---k--kJ---h--h---j---k---l--kl--l---k--m--l---n--m--lm---kJ7---k--l---j--j---mL---lm--kh---jkJ--h---g--g--g---3---l--l--m--l---k--jH---4",
-            "search_volpiano": "khjklkljkhghkkJhhjklkllkmlnmlmkJkljjmLlmkhjkJhgggllmlkjH"
+            "volpiano": "1--klk--hjkj--hg---k--k--k--k---jk--h---",
+            "search_volpiano": "klkhjkjhgkkkkjkh"
         },
         {
             "id": "070v5",
@@ -15477,8 +15477,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Exsultabunt sancti in gloria*",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--g---g---gkj---k---lk---lm-l---l---k---",
+            "search_volpiano": "gggkjklklmllk"
         },
         {
             "id": "070v6",
@@ -15493,8 +15493,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "Te gloriosus apostolorum",
-            "volpiano": "1---lj--l--m---l--l---l--l--j---kl--h---g--g--g---k--k---k--h--j--k---h--g--g---3---l--l--m--l---k--j---4",
-            "search_volpiano": "ljlmlllljklhgggkkkhjkhggllmlkj"
+            "volpiano": "1--lmnml--klk---kj-k--k--k---k l--k--k---",
+            "search_volpiano": "lmnmlklkkjkkkklkk"
         }
     ],
     "71r": [
@@ -15511,8 +15511,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Vidi turbam magnam*",
-            "volpiano": "1---ljlm---lm--l---l--l---j--kl--h---g--g--g---k---k--k---k--k--k---h--k--k77---h--g--h--h---k--k--g--g---3---l--l--m--l---k--jk---4",
-            "search_volpiano": "ljlmlmllljklhgggkkkkkkhkkhghhkkggllmlkjk"
+            "volpiano": "1--fgh---g---g---g---g---g---ghj---h---hg---hj-kghg-gf-",
+            "search_volpiano": "fghgggggghjhhghjkghggf"
         },
         {
             "id": "071r2",
@@ -15527,8 +15527,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Christe redemptor*",
-            "volpiano": "1---g---gh-kh--h---4",
-            "search_volpiano": "gghkhh"
+            "volpiano": "1--gkj--klkj---kjhg-hg-hj--j--jh---kl---k---k--k--k--k---",
+            "search_volpiano": "gkjklkjkjhghghjjjhklkkkkk"
         },
         {
             "id": "071r3",
@@ -15543,8 +15543,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Exsultabunt sancti in*",
-            "volpiano": "1---f--gh---f--fe---d---f--d---c--d--f--gf---c--d---f-fgf--f---fh--h--g---h--gf---g---gh--f--df7--f---f--f---gh--f---fe--dc--d--f---f--f---3---h--h--f--gh---g--f---4",
-            "search_volpiano": "fghffedfdcdfgfcdffgfffhhghgfgghfdffffghffedcdfffhhfghgf"
+            "volpiano": "1--d---d---d---f---g---f---gh---h---jh---g---",
+            "search_volpiano": "dddfgfghhjhg"
         },
         {
             "id": "071r4",
@@ -15559,8 +15559,8 @@ var data = {
             "mode": "6",
             "differentia": "F1",
             "full_text_standard": "O quam gloriosum est regnum",
-            "volpiano": "1---k--k---k--k7--g---k---lK--k---l--k---g---h--k--k---k--g---h---k--k--g--g--g---3---k--k--j--k---h--gh---4",
-            "search_volpiano": "kkkkgklKklkghkkkghkkgggkkjkhgh"
+            "volpiano": "1--g---hk---p---ghk---kj---jk---l---k---kj---",
+            "search_volpiano": "ghkpghkkjjklkkj"
         },
         {
             "id": "071r5",
@@ -15575,8 +15575,8 @@ var data = {
             "mode": "2",
             "differentia": "D1",
             "full_text_standard": "O beatum virum cujus anima",
-            "volpiano": "1---k--k---k--k--g---k---lK--k---l--k---g---h--k--k---k--h---j--k--l---k--l--k--kh7---g--gh--h---k--k--g--fg--g---3---k--k--j--k---h--gh---4",
-            "search_volpiano": "kkkkgklKklkghkkkhjklklkkhgghhkkgfggkkjkhgh"
+            "volpiano": "1--d---de---f---g---fgh---h---j-flhth---",
+            "search_volpiano": "ddefgfghhjflhth"
         },
         {
             "id": "071r6",
@@ -15591,8 +15591,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Laudemus deum nostrum",
-            "volpiano": "1---d---d--dC---f--g---f--gh--h---hG--h---hG7--h--gf---f---gh--fe--d---g--g---h--g--f---ef---g--fe--d--cd--d---3---h--h--hg--f---gh--g---4",
-            "search_volpiano": "dddCfgfghhhGhhGhgffghfedgghgfefgfedcddhhhgfghg"
+            "volpiano": "1--d---f---d---dc---f---g---h---jk---k---",
+            "search_volpiano": "dfddcfghjkk"
         },
         {
             "id": "071r7",
@@ -15607,8 +15607,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "Martinus adhuc catechumenus",
-            "volpiano": "1---lj7---l--m--l---l--j--k--j---h--k--h--g---k---k--k--k---k--k--k--kJ---h--k--k---h--gh--h---k7--j--g--g---3---l--l--m--l---k--jk---4",
-            "search_volpiano": "ljlmlljkjhkhgkkkkkkkkJhkkhghhkjggllmlkjk"
+            "volpiano": "1--f---e---d---d---d---f---e---g---g---gh---",
+            "search_volpiano": "fedddfegggh"
         }
     ],
     "71v": [
@@ -15625,8 +15625,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "Sanctae trinitatis fidem",
-            "volpiano": "1---a--a--cd---df---4",
-            "search_volpiano": "aacddf"
+            "volpiano": "1--g---gh---kjk-k---k---kj---hj---h---g---",
+            "search_volpiano": "gghkjkkkkjhjhg"
         },
         {
             "id": "071v2",
@@ -15641,8 +15641,8 @@ var data = {
             "mode": "7",
             "differentia": "C1",
             "full_text_standard": "Ego signo crucis non clipeo",
-            "volpiano": "1---c---d--e---fe--dc--d---fE---c--d---efe--e---fhk---h---h---gF---gF--dfdc---f--g7---h---fe--de--e---c--d---ff--e---c--df--f---ef---gh--gf---e--fg--g---fg---h--gf--e--de--e7---3---h--g--h--k---g--efed---4",
-            "search_volpiano": "cdefedcdfEcdefeefhkhhgFgFdfdcfghfedeecdffecdffefghgfefggfghgfedeehghkgefed"
+            "volpiano": "1--f---f---f---g---f---gh---hg---f---gh---g---fd---",
+            "search_volpiano": "fffgfghhgfghgfd"
         },
         {
             "id": "071v3",
@@ -15657,8 +15657,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Hic est Martinus electus dei",
-            "volpiano": "1---ed--ed--e--fgd-ed---ed-dfef--ed---fefg--gf---fg-hg7--ghgf-fdfd---efgfe-fed--ed-efgF---e---3---dh--hk--h---4",
-            "search_volpiano": "ededefgdededdfefedfefggffghgghgffdfdefgfefededefgFedhhkh"
+            "volpiano": "1--h---h--h--h--h--h---hj--g---",
+            "search_volpiano": "hhhhhhhjg"
         },
         {
             "id": "071v4",
@@ -15673,8 +15673,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Sanctae trinitatis fidem",
-            "volpiano": "1---f--hk--kkk--kh---hklkj-klkl--lk---lK---khk--lk-kh-kg-hg-gf---f--ghghij--h7---hkhg-hijhg---fghgf-g--gf---f---f---f--hk---kj-kl-ml-lK--lk---k--k--lm---lm--kl--lk---hklkj-klkl77--lk---4---l--k-kj--hg---h---ijk---kij-ijhij--ijh---fh---k--kij---h---hklkij-klkl--lk---lk-kijhg-hij---h--hkhg7-hijhg---f--fghgf-g--gf---3",
-            "search_volpiano": "fhkkkkkhhklkjklkllklKkhklkkhkghggffghghijhhkhghijhgfghgfggffffhkkjklmllKlkkklmlmkllkhklkjklkllklkkjhghijkkijijhijijhfhkkijhhklkijklkllklkkijhghijhhkhghijhgffghgfggf"
+            "volpiano": "1--f---f---g---g---f---g---hg---f---gh---gfd---fg---",
+            "search_volpiano": "ffggfghgfghgfdfg"
         }
     ],
     "72r": [
@@ -15691,8 +15691,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Domine si adhuc populo tuo",
-            "volpiano": "1---k--k---k--klk-k-hkh---kh---kl--jk---kj-klkl--lk---f--h--k---k--k---k---k--kl--k7---k--kjkj--kh--kl---kij-klkijh-j--ijh---3---l--k-kj--jh---3",
-            "search_volpiano": "kkkklkkhkhkhkljkkjklkllkfhkkkkkklkkkjkjkhklkijklkijhjijhlkkjjh"
+            "volpiano": "1--h--hj--g---g---g--g--h---g--f--g--h---",
+            "search_volpiano": "hhjgggghgfgh"
         },
         {
             "id": "072r2",
@@ -15707,8 +15707,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Oculis ac manibus in caelum",
-            "volpiano": "1---f--gh---h-hg--hg-gF---fg-hg-hij--h---fgh---h7--g--fdg---gf-fed--dfd-dc---fe--f---g-gfg--d--dgf-fed---d---defed-e--fd---4---dC---f--gh--hgf-ghg-hij7--h---f--gh--h---gf--fghgfe-fedc-dc---fE---fg--gfg--dgf-fed---defed-e--ed---3",
-            "search_volpiano": "fghhhghggFfghghijhfghhgfdggffeddfddcfefggfgddgffedddefedefddCfghhgfghghijhfghhgffghgfefedcdcfEfggfgdgffeddefedeed"
+            "volpiano": "1--f---f---f---g---f---f---gh---hg---",
+            "search_volpiano": "fffgffghhg"
         },
         {
             "id": "072r3",
@@ -15723,8 +15723,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "O beatum virum Martinum",
-            "volpiano": "1---h--hghg7-gf---g--gh--g--g---hf--gh--gh---hijh--h---hf--gh--hk--h---h--h---h--hghg---hG---fg-hg-hjh--hgfe-gh7--gf---3---d---f---3",
-            "search_volpiano": "hhghggfgghgghfghghhijhhhfghhkhhhhhghghGfghghjhhgfeghgfdf"
+            "volpiano": "1--hj--g--g---g---g--g---g--g--g---",
+            "search_volpiano": "hjgggggggg"
         },
         {
             "id": "072r4",
@@ -15739,8 +15739,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Domine si adhuc populo tuo",
-            "volpiano": "1---f---f--f--gf-gij--g---ij--hij-kij-ij--hg---fgh--hghg---f--fghgf-g7--gf---f---fd--f--gh--g---g--g---ghk--klkl---ijh--ijk--hg--g---fgh--g---fghgf-g--gf---kkk--hijhf7---fg-hg-hj--h---g--g--fghgf-g--gf---4---f---ghgh-klk-hijg-hg---hij-kh-ij-ijhij--ijh---hf-ghgh--hg---fg-hg-hk7--h--hgfe--fed-fd---fe-fgh--ghg---fghgf-g--gf---3",
-            "search_volpiano": "fffgfgijgijhijkijijhgfghhghgffghgfggfffdfghgggghkklklijhijkhggfghgfghgfggfkkkhijhffghghjhggfghgfggffghghklkhijghghijkhijijhijijhhfghghhgfghghkhhgfefedfdfefghghgfghgfggf"
+            "volpiano": "1--d---d---dc---f---g---fgh---h---",
+            "search_volpiano": "dddcfgfghh"
         },
         {
             "id": "072r5",
@@ -15755,8 +15755,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Confido in domino quod filia",
-            "volpiano": "1---fgh--ijhijhg-hg---hklK--kJ---ijk7--ijh---h---hg--h--hj---fg-hg--gf---f---df--fg--f---f---ghf--gf--fgih---hg-hjhg--ghgf-gf---3---f---ghgh---3",
-            "search_volpiano": "fghijhijhghghklKkJijkijhhhghhjfghggffdffgffghfgffgihhghjhgghgfgffghgh"
+            "volpiano": "1--g---gk---h---g---h---g---f---fh---",
+            "search_volpiano": "ggkhghgffh"
         }
     ],
     "72v": [
@@ -15773,8 +15773,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "Tetradius cognita dei virtute",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--cdf------------------------",
+            "search_volpiano": "cdf"
         },
         {
             "id": "072v2",
@@ -15789,8 +15789,8 @@ var data = {
             "mode": "8",
             "differentia": "C1",
             "full_text_standard": "O ineffabilem virum per quem nobis",
-            "volpiano": "1---c--c--c--df--f---f--fd-ef-gf-fe---dC--gf--fgh---hG-hfg7--g-dfgfe-f--fe---h--ghg--ef---g--h---gF--e---g--e--fgef--e-ef---d--g--hk--k---k---k--kkk--klijk7-hkh---g--ijk-ljk--ijh---h--f--gh--hkhg--hg---ghg---g---hijh--ijh--gh---hijkijh-ij--kh---4---h--ghkhg-hk--h---g---g7--f--gf--e--fgef--ef---d---g--gf--fgh-kg-hg---egef--fe---3",
-            "search_volpiano": "cccdffffdefgffedCgffghhGhfggdfgfeffehghgefghgFegefgefeefdghkkkkkkkklijkhkhgijkljkijhhfghhkhghgghgghijhijhghhijkijhijkhhghkhghkhggfgfefgefefdggffghkghgegeffe"
+            "volpiano": "1--d---e---f---g---d---f---e---e---",
+            "search_volpiano": "defgdfee"
         },
         {
             "id": "072v3",
@@ -15805,8 +15805,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Oculis ac manibus in caelum",
-            "volpiano": "1---klk-k--hj-kh-hg---jk--h---hk--h--h77---hk--h---hg--h---k--jlk-k--kj---kJ---hk---k--k--kljkjh-jkj---hg--ghk---kjkh-khg-h---hg7---3---h--g-ghkhg---hk-h---3",
-            "search_volpiano": "klkkhjkhhgjkhhkhhhkhhghkjlkkkjkJhkkkkljkjhjkjhgghkkjkhkhghhghgghkhghkh"
+            "volpiano": "1--l---l---l---j---l---m---l---l---",
+            "search_volpiano": "llljlmll"
         },
         {
             "id": "072v4",
@@ -15821,8 +15821,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Dum sacramenta offerret",
-            "volpiano": "1---h--k--jk---h---k--jk--h---h---f--h--khk-kkk---jljk--kj---k7--l--k--l---k---jkJ--h---h---h---hG--hk--h--h--ghkjh-jkjh---ghkhg-h--hg---fh---kl--lkj-kjh-kh---l---ljk7--jh---kj---g--k--k--kjkjhg---hghgf-g--gf---4---h---k--k--kj---h---hkhk--gh--hfged7-egfe-fed---hk---kk--lk-kj---hjkjh-j--jh---3",
-            "search_volpiano": "hkjkhkjkhhfhkhkkkkjljkkjklklkjkJhhhhGhkhhghkjhjkjhghkhghhgfhkllkjkjhkhlljkjhkjgkkkjkjhghghgfggfhkkkjhhkhkghhfgedegfefedhkkklkkjhjkjhjjh"
+            "volpiano": "1--l---lj---l---m---l---kl---l---l---l---j---",
+            "search_volpiano": "lljlmlkllllj"
         },
         {
             "id": "072v5",
@@ -15837,8 +15837,8 @@ var data = {
             "mode": "3",
             "differentia": null,
             "full_text_standard": "Beatus Martinus obitum suum",
-            "volpiano": "1---h--g--gh-k-kl--k---k--kj--kl7--jk---hj-kj--kh---h---h--hjkjhg--h--kjklk--kjh-j--hg---3---h---k---3",
-            "search_volpiano": "hgghkklkkkjkljkhjkjkhhhhjkjhghkjklkkjhjhghk"
+            "volpiano": "1--g---gh---jkjh-kh---jkjh-ghj---hgh-hg---g---gh---",
+            "search_volpiano": "gghjkjhkhjkjhghjhghhgggh"
         }
     ],
     "73r": [
@@ -15855,8 +15855,8 @@ var data = {
             "mode": "3",
             "differentia": null,
             "full_text_standard": "Viribus corporis coepit",
-            "volpiano": "1---d---d--dfd-dc7---fg--fg-hg-hij--h---h---ghge--fg--ghe-gfe---dfef--ed---df-gh--g---g---g--gfg7--fgf-fd---c--d--fgf--fe---fgh---hgfe-fgfg--gf---4---h-fgh---ghfg--dfd-dc---cd---fgfe--fgh---h--hghfgfe7--dfef--ed---3",
-            "search_volpiano": "dddfddcfgfghghijhhghgefgghegfedfefeddfghggggfgfgffdcdfgffefghhgfefgfggfhfghghfgdfddccdfgfefghhhghfgfedfefed"
+            "volpiano": "1--gk---k--k--kj--klkj---kjhg-hg-hj--j---jh--jk--hj---",
+            "search_volpiano": "gkkkkjklkjkjhghghjjjhjkhj"
         },
         {
             "id": "073r2",
@@ -15871,8 +15871,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Dixerunt discipuli ad beatum",
-            "volpiano": "1---k--kjkj-jh---jk--j--j---j---jk--j--j---j--j---jk--j---j--j7---gh--g---g--g--hG---gh--gh---h--hijh--h---hG---gh--hk--h---h--hghg---hf--fg-hg-hjh---hgfe--fgh--gf---3---k-hjk---3",
-            "search_volpiano": "kkjkjjhjkjjjjkjjjjjkjjjghggghGghghhhijhhhGghhkhhhghghffghghjhhgfefghgfkhjk"
+            "volpiano": "1--g---g---gh---khj-hg---hjh-g---hj---jlk---hk---",
+            "search_volpiano": "ggghkhjhghjhghjjlkhk"
         },
         {
             "id": "073r3",
@@ -15887,8 +15887,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Scimus quidem desiderare",
-            "volpiano": "1---",
-            "search_volpiano": ""
+            "volpiano": "1--gkj--klkj---kjhg-hg-hj--j--j---jh---jk--hj---ghjh--hg---",
+            "search_volpiano": "gkjklkjkjhghghjjjjhjkhjghjhhg"
         },
         {
             "id": "073r4",
@@ -15903,8 +15903,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Dominus Jesus Christus non se ",
-            "volpiano": "1---g--g--h--h---g--g---h--kj---ghgf--f---k---kj---h7---hl--l--lK---kj--klkjh---fg--h--hkj---h---g--fg--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "gghhgghkjghgffkkjhhlllKkjklkjhfghhkjhgfggkkjkhg"
+            "volpiano": "1--c---d---ed---hj-h---h---gh---gfg---gjhg---hj-hg---",
+            "search_volpiano": "cdedhjhhghgfggjhghjhg"
         }
     ],
     "73v": [
@@ -15921,8 +15921,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Sacerdos dei Martine aperti",
-            "volpiano": "1---dd--cdfed-e--fd7---fe--ghgh---h--fh-kg--efd-efd---fe-fgh---fgh--fe---cd---defed-e--fd---hgh-gf-ghg-hij--h7---hk--k-kjh--h---hj-kh--h---gF---fgh--h--hgh---fg--ff--gfg---d---f--fe--d---fE--d---d--cdc-cb7---c---c--cd--dcdC--aca-cd-efefd---4---d--a---cdf--d---fE--fg--gfe-fedc-dc---d---f-fec---cdf77--ed-efe---defed-e--fd---3",
-            "search_volpiano": "ddcdfedefdfeghghhfhkgefdefdfefghfghfecddefedefdhghgfghghijhhkkkjhhhjkhhgFfghhhghfgffgfgdffedfEddcdccbcccddcdCacacdefefddacdfdfEfggfefedcdcdffeccdfedefedefedefd"
+            "volpiano": "1--dh--h---hghg---gf-g---g--gh--g---",
+            "search_volpiano": "dhhhghggfggghg"
         },
         {
             "id": "073v2",
@@ -15937,8 +15937,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Sacerdos dei Martine pastor",
-            "volpiano": "1---cd-f-fg--f--f---gh--g---f--f--fe--fg--ef---de-fe--fd---d---cd--d---d--d--d7--defedc---d--fefgf---fed-e--dc---3---d--a---3",
-            "search_volpiano": "cdffgffghgfffefgefdefefddcddddddefedcdfefgffededcda"
+            "volpiano": "1--g---g---h---h---g---gf---g---h---",
+            "search_volpiano": "gghhggfgh"
         },
         {
             "id": "073v3",
@@ -15953,8 +15953,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "O beatum virum in cujus",
-            "volpiano": "1---a--a--cd---deca-d--cd-fde--fd---c--cd-fefgd7--d---d--de--ecd---eged-e--ed---g---g--ghjh-ghefe-eD--ed---cde--eD---cde--e---e--e---e7--cd-ede--ed---4---ac-dfE--d---c---efedc--de--e---dfd-fd--cd--d---3",
-            "search_volpiano": "aacddecadcdfdefdccdfefgddddeecdegedeedggghjhghefeeDedcdeeDcdeeeeecdedeedacdfEdcefedcdeedfdfdcdd"
+            "volpiano": "1--f---d---e---f---g---f---e---",
+            "search_volpiano": "fdefgfe"
         },
         {
             "id": "073v4",
@@ -15969,8 +15969,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Ecclesia virtute roboratur",
-            "volpiano": "1---d---d--c--c--cd-f-fg--f7---g---g---f--fe---fg--ef---de-fe--ed---3---ab-dfE--d---3",
-            "search_volpiano": "ddcccdffgfggffefgefdefeedabdfEd"
+            "volpiano": "1--dh---h---hjk---h---g---f---g---fe---d---",
+            "search_volpiano": "dhhhjkhgfgfed"
         },
         {
             "id": "073v5",
@@ -15985,8 +15985,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Martinus Abrahae sinu laetus",
-            "volpiano": "1---d--fgh--g---g--g--g---gh--g--g7---g--g--g---g---g--gh---h--hg-hkg-gf---f--hk--k-kjh--jklkjh-jkjh---ghkhg-h--hg---4---f---gF7--hg-gf--g--fgh--fe---dfc-dfefed---fe--fg---ghghgfe--fg---gh-khj--hg---3",
-            "search_volpiano": "dfghggggghgggggggghhhghkggffhkkkjhjklkjhjkjhghkhghhgfgFhggfgfghfedfcdfefedfefgghghgfefgghkhjhg"
+            "volpiano": "1--g---g---kj---k---lj---klkj---klm---nml-ml-m---lkj---hk---lkjk-kj---",
+            "search_volpiano": "ggkjkljklkjklmnmlmlmlkjhklkjkkj"
         }
     ],
     "74r": [
@@ -16003,8 +16003,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Martinus episcopus migravit",
-            "volpiano": "1---k---k--k--k--kJ--klk7-jkh-hg---h---k---k--jh---jk--hk---gh-jh--hg---g--fg---g--g--g--hkhg-hjh---ghf--gh---hkj-klkjh--hkhg-h7---3---f---gF---3",
-            "search_volpiano": "kkkkkJklkjkhhghkkjhjkhkghjhhggfgggghkhghjhghfghhkjklkjhhkhghfgF"
+            "volpiano": "1--lmnml--kj--klk---kj-k--k--k---kl--k---",
+            "search_volpiano": "lmnmlkjklkkjkkkklk"
         },
         {
             "id": "074r2",
@@ -16019,8 +16019,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "O quantus erat luctus",
-            "volpiano": "1---g--g---g--g--hG---h--k---kj-klkl--lk---k--lml--lklk-kJ--jh-jkjh---g--ghkhg-h7--gf---f---f--hk--kjkjh-kk--k---jklkjh-jkjh---ghkhg-h--hg---klk--kh---klk--kl---lk-kl--hjkjhg-h--hg7---f---hkh---hG---k--k--kjkjhg---hghgf-g--gf---4---f--hk--kj-klhgf-g---fhkjk---k--g--gh-kj7-klk---hgf-ghkhg-h--hg---3",
-            "search_volpiano": "gggghGhkkjklkllkklmllklkkJjhjkjhgghkhghgfffhkkjkjhkkkjklkjhjkjhghkhghhgklkkhklkkllkklhjkjhghhgfhkhhGkkkjkjhghghgfggffhkkjklhgfgfhkjkkgghkjklkhgfghkhghhg"
+            "volpiano": "1--g---g---gkj---kl---lj---klkj---klm---nml-ml-lm---",
+            "search_volpiano": "gggkjklljklkjklmnmlmllm"
         },
         {
             "id": "074r3",
@@ -16035,8 +16035,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Beati viri corpus usque",
-            "volpiano": "1---k---k---k--kj--klk-jkh-hg---hG--k--k--k---k--jh---jk7---hk--gh-jh--hg---g--fg---gh--g---g--g---hkhg-hjh--ghf---gh--hkj-klkjh--hkhg-hg---3---f--hk---3",
-            "search_volpiano": "kkkkjklkjkhhghGkkkkjhjkhkghjhhggfgghggghkhghjhghfghhkjklkjhhkhghgfhk"
+            "volpiano": "1--l--l--lmnml--klk---kj-lj--kl--kl---lmnm--ml---",
+            "search_volpiano": "lllmnmlklkkjljklkllmnmml"
         },
         {
             "id": "074r4",
@@ -16051,8 +16051,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "Dixerunt discipuli ad beatum",
-            "volpiano": "1---g--g---gh--g--g---g--gf---h--k--kj-klk---k--kjkjh-k--k---k--jklkjh-jkjh---ghkhg-h7--hg---4---gF---g---hkjk--khkg--g---f--g--h---h---hkjh--g---hgf-gh--g--ghkjh-jkjh---ghkhg-h--hg---3",
-            "search_volpiano": "ggghggggfhkkjklkkkjkjhkkkjklkjhjkjhghkhghhggFghkjkkhkggfghhhkjhghgfghgghkjhjkjhghkhghhg"
+            "volpiano": "1--d---d---fgh---g---hg---fg---gh---gd---efgdc-ded-",
+            "search_volpiano": "ddfghghgfgghgdefgdcded"
         }
     ],
     "74v": [
@@ -16069,8 +16069,8 @@ var data = {
             "mode": "7",
             "differentia": "C1",
             "full_text_standard": "Domine si adhuc populo tuo",
-            "volpiano": "1---kj--klk-jkh-hg---h---k--k---jH--kl--k---k--k--k--k--jH---jk--hk---gh-jh--hg---g--fg--g7---g---gh--g---g---g---g--hkhg-hjh--ghf---gh---hkj-klkjh--hkhg---hg---3---gF---g---3",
-            "search_volpiano": "kjklkjkhhghkkjHklkkkkkjHjkhkghjhhggfgggghgggghkhghjhghfghhkjklkjhhkhghggFg"
+            "volpiano": "1--gk---k--kj--klkj---kjhg-hg-jh---kl--k---",
+            "search_volpiano": "gkkkjklkjkjhghgjhklk"
         },
         {
             "id": "074v2",
@@ -16085,8 +16085,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "O virum ineffabilem nec labore",
-            "volpiano": "1---l--k---lnonml-nl--kl-nl--lk-k---ijk-lk-ln---lK--lkh-ijkijh---gijhij--hg---ijh---ij--ln--kij7---k--h--ijh---ghijhg-h--ijg---lm-nml--k--l---nop--o---omnml--kl-no-p-po--o---lmn---o7--nm--l---k--lk--klmlkj-kjh-jh---j--k--l--k--lk-kj---hj-kjhg-h--hg---3",
-            "search_volpiano": "lklnonmlnlklnllkkijklklnlKlkhijkijhgijhijhgijhijlnkijkhijhghijhghijglmnmlklnopoomnmlklnoppoolmnonmlklkklmlkjkjhjhjklklkkjhjkjhghhg"
+            "volpiano": "1--f---d---f---f---e---f---g---f---e---",
+            "search_volpiano": "fdffefgfe"
         },
         {
             "id": "074v3",
@@ -16101,8 +16101,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "Oculis ac manibus in caelum",
-            "volpiano": "1---lmnml--kj--klk-kj---k--k--k7---k--k---kl--k--k---k---k--k---kl--k---k--kl--k--k---lj--kl---kl---lj--klkj-k---g---gkj--k---lm--l--l7---l--m---no--nm--ml---lK---l--lm--l---lm--l---ln--nM---l--lm-nm-nl---klk-kJ--klk---l---lm--l---l7---l--l--l--l---lm--l--l---lm--l--l---lmlmlk--lk--kl-ml-mnm---lk-lmlm--lkj-kj---3---lm-mlk---3",
-            "search_volpiano": "lmnmlkjklkkjkkkkkklkkkkkklkkklkkljklklljklkjkggkjklmlllmnonmmllKllmllmllnnMllmnmnlklkkJklkllmlllllllmlllmlllmlmlklkklmlmnmlklmlmlkjkjlmmlk"
+            "volpiano": "1--c---d---dh---h---h---h---h---k---h---",
+            "search_volpiano": "cddhhhhhkh"
         },
         {
             "id": "074v4",
@@ -16117,8 +16117,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Martinus Abrahae sinu laetus",
-            "volpiano": "1---d--d--dc---f--g--f--gh--h---h--h--h--h--hk--h---g--h--gF---g--h--g---h--g---h--g--h7--g--fe---d--d---3---h--h--hg--f---gh--g---4",
-            "search_volpiano": "dddcfgfghhhhhhhkhghgFghghghghgfeddhhhgfghg"
+            "volpiano": "1--f---d---f---e---d---d---c---d---dg---g---f---",
+            "search_volpiano": "fdfeddcddggf"
         }
     ],
     "75r": [
@@ -16135,8 +16135,8 @@ var data = {
             "mode": "2",
             "differentia": "D1",
             "full_text_standard": "O quantus luctus omnium      ",
-            "volpiano": "1---k--k---k--k---kl---kjklk---k---k--h--kk--k---g7--g---h--gf---g--h---kl---kjklk---h---k--j--g--fg---g---3---k--k--k--k---kl--k---4",
-            "search_volpiano": "kkkkklkjklkkkhkkkgghgfghklkjklkhkjgfggkkkkklk"
+            "volpiano": "1--dfgf---f---fgf---hg---h---ghgf---fghg---hj-h---h---",
+            "search_volpiano": "dfgfffgfhghghgffghghjhh"
         },
         {
             "id": "075r2",
@@ -16151,8 +16151,8 @@ var data = {
             "mode": "1",
             "differentia": "D1",
             "full_text_standard": "O beatum pontificem qui totis",
-            "volpiano": "1---g---j---k---l--l7---m--l--l---k--k---k---lm--l--kjklk---h--jk--j---g--g---3---l--l--m--l---k--jh---4",
-            "search_volpiano": "gjkllmllkkklmlkjklkhjkjggllmlkjh"
+            "volpiano": "1--dh--hghg---gf-g---gh--g---h---gh---",
+            "search_volpiano": "dhhghggfgghghgh"
         },
         {
             "id": "075r3",
@@ -16167,8 +16167,8 @@ var data = {
             "mode": "4",
             "differentia": "E2",
             "full_text_standard": "Est secretum Valeriane",
-            "volpiano": "1---f--f7---f--e--d---dC---f--g---h--gF--g--f---fd--f---f---g--f--g---g--h--f--g--f---3---h--h--f--gh---g--f---4",
-            "search_volpiano": "fffeddCfghgFgffdffgfgghfgfhhfghgf"
+            "volpiano": "1--g---gh---jkjh-jkjh-ghj---hgh-hg---g---g---gkj---k---",
+            "search_volpiano": "gghjkjhjkjhghjhghhggggkjk"
         }
     ],
     "75v": [
@@ -16185,8 +16185,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Caecilia virgo Almachium     ",
-            "volpiano": "1---f--g7---g--f--h---kl--k---l--j--k---h--g--h---g---f--f---3---k--k--l--j---k--hg---4",
-            "search_volpiano": "fggfhklkljkhghgffkkljkhg"
+            "volpiano": "1--gk--kj--klkj---kjhg-hg-hj--j--j--jh---jk--hj---",
+            "search_volpiano": "gkkjklkjkjhghghjjjjhjkhj"
         },
         {
             "id": "075v2",
@@ -16201,8 +16201,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Expansis manibus orabat",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--dfgf---fd---fgf---g---ghgf---ghg-hj-h---f---gh---hge---",
+            "search_volpiano": "dfgffdfgfgghgfghghjhfghhge"
         },
         {
             "id": "075v3",
@@ -16217,8 +16217,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Cilicio Caecilia membra",
-            "volpiano": "1---d--dc--f--g---f--gh--h---hg--ij--h---g--g---g---fh--g---g--g--e--g---hg--fg---fE--df---ee--d77---3---h--h--g--f---gh--g---4",
-            "search_volpiano": "ddcfgfghhhgijhgggfhgggeghgfgfEdfeedhhgfghg"
+            "volpiano": "1--dh--h--h--h--hghg---gf-g--g--hf---",
+            "search_volpiano": "dhhhhhghggfgghf"
         },
         {
             "id": "075v4",
@@ -16233,8 +16233,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Cantantibus organis Caecilia",
-            "volpiano": "1---c--cB---d--dc--d--fd---fd--c---dc---f--g--h--g---fe--fgf--d7---dc--f---g--h--g---f---gh--h---f---hk--g---f--gh--fe--dc---d--fe--d--d---3---h--h--hg--f---gh--gfed---4",
-            "search_volpiano": "ccBddcdfdfdcdcfghgfefgfddcfghgfghhfhkgfghfedcdfeddhhhgfghgfed"
+            "volpiano": "1--fg---ghgfe---fgh---g---ghk---k---hj---hg---",
+            "search_volpiano": "fgghgfefghgghkkhjhg"
         },
         {
             "id": "075v5",
@@ -16249,8 +16249,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Biduanis ac triduanis",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--lmnml--mnm-mlmlkj---kjh-jh-k---kl--l---",
+            "search_volpiano": "lmnmlmnmmlmlkjkjhjhkkll"
         }
     ],
     "76r": [
@@ -16267,8 +16267,8 @@ var data = {
             "mode": "3",
             "differentia": null,
             "full_text_standard": "O beata Caecilia quae duos",
-            "volpiano": "1---g--j---k--kjml--l---m--l---k--k---m---l--kj--gh---g--f--g--h---k--jk7---h--k---k--g---3---l--l--m--l---k--jh---4",
-            "search_volpiano": "gjkkjmllmlkkmlkjghgfghkjkhkkgllmlkjh"
+            "volpiano": "1--lmnml--mnm-m--mlmlk---lkj-kjh-kl--l---",
+            "search_volpiano": "lmnmlmnmmmlmlklkjkjhkll"
         },
         {
             "id": "076r2",
@@ -16283,8 +16283,8 @@ var data = {
             "mode": "3",
             "differentia": null,
             "full_text_standard": "Caecilia me misit ad vos",
-            "volpiano": "1---d--ef---g--g---g---g--g---e--fe--d---fgh---hk--hG7---gh--g--ghg---ef--g--fe--d--d---3---h--h--g--f---gh--g---4",
-            "search_volpiano": "defgggggefedfghhkhGghgghgefgfeddhhgfghg"
+            "volpiano": "1--g---gd---fg---g---hg---h---gf---gh---",
+            "search_volpiano": "ggdfgghghgfgh"
         },
         {
             "id": "076r3",
@@ -16299,8 +16299,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Virgo gloriosa semper       ",
-            "volpiano": "1---g---g--h--k--l--k7---j--kl--l---k--m---lm--k---h--k--lk--hg--hk---g---h---g--g---f--hk--kJ---h--h---g--g---k7---k--lm---k--h--kl--g---hG--ghk--jh---j---klk--h--h---g--g---gj-kl--lm---kh--k---lk--jhg---j7--klk--h--h---g--g---3---l--l--m--l---k--jh---4",
-            "search_volpiano": "gghklkjkllkmlmkhklkhghkghggfhkkJhhggkklmkhklghGghkjhjklkhhgggjkllmkhklkjhgjklkhhggllmlkjh"
+            "volpiano": "1--h---fg--g---h---k--j---h--jk--h--g---",
+            "search_volpiano": "hfgghkjhjkhg"
         },
         {
             "id": "076r4",
@@ -16315,8 +16315,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Est secretum Valeriane",
-            "volpiano": "1---ghk--h---gf--gh---g--g---k--k--hg---j--k7---lm--lm---kh---kl--h---ghk--k---j---kJ--h--hG---g--g---g---g--hk--h--gf---efg--gf---h--hj-kj--jh7--f---g--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "ghkhgfghggkkhgjklmlmkhklhghkkjkJhhGgggghkhgfefggfhhjkjjhfggkkjkhg"
+            "volpiano": "1--d---dc---f---g---fgh---h---g---jh---g---",
+            "search_volpiano": "ddcfgfghhgjhg"
         }
     ],
     "76v": [
@@ -16333,8 +16333,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Domine Jesu Christe seminator",
-            "volpiano": "1---k--k---klk---kJ---k--h---g--hk---hG--gh---g--g7---3---k--k--k--k---kl--k---4",
-            "search_volpiano": "kkklkkJkhghkhGghggkkkkklk"
+            "volpiano": "1--d---c---d---f---fg---g---h---g---h---",
+            "search_volpiano": "dcdffgghgh"
         },
         {
             "id": "076v2",
@@ -16349,8 +16349,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "Beata Caecilia dixit",
-            "volpiano": "1---g---j--k--l--l---l--m--l---k--k--lk---h--j---k--lh--j--h---g--g7---3---l--l--m--l---k--jh---4",
-            "search_volpiano": "gjklllmlkklkhjklhjhggllmlkjh"
+            "volpiano": "1--k---j---k---po---p---on---o---p---",
+            "search_volpiano": "kjkpoponop"
         },
         {
             "id": "076v3",
@@ -16365,8 +16365,8 @@ var data = {
             "mode": "7",
             "differentia": "C1",
             "full_text_standard": "Fiat domine cor meum",
-            "volpiano": "1---h--g--h--k--k---km--l---l--kl--m---lk---l--l---h--l---j---k--hg--h---g7---f--g--hij---k--j--h--h---3---l--k--l--n---k--h---4",
-            "search_volpiano": "hghkkkmllklmlkllhljkhghgfghijkjhhlklnkh"
+            "volpiano": "1--h---f---h---k---j-flht---h---jk---k---kl---k---",
+            "search_volpiano": "hfhkjflhthjkkklk"
         },
         {
             "id": "076v4",
@@ -16381,8 +16381,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Cilicio Caecilia membra            ",
-            "volpiano": "1---c--d---f---f--f--gh---g--g---h--g---e---fg---ef7---d--d---3---h--h--g--f---gh--gfed---4",
-            "search_volpiano": "cdfffghgghgefgefddhhgfghgfed"
+            "volpiano": "1--f---f---f---g---g---f---g---hg---",
+            "search_volpiano": "fffggfghg"
         }
     ],
     "77r": [
@@ -16399,8 +16399,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Haec est virgo sapiens et una",
-            "volpiano": "1---da---cdf---df--d---d---f--e---d---f--e---df--dc7---gh---hk--gh---fe--dc---d--fe---d--d---3---f--f--f--e---cd--d---4",
-            "search_volpiano": "dacdfdfddfedfedfdcghhkghfedcdfeddfffecdd"
+            "volpiano": "1--h---h--h--hj--g--g---g--h---g--f---",
+            "search_volpiano": "hhhhjggghgf"
         },
         {
             "id": "077r2",
@@ -16415,8 +16415,8 @@ var data = {
             "mode": "3",
             "differentia": null,
             "full_text_standard": "Caeciliam intra cubiculum",
-            "volpiano": "1---k--k---k--l--k--j--h---h--hg77---h--hk--g--g---g--g--g--gh--g--g---g--g--g---fe--d---f---gh--g--g---3---k--k--k--k---kl--k---4",
-            "search_volpiano": "kkklkjhhhghhkgggggghgggggfedfghggkkkkklk"
+            "volpiano": "1--f---g---f---gh---hg---f---gh---gfd---fg---",
+            "search_volpiano": "fgfghhgfghgfdfg"
         },
         {
             "id": "077r3",
@@ -16431,8 +16431,8 @@ var data = {
             "mode": "3",
             "differentia": null,
             "full_text_standard": "Angelus domini descendit",
-            "volpiano": "1---d---d--dc---f--g--f--gh--h---ij--h--g---g--h--fe---d--d---g---h--g--e---fg--e--fE---d--d77---3---h--h--hg--f---gh--g---4",
-            "search_volpiano": "dddcfgfghhijhgghfeddghgefgefEddhhhgfghg"
+            "volpiano": "1--h---h--h--hj--g---g---f--g--g--h---",
+            "search_volpiano": "hhhhjggfggh"
         },
         {
             "id": "077r4",
@@ -16447,8 +16447,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Domine Jesu Christe pastor",
-            "volpiano": "1---c--d--f---f--f--gh---g--g---g---h--g--e---fg--e--f---d--d---3---h--h--hg--f---gh--gfed---4",
-            "search_volpiano": "cdfffghggghgefgefddhhhgfghgfed"
+            "volpiano": "1--g---f---gh---hg---f---gh---gfd---f---g---",
+            "search_volpiano": "gfghhgfghgfdfg"
         }
     ],
     "77v": [
@@ -16465,8 +16465,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Nam sponsum quem quasi leonem",
-            "volpiano": "1---d---d--dC---f---g--f--gh--h---ij--h---g---g--h--fe--d---g---e--g---h--g--e---f--g---e--f---d7--d---3---h--h--hg--f---gh--g---4",
-            "search_volpiano": "dddCfgfghhijhgghfedgeghgefgefddhhhgfghg"
+            "volpiano": "1--h---h--h---hj--g--g---g---h--g---",
+            "search_volpiano": "hhhhjggghg"
         },
         {
             "id": "077v2",
@@ -16481,8 +16481,8 @@ var data = {
             "mode": "2",
             "differentia": "D1",
             "full_text_standard": "Credimus Christum filium dei",
-            "volpiano": "1---e---d--e--gh--h---h---g--h--j---hg--h--h--h---h7--eh--g---g---ed--ed---cd--eg---e--e---3---h--g--h--k---g--e---4",
-            "search_volpiano": "edeghhhghjhghhhhehggededcdegeehghkge"
+            "volpiano": "1--f---fe---c---ef---d---d---d---c---df---fe---de---",
+            "search_volpiano": "ffecefdddcdffede"
         },
         {
             "id": "077v3",
@@ -16497,8 +16497,8 @@ var data = {
             "mode": "7",
             "differentia": "C1",
             "full_text_standard": "Nos scientes sanctum nomen",
-            "volpiano": "1---cd--e---e--e--e--f--dc---d--dgF7--e--e---e---g--gh--g---f--g--f---g--d---e---gfe--d---e--e---3---h--g--h--k---g--efed---4",
-            "search_volpiano": "cdeeeefdcddgFeeegghgfgfgdegfedeehghkgefed"
+            "volpiano": "1--d---c---df---f---e---dc---d---efe---",
+            "search_volpiano": "dcdffedcdefe"
         },
         {
             "id": "077v4",
@@ -16513,8 +16513,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Tunc Valerianus perrexit",
-            "volpiano": "1---ed7---e---ef---g--fE--e--e---e---d--e--c---d--d---c---d--f--f---f---f---fe--d--dg--f--e--e7---3---h--g--h--k---g--e---4",
-            "search_volpiano": "edeefgfEeeedecddcdfffffeddgfeehghkge"
+            "volpiano": "1--g---g---hf---g---hk---kj---hg---g---",
+            "search_volpiano": "gghfghkkjhgg"
         },
         {
             "id": "077v5",
@@ -16529,8 +16529,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Beata Caecilia dixit Tiburtio",
-            "volpiano": "1---gh--g--g--ghk---4",
-            "search_volpiano": "ghggghk"
+            "volpiano": "1--g---gk---k---l---k---h---k---",
+            "search_volpiano": "ggkklkhk"
         }
     ],
     "78r": [
@@ -16547,8 +16547,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Sicut enim amor dei mihi",
-            "volpiano": "1---c--de---eD---f--h---g--h--f--de--efe---c--de---ed---f--fh---f--e--e---df---hjk---hG--f7---hl--kj--g---h--k--h--k--j---h---f--h---kh--j---h--g--g---fh---klm--k---kj--h--kl--k--g---k---h--k--l--k7---h---g--h--gf--f---g---gF---g--hk--jhjk--hg---hkJ---g--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "cdeeDfhghfdeefecdeedffhfeedfhjkhGfhlkjghkhkjhfhkhjhggfhklmkkjhklkgkhklkhghgffggFghkjhjkhghkJggkkjkhg"
+            "volpiano": "1--g---g---gk---h---gf---gh---g---",
+            "search_volpiano": "gggkhgfghg"
         },
         {
             "id": "078r2",
@@ -16563,8 +16563,8 @@ var data = {
             "mode": "3",
             "differentia": null,
             "full_text_standard": "Caecilia me misit ad vos",
-            "volpiano": "1---g---g---gkj7--k---lkml--l---m--no---m--n--lk---nM--nm---lmnml-m--nl---k--k---k--lm--lml---kl--lkj-kjhg-h--g-gf7---fh--kl-ml-klm--kj---h--hlkj--g--fg--g---3---l--lmnl--kj---3",
-            "search_volpiano": "gggkjklkmllmnomnlknMnmlmnmlmnlkkklmlmlkllkjkjhghggffhklmlklmkjhhlkjgfggllmnlkj"
+            "volpiano": "1--d---d---gh---fdc---fg-f---g---f---gh---",
+            "search_volpiano": "ddghfdcfgfgfgh"
         },
         {
             "id": "078r3",
@@ -16579,8 +16579,8 @@ var data = {
             "mode": "3",
             "differentia": null,
             "full_text_standard": "Tunc Valerianus perrexit",
-            "volpiano": "1---c--dfd---f---f--f---f--f--ef-gf--fed--fd-efe---f--d---c---dfd--f---fe-fhgf-ghg--egef77--ef---d--g--hk--h---h--ghk--hkghG--f---f---eg-hg--hg---g--g--g--fg-hf-fed--fd---c---df--ef--dcd--d7---dgfgh--g---4---g---jkJ--h---g--hk--g--ef-hkg-ff-dfd---fg-h--hfg--gh-kghg---egef--fe---3",
-            "search_volpiano": "cdfdfffffefgffedfdefefdcdfdffefhgfghgegefefdghkhhghkhkghGffeghghggggfghffedfdcdfefdcdddgfghggjkJhghkgefhkgffdfdfghhfgghkghgegeffe"
+            "volpiano": "1--d---d---c---d---fg---fe---dfdc---",
+            "search_volpiano": "ddcdfgfedfdc"
         },
         {
             "id": "078r4",
@@ -16595,8 +16595,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Dum aurora finem daret",
-            "volpiano": "1---k---klk-k7--hj-kj--hg---k--jk--h--hk--h---h--h--hk--h---h--h---hg--h---k--jlk-k--kj---kJ---hk---k--k--k--kk--k7---k--k--kljkjh-jkj--hg--ghk---kjkh-khg-h--hg---3---g--jkJ--3",
-            "search_volpiano": "kklkkhjkjhgkjkhhkhhhhkhhhhghkjlkkkjkJhkkkkkkkkkkljkjhjkjhgghkkjkhkhghhggjkJ"
+            "volpiano": "1--cf---fe-f--d---ed--cd--d---d--de--d--d---",
+            "search_volpiano": "cffefdedcddddedd"
         }
     ],
     "78v": [
@@ -16613,8 +16613,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Caecilia valedicens fratribus",
-            "volpiano": "1---gh--g--f--fhk---kj-klklm7--l---l--lmn--lk--k---k--lk-kh-kg-hg-gf---fh--hk-lm--k--kjk---ghjh-hG--hg---gh--gh--g--fhk-kj--k---kh-jkjhg-h7--hg---gh--g--g---hgh---gf--gh--hghg-g--gf---4---f---h---kh-jkjhg-h--hg---g--h--gf--g--fef--dfc-dfefed7---d---fgh--g--gh-kg-hg-gf---fhk--jklkjh-jkjh--ghkhg-h--hg---3",
-            "search_volpiano": "ghgffhkkjklklmlllmnlkkklkkhkghggffhhklmkkjkghjhhGhgghghgfhkkjkkhjkjhghhgghgghghgfghhghgggffhkhjkjhghhgghgfgfefdfcdfefeddfghgghkghggffhkjklkjhjkjhghkhghhg"
+            "volpiano": "1--cdf---f---f---f---e---f---ge---f---dedc---",
+            "search_volpiano": "cdffffefgefdedc"
         },
         {
             "id": "078v2",
@@ -16629,8 +16629,8 @@ var data = {
             "mode": "1",
             "differentia": "D1",
             "full_text_standard": "Cantantibus organis Caecilia",
-            "volpiano": "1---k--kj---klk-jkh-hg---h7--k---k--kh--kl--k--k---kl--k---kj---kh--jk---jk--gh-kh--hg---g--fg--g---g--g---gh--g---hkhg-hjh7--ghf--gh--hkj-klkjh--hkhg-hg---3---f---h---3",
-            "search_volpiano": "kkjklkjkhhghkkkhklkkklkkjkhjkjkghkhhggfggggghghkhghjhghfghhkjklkjhhkhghgfh"
+            "volpiano": "1--ed---g---hk---k---j---k---l---k---l---kj---h---",
+            "search_volpiano": "edghkkjklklkjh"
         },
         {
             "id": "078v3",
@@ -16645,8 +16645,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "Valerianus in cubiculo",
-            "volpiano": "1---a--a--cdf--d---f---fef--df--d-dc---c7---d--f--fedc-dfE--d---df-gf-fe--d--defed-e--fd---d---f--fg--g---g--g--gf--ghfg--d---dg--f---f7--d---d--dg--fe---fg--fed--d---c--df--df--c--ca---c---c--cd--d--dc---df-gf-fE---d--defed-e7--fd---4---c--d--fe---fg--fed--dc---df--f--dcd--bcdcb-cba-ba---d--d---d--dfec--ff--gf-fe---defed-e--fd---3",
-            "search_volpiano": "aacdfdffefdfddccdffedcdfEddfgffeddefedefddffgggggfghfgddgffdddgfefgfeddcdfdfccacccdddcdfgffEddefedefdcdfefgfeddcdffdcdbcdcbcbabaddddfecffgffedefedefd"
+            "volpiano": "1--cd---dhj---h---h---h---h---hgh---jhg-",
+            "search_volpiano": "cddhjhhhhhghjhg"
         },
         {
             "id": "078v4",
@@ -16661,8 +16661,8 @@ var data = {
             "mode": "3",
             "differentia": "G1",
             "full_text_standard": "Caecilia famula tua domine",
-            "volpiano": "1---d--cd-f-fg--f--f---f---fe--fg--ef---de-fe--fd---d--cd--d---d--d--d---d--d--d--defedc--d7---fe-fgf--fed-e--dc---3---c--d---3",
-            "search_volpiano": "dcdffgffffefgefdefefddcdddddddddefedcdfefgffededccd"
+            "volpiano": "1--fg---g---h---g---g---fe---f---",
+            "search_volpiano": "fgghggfef"
         },
         {
             "id": "078v5",
@@ -16677,8 +16677,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Benedico te pater domini",
-            "volpiano": "1---g--f--f---gh--hg---f--gh--gfe--fg---g--f---4",
-            "search_volpiano": "gffghhgfghgfefggf"
+            "volpiano": "1--gl---l---l---l---lmlk---lk---kj-k---kl---lkl---mlm-ml---",
+            "search_volpiano": "glllllmlklkkjkkllklmlmml"
         },
         {
             "id": "078v6",
@@ -16693,8 +16693,8 @@ var data = {
             "mode": "4",
             "differentia": "E2",
             "full_text_standard": "Triduanas a domino poposci",
-            "volpiano": "1---f7---h---hk--h---h--g---f--gh--hg---3---f---3",
-            "search_volpiano": "fhhkhhgfghhgf"
+            "volpiano": "1--lmnml--kj--klk---kj-k--k---k--k l--k---",
+            "search_volpiano": "lmnmlkjklkkjkkkklk"
         }
     ],
     "79r": [
@@ -16711,8 +16711,8 @@ var data = {
             "mode": "1",
             "differentia": "G1",
             "full_text_standard": "Dum aurora finem daret",
-            "volpiano": "1---f---h--k-kl--k--kj---h---hklkj-klkl--lk---l--khk7--lk-kh-kg-hg-gf---f--gh-hijghij--h---hkijhg-hijhg--fghgf-g--gf---4---hij--hg---hij--h--fgh7---kk--h---k--lk--jk---kj-klkl--lk---h---l---kj---hg--h--hk--kij-ijh--gh---hijkijhij--ijh---f---fgh--hijhg7--hijkijhg-hijhg--fghgf-g--gf---3",
-            "search_volpiano": "fhkklkkjhhklkjklkllklkhklkkhkghggffghhijghijhhkijhghijhgfghgfggfhijhghijhfghkkhklkjkkjklkllkhlkjhghhkkijijhghhijkijhijijhffghhijhghijkijhghijhgfghgfggf"
+            "volpiano": "1--g---g---g---g---gh---h---hg---hjgf-",
+            "search_volpiano": "ggggghhhghjgf"
         },
         {
             "id": "079r2",
@@ -16727,8 +16727,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Cantantibus*",
-            "volpiano": "1---k--klk-k-hkh---k--kl--k--kh---kl---jk--kj-klkl--lk---f--h--k7---k--k--kjkj--kh---kl--kij-klkijh-ij--ijh---3---hij--3",
-            "search_volpiano": "kklkkhkhkklkkhkljkkjklkllkfhkkkkjkjkhklkijklkijhijijhhij"
+            "volpiano": "1--gk--k--k--k--kj--klkj---kjhg-hg-hj--j--jh---kl--k--jh---",
+            "search_volpiano": "gkkkkkjklkjkjhghghjjjhklkjh"
         },
         {
             "id": "079r3",
@@ -16743,8 +16743,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Oremus omnes ad dominum Jesum",
-            "volpiano": "1---cd---dhk--h--h---f--f--ghg--h--fghgf-gh7---g---fe--f---g--g---gf-fed-fgfgfe--defed-e--fd---d---f--g---h--fghgf--fg-hf-fE--defed-e--fd7---4---cd---f---fff--c--df--fe-fgf-gh--g---h--fg--fg--fed--df-gf-fe---defed-e--fd---3",
-            "search_volpiano": "cddhkhhffghghfghgfghgfefgggffedfgfgfedefedefddfghfghgffghffEdefedefdcdffffcdffefgfghghfgfgfeddfgffedefedefd"
+            "volpiano": "1--d---fgh---h---gh---g---g---gh---hf---hjg-ff-ded-",
+            "search_volpiano": "dfghhghggghhfhjgffded"
         },
         {
             "id": "079r4",
@@ -16759,8 +16759,8 @@ var data = {
             "mode": "2",
             "differentia": "D1",
             "full_text_standard": "Virgo gloriosa semper evangelium",
-            "volpiano": "1---h--hghg-gf7---g---gF--g---g--g--gh--g--g---gh--g---g---hf--gh---gh--hijh--h---hG--gh--hk--h---h7--h--hk--h---h---h--h---hghg--hf--fg-hg-hjh--hgfe-gh--gf---3---cd---3",
-            "search_volpiano": "hhghggfggFgggghggghgghfghghhijhhhGghhkhhhhkhhhhhghghffghghjhhgfeghgfcd"
+            "volpiano": "1--gkj--klkj---kjhg-hg-hj--j--j---jh--jk--hj---ghjh--hg---",
+            "search_volpiano": "gkjklkjkjhghghjjjjhjkhjghjhhg"
         },
         {
             "id": "079r5",
@@ -16775,8 +16775,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Orante sancto Clemente",
-            "volpiano": "1---d--fgh--g--g---g--g7--gh--g--g---gF---gf--g---fgh--fe--dfc-dfefed---dc---f--ghg---h--g---g---gh--g---ghkjh-jkjh---g7--ghkhg-h--hg---4---h--gf---g--h---kl--kjklk---h--gf--hkj--klk---kjh-jh-jH--hg---gh--g---g--g7--fgh--fe--dfc-dfefed---g--ghgf-gh--g---ghkjh-jkjh--ghkhg-h--hg---3",
-            "search_volpiano": "dfghggggghgggFgfgfghfedfcdfefeddcfghghggghgghkjhjkjhgghkhghhghgfghklkjklkhgfhkjklkkjhjhjHhgghgggfghfedfcdfefedgghgfghgghkjhjkjhghkhghhg"
+            "volpiano": "1--c---d---f---d---c---d---f---f---f---e---d---",
+            "search_volpiano": "cdfdcdfffed"
         }
     ],
     "79v": [
@@ -16793,8 +16793,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Vidi supra montem agnum",
-            "volpiano": "1---k--kj--klk-jkh-hg---hk7--k--k---k---kh--jk---hk--g--gh-jh--hg---g---fg---g--gh--g--g---g--g---g--gh--g---hkhg-hjh7---ghf--gh--hkj-klkjh--hkhg-hg---3---h--gf---3",
-            "search_volpiano": "kkjklkjkhhghkkkkkhjkhkgghjhhggfggghgggggghghkhghjhghfghhkjklkjhhkhghghgf"
+            "volpiano": "1--g---g---gh---h---g---hk---k---j---",
+            "search_volpiano": "ggghhghkkj"
         },
         {
             "id": "079v2",
@@ -16809,8 +16809,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Ora pro nobis beate Clemens",
-            "volpiano": "1---j--h---h--h--j--jk---kj---hjk--jhg--hj7---g--f---4",
-            "search_volpiano": "jhhhjjkkjhjkjhghjgf"
+            "volpiano": "1--dhj---h---h---hjk---h---h---h---hg---hjhg-g---",
+            "search_volpiano": "dhjhhhjkhhhhghjhgg"
         },
         {
             "id": "079v3",
@@ -16825,8 +16825,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Tu autem martyr Christi",
-            "volpiano": "1---f---h--hk--h---h---h--h--g---f--gh--hg---3",
-            "search_volpiano": "fhhkhhhhgfghhg"
+            "volpiano": "1--f---df---f---f---fgfd---ed-ef---dc---df-egf---fe---",
+            "search_volpiano": "fdffffgfdedefdcdfegffe"
         },
         {
             "id": "079v4",
@@ -16841,8 +16841,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Dedisti domine habitaculum",
-            "volpiano": "1---d--f---d--d7---dC---f--g--fh--hg---f--g--h--g---h--fe--d---d---e--f--g--f---g--f--f---e--f--g---fe--d--cd--d77---3---h--h--g--f---gh--g---4",
-            "search_volpiano": "dfdddCfgfhhgfghghfeddefgfgffefgfedcddhhgfghg"
+            "volpiano": "1--h--gf---ghg-hge-fe-g--gh--g--g---g--g--gf--gh---",
+            "search_volpiano": "hgfghghgefegghgggggfgh"
         }
     ],
     "80r": [
@@ -16859,8 +16859,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Dedisti domine sanctis tuis",
-            "volpiano": "1---d--d--fgh--g---hg---fg--gh--df-fgdc-dfd---df--c--d--dgfgh--g--g7---ghk--jklkjh-jkjh---g--ghkhg-h--hg---hg---fg--gh--d---g--h---klK--kj-klk---hg--fg--gh-kgh--hg7---f---f---hjh--hG--k--k---kjkjhg---hghgf-g--gf---4---f---f--ghg--hg--g---gh---d--g--ghfed7---dfdc-dfd---cd--fgh--gh-kg-hg-gf---f---fhk--jklkjh-jkjh--g--ghkhg-h--hg---3",
-            "search_volpiano": "ddfghghgfgghdffgdcdfddfcddgfghggghkjklkjhjkjhgghkhghhghgfgghdghklKkjklkhgfgghkghhgffhjhhGkkkjkjhghghgfggfffghghggghdgghfeddfdcdfdcdfghghkghggfffhkjklkjhjkjhgghkhghhg"
+            "volpiano": "1--d---d---d---d---e---ghgf---fghg---hj-h---h---ghge---g---fgff---ed---",
+            "search_volpiano": "ddddeghgffghghjhhghgegfgffed"
         },
         {
             "id": "080r2",
@@ -16875,8 +16875,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Justus germinavit*",
-            "volpiano": "1---k---kj7--klk-jkh-hg---hk--k--k--kJ---jk--hk--gh-jh--hg---g--g--hkhg-hjh--ghf---gh--hkj-klkjh--hkhg-hg---3",
-            "search_volpiano": "kkjklkjkhhghkkkkJjkhkghjhhggghkhghjhghfghhkjklkjhhkhghg"
+            "volpiano": "1--dh--h--hghg---gf-g--hf---gh--gh---hjh--h---",
+            "search_volpiano": "dhhhghggfghfghghhjhh"
         },
         {
             "id": "080r3",
@@ -16891,8 +16891,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "Orante sancto Clemente",
-            "volpiano": "1---dh--h--hk---klkjh--h---f--hfh--ghgf---f---ghg-hgh-hfd---d---e--gh--ghkh--hgfe7-fgfg---gf---fg---g--gefg--f---fg--gefd---dfd--d---4---hkJ---g--h--hlkl---lK--ln-n--kl7---h---h---hl--kh---k--kkkJ--kh---f---g--h--hk-lk-jkhg-hfd---fh-kg--ef-gfg---de-fd--d---3",
-            "search_volpiano": "dhhhkklkjhhfhfhghgffghghghhfddeghghkhhgfefgfggffgggefgffggefddfddhkJghhlkllKlnnklhhhlkhkkkkJkhfghhklkjkhghfdfhkgefgfgdefdd"
+            "volpiano": "1--fgh---g---g---g---g---ghj---h---hg---hj-kghgf-",
+            "search_volpiano": "fghggggghjhhghjkghgf"
         },
         {
             "id": "080r4",
@@ -16907,8 +16907,8 @@ var data = {
             "mode": "7",
             "differentia": "C1",
             "full_text_standard": "Non meis meritis ad vos",
-            "volpiano": "1---h--hghg-gf---gh--g--g---g---g--g--g--h---gh--gh--hijh--h---gF---gh--hG--hk--h---h--h7--hghg---hf---fg-hf-hjh--hgfe-gh--gf---3---hkj---g---3",
-            "search_volpiano": "hhghggfghgggggghghghhijhhgFghhGhkhhhhghghffghfhjhhgfeghgfhkjg"
+            "volpiano": "1--gk--kj---klkj---kjhg-hg-hj---j--j--jh---jk--hj---",
+            "search_volpiano": "gkkjklkjkjhghghjjjjhjkhj"
         },
         {
             "id": "080r5",
@@ -16923,8 +16923,8 @@ var data = {
             "mode": "7",
             "differentia": "C1",
             "full_text_standard": "Vidi supra montem agnum",
-            "volpiano": "1---gkhj--hg---jk--l--k---l7---klj-kjhg-h--hg---ghf-gh-kh-jkjh---g--ghkhg-h---hg---k---ghk---k---k--k---jkl7--kj--klkj-kjhg-hg---l--lk--klm---lmlkj-k--kj---4---jk-lm--l---l--k---kl-mk-kj--gh-kghg-gf---f7---f---hk--k-kjh-k--k--jklkjh-jkjh---ghkhg-h--hg---3",
-            "search_volpiano": "gkhjhgjklklkljkjhghhgghfghkhjkjhgghkhghhgkghkkkkjklkjklkjkjhghgllkklmlmlkjkkjjklmllkklmkkjghkghggfffhkkkjhkkjklkjhjkjhghkhghhg"
+            "volpiano": "1--fgh---g---g---g---g---hj---g---g---g---fe---f---",
+            "search_volpiano": "fghgggghjgggfef"
         },
         {
             "id": "080r6",
@@ -16939,8 +16939,8 @@ var data = {
             "mode": "7",
             "differentia": "C1",
             "full_text_standard": "De sub cujus pede fons vivus",
-            "volpiano": "1---lmnml--klk-kj---k--k--kl--k--k---k7---k--k---k--k---kl--k---lj--kl--kl---l--lm-nm--nl---klk-kj--klk---l--l---l---lm-nm--kl---l--lm-nm--nl7---klk-kJ--klk---l---lm--l---l---l--l---lm--l---lmlmlk---lk--kl-ml-mnm---lk-lmlm--lkj-kj---3---jk-lm--3",
-            "search_volpiano": "lmnmlklkkjkkklkkkkkkkklkljklklllmnmnlklkkjklkllllmnmklllmnmnlklkkJklkllmlllllmllmlmlklkklmlmnmlklmlmlkjkjjklm"
+            "volpiano": "1--fg---g---h---g---k---kj---h---k---j---kj---hg---",
+            "search_volpiano": "fgghgkkjhkjkjhg"
         },
         {
             "id": "080r7",
@@ -16955,8 +16955,8 @@ var data = {
             "mode": "8",
             "differentia": "C1",
             "full_text_standard": "Omnes gentes per gyrum",
-            "volpiano": "1---gh--g---g---gh--g---g---ghk--kj-klklm--l---l---ml-mno--mnml-m--nl---l---l--m--l--kjkl7--h--gf--g--gh-khj--hg---4---lm---l--mn-op--pkl-lmlk-lkj-kj---l--mnm--lk-kl---hg--fg---gh-khj--hg---l---l7--k--k---km-no--o---opl-l-jkj---kl---k---lk-kl--k--lkl---hgf-gh--g---g--ghkjh-jkjh---ghkhg-h--hg---3",
-            "search_volpiano": "ghggghggghkkjklklmllmlmnomnmlmnlllmlkjklhgfgghkhjhglmlmnoppkllmlklkjkjlmnmlkklhgfgghkhjhgllkkkmnoooplljkjklklkklklklhgfghggghkjhjkjhghkhghhg"
+            "volpiano": "1--g---h---k---kl---l---k---l---m---n---o---m---",
+            "search_volpiano": "ghkkllklmnom"
         },
         {
             "id": "080r8",
@@ -16971,8 +16971,8 @@ var data = {
             "mode": "1",
             "differentia": "G1",
             "full_text_standard": "Dum iter per mare coepisset",
-            "volpiano": "1---l---l---l--l--lmnml--klk-kj---k--k--k--k---k--kl--k---k---k--lj--kl--kl---l--lm-nm7--ml---l--l--lmlmlk---lk--kl-ml-mnm--lk-lmlm--lkj-kj---3---lm---3",
-            "search_volpiano": "lllllmnmlklkkjkkkkkklkkkljklklllmnmmllllmlmlklkklmlmnmlklmlmlkjkjlm"
+            "volpiano": "1--a---ced---d---d---f---fef---de---dc---",
+            "search_volpiano": "acedddffefdedc"
         }
     ],
     "80v": [
@@ -16989,8 +16989,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Orante sancto Clemente",
-            "volpiano": "1---f--g--f---gh7---hg---f---gh--gfe--f--g---g--f---4",
-            "search_volpiano": "fgfghhgfghgfefggf"
+            "volpiano": "1--cd--fg-f--f---gh--g---fg--f--f---",
+            "search_volpiano": "cdfgffghgfgff"
         },
         {
             "id": "080v2",
@@ -17005,8 +17005,8 @@ var data = {
             "mode": "1",
             "differentia": "G1",
             "full_text_standard": "Dedisti domine habitaculum",
-            "volpiano": "1---h---hk--h---h---h---h--h--g--f--gh--hg---3---f---3",
-            "search_volpiano": "hhkhhhhhgfghhgf"
+            "volpiano": "1--dca---c---d---fe---d---edcd---de---fef-ed---",
+            "search_volpiano": "dcacdfededcddefefed"
         },
         {
             "id": "080v3",
@@ -17021,8 +17021,8 @@ var data = {
             "mode": "2",
             "differentia": "D1",
             "full_text_standard": "Placebo domino in regione vivorum",
-            "volpiano": "1---cd---dh--hk---hg--hf---ghG---e---f--d---f--e--d---fg--f---f--f--c---e---f7--g--e--fE---d--d---3---h--h--hG--f---gh--gfed---4",
-            "search_volpiano": "cddhhkhghfghGefdfedfgfffcefgefEddhhhGfghgfed"
+            "volpiano": "1--dh--h--gh--gfe---g--h---hk--kj---gh--hjh--h---",
+            "search_volpiano": "dhhghgfeghhkkjghhjhh"
         },
         {
             "id": "080v4",
@@ -17037,8 +17037,8 @@ var data = {
             "mode": "2",
             "differentia": "D1",
             "full_text_standard": "Heu mihi quia incolatus meus",
-            "volpiano": "1---f---f--fed--d---df--dC---c---df---fd---f--h7--ghg---e--f---g--cd--d--d---3---f--f--f--e---cd--d---4",
-            "search_volpiano": "fffedddfdCcdffdfhghgefgcdddfffecdd"
+            "volpiano": "1--dh--gh--gfe---gh--h---h---hjk--jg--h---",
+            "search_volpiano": "dhghgfeghhhhjkjgh"
         },
         {
             "id": "080v5",
@@ -17053,8 +17053,8 @@ var data = {
             "mode": "2",
             "differentia": "D1",
             "full_text_standard": "Dominus custodit te ab omni malo",
-            "volpiano": "1---g---gkj--k--l--k---k---h---jk--h---g--g7---k--kjh--hkj---j---k---lml--j--k---h--h---f--g--h---k--k---g--g---3---l--l--m--l---k--jh---4",
-            "search_volpiano": "ggkjklkkhjkhggkkjhhkjjklmljkhhfghkkggllmlkjh"
+            "volpiano": "1--gk---jkl---l---l---lnm---nmnl---lj---kl-mlkj-kjhg-hg-fhk---kj---kl---lj---klkjh-jkjh-",
+            "search_volpiano": "gkjkllllnmnmnlljklmlkjkjhghgfhkkjklljklkjhjkjh"
         },
         {
             "id": "080v6",
@@ -17069,8 +17069,8 @@ var data = {
             "mode": "7",
             "differentia": "C1",
             "full_text_standard": "Si iniquitates observaveris",
-            "volpiano": "1---d---f--e--d---d--c--d--ff--d---c---d---f--d--f---f--efd-dc--c---dc--f--gh--h--ghg---ef--g--fe7---cd--d---d---dgfg---fg-hg-hk--hg---f--g--h--g--f---g--d---d---g--f---ef--d--c--d--c7---df--c--ca---cB---d--cd--d---df-gh--fe---c--d--fg---ef--d---3---f--f--f--e---cd--d---4",
-            "search_volpiano": "dfeddcdffdcdfdffefddccdcfghhghgefgfecddddgfgfghghkhgfghgfgddgfefdcdcdfccacBdcdddfghfecdfgefdfffecdd"
+            "volpiano": "1--lmnml--kj--klk--kj-kl--k---k--k--lj--kl--kl---",
+            "search_volpiano": "lmnmlkjklkkjklkkkljklkl"
         }
     ],
     "81r": [
@@ -17087,8 +17087,8 @@ var data = {
             "mode": "2",
             "differentia": "D1",
             "full_text_standard": "Opera manuum tuarum",
-            "volpiano": "1---f--cd--df7---cd--d---e--g---e--e--d---fg---e--f---d--d---3---f--f--f--e---cd--d---4",
-            "search_volpiano": "fcddfcddegeedfgefddfffecdd"
+            "volpiano": "1--l---l---j---l---m---l---l---",
+            "search_volpiano": "lljlmll"
         },
         {
             "id": "081r2",
@@ -17103,8 +17103,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Audivi vocem de caelo",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--lj---l---m---l---l---jk---l---k---",
+            "search_volpiano": "ljlmlljklk"
         },
         {
             "id": "081r3",
@@ -17119,8 +17119,8 @@ var data = {
             "mode": "7",
             "differentia": "C1",
             "full_text_standard": "Omne quod dat mihi pater",
-            "volpiano": "1---c--cd---d---d--d---d---d--fE--dcd---cd---fd-fgh--fed-f--d---dC---f--g--h--g---f---f--f77--fgfd--d---d---dC---f--g--fh--hg-g---f--g--h--g---h--fe--d---d---e--f--g--f---g7---f--f---e--f--g---fe--d--d--d---3---h--h--hg--f---gh--gfed---4",
-            "search_volpiano": "ccddddddfEdcdcdfdfghfedfddCfghgffffgfddddCfgfhhggfghghfeddefgfgffefgfedddhhhgfghgfed"
+            "volpiano": "1--f---fg---g---hk---kj---hg---h---g---g---g---h---g---",
+            "search_volpiano": "ffgghkkjhghggghg"
         },
         {
             "id": "081r4",
@@ -17135,8 +17135,8 @@ var data = {
             "mode": "7",
             "differentia": "C1",
             "full_text_standard": "Dirige domine deus meus",
-            "volpiano": "1---e--fg--g---h--g---h7--gf---gh--h--gfg--d---d---e--f---g--f---hk--hg--g---3---k--k--j--k---h--ghg---4",
-            "search_volpiano": "efgghghgfghhgfgddefgfhkhggkkjkhghg"
+            "volpiano": "1--l---l---lj---l---m---l---l---l---jk---l---k---",
+            "search_volpiano": "llljlmllljklk"
         },
         {
             "id": "081r5",
@@ -17151,8 +17151,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Convertere domine et eripe animam",
-            "volpiano": "1---d--f---d--d---4",
-            "search_volpiano": "dfdd"
+            "volpiano": "1--j---k---lk---l---k---h---k---j---",
+            "search_volpiano": "jklklkhkj"
         },
         {
             "id": "081r6",
@@ -17167,8 +17167,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Nequando rapiat ut leo animam",
-            "volpiano": "1---f--g---h--gf--f---f---g--hfg--g---d--d--dC---f--e---d--d---3---h--h--hg--f---g--ghg---4",
-            "search_volpiano": "fghgfffghfggdddCfeddhhhgfgghg"
+            "volpiano": "1--defe---d---d---f---d---c---d---f---defc---c---",
+            "search_volpiano": "defeddfdcdfdefcc"
         },
         {
             "id": "081r7",
@@ -17183,8 +17183,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Dirige domine deus meus",
-            "volpiano": "1---g--g--h---k--kJ---k--k--k---g---g--hk--h--gF---e--fg--g---g---h--gf--g--gF---e--e---3---k--k--h7--k---k--jh---4",
-            "search_volpiano": "gghkkJkkkgghkhgFefggghgfggFeekkhkkjh"
+            "volpiano": "1--f---f---f---g---g---f---g---hg---",
+            "search_volpiano": "fffggfghg"
         },
         {
             "id": "081r8",
@@ -17199,8 +17199,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Credo quod redemptor meus",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--h--h---hj--g--g---h--g--f---g--h---",
+            "search_volpiano": "hhhjgghgfgh"
         }
     ],
     "81v": [
@@ -17217,8 +17217,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Quem visurus sum ego",
-            "volpiano": "1---c---cd---d--d---ff--dfec7---f--ghg---hgf-ghg-hij--h---h---g---e--f---gF--ghfe---d--d---3---h--h--hg--f---gh--gfed---4",
-            "search_volpiano": "ccdddffdfecfghghgfghghijhhgefgFghfeddhhhgfghgfed"
+            "volpiano": "1--f---f---f---g---g---f---g---hg------",
+            "search_volpiano": "fffggfghg"
         },
         {
             "id": "081v2",
@@ -17233,8 +17233,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Qui Lazarum resuscitasti",
-            "volpiano": "1---k--k---k--k--k--k---k-kjhg---3",
-            "search_volpiano": "kkkkkkkkjhg"
+            "volpiano": "1--h---h--h--h--hj--g---g--g---h--g--f---",
+            "search_volpiano": "hhhhhjggghgf"
         },
         {
             "id": "081v3",
@@ -17249,8 +17249,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Qui venturus est judicare",
-            "volpiano": "1---k--k---k---k--k--k---k--k---k--k-kjhg---3",
-            "search_volpiano": "kkkkkkkkkkkjhg"
+            "volpiano": "1--f---g---f---gh---hg---fh---gf---g---f---",
+            "search_volpiano": "fgfghhgfhgfgf"
         },
         {
             "id": "081v4",
@@ -17265,8 +17265,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Domine quando veneris",
-            "volpiano": "1---k--k7--k---k---k-kjhg---3",
-            "search_volpiano": "kkkkkkjhg"
+            "volpiano": "1--h--hj--g---h--g--g---f--g--g--h---",
+            "search_volpiano": "hhjghggfggh"
         }
     ],
     "82r": [
@@ -17283,8 +17283,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Commissa mea pavesco",
-            "volpiano": "1---g--f--f---f--g--gh--hg---fgh--gfe---fg---g--f---4",
-            "search_volpiano": "gfffgghhgfghgfefggf"
+            "volpiano": "1--c---d---f---fe---dc---d---fe---dc---f---gh---hg---fg---",
+            "search_volpiano": "cdffedcdfedcfghhgfg"
         },
         {
             "id": "082r2",
@@ -17299,8 +17299,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "In loco pascuae ibi me",
-            "volpiano": "1---f---g--h--h7--h--h--h---g---f--g--gh--hg---3",
-            "search_volpiano": "fghhhhhgfgghhg"
+            "volpiano": "1--h---h---hg---k---l---f---gh---h---",
+            "search_volpiano": "hhhgklfghh"
         },
         {
             "id": "082r3",
@@ -17315,8 +17315,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Delicta juventutis et ignorantias",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--c---cd---d---d---ff---defec---f---g---h---g---h---h---",
+            "search_volpiano": "ccdddffdefecfghghh"
         },
         {
             "id": "082r4",
@@ -17331,8 +17331,8 @@ var data = {
             "mode": "4",
             "differentia": "E1",
             "full_text_standard": "Credo videre bona domini",
-            "volpiano": "1---k--k---k--k--kjhg---3",
-            "search_volpiano": "kkkkkjhg"
+            "volpiano": "1--d---d---fgh---g---gh---h---hg---hjk---gh---gfg-gf---",
+            "search_volpiano": "ddfghgghhhghjkghgfggf"
         },
         {
             "id": "082r5",
@@ -17347,8 +17347,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Memento mei deus quia ventus",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--gk--kj---klkj---kjhg-hg-hj---j--j--jh---jk--hj---",
+            "search_volpiano": "gkkjklkjkjhghghjjjjhjkhj"
         },
         {
             "id": "082r6",
@@ -17363,8 +17363,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "De profundis clamavi",
-            "volpiano": "1---k--k--k---k--k-kjhg---3",
-            "search_volpiano": "kkkkkkjhg"
+            "volpiano": "1--d---d---fgh---g---g---hf---g---hk---k---kjkh---jkjhg---hg-gh---jk-jhj-hg---",
+            "search_volpiano": "ddfghgghfghkkkjkhjkjhghgghjkjhjhg"
         },
         {
             "id": "082r7",
@@ -17379,8 +17379,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Heu mihi domine",
-            "volpiano": "1---k--k--k7---k--k---k--k-kjhg---3",
-            "search_volpiano": "kkkkkkkkjhg"
+            "volpiano": "1--gk--k---kj--klkj---kjhg-hg-hj--j---jh--kl--k---",
+            "search_volpiano": "gkkkjklkjkjhghghjjjhklk"
         }
     ],
     "82v": [
@@ -17397,8 +17397,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Anima mea turbata est",
-            "volpiano": "1---k--k---hk--k---k--k---k--gh--h---k7--j---hG--h---h--gf--ef--ed---d---e---ghk--h---g--gF--ef--g---gF---e--e---3---k--k--k--k---hk--k---4",
-            "search_volpiano": "kkhkkkkkghhkjhGhhgfefeddeghkhggFefggFeekkkkhkk"
+            "volpiano": "1--f--g--h---j-flht--h---g--h--ghg---e--f--g--fe---",
+            "search_volpiano": "fghjflhthghghgefgfe"
         },
         {
             "id": "082v2",
@@ -17413,8 +17413,8 @@ var data = {
             "mode": "6",
             "differentia": null,
             "full_text_standard": "Ne recorderis peccata mea",
-            "volpiano": "1---g--g--h--hG---g--g---g--g---h--g--hk--gf--f---h---f--hk--k--kj---hg--h--g---g---g--g7--f---gh--h--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "gghhGgggghghkgffhfhkkkjhghggggfghhgkkjkhg"
+            "volpiano": "1--d---dc---f---g---fgh---h---g---j---h---g---",
+            "search_volpiano": "ddcfgfghhgjhg"
         },
         {
             "id": "082v3",
@@ -17429,8 +17429,8 @@ var data = {
             "mode": "6",
             "differentia": null,
             "full_text_standard": "Dirige domine deus meus",
-            "volpiano": "1---d--e--g--g---g--hj--h--h---h---g--h77---j--hg--h--h--h---h---eh--g---g--e--d--ed---cd--e--g---e--e---3---h--g--h--k---g--eg---4",
-            "search_volpiano": "deggghjhhhghjhghhhhehggededcdegeehghkgeg"
+            "volpiano": "1--g---g---h---k---j---h---k---j---",
+            "search_volpiano": "gghkjhkj"
         },
         {
             "id": "082v4",
@@ -17445,8 +17445,8 @@ var data = {
             "mode": "2",
             "differentia": "D1",
             "full_text_standard": "Complaceat tibi domine",
-            "volpiano": "1---d---dC--f7---g--f--gh--h---h--hk--h---h--hg-hijh---h--gF--fg--fe---g--fe--df--fc---f---e--f---g--fe--d7--cd--d---3---h--h--hg--f---gh--g---4",
-            "search_volpiano": "ddCfgfghhhhkhhhghijhhgFfgfegfedffcfefgfedcddhhhgfghg"
+            "volpiano": "1--g--g--h---j--hg---h--g---g---gl---",
+            "search_volpiano": "gghjhghgggl"
         },
         {
             "id": "082v5",
@@ -17461,8 +17461,8 @@ var data = {
             "mode": "2",
             "differentia": "D1",
             "full_text_standard": "Sana domine animam meam",
-            "volpiano": "1---d--fg--g--gfg---d---fg---hkhg-hg--g---hk-k--k--k---k--k--k--k---khkjg-hg---4---g7---h--g--h--ghf--fg--ge-fdc-dgfe-fed---d--ghgf-gh--ghkjh-jkjh---ghkhg-h--hg---3",
-            "search_volpiano": "dfgggfgdfghkhghgghkkkkkkkkkhkjghgghghghffggefdcdgfefeddghgfghghkjhjkjhghkhghhg"
+            "volpiano": "1--j--k---lk--l---k---h--k--j---l--k--",
+            "search_volpiano": "jklklkhkjlk"
         },
         {
             "id": "082v6",
@@ -17477,8 +17477,8 @@ var data = {
             "mode": "2",
             "differentia": "D1",
             "full_text_standard": "Sitivit anima mea ad deum",
-            "volpiano": "1---k--kj--klk-jkh-hg7---h---k---k---k--kh--jk--hk---gh-jh--hg---g--fg--g---g--gh--g--g---g--g--g--g--hkhg-hjh---ghf--gh7---hkj-klkjh--hkhg-hg---3---g---h---3",
-            "search_volpiano": "kkjklkjkhhghkkkkhjkhkghjhhggfgggghgggggghkhghjhghfghhkjklkjhhkhghggh"
+            "volpiano": "1--f---f---f---g---g---f---g---hg---f---",
+            "search_volpiano": "fffggfghgf"
         },
         {
             "id": "082v7",
@@ -17493,8 +17493,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Ne tradas bestiis animas",
-            "volpiano": "1---d--cdca---cdc--df---fed-fd--cd--dfd-dc---d7---f--fe--cd--d--defed-e---fd---4---f--gh---h--g---f---fe--fg---fed--df---c--d---f--fed--dfc-dcba---cdf7--d---fgh---fed-fg-hf-fE---defed-e--fd---3",
-            "search_volpiano": "dcdcacdcdffedfdcddfddcdffecdddefedefdfghhgffefgfeddfcdffeddfcdcbacdfdfghfedfghffEdefedefd"
+            "volpiano": "1--h--h---hj--g--g---h--g--f---g--h---",
+            "search_volpiano": "hhhjgghgfgh"
         }
     ],
     "83r": [
@@ -17511,8 +17511,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Peccantem me cottidie et non",
-            "volpiano": "1---cd-f-fg--f---gh--g---fg--f--f---f--fg--f---f7---fE---fg--ef--d--de-fe---ed---d---cd--d---d--d--df--d---d---df--d---defedc--d--fefgf7---fed-e--dc---3---f--gh---3",
-            "search_volpiano": "cdffgfghgfgffffgfffEfgefddefeeddcdddddfdddfddefedcdfefgffededcfgh"
+            "volpiano": "1--f---gh---hg---f---g---g---f---gh---",
+            "search_volpiano": "fghhgfggfgh"
         },
         {
             "id": "083r2",
@@ -17527,8 +17527,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Deus in [no]mine tuo salvum me",
-            "volpiano": "1---fh---hk-kL--k---k--kjl---lmk--k---k--k--k--g---kjkh7--kk-kjh-jkjh---ghkhg-h--gh---4---f---h--k--kjlmk--k---k--kg-hk--k-kjg-hk---khkhg-h7--g-gh-kh-hg---k-kjh-jkjh--ghkhg-h--hg---3",
-            "search_volpiano": "fhhkkLkkkjllmkkkkkgkjkhkkkjhjkjhghkhghghfhkkjlmkkkkghkkkjghkkhkhghgghkhhgkkjhjkjhghkhghhg"
+            "volpiano": "1--h---h--h---hj--g---h--g--f---",
+            "search_volpiano": "hhhhjghgf"
         },
         {
             "id": "083r3",
@@ -17543,8 +17543,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Domine secundum actum meum",
-            "volpiano": "1---k---k--k--kj--klkj-khg-hg---hk--kj---hG---hk--hj7--gh-jh--hg---g--fg---g---g--g---g--hkhg-hjh--ghf--gh---hkj-klkjh--hkhg-hg---3---f---3",
-            "search_volpiano": "kkkkjklkjkhghghkkjhGhkhjghjhhggfggggghkhghjhghfghhkjklkjhhkhghgf"
+            "volpiano": "1--f---g---f---gh---hg---f---gh---gfd---",
+            "search_volpiano": "fgfghhgfghgfd"
         },
         {
             "id": "083r4",
@@ -17559,8 +17559,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Amplius lava me domine",
-            "volpiano": "1---k--kj7--klk-jkh-hg---hk--k---kJ---kl--kj--k---h---g--h--kh--k---gh--gf---3---f---3",
-            "search_volpiano": "kkjklkjkhhghkkkJklkjkhghkhkghgff"
+            "volpiano": "1--hj---g---g--g--g--g--h---",
+            "search_volpiano": "hjgggggh"
         }
     ],
     "83v": [
@@ -17577,8 +17577,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Libera me domine de morte",
-            "volpiano": "1---ghG--gf---g--hk77---kk--lmk---k---4---kjk---h--g---h--hk--g--ghkjh-jkjh---g--ghkhg-h--hg---3",
-            "search_volpiano": "ghGgfghkkklmkkkjkhghhkgghkjhjkjhgghkhghhg"
+            "volpiano": "1--g---gk---h---h---g---f---gh---g---",
+            "search_volpiano": "ggkhhgfghg"
         },
         {
             "id": "083v2",
@@ -17593,8 +17593,8 @@ var data = {
             "mode": "2S",
             "differentia": null,
             "full_text_standard": "Tremens factus sum ego",
-            "volpiano": "1---g---g--hgh7---gF--g--hk---kj-klkl--lk---3---kjk---h---3",
-            "search_volpiano": "gghghgFghkkjklkllkkjkh"
+            "volpiano": "1--gk---h---hg---f---gh---g---j---k---l---h---k---j---",
+            "search_volpiano": "gkhhgfghgjklhkj"
         },
         {
             "id": "083v3",
@@ -17609,8 +17609,8 @@ var data = {
             "mode": "2S",
             "differentia": null,
             "full_text_standard": "Dies illa dies irae",
-            "volpiano": "1---k--kj--klkj-kh-hg---3",
-            "search_volpiano": "kkjklkjkhhg"
+            "volpiano": "1--h---f---hk---k---kh---hk---lkl-jkjh---hjkgf---ghg-",
+            "search_volpiano": "hfhkkkhhklkljkjhhjkgfghg"
         },
         {
             "id": "083v4",
@@ -17625,8 +17625,8 @@ var data = {
             "mode": "2S",
             "differentia": null,
             "full_text_standard": "Requiem aeternum dona eis",
-            "volpiano": "1---f--f--fe-fgfg7--d--c---f---fcfd--d---f-fgf--f---fe--d--cf--fE--fgefd--d---3",
-            "search_volpiano": "fffefgfgdcffcfddffgfffedcffEfgefdd"
+            "volpiano": "1--lj---lm---l---kl---l---l---j---",
+            "search_volpiano": "ljlmlklllj"
         },
         {
             "id": "083v5",
@@ -17641,8 +17641,8 @@ var data = {
             "mode": "2",
             "differentia": "D1",
             "full_text_standard": "Exsultabunt domino ossa humilitata",
-            "volpiano": "1---f--f--f--f--fg---g--f--f7---d--f--dc---f---f--f--f--d---f--dc--c---3---f-fg--f---3",
-            "search_volpiano": "fffffggffdfdcffffdfdccffgf"
+            "volpiano": "1--d---e---gh---h---g---f---gh---gfe---e---",
+            "search_volpiano": "deghhgfghgfee"
         },
         {
             "id": "083v6",
@@ -17657,8 +17657,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Exaudi domine orationem meam",
-            "volpiano": "1---f--f--f---fg--g---g---f--f--f---f---f7--c--cf--f---cf--d---3",
-            "search_volpiano": "ffffgggfffffccffcfd"
+            "volpiano": "1--g---g---j---l---k---h---k---j---k---k---hjk---jkj---",
+            "search_volpiano": "ggjlkhkjkkhjkjkj"
         }
     ],
     "84r": [
@@ -17675,8 +17675,8 @@ var data = {
             "mode": "7",
             "differentia": "C1",
             "full_text_standard": "Me suscepit dextera tua",
-            "volpiano": "1---9a--cd---cdf---f--fef--fdefec-de-fd---f--e--df---cd-fd-fc7--c---4---f---fE--dfd--cd--dfcd--cdc-ca---cfc-df--d--cdca---cdf--efd-fca-cfcd---d--defed-e--fd---3",
-            "search_volpiano": "acdcdfffeffdefecdefdfedfcdfdfccffEdfdcddfcdcdccacfcdfdcdcacdfefdfcacfcdddefedefd"
+            "volpiano": "1--gk---k---k---h---hjkjg---gh---jkj-jkg-efe-gh---g---g---",
+            "search_volpiano": "gkkkhhjkjgghjkjjkgefeghgg"
         },
         {
             "id": "084r2",
@@ -17691,8 +17691,8 @@ var data = {
             "mode": "2",
             "differentia": "D1",
             "full_text_standard": "A porta inferi erue domine",
-            "volpiano": "1---cd-f-fg--f--fe---fg--ef---de-fe---ed---d---cd---d---d---d--df--d---defedc--d--fefgf---fed-e7--dc---3---f---fE---3",
-            "search_volpiano": "cdffgffefgefdefeeddcdddddfddefedcdfefgffededcffE"
+            "volpiano": "1--klkk--hjkjhg---hg-k--k--k---jk--h---h---hj--h---",
+            "search_volpiano": "klkkhjkjhghgkkkjkhhhjh"
         },
         {
             "id": "084r3",
@@ -17707,8 +17707,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "Omnis spiritus laudet",
-            "volpiano": "1---cd-f-fg--f--f---g---3",
-            "search_volpiano": "cdffgffg"
+            "volpiano": "1--f---df---f---f---f---f---efgfe---fed-ed-f---ef---dc---def---",
+            "search_volpiano": "fdfffffefgfefededfefdcdef"
         },
         {
             "id": "084r4",
@@ -17723,8 +17723,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Audivi vocem de caelo",
-            "volpiano": "1---d--a--cdc---d---fe--ff-fdfd---f--e7---f--d---f--dfdc---dfed--cd--d---defed--cdc---acdcb-cdcd--dc---4---a---cd-efd-fc-df-efgfed-efd-fc7--cdf--d---3",
-            "search_volpiano": "dacdcdfefffdfdfefdfdfdcdfedcdddefedcdcacdcbcdcddcacdefdfcdfefgfedefdfccdfd"
+            "volpiano": "1--h--gh--gf---ghghge-fe-gh--g---g---g--g--gf--gh--gf---cde---d---f---fef---gde-dc---c---d---f---fedc---de-d---de---fge-fe-",
+            "search_volpiano": "hghgfghghgefeghgggggfghgfcdedffefgdedccdffedcdeddefgefe"
         },
         {
             "id": "084r5",
@@ -17739,8 +17739,8 @@ var data = {
             "mode": "2",
             "differentia": "D1",
             "full_text_standard": "Ego sum resurrectio et vita",
-            "volpiano": "1---d--cd-f-fg--f---gh--g---fg--fe---fg---ef--d--df--dc---f--gh--g---f--fe7---fg--ef---d--de-fe--fd---d--cd---d--d--d---df--d---defedc---d---fe-fgf--fed-e--dc---3---a--cd---3",
-            "search_volpiano": "dcdffgfghgfgfefgefddfdcfghgffefgefddefefddcdddddfddefedcdfefgffededcacd"
+            "volpiano": "1--d--cd--fg-f---f---gh--g---f---f---fe--fg--ef---",
+            "search_volpiano": "dcdfgffghgfffefgef"
         },
         {
             "id": "084r6",
@@ -17755,8 +17755,8 @@ var data = {
             "mode": "1",
             "differentia": "G1",
             "full_text_standard": "Jam sanctae Clarae claritas",
-            "volpiano": "1---k--k---lnl--l---k--lmk--hij-kh-hijg---4---gh-k-kl--kj---lm--lml--k--klmlk-l--lk---3",
-            "search_volpiano": "kklnllklmkhijkhhijgghkklkjlmlmlkklmlkllk"
+            "volpiano": "1--lj---l---m---l---l---l---m---l---jk---l---k---",
+            "search_volpiano": "ljlmlllmljklk"
         },
         {
             "id": "084r7",
@@ -17771,8 +17771,8 @@ var data = {
             "mode": "2",
             "differentia": "D1",
             "full_text_standard": "Mundi totius gloriam",
-            "volpiano": "1---k---kln--n--nmnml-ml7---k--k--lmk--hij-khijg---3---gh-k-kl---3",
-            "search_volpiano": "kklnnnmnmlmlkklmkhijkhijgghkkl"
+            "volpiano": "1--l---j---l---m---l---l---l---j---kl---l---g---g---",
+            "search_volpiano": "ljlmllljkllgg"
         }
     ],
     "84v": [
@@ -17789,8 +17789,8 @@ var data = {
             "mode": "3",
             "differentia": "G1",
             "full_text_standard": "Haec in paternis laribus",
-            "volpiano": "1---k--k--g---j--k--l--k---lm--l---kl--k---k7--l--kj--h---kJ--g---h---k--h---g--h--k---h---j---k--lh--j--h---g--g---3---k--k--j--k7---h--gh---4",
-            "search_volpiano": "kkgjklklmlklkklkjhkJghkhghkhjklhjhggkkjkhgh"
+            "volpiano": "1--k---k---klk---g---j---l---k---hk---j---",
+            "search_volpiano": "kkklkgjlkhkj"
         },
         {
             "id": "084v2",
@@ -17805,8 +17805,8 @@ var data = {
             "mode": "4",
             "differentia": "E1",
             "full_text_standard": "Sancta spirat infantia",
-            "volpiano": "1---d---efg--g---g---gh--g--g---g--g---e--fe--d---fg--h---g--fg--fe---g77--fe---d--cd--d---3---h--h--g--f---gh--g---4",
-            "search_volpiano": "defgggghggggefedfghgfgfegfedcddhhgfghg"
+            "volpiano": "1--dfgf---fd---fgf---g---ghgf---ghg-hj-h---",
+            "search_volpiano": "dfgffdfgfgghgfghghjh"
         },
         {
             "id": "084v3",
@@ -17821,8 +17821,8 @@ var data = {
             "mode": "5",
             "differentia": "A1",
             "full_text_standard": "Hanc et papa Gregorius",
-            "volpiano": "1---c--d---fg--ghg---fg-hg--h7---g--f--f--fe--g---fe--d--cd--d---3---h--h--g--f---gh--gfed---4",
-            "search_volpiano": "cdfgghgfghghgfffegfedcddhhgfghgfed"
+            "volpiano": "1--dh---h--hghg---gf-gh--g---g---g--g--hf--gh--gh---",
+            "search_volpiano": "dhhhghggfghgggghfghgh"
         }
     ],
     "85r": [
@@ -17839,8 +17839,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Concinat plebs*",
-            "volpiano": "1---f--fE--d---f--f--fc---df--f---e--f7--f--e---d---f--d---d---dc--f--e---d--cd--d---3---f--f--f--e---cd--d---4",
-            "search_volpiano": "ffEdfffcdffeffedfdddcfedcddfffecdd"
+            "volpiano": "1--f---df---f---fgf---fded-f---ef---gh-g---g---g---g---gh---h---",
+            "search_volpiano": "fdfffgffdedfefghggggghh"
         },
         {
             "id": "085r2",
@@ -17855,8 +17855,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Ora pro nobis beata Clara",
-            "volpiano": "1---g--g--gk--h--gk---k---kl--k---kJ---h--k--jk---h--g---hkgf--f---fgh---hghg-gF7--f---kk---l--k--h---k--k---k--k---klk--kjk---h--k---k--g--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "gggkhgkkklkkJhkjkhghkgfffghhghggFfkklkhkkkkklkkjkhkkggkkjkhg"
+            "volpiano": "1--h--gf---ghghge-fe-g--g--gh--g---",
+            "search_volpiano": "hgfghghgefeggghg"
         },
         {
             "id": "085r3",
@@ -17871,8 +17871,8 @@ var data = {
             "mode": "6",
             "differentia": "F1",
             "full_text_standard": "O decus et gaudium o virginali",
-            "volpiano": "1---g--h---k--k---k--k---k---k--lm---l--l---k--k---l--m--m---k---lm--m---l--kl--l---hl--kj7---hg--h---g--f--g---h--ij--k---ij---kl--kij---h--h---3---l--k--l--n---k--hk---4",
-            "search_volpiano": "ghkkkkkklmllkklmmklmmlkllhlkjhghgfghijkijklkijhhlklnkhk"
+            "volpiano": "1--cd---fghg---ef-dcd---def---dhjgf---ghg-hj-hg---fg---hgh-gfe---fgfg-gf---",
+            "search_volpiano": "cdfghgefdcddefdhjgfghghjhgfghghgfefgfggf"
         },
         {
             "id": "085r4",
@@ -17887,8 +17887,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Regi qui carnem induit",
-            "volpiano": "1---1---c--d---f--f7---c---ef--d---f--g---g--f---g--f---d---f--ef---d--d---c--df---f---f--gF--f---gh7--fe---d--d---d---f--g---f--gF--f---d--f--f---d--f---c--c---f---g---h--g---h--g7---f---g--gh---f--f---h---k--k--h---k--g---h---g--h--g--fe---g--gh---f--f---f--f7---f--fE---d--d---c---d--fe---d--d---3---h--h--hg--f---gh--gfed---4",
-            "search_volpiano": "cdffcefdfggfgfdfefddcdfffgFfghfedddfgfgFfdffdfccfghghgfgghffhkkhkghghgfegghffffffEddcdfeddhhhgfghgfed"
+            "volpiano": "1--dh--h--hghg---gf-gh--g---",
+            "search_volpiano": "dhhhghggfghg"
         },
         {
             "id": "085r5",
@@ -17903,8 +17903,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Concinat*",
-            "volpiano": "1---c---d---f--e--d---f--g7--g--f---gh--g---f-fg--f---f--g---e--f---df--fc---ef--g---fE---d--cd---d---3---h--h--hg--f---gh--gfd---4",
-            "search_volpiano": "cdfedfggfghgffgffgefdffcefgfEdcddhhhgfghgfd"
+            "volpiano": "1--g---g---k---k---h---k---j---g---h---h---",
+            "search_volpiano": "ggkkhkjghh"
         },
         {
             "id": "085r6",
@@ -17919,8 +17919,8 @@ var data = {
             "mode": "1",
             "differentia": "D1",
             "full_text_standard": "Haec una de prudentibus                  ",
-            "volpiano": "1---gh---k--kl--l---k--l---m---k--lm---l--l---hl--kj---hg--hg---fg--h7---k--h--h---3---l--k--l--n---k--hk---4",
-            "search_volpiano": "ghkkllklmklmllhlkjhghgfghkhhlklnkhk"
+            "volpiano": "1--gk---h---gf---gh---g---j---k---l---k---",
+            "search_volpiano": "gkhgfghgjklk"
         }
     ],
     "85v": [
@@ -17937,8 +17937,8 @@ var data = {
             "mode": "2",
             "differentia": "D1",
             "full_text_standard": "Excelsi servus virginem",
-            "volpiano": "1---g--h---k--kl--l---k--l---m--lk---l--l---hl7---kj--h--g--h---g--f--g---h--k--h--gh--h---3---l--k--l--n---k--hk---4",
-            "search_volpiano": "ghkkllklmlkllhlkjhghgfghkhghhlklnkhk"
+            "volpiano": "1--l---j---l---m---l---l---l---j---cd---c---g---g---",
+            "search_volpiano": "ljlmllljcdcgg"
         },
         {
             "id": "085v2",
@@ -17953,8 +17953,8 @@ var data = {
             "mode": "3",
             "differentia": "G1",
             "full_text_standard": "Cuncta pro Christi nomine                ",
-            "volpiano": "1---h--g--h---k--kl--l77---k--l--m--l---k---l--l---h--l--j--k---kj--k---j---h--j--k--m---k--k---3---l--k--l--n---k--h---4",
-            "search_volpiano": "hghkkllklmlkllhljkkjkjhjkmkklklnkh"
+            "volpiano": "1--gh---g---g---ghk---klkj---kl---mlm-ml---",
+            "search_volpiano": "ghggghkklkjklmlmml"
         },
         {
             "id": "085v3",
@@ -17969,8 +17969,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Francisci pia plantula mire",
-            "volpiano": "1---g--gl--l---l---n--l--k---k--k--gh---f---h---k--k---k--j--h---kl--l---lm--kj7---gh---k---h--g--g---3---l--l--m--l---k--l---4",
-            "search_volpiano": "gglllnlkkkghfhkkkjhklllmkjghkhggllmlkl"
+            "volpiano": "1--lmnml--kj--klk--kj-k--k---k--lj---",
+            "search_volpiano": "lmnmlkjklkkjkkklj"
         },
         {
             "id": "085v4",
@@ -17985,8 +17985,8 @@ var data = {
             "mode": "1S",
             "differentia": null,
             "full_text_standard": "Virgo sub sacra regula",
-            "volpiano": "1---d---dc---f--g---fh--h---f--g---h--g---h--fe7--d---g--g---h--g--f---f--f---f---e--f--g---fe---d--d---3---h--h--hg--f---gh--g---4",
-            "search_volpiano": "ddcfgfhhfghghfedgghgffffefgfeddhhhgfghg"
+            "volpiano": "1--h---f---h---hklkj---klkl-lk---lkhg---hj-hkhg---hjhg-f---fg---hgfg-gf---",
+            "search_volpiano": "hfhhklkjklkllklkhghjhkhghjhgffghgfggf"
         }
     ],
     "86r": [
@@ -18003,8 +18003,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "In via paenitentiae glebas",
-            "volpiano": "1---k--kl7---l---k---l--m---lk--l--l---h---l--j--k--h---hg--hg---f--g--h---k--h--h---3---l--k--l--n---k--l---4",
-            "search_volpiano": "kkllklmlkllhljkhhghgfghkhhlklnkl"
+            "volpiano": "1--k--k--klk k---hjh-kl--kjk--lkl-lk---k--k--k---",
+            "search_volpiano": "kkklkkhjhklkjklkllkkkk"
         },
         {
             "id": "086r2",
@@ -18019,8 +18019,8 @@ var data = {
             "mode": "2S",
             "differentia": null,
             "full_text_standard": "Cujus ferventes gressus devote",
-            "volpiano": "1---h--k--h---k--kh---h--g--h--hk---g--g---k---k--moN--l---k---lm--k---j---k--l--k7--k--j---h---jk--j---h--h---3---k--k--k--j---gh--h---4",
-            "search_volpiano": "hkhkkhhghhkggkkmoNlklmkjklkkjhjkjhhkkkjghh"
+            "volpiano": "1--cde---d---cd---f---fecd---defd---d---cd---fghf---f---",
+            "search_volpiano": "cdedcdffecddefddcdfghff"
         },
         {
             "id": "086r3",
@@ -18035,8 +18035,8 @@ var data = {
             "mode": "3",
             "differentia": null,
             "full_text_standard": "Hic paupertatis titulo pollens",
-            "volpiano": "1---f--gh--h---h--g---ef---g---fe---d--d7---d---dgfg---h--g--fe--fg---g---f--f---f--e--d--d--c---c--d---f--f---f--f--f---fg--f---e---f--g--fe7---d--d---3---h--h--h--g---h--g---4",
-            "search_volpiano": "fghhhgefgfeddddgfghgfefggfffeddccdffffffgfefgfeddhhhghg"
+            "volpiano": "1--d--cd--fg-f---f---gh--g---f---f---fe--fg--ef---",
+            "search_volpiano": "dcdfgffghgfffefgef"
         },
         {
             "id": "086r4",
@@ -18051,8 +18051,8 @@ var data = {
             "mode": "3S",
             "differentia": null,
             "full_text_standard": "In paupertatis modulo nostri",
-            "volpiano": "1---g--h--k--kl---l---k--l---m--lK--l--l--l---h--l---j--k7---h--h--h---hg--hg---f---g--h--k---h--h---3---l--k--l--n---k--hk---4",
-            "search_volpiano": "ghkkllklmlKlllhljkhhhhghgfghkhhlklnkhk"
+            "volpiano": "1--d---d---fgh---g---g---f---hjh---g---gk---",
+            "search_volpiano": "ddfghggfhjhggk"
         },
         {
             "id": "086r5",
@@ -18067,8 +18067,8 @@ var data = {
             "mode": "3S",
             "differentia": null,
             "full_text_standard": "Gloria patri et filio",
-            "volpiano": "1---d--ef--g--g--g---fE--d7---dc---fg-h--hg-hijh---g--e--f---g--fe---d--d---f--d--e---f--g--g--ef---g--fe--d--d---3---h--h--hg--f---gh--g---4",
-            "search_volpiano": "defgggfEddcfghhghijhgefgfeddfdefggefgfeddhhhgfghg"
+            "volpiano": "1--k--k--klk---hjh-kl--k---k---k--k--kh--hl--jk---",
+            "search_volpiano": "kkklkhjhklkkkkkhhljk"
         },
         {
             "id": "086r6",
@@ -18083,8 +18083,8 @@ var data = {
             "mode": "4",
             "differentia": "E1",
             "full_text_standard": "Oblata per Gregorium",
-            "volpiano": "1---df--d--d---d--c--dg--f---fe--dc--d--df---fd--fhgh---h--g--f---g--f--f---f---e--f--g---fe7--d--d---3---h--h--hg--f---gh--g---4",
-            "search_volpiano": "dfdddcdgffedcddffdfhghhgfgfffefgfeddhhhgfghg"
+            "volpiano": "1--d---d---d---d---f---d---de---fg---h---g---",
+            "search_volpiano": "ddddfddefghg"
         }
     ],
     "86v": [
@@ -18101,8 +18101,8 @@ var data = {
             "mode": "5",
             "differentia": "A1",
             "full_text_standard": "Parat magistra vasculum",
-            "volpiano": "1---f---gh--hg--hg-gF---4",
-            "search_volpiano": "fghhghggF"
+            "volpiano": "1--b---b---b---b---d---b---d---dc---",
+            "search_volpiano": "bbbbdbddc"
         },
         {
             "id": "086v2",
@@ -18117,8 +18117,8 @@ var data = {
             "mode": "6",
             "differentia": "F1",
             "full_text_standard": "Hortatur haec ut pauperes",
-            "volpiano": "1---d--ef--g--f---gh---fe--d--dfd-dc---h--g--g---h--gf--g--f---fd--f---g---h--g--f---e--fE--g7---gh--f--fe---d--cd--d---3---h--h--hg--f---gh--g---4",
-            "search_volpiano": "defgfghfeddfddchgghgfgffdfghgfefEgghffedcddhhhgfghg"
+            "volpiano": "1--ef---ef---dg---g---hj---j---jkl---k---",
+            "search_volpiano": "efefdgghjjjklk"
         },
         {
             "id": "086v3",
@@ -18133,8 +18133,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "A civibus obsidio removetur",
-            "volpiano": "1---g--gkj--k---lk-lmlm--ml---l--lm-nml---k--lml--klklk-kj---jk---lm-ml---lk-lmk-kJ7--hg---h--kj---kljkjh--khjkjh---ghkhg-h--hg---3---l--lm-nl--l--k---4",
-            "search_volpiano": "ggkjklklmlmmlllmnmlklmlklklkkjjklmmllklmkkJhghkjkljkjhkhjkjhghkhghhgllmnllk"
+            "volpiano": "1--d---d---dc---f---g---fgh---h---g---j-flht---h---",
+            "search_volpiano": "dddcfgfghhgjflhth"
         },
         {
             "id": "086v4",
@@ -18149,8 +18149,8 @@ var data = {
             "mode": "4S",
             "differentia": null,
             "full_text_standard": "Orationum studio meretur",
-            "volpiano": "1---ghkjh-j--jh---gkj--k---lk-lmlm--ml---l--l-lkl--hk---jklkjh-jkjh---ghkhg-h7--hg---k---ghk--k---k---k--k--k--k--jkl---kj---klkj-kjhg-hg---lklm---ml-mkl--l-hklkj-k7--kj---4---k---j--kl--l-lK--l---lk-kjhg--hgh-kk-lk-kj---k--hk--jklkjh-jkjh---ghkhg-h--hg---3",
-            "search_volpiano": "ghkjhjjhgkjklklmlmmllllklhkjklkjhjkjhghkhghhgkghkkkkkkkjklkjklkjkjhghglklmmlmkllhklkjkkjkjklllKllkkjhghghkklkkjkhkjklkjhjkjhghkhghhg"
+            "volpiano": "1--g---hk---k---k---h---hjkjg---g---g---hk---k---jk---h---",
+            "search_volpiano": "ghkkkhhjkjggghkkjkh"
         },
         {
             "id": "086v5",
@@ -18165,8 +18165,8 @@ var data = {
             "mode": "5",
             "differentia": null,
             "full_text_standard": "Amica crucis plangere",
-            "volpiano": "1---lmnml7--klk-kj---k--kl--k---k--lj--kl---kl--l--lm-nm--ml---klk-kj---klk--l---l--l---l--l--lmlmlk---lk7---kl-ml-mnm--lk-lmlm---lkj-kj---3---k---j---3",
-            "search_volpiano": "lmnmlklkkjkklkkljklklllmnmmlklkkjklkllllllmlmlklkklmlmnmlklmlmlkjkjkj"
+            "volpiano": "1--g---hk---k---k---kh---j---h---g---g---",
+            "search_volpiano": "ghkkkkhjhgg"
         }
     ],
     "87r": [
@@ -18183,8 +18183,8 @@ var data = {
             "mode": "5S",
             "differentia": null,
             "full_text_standard": "Haec Christi sui munere",
-            "volpiano": "1---g--g---gh-khj--hg---gkj--k--k---lk-lmlm7--ml---l--k---kl-mk-kj--gh-kg-hg-gf---fhk--jklkjh-jkjh---g--hkg-hkh---gF---g--hk7--kjh-hlkl--lj-klkjh-jkjh---g--ghkhg-h--hg---g--gl--l---lmnml---lmnml--lmnml-m--nl7---lmmnml-m--l---lmnml-m--lm-nm---k--k---ln--mnml-m--l---lmnml-m--nl---4---j---l--l7---lkl--klk---kh---k--lm---l--lj-kmlj-khg-khg-hjh---fhk--kjh--hlkl--lj-klkjh-jkjh--ghkhg-h--hg---3",
-            "search_volpiano": "ggghkhjhggkjkklklmlmmllkklmkkjghkghggffhkjklkjhjkjhghkghkhgFghkkjhhlklljklkjhjkjhgghkhghhggglllmnmllmnmllmnmlmnllmmnmlmllmnmlmlmnmkklnmnmlmllmnmlmnljlllklklkkhklmlljkmljkhgkhghjhfhkkjhhlklljklkjhjkjhghkhghhg"
+            "volpiano": "1--f---f---f---gh---hg---g---f---gh---g---fd---fg---",
+            "search_volpiano": "fffghhggfghgfdfg"
         },
         {
             "id": "087r2",
@@ -18199,8 +18199,8 @@ var data = {
             "mode": "6",
             "differentia": null,
             "full_text_standard": "Vivens in mundo labili",
-            "volpiano": "1---l---l--l--lmnml---kj--klk-kj---kl--k---k---k--lj---kl--kl--lm-nm--ml---klk-kJ---klk---l--l7--l--l--l---lm--l---l--l--l--l--l--l--lmlmlk---lk--kl-ml-mnm--lk-lmlm--lkj-kj---3---j---l---3",
-            "search_volpiano": "llllmnmlkjklkkjklkkkljklkllmnmmlklkkJklkllllllmllllllllmlmlklkklmlmnmlklmlmlkjkjjl"
+            "volpiano": "1--h--hj--g---g--g--g---g--h--g---",
+            "search_volpiano": "hhjggggghg"
         },
         {
             "id": "087r3",
@@ -18215,8 +18215,8 @@ var data = {
             "mode": "6S",
             "differentia": null,
             "full_text_standard": "Sic in rota versatili",
-            "volpiano": "1---g---gkj--k---lk-lmlm--ml---lm---m--klm---l--lj-kmlk-khg-khg-hjh---gF---g---h--l--k7--jk---h--hf---g--hg-hjhg--g--ghkhg-h--hg---g--gk--k---kj--klkj-kjhg-hg---lk--klm77---ml-mkl--l-hklkj-k--kj---4---l--k---kl--lkj-kjhg-h--gh-kg-hg-gf---fhk-k--kl---lj-klkjh-jkjh7--ghkhg-h--hg---3",
-            "search_volpiano": "ggkjklklmlmmllmmklmlljkmlkkhgkhghjhgFghlkjkhhfghghjhggghkhghhgggkkkjklkjkjhghglkklmmlmkllhklkjkkjlkkllkjkjhghghkghggffhkkklljklkjhjkjhghkhghhg"
+            "volpiano": "1--f---f---g---f---gh---hg---f---gh---",
+            "search_volpiano": "ffgfghhgfgh"
         },
         {
             "id": "087r4",
@@ -18231,8 +18231,8 @@ var data = {
             "mode": "6S",
             "differentia": null,
             "full_text_standard": "Gloria patri et filio",
-            "volpiano": "1---l---l--l--lmnml--klk-kj---k--k---k---k--k--lj---kl--kl---lm-nm--ml---3---l--k---3",
-            "search_volpiano": "llllmnmlklkkjkkkkkljklkllmnmmllk"
+            "volpiano": "1--hj--g---g---g--g--g---h--g---",
+            "search_volpiano": "hjggggghg"
         },
         {
             "id": "087r5",
@@ -18247,8 +18247,8 @@ var data = {
             "mode": "7",
             "differentia": "D1",
             "full_text_standard": "Cor verbis sapientiae",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--f---f---f---g---f---gh---hg---",
+            "search_volpiano": "fffgfghhg"
         }
     ],
     "87v": [
@@ -18265,8 +18265,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Trahit de testa nucleum",
-            "volpiano": "1---f---gh--hg--hg-gF---fg-hg-hij--h---fg-hg---h--g---fd--g7---gf-fed--dfd-dc---f--f--f---hk--g---hg---fe-fgfg--gf---4---f---f--gh--h--h---gh---e--fg---gefed-e7--fd---d---dg---g---fg--efed-e--fd---df-gf--fe---fgh-kg--hg---fe-fgfg--fg-hg---cd---fE--fg7---gfed-dfgfec-de-fed-e--fd---3",
-            "search_volpiano": "fghhghggFfghghijhfghghgfdggffeddfddcfffhkghgfefgfggfffghhhghefggefedefdddggfgefedefddfgffefghkghgfefgfgfghgcdfEfggfeddfgfecdefedefd"
+            "volpiano": "1--h---h--h--hj--g--g---h--g---g--g--g--h---",
+            "search_volpiano": "hhhhjgghggggh"
         },
         {
             "id": "087v2",
@@ -18281,8 +18281,8 @@ var data = {
             "mode": "1",
             "differentia": "G1",
             "full_text_standard": "Format Clara discipulas",
-            "volpiano": "1---h--hghg-gf---gh--g--g---g---hG---gh--gh---hijh--h---h7---h--hghg---hf--fg-hg-hjh--hgfe-gh--gf---3---f---3",
-            "search_volpiano": "hhghggfghggghGghghhijhhhhhghghffghghjhhgfeghgff"
+            "volpiano": "1--l---j---d---e---d---d---d---j---kl---k---g---g---",
+            "search_volpiano": "ljdedddjklkgg"
         },
         {
             "id": "087v3",
@@ -18297,8 +18297,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Carnis templo soluto spiritus",
-            "volpiano": "1---d---d--d--dfd-dc---f7--gh---hgf-ghg-hij--h---f--gh--h---h--g---gF---gh--h---gf--fghgfe-fedc-dc---d---fc-df-f7--gf-fe---d--defed-e--fd---f---c--d--f--fe--d---cd-efd---d---f--fe--d---f--d---fe--d7---f---f--df-fe-eD--fd---d---dfef--f--hkJ--ghg---f---ef-gf-gf--fd--dfef--ed---f7--d--f--fe--d---cd-efd--f---f--efed-e--fd---4---hg--ghg-gf---fg-hghij--h---f--gh--h7---hg-gF---g--fgh--fed--dfd-dc---c---cfe--f---hk--ghg---ef-gfgfe---dfef--ed---3",
-            "search_volpiano": "ddddfddcfghhgfghghijhfghhhggFghhgffghgfefedcdcdfcdffgffeddefedefdfcdffedcdefddffedfdfedffdffeeDfdddfeffhkJghgfefgfgffddfefedfdffedcdefdffefedefdhgghggffghghijhfghhhggFgfghfeddfddcccfefhkghgefgfgfedfefed"
+            "volpiano": "1--f---c---d---dhj-flht---h---h---h---hg---hjhg-f---g---h---g---f---g---d---",
+            "search_volpiano": "fcddhjflhthhhhghjhgfghgfgd"
         },
         {
             "id": "087v4",
@@ -18313,8 +18313,8 @@ var data = {
             "mode": "7S",
             "differentia": null,
             "full_text_standard": "Vivo pane morte juncta",
-            "volpiano": "1---k--kjkj-jh---jk---3---kj---3",
-            "search_volpiano": "kkjkjjhjkkj"
+            "volpiano": "1--gkj---k---lkml---l---l---lmn---nl---k---lkml---l---",
+            "search_volpiano": "gkjklkmllllmnnlklkmll"
         }
     ],
     "88r": [
@@ -18331,8 +18331,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "De pane pascit unico",
-            "volpiano": "1---h-hg--hg-gF---fg-hg-hij--h---f--gh--hg-gf---gF---fed--dfd-dc---c---cfe--f---hk--gh7---f---fd--e--fg---fE---e--fg--gef---fd--f--gh--hgh---fgh--fe---de-fed-e--fd---hjkjh---4---h7---g--h--kln--lk-lml---m---k-kjh--hg--klm---lk-kij-ij-ijhij--ijh---h--g--hg-hkijhg---fg-hg---h--g--fe77---d--efe--d--ghj-jh---e--f--gf-fe---defed-e--fd---3",
-            "search_volpiano": "hhghggFfghghijhfghhggfgFfeddfddcccfefhkghffdefgfEefggeffdfghhghfghfedefedefdhjkjhhghklnlklmlmkkjhhgklmlkkijijijhijijhhghghkijhgfghghgfedefedghjjhefgffedefedefd"
+            "volpiano": "1--g---hk---k---k---k---k---j---h---",
+            "search_volpiano": "ghkkkkkjh"
         },
         {
             "id": "088r2",
@@ -18347,8 +18347,8 @@ var data = {
             "mode": "8S",
             "differentia": null,
             "full_text_standard": "Pro tenui viatico turba",
-            "volpiano": "1---h---h--h--hghg-gf---g--g---gh--g---g--g--g---gh7--g---g---g--g---gh--g---hf---gh--gh---h--hijh--h---h---h--hghg--hf--fg-hg-hijh--hgfe-gh---gf---3---h---3",
-            "search_volpiano": "hhhhghggfggghggggghggggghghfghghhhijhhhhhghghffghghijhhgfeghgfh"
+            "volpiano": "1--d---e---gh---h---g---h---j---g---h---h---",
+            "search_volpiano": "deghhghjghh"
         },
         {
             "id": "088r3",
@@ -18363,8 +18363,8 @@ var data = {
             "mode": "8S",
             "differentia": null,
             "full_text_standard": "Gloria patri et filio",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--f---f---g---h---gf---gh---g---f---d---f---g---h---f---gh---",
+            "search_volpiano": "ffghgfghgfdfghfgh"
         },
         {
             "id": "088r4",
@@ -18379,8 +18379,8 @@ var data = {
             "mode": "2",
             "differentia": "D1",
             "full_text_standard": "Post vitae Clarae terminum               ",
-            "volpiano": "1---k--k---k---g---j--k---h---g--h--g--fh7---k--k---h--g--jk---h--h---g--g--g---3---k--k--j--k---h--gh---4",
-            "search_volpiano": "kkkgjkhghgfhkkhgjkhhgggkkjkhgh"
+            "volpiano": "1--d---dfgf---fd---fgf---g---ghgf---fghg---hj-h---h---",
+            "search_volpiano": "ddfgffdfgfgghgffghghjhh"
         }
     ],
     "88v": [
@@ -18397,8 +18397,8 @@ var data = {
             "mode": "3",
             "differentia": "B1",
             "full_text_standard": "Agnes ad agni nuptias",
-            "volpiano": "1---h--gf-ghg-hk--h---k-kj--khkh7---k-kjg---ghkjh-j--hg---l--kj-klk-lm--l---l---l--n--m---l--k---k--k--k--kj---hG---ef-hfgf-fE--fe7---ghg-gF--d--e--ghgf--gh-j-jh-jkjh---ghkhg-h--hg---4---kj--kJ--hkjg-ghkjh-j---hg---g---g--ghe---fg--f---efed-e--fd7---gh--g---fh-kj-klklK--hgf-fdfd---g--ghkjh-jkjh---g--ghkhg-h--hg---3",
-            "search_volpiano": "hgfghghkhkkjkhkhkkjgghkjhjhglkjklklmlllnmlkkkkkjhGefhfgffEfeghggFdeghgfghjjhjkjhghkhghhgkjkJhkjgghkjhjhgggghefgfefedefdghgfhkjklklKhgffdfdgghkjhjkjhgghkhghhg"
+            "volpiano": "1--dh--h--h---hghg---gf-g--g---gh--g--g---a---cde---d---d---d---f---fef---de---dc---",
+            "search_volpiano": "dhhhhghggfggghggacdedddffefdedc"
         },
         {
             "id": "088v2",
@@ -18413,8 +18413,8 @@ var data = {
             "mode": "4",
             "differentia": "E1",
             "full_text_standard": "Sicut sorore praevia",
-            "volpiano": "1---kj--klk-jkh-hg7---hG---k--k---kJ--kl--k---k--k--k--kj--kJ---jk--hkJ---gh-jh--hg---g--fg--g---g---gh7--g---g---g---g--hkhg-hjh--ghf--gh---hkj-klkjh--hkhg-hg---3---kj--kJ--hkjg---3",
-            "search_volpiano": "kjklkjkhhghGkkkJklkkkkkjkJjkhkJghjhhggfgggghgggghkhghjhghfghhkjklkjhhkhghgkjkJhkjg"
+            "volpiano": "1--d--d--cd--fg-f---gh--g---gh--g--f---",
+            "search_volpiano": "ddcdfgfghgghgf"
         },
         {
             "id": "088v3",
@@ -18429,8 +18429,8 @@ var data = {
             "mode": "5",
             "differentia": "A1",
             "full_text_standard": "Honorat Christi dextera",
-            "volpiano": "1---g-gh--g---gH--g7--g---g---hj--jg-hkh-hg---jk--l--kj---h---kJ--hkgh--gf-ghgh---hg---jk--lK--k---jh-jkjhg-h--hg7---hkh---g--hkh--hkij-ijhij---ijh---k--ljkl---h--gf--h--gf--h---ghkhg-h--gh-jh---4---gF---g--hk7--kjh-hlkl--k---jh-jkjhg-h--hg---h---kjh--hlkl--lj-klkjh-jkjh---ghkhg-h--hg---3",
-            "search_volpiano": "gghggHggghjjghkhhgjklkjhkJhkghgfghghhgjklKkjhjkjhghhghkhghkhhkijijhijijhkljklhgfhgfhghkhghghjhgFghkkjhhlklkjhjkjhghhghkjhhlklljklkjhjkjhghkhghhg"
+            "volpiano": "1--d---d---fgh---gh---g---g---g---ghj---",
+            "search_volpiano": "ddfghghgggghj"
         },
         {
             "id": "088v4",
@@ -18445,8 +18445,8 @@ var data = {
             "mode": "6",
             "differentia": "F1",
             "full_text_standard": "Laudans laudare studeat",
-            "volpiano": "1---k7--k--kj--klk-jkh-hg---hk--kh--jk--hk---gh-jh--hg---g---g--hkhg-hjh--ghf--gh--hkj-klkjh7---hkhg-hg---3---gF---g---3",
-            "search_volpiano": "kkkjklkjkhhghkkhjkhkghjhhggghkhghjhghfghhkjklkjhhkhghggFg"
+            "volpiano": "1--gk--kj--klkj---kjhg-hg-hj---j--j--jh---kl--k--k---",
+            "search_volpiano": "gkkjklkjkjhghghjjjjhklkk"
         }
     ],
     "89r": [
@@ -18463,8 +18463,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Generat virgo*",
-            "volpiano": "1---h--f---g--f--f-fghg---fg-hghij--h--h---hkhg-hijhg---f7--fghgf-g--gf---4---f---hG--f---g--f---f-fgdc-dfd---fe--g--ghkhg-hjhg---fghgf-g--gf---3",
-            "search_volpiano": "hfgfffghgfghghijhhhkhghijhgffghgfggffhGfgfffgdcdfdfegghkhghjhgfghgfggf"
+            "volpiano": "1--lj---l---m---l---kl---l---l---j---k---j---",
+            "search_volpiano": "ljlmlkllljkj"
         },
         {
             "id": "089r2",
@@ -18479,8 +18479,8 @@ var data = {
             "mode": "1",
             "differentia": "D1",
             "full_text_standard": "Novum sidus emicuit",
-            "volpiano": "1---f77---fgij--ijhijhg-hg---ij--hij-kl--k---k--k---k--kiJ-ij--h--gh---fg-hg--gf---f---df--f--f---f--ghf7---gf--fgj---hg-hijhg--ghgf-gf---3---f---hG---3",
-            "search_volpiano": "ffgijijhijhghgijhijklkkkkkiJijhghfghggffdffffghfgffgjhghijhgghgfgffhG"
+            "volpiano": "1--g---j---h---k---g---g---k---j---k---",
+            "search_volpiano": "gjhkggkjk"
         },
         {
             "id": "089r3",
@@ -18495,8 +18495,8 @@ var data = {
             "mode": "6",
             "differentia": "F1",
             "full_text_standard": "Duce caelesti numine",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--g---j---k---l---l---l---l---m---k---l---k---j---",
+            "search_volpiano": "gjkllllmklkj"
         }
     ],
     "89v": [
@@ -18513,8 +18513,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Caeli solem imitantes",
-            "volpiano": "1---l--k--j---l--k--j---l--m---k--l--kl--g---h---g---fgh--h---h--l--j--k--hgf---gh--h---g7--g---3---l--l--m--l---k--jk---4",
-            "search_volpiano": "lkjlkjlmklklghgfghhhljkhgfghhggllmlkjk"
+            "volpiano": "1--d---fgh---g---g---g---g---ghj---h---hg---hjg-gf-",
+            "search_volpiano": "dfghggggghjhhghjggf"
         }
     ],
     "90r": [
@@ -18531,8 +18531,8 @@ var data = {
             "mode": "1",
             "differentia": null,
             "full_text_standard": "Veni sancte spiritus et emitte celitus",
-            "volpiano": "1---k--kj--hg---hk--h--g---h--g---f--gh--h---k--kj--hg---hk--h--g---g7--f--gh--h---g---3---k--k--j--k---h--gh---4",
-            "search_volpiano": "kkjhghkhghgfghhkkjhghkhggfghhgkkjkhgh"
+            "volpiano": "1--gk---kj--klkj---kjhg-hg-hj--j--j---jh--kl--k---",
+            "search_volpiano": "gkkjklkjkjhghghjjjjhklk"
         }
     ],
     "90v": [
@@ -18549,8 +18549,8 @@ var data = {
             "mode": "3",
             "differentia": null,
             "full_text_standard": "Orbis totus gratuletur christianus",
-            "volpiano": "1---f--ghg---h---f--g--f---f--ef---g--fe---d--d7---3---h--h--g--f---g--ghg---4",
-            "search_volpiano": "fghghfgffefgfeddhhgfgghg"
+            "volpiano": "1--dfgf---fd---fgf---g---ghgf---fghg---hj-h---hge---g---",
+            "search_volpiano": "dfgffdfgfgghgffghghjhhgeg"
         }
     ],
     "91r": [
@@ -18567,8 +18567,8 @@ var data = {
             "mode": "1",
             "differentia": "F1",
             "full_text_standard": "Tradent enim vos in conciliis",
-            "volpiano": "1---g--g---h--h--g--g---g--h--g---fgh--h---f---h--k7--l---j---k--h--g---h--g---g--g--g--g--f---gh--h--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "gghhggghgfghhfhkljkhghgggggfghhgkkjkhg"
+            "volpiano": "1--dh---hghg---gf-g--g---gh--g--g---",
+            "search_volpiano": "dhhghggfggghgg"
         },
         {
             "id": "091r3",
@@ -18583,8 +18583,8 @@ var data = {
             "mode": "3",
             "differentia": null,
             "full_text_standard": "Regem apostolorum dominum",
-            "volpiano": "1---g--j7--k---l--l---m--k--lK--j---k---lm---l--kj--h---j--h--g---h--fg--gh---k--j--k---k---hG---gh--h--g7--g---3---l--l--m--l---k--jh---4",
-            "search_volpiano": "gjkllmklKjklmlkjhjhghfgghkjkkhGghhggllmlkjh"
+            "volpiano": "1--f---ef---ghge-fgfe-cd-f---dgf---ghg-egf---ef---d---g---hj---h---",
+            "search_volpiano": "fefghgefgfecdfdgfghgegfefdghjh"
         },
         {
             "id": "091r4",
@@ -18599,8 +18599,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Aeterna Christi* ",
-            "volpiano": "1---df--dc--d---f--g--fe---df--cd---d--c---d--f7--fg---g---fh--g---hG--fe---de-fedc-d--dc---c--d---f-fg--f---gh--g---fe---d--c---d7---c--df--f-fg--f---f--g---e--f--d---3---h--h--hg--f---gh--g---4",
-            "search_volpiano": "dfdcdfgfedfcddcdffggfhghGfedefedcddccdffgfghgfedcdcdfffgffgefdhhhgfghg"
+            "volpiano": "1--h--gf---ghghge-fe-g--g--gf--gh--gf---efgf--fe---",
+            "search_volpiano": "hgfghghgefegggfghgfefgffe"
         },
         {
             "id": "091r5",
@@ -18615,8 +18615,8 @@ var data = {
             "mode": "2",
             "differentia": "D1",
             "full_text_standard": "In omnem terram exivit",
-            "volpiano": "1---g---h--k--k---k--lm--l---lkj--h--j---khg--ghg---f--h--kh--jh---g--g---3---l--l--m--l---k--jh---4",
-            "search_volpiano": "ghkkklmllkjhjkhgghgfhkhjhggllmlkjh"
+            "volpiano": "1--h---f---fg---g---g---g---gh---f---e---d---",
+            "search_volpiano": "hffggggghfed"
         },
         {
             "id": "091r6",
@@ -18631,8 +18631,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "Clamaverunt justi et dominus",
-            "volpiano": "1---k--k---k---4",
-            "search_volpiano": "kkk"
+            "volpiano": "1--f---f---f---fe---dc---d---fe---d---",
+            "search_volpiano": "ffffedcdfed"
         },
         {
             "id": "091r7",
@@ -18647,8 +18647,8 @@ var data = {
             "mode": "7",
             "differentia": "A1",
             "full_text_standard": "Constitues eos principes",
-            "volpiano": "1---g--g---h--h--g--gF---gh--k---j---h--j--kh---f---h7--h---g--g---3---k--k--k--j---k--h-g---4",
-            "search_volpiano": "gghhggFghkjhjkhfhhggkkkjkhg"
+            "volpiano": "1--g---h---k---kl---j---kl---l---mnon---o---ol---",
+            "search_volpiano": "ghkkljkllmnonool"
         },
         {
             "id": "091r8",
@@ -18663,8 +18663,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "In omnem terram exivit sonus",
-            "volpiano": "1---g--fd--e--f---gh--h--g---h--j---kj--h---g--f--gh7---h---h--h---3---k--k--k--j---k--h-g---4",
-            "search_volpiano": "gfdefghhghjkjhgfghhhhkkkjkhg"
+            "volpiano": "1--dhj---h---hgf---ghg-hj-h---f---gh---h---h---hghf---gfe-dfgfe---fgh---",
+            "search_volpiano": "dhjhhgfghghjhfghhhhghfgfedfgfefgh"
         },
         {
             "id": "091r9",
@@ -18679,8 +18679,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Ecce ego mitto vos sicut oves",
-            "volpiano": "1---d--fg--g--gfg---f---4",
-            "search_volpiano": "dfgggfgf"
+            "volpiano": "1--dh--h--hghg---gf-g---hf--gh--gh--hjh--h---",
+            "search_volpiano": "dhhhghggfghfghghhjhh"
         }
     ],
     "91v": [
@@ -18697,8 +18697,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Dum lucem habetis credite",
-            "volpiano": "1---d--ef---g--g--g---g--g--g--f---gh--h--g--g---c---d---f--f---f--fg--g---h--g7---fe--df--fgf-fc--c---cd---f--f--f---f--gh--g---gF---gh--h--g--g---e--fg--gh---e--fg--g---g7---h---g--h--g---fg--f---hg---fg--g---fh---kl--l---lm---kj--hg---f--g--gh--j---h--g--g7---gk--j---k--hg---efgh--g---df-gh--g--g---hG--g---g---h--gh---f--f---h--g---fg--gh---kh--j---h--g--g---3---k--k--j--k---j--h---4",
-            "search_volpiano": "defggggggfghhggcdffffgghgfedffgffcccdffffghggFghhggefgghefggghghgfgfhgfggfhklllmkjhgfgghjhgggkjkhgefghgdfghgghGgghghffhgfgghkhjhggkkjkjh"
+            "volpiano": "1--gh---g---g---g---ghk---kj---klk-lm-l---lm---no-nml---l---nl---mnm-",
+            "search_volpiano": "ghgggghkkjklklmllmnonmllnlmnm"
         },
         {
             "id": "091v2",
@@ -18713,8 +18713,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Tollite jugum meum",
-            "volpiano": "1---k--kjklk---kJ--k--h--g---h--gF---gh--h---g--g---3---k--k--k--k---kl--k---4",
-            "search_volpiano": "kkjklkkJkhghgFghhggkkkkklk"
+            "volpiano": "1--lmnml--klk---kj-k--kl--k--k---k---k--k--k---",
+            "search_volpiano": "lmnmlklkkjkklkkkkkk"
         },
         {
             "id": "091v3",
@@ -18729,8 +18729,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Et invenietis requiem",
-            "volpiano": "1---d---ef---g--g---f--fe---d---dC---f---g--h--g---f---g--f---fd--f---g---h7--g--f---f---f--f---f--g--fe---d--d---3---h--h--hg--f---gh--g---4",
-            "search_volpiano": "defggffeddCfghgfgffdfghgfffffgfeddhhhgfghg"
+            "volpiano": "1--d---cd---d---dededc---dc-f---ghg---h---gf---f---fghg---hj-h---",
+            "search_volpiano": "dcdddededcdcfghghgfffghghjh"
         },
         {
             "id": "091v4",
@@ -18745,8 +18745,8 @@ var data = {
             "mode": "3",
             "differentia": null,
             "full_text_standard": "Dum steteritis ante reges",
-            "volpiano": "1---f--fe---c---cf--d---dC--fg--fhk---hgfe-fgfg--f---e---f---g--fe---c---df--e---d--cd--d7---3---f--f--f--e---cd--d---4",
-            "search_volpiano": "ffeccfddCfgfhkhgfefgfgfefgfecdfedcddfffecdd"
+            "volpiano": "1--dh--h--hghg---gf-g---gh--g--g---g---g--hf---",
+            "search_volpiano": "dhhhghggfgghgggghf"
         },
         {
             "id": "091v5",
@@ -18761,8 +18761,8 @@ var data = {
             "mode": "3",
             "differentia": null,
             "full_text_standard": "Non enim vos estis",
-            "volpiano": "1---g---gf-fE--f---gh---g--g---g--g---g--h--g---fgh--h---k--kjklk7---k--kj---h---hl---k--kh--g---kh--k--h--g--fg--gf---e--fg---g--fg--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "ggffEfghggggghgfghhkkjklkkkjhhlkkhgkhkhgfggfefggfggkkjkhg"
+            "volpiano": "1--g---h---k---k---k---lm---l---j---l---",
+            "search_volpiano": "ghkkklmljl"
         }
     ],
     "92r": [
@@ -18779,8 +18779,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Principes populorum",
-            "volpiano": "1---h--j---k--l--m--l---kj--h--k--l--k---k---l--j--k---h--g--hg---f--gh--h---lm7---kh--j--h--g--g---3---l--l--m--l---k--j---4",
-            "search_volpiano": "hjklmlkjhklkkljkhghgfghhlmkhjhggllmlkj"
+            "volpiano": "1--c---d---fg---ghg---fghg---h---g---f---f---ef---g---",
+            "search_volpiano": "cdfgghgfghghgffefg"
         },
         {
             "id": "092r2",
@@ -18795,8 +18795,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Dedisti hereditatem",
-            "volpiano": "1---d--d--dc---f--gF---f--gh--h7---ijh---g--g--fh--g---g---e--g--hg-gF--e---f---g--e--f--d--d---3---h--h--hg--f---gh--g---4",
-            "search_volpiano": "dddcfgFfghhijhggfhggeghggFefgefddhhhgfghg"
+            "volpiano": "1--d---d---d---d---f---e---dc---",
+            "search_volpiano": "ddddfedc"
         },
         {
             "id": "092r3",
@@ -18811,8 +18811,8 @@ var data = {
             "mode": "8",
             "differentia": "G1",
             "full_text_standard": "Annuntiaverunt opera dei",
-            "volpiano": "1---g--g--g---h--j---l--l---m---k---lk--jk---lkj--h---g--g---h---k--j7---h--j--k---l---jk---lk--h---g--g---3---l--l--m--l---k--jh---4",
-            "search_volpiano": "ggghjllmklkjklkjhgghkjhjkljklkhggllmlkjh"
+            "volpiano": "1--k---kj---hg---hj---hg---g---ge---g---f---e---d---",
+            "search_volpiano": "kkjhghjhgggegfed"
         },
         {
             "id": "092r4",
@@ -18827,8 +18827,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Constitues eos principes*",
-            "volpiano": "1---f--g---h--fg--g77--h--gf--g--gh---f--f---h---k--k---kl--k--k---k---k--k--k---k--k--k---k--k--k---kj--h---hk7---h--g---gF---g--f--e--d---e--f---g--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "fghfgghgfgghffhkkklkkkkkkkkkkkkkjhhkhggFgfedefggkkjkhg"
+            "volpiano": "1--d---c---d---f---e---d---def---c---d---f---fe---",
+            "search_volpiano": "dcdfeddefcdffe"
         },
         {
             "id": "092r5",
@@ -18843,8 +18843,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Vidi conjunctos viros",
-            "volpiano": "1---ghk--h---hg--f--gh7--g---g--g---j--k--l--k---l--k---h---k--k---k--k---k---kl--k--kjklk---h--h--k--j---g--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "ghkhhgfghgggjklklkhkkkkkklkkjklkhhkjggkkjkhg"
+            "volpiano": "1--f---h---g---h---kj---h---gh---g---f---",
+            "search_volpiano": "fhghkjhghgf"
         },
         {
             "id": "092r6",
@@ -18859,8 +18859,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Vidi angelum dei fortem",
-            "volpiano": "1---j--k---lm--l---m--m---m--lk---lm--mL--l---j---lm--l---kj--gh---j--k--h---h--g--g7---3---l--l--m--l---k--lk---4",
-            "search_volpiano": "jklmlmmmlklmmLljlmlkjghjkhhggllmlklk"
+            "volpiano": "1--f---f---g---g---f---g---hg---",
+            "search_volpiano": "ffggfghg"
         }
     ],
     "92v": [
@@ -18877,8 +18877,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Beati eritis cum maledixerint",
-            "volpiano": "1---g--g---h--h---g--g---gF---gh--k--hG---gh--k---h7--f--h---h--g--fg--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "gghhgggFghkhGghkhfhhgfggkkjkhg"
+            "volpiano": "1--h---h--h--hj--g--g---f--g--h---",
+            "search_volpiano": "hhhhjggfgh"
         },
         {
             "id": "092v2",
@@ -18893,8 +18893,8 @@ var data = {
             "mode": "7",
             "differentia": null,
             "full_text_standard": "Cum vos oderint homines",
-            "volpiano": "1---ghk--k---kj--hg---hG--g---gF---gh--k--h---gh--k7---k--gh--gf---g--hk--j---kj--h--hl--l---m---l--k---kj--hg---h--g---gh--jkjh--j--hk---g--g---3---h--h--g7--k---h--g---4",
-            "search_volpiano": "ghkkkjhghGggFghkhghkkghgfghkjkjhhllmlkkjhghgghjkjhjhkgghhgkhg"
+            "volpiano": "1--f---f---g---g---f---g---hg---",
+            "search_volpiano": "ffggfghg"
         },
         {
             "id": "092v3",
@@ -18909,8 +18909,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Isti sunt triumphatores",
-            "volpiano": "1---g--g--h---k--kJ---k--k--k---g--h--h--h---kh-hG--g---k--k---h7--h---h--k--g---hgf--g---gf--e--e---3---k--k--k--h---k--jh---4",
-            "search_volpiano": "gghkkJkkkghhhkhhGgkkhhhkghgfggfeekkkhkjh"
+            "volpiano": "1--h---h--hj--g---g---h--g--f---",
+            "search_volpiano": "hhhjgghgf"
         },
         {
             "id": "092v4",
@@ -18925,8 +18925,8 @@ var data = {
             "mode": "4",
             "differentia": null,
             "full_text_standard": "Isti sunt qui venerunt",
-            "volpiano": "1---dh--h---k---h--g---h--g---gF---fgh--fe---d--d---ff--dfec---fg-hg-hk---h---h--g7---fg--f---f---f--f--ef--g--fe---d--d---3---h--h--hg--f---gh--gh---4",
-            "search_volpiano": "dhhkhghggFfghfeddffdfecfghghkhhgfgffffefgfeddhhhgfghgh"
+            "volpiano": "1--f---f---g---f---g---g---h---",
+            "search_volpiano": "ffgfggh"
         }
     ],
     "93r": [
@@ -18943,8 +18943,8 @@ var data = {
             "mode": "6",
             "differentia": "F1",
             "full_text_standard": "Exaltabuntur cornua justi",
-            "volpiano": "1---ljlm--l---l---lm--l---k7--k---j--kh--g---h---k--kj--h---hk--k---g--fg---g---3---l--l--m--l---k--jk---4",
-            "search_volpiano": "ljlmlllmlkkjkhghkkjhhkkgfggllmlkjk"
+            "volpiano": "1--h--h---h--hj--g---g---h--g---",
+            "search_volpiano": "hhhhjgghg"
         },
         {
             "id": "093r2",
@@ -18959,8 +18959,8 @@ var data = {
             "mode": "6",
             "differentia": "F1",
             "full_text_standard": "Lux orta est justo",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--ffd---dc---f---fg---g---g---f---g---gh---f---f---",
+            "search_volpiano": "ffddcffgggfgghff"
         },
         {
             "id": "093r3",
@@ -18975,8 +18975,8 @@ var data = {
             "mode": "4",
             "differentia": "E1",
             "full_text_standard": "Custodiebant testimonia ejus",
-            "volpiano": "1---ghk--h---h--g---h--g---f---gh--h---g--g---ljlm7--l---l--lm--l---kl--k---j--g---h---k--k--j--h---k--g---k---l--k---l--k--k---kJ---k--kl7---k--k---k---j--k--l--l--g---h---kh--jh---g--g---3---k--k--j--k---h--g---4",
-            "search_volpiano": "ghkhhghgfghhggljlmlllmlklkjghkkjhkgklklkkkJkklkkkjkllghkhjhggkkjkhg"
+            "volpiano": "1--d---ef---g---ed---fede---c---d---d---c---a---c---",
+            "search_volpiano": "defgedfedecddcac"
         },
         {
             "id": "093r4",
@@ -18991,8 +18991,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Nimis honorati*",
-            "volpiano": "1---lk-lnl--l---lj-jH--jklkjh-jkjh---g--ghkhg-h--gf---fh---klk---hkJ--k---k--klk7---h--h---g--g---3---l--lm--nl---k---3",
-            "search_volpiano": "lklnllljjHjklkjhjkjhgghkhghgffhklkhkJkkklkhhggllmnlk"
+            "volpiano": "1--d---ff---g---g---f---dc---d---d---",
+            "search_volpiano": "dffggfdcdd"
         },
         {
             "id": "093r5",
@@ -19007,8 +19007,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Isti sunt qui viventes",
-            "volpiano": "1---gh--g--g---ghG--g---h---kl--lk-lnlnlk-lk---k--l--n--m---m--lk--k---k--kj7---hg--gh-kh-jh-hG--hg---gh--g---gh--ge--fg--f---efed-e--fd---4---g--gh--g---f--h--kl--lk---khjkjhg-h--hg7---gh---d--d--f--fg-hg---f---h--g---fg-hg-hkJ--h---gefed-def-ghkjh-j--fg--g---gh-hg--g---3",
-            "search_volpiano": "ghggghGghkllklnlnlklkklnmmlkkkkjhgghkhjhhGhgghgghgefgfefedefdgghgfhkllkkhjkjhghhgghddffghgfhgfghghkJhgefeddefghkjhjfggghhgg"
+            "volpiano": "1-----",
+            "search_volpiano": ""
         },
         {
             "id": "093r6",
@@ -19023,8 +19023,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "In omnem terram exivit",
-            "volpiano": "1---hG--kj---kg--hk--kJ---kl--k---k--k---kl--k---h---g--gh--g---gF--g---gh--g--g7---h---k--k--gh--gf---g--hk--kJ---kl--k---k---kl--kj--hG---gh--g---gh--g---g--h--k--hk---gh-jh7--hg---g--hkhg-hjh---ghf---gh-hkj-klkjh--hkhg-hg---3---g--gh--g---3",
-            "search_volpiano": "hGkjkghkkJklkkkklkhgghggFgghgghkkghgfghkkJklkkklkjhGghgghgghkhkghjhhgghkhghjhghfghhkjklkjhhkhghggghg"
+            "volpiano": "1--d---c---d---f---f---f---g---g---f---f---",
+            "search_volpiano": "dcdfffggff"
         }
     ],
     "93v": [
@@ -19041,8 +19041,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Isti sunt viri sancti",
-            "volpiano": "1---kj--k---lk-lmlm7--ml---l-lkl--hk--jklkjh-jkjh---ghkhg-h--hg---l--lk-lk-kj---l--l--lo--o--omnml-o---onml-ml7--kl--lml-l-jkj---l--lm-om--lj-kl---hg--fg--gh-khj--hghjh---gF---g--hk---kjh-hlklm7--l---l---l--nl-mnm--lm-mL--ml-mnm---4---kj--k---lmnml--ml-mnm---kJ---hg-hkjkl--lk-kjh---g7--gh-hg---g---3",
-            "search_volpiano": "kjklklmlmmlllklhkjklkjhjkjhghkhghhgllklkkjlllooomnmloonmlmlkllmlljkjllmomljklhgfgghkhjhghjhgFghkkjhhlklmlllnlmnmlmmLmlmnmkjklmnmlmlmnmkJhghkjkllkkjhgghhgg"
+            "volpiano": "1--kj---hj---jhg---h---j---k---j---hj---h---h---",
+            "search_volpiano": "kjhjjhghjkjhjhh"
         },
         {
             "id": "093v2",
@@ -19057,8 +19057,8 @@ var data = {
             "mode": "8",
             "differentia": null,
             "full_text_standard": "Sancti per fidem vicerunt",
-            "volpiano": "1---lmnml--klk-kj---k--k--k---kl--k---k---kl--k--k---k---k---k--lj7--kl--kl---lk--klkj-k---g--gkj--k---lm--l--l---l--l---l---mnm--kl---lm-nm--ml---klk-kj7--kl---l---l--lm--l---l---lmlmlk--lk---kl-ml-mnm---lk-lmlm--lkj-kj---3---kj--k---4",
-            "search_volpiano": "lmnmlklkkjkkkklkkklkkkkkljklkllkklkjkggkjklmlllllmnmkllmnmmlklkkjkllllmlllmlmlklkklmlmnmlklmlmlkjkjkjk"
+            "volpiano": "1--f---fdf---efd---edc-d---efg---ge---fg---fe---d---e---",
+            "search_volpiano": "ffdfefdedcdefggefgfede"
         },
         {
             "id": "093v3",
@@ -19073,8 +19073,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Fuerunt sine querela",
-            "volpiano": "1---f-fg--f---fg--f---f--gh--hG--hgf-fgdc-dfd---cd--fe-fg-hghgfe-df-g-gf---hfgh-k-kl--k77---h--k--k--jkJ---hkg-gfg--gf---fE---fe--g---ghkhg-hijhg---fghgf-g--gf---4---hijH--hg---hij--h--gf-ghg---d7--d--f-fg--f---g--f--f---f--f-fdf-cdf-fdf---cd--fe-fghg-hgfed-fg-gf---3",
-            "search_volpiano": "ffgffgffghhGhgffgdcdfdcdfefghghgfedfggfhfghkklkhkkjkJhkggfggffEfegghkhghijhgfghgfggfhijHhghijhgfghgddffgfgfffffdfcdffdfcdfefghghgfedfggf"
+            "volpiano": "1--h---hj-flht---h---h---h---h---h---gh---g---g---",
+            "search_volpiano": "hhjflhthhhhhghgg"
         },
         {
             "id": "093v4",
@@ -19089,8 +19089,8 @@ var data = {
             "mode": "2",
             "differentia": null,
             "full_text_standard": "Tradiderunt corpora sua",
-            "volpiano": "1---fgh--ijhjhg-hg7---hjkl---k--k--kh---jk--jh--h---hg--ghg---gf---fg-hg---gf---f---d---f--f--ghf---gf--fgj---hg-hijhg--ghgf-gf7---3---hjH--hg---hj---3",
-            "search_volpiano": "fghijhjhghghjklkkkhjkjhhhgghggffghggffdffghfgffgjhghijhgghgfgfhjHhghj"
+            "volpiano": "1--e---g---h---h---h---h---g---hj---h---h---",
+            "search_volpiano": "eghhhhghjhh"
         },
         {
             "id": "093v5",
@@ -19105,8 +19105,8 @@ var data = {
             "mode": "8",
             "differentia": "C1",
             "full_text_standard": "Hoc est praeceptum meum",
-            "volpiano": null,
-            "search_volpiano": ""
+            "volpiano": "1--dh---ghgf---gfe---e---f---g---h---h---g---g---",
+            "search_volpiano": "dhghgfgfeefghhgg"
         },
         {
             "id": "093v6",
@@ -19121,8 +19121,8 @@ var data = {
             "mode": "2",
             "differentia": "D1",
             "full_text_standard": "Majorem caritatem nemo habet",
-            "volpiano": "1---fg--gk---k---k--lmk--h---k---kj--lmlm7---ml-mkl--kj-klkl--lk---l--l---k---jk---hg--h---hijkijhg-hijhg--fghgf-g--gf---4---f7--gh---hG--ghkjh-kh---f---h--k--kl--lkj-kjhg-hg---h--kjkl--khijk--ijh---h---hG--k7---kl--lkj-kjh-kh---h--h---kk--h--g---f--gh--hg--kk---hg---gh-hg-hfgF--fe-fgfg--gf---3",
-            "search_volpiano": "fggkkklmkhkkjlmlmmlmklkjklkllkllkjkhghhijkijhghijhgfghgfggffghhGghkjhkhfhkkllkjkjhghghkjklkhijkijhhhGkkllkjkjhkhhhkkhgfghhgkkhgghhghfgFfefgfggf"
+            "volpiano": "1--kk---klk---hgh---k---k---k---l---l---k---k---",
+            "search_volpiano": "kkklkhghkkkllkk"
         }
     ],
     "94r": [
@@ -19139,8 +19139,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Exsultet caelum*",
-            "volpiano": "1---k--k--klk-k-hkh---k---k--kl--k--kh---kl--jk---kj-klkl--lk---3---f--gh---3",
-            "search_volpiano": "kkklkkhkhkkklkkhkljkkjklkllkfgh"
+            "volpiano": "1--fh---k---k---k---k---k---h---j-flht---h---h---",
+            "search_volpiano": "fhkkkkkhjflhthh"
         },
         {
             "id": "094r1",
@@ -19155,8 +19155,8 @@ var data = {
             "mode": "1",
             "differentia": "A2",
             "full_text_standard": "Vos amici mei estis",
-            "volpiano": "1---fg--glm--l---lmkj-klk-lm--l---jkJ---h--ghgf---h--kh-jkjh---g--ghkhg-h--hg7---4---lkl---no--po-pop--mno---on-nm--lk--klnml-m--nl---l---l--mnm--kl---lkj-kjhg-hg---gh---h--hf7--ghgf-g---g--ghkjh-j--hg---kjkl--l---kl--lk-kjhg-hg---f--fhj-kj--hk---jkj---g---kk---lm--kl7---lkj-kjhg-hg---f---fhk--jklkjh-jkjh---g--ghkhg-h---hg---3",
-            "search_volpiano": "fgglmllmkjklklmljkJhghgfhkhjkjhgghkhghhglklnopopopmnoonnmlkklnmlmnlllmnmkllkjkjhghgghhhfghgfggghkjhjhgkjkllkllkkjhghgffhjkjhkjkjgkklmkllkjkjhghgffhkjklkjhjkjhgghkhghhg"
+            "volpiano": "1--l---lmnml---k---j---k---l---l---kl---k---k---",
+            "search_volpiano": "llmnmlkjkllklkk"
         },
         {
             "id": "094r2",
@@ -19171,8 +19171,8 @@ var data = {
             "mode": "1",
             "differentia": "F1",
             "full_text_standard": "Beati pacifici beati mundo",
-            "volpiano": "1---l---lmnml7--klk-kj---k---k---kl--k---k---k---k---k--k--kl--k--k---kl--k--k---k--k--lj7--kl--kl---lk--klkj-k---g---k--lm--l---l---l---mn--kL---l--lm-nm--ml---l---lmlmlk7--lK--kl-ml-mnm---lk-lmlm--lkj-kj---3---lkl---3",
-            "search_volpiano": "llmnmlklkkjkkklkkkkkkklkkklkkkkljklkllkklkjkgklmlllmnkLllmnmmlllmlmlklKklmlmnmlklmlmlkjkjlkl"
+            "volpiano": "1--------------------------------",
+            "search_volpiano": ""
         },
         {
             "id": "094r2",
@@ -19187,8 +19187,8 @@ var data = {
             "mode": "*",
             "differentia": null,
             "full_text_standard": "Annuntiaverunt*",
-            "volpiano": "1---gh--g--g---gh---g--f--fhk77---klkj--kl-mlm--ml---lm-nm---l--k---k---klK--k--kh-hG---gh-kh-jh-hG--hg---g---g---g--g--gf7--fg-hijhg-h--hg---gh--g--g--gf---f-fed-e--fd---fe--fg---gh-khij--hg---4---lnm-nol--l---mnM--nm7---lmnml-m--nl---l--k--k---kj--h---hjkjhg--h---hk-lk-kJj--h--hg-hkhj--kh---f---ghg--h--g7---gh---g---g--g---gh--g---fhk--kh-hkjk--kj---jk---lmlm--jkl---kJ7---hgf-gh--g---ghkjh-jkjh---g--ghkhg-h--hg---3",
-            "search_volpiano": "ghggghgffhkklkjklmlmmllmnmlkkklKkkhhGghkhjhhGhggggggffghijhghhgghgggfffedefdfefgghkhijhglnmnollmnMnmlmnmlmnllkkkjhhjkjhghhklkkJjhhghkhjkhfghghgghgggghgfhkkhhkjkkjjklmlmjklkJhgfghgghkjhjkjhgghkhghhg"
+            "volpiano": "1--d---d---d---fd---ef-edcd-dc---fe---gh---fd---efd---cd---d---",
+            "search_volpiano": "dddfdefedcddcfeghfdefdcdd"
         },
         {
             "id": "094r3",
@@ -19203,8 +19203,8 @@ var data = {
             "mode": "2",
             "differentia": "D1",
             "full_text_standard": "In patientia vestra",
-            "volpiano": "1---lmnml--kj--klk-kj---k---k--k--k---kl7--k---lk---kl--kl---lm-nm--ml---klk-kj---klk--lM--l---lmlmlk--lk---kl-ml-mnm--lk-lmlm--lkj-kj7---3---lnm-nol--l---3",
-            "search_volpiano": "lmnmlkjklkkjkkkkklklkklkllmnmmlklkkjklklMllmlmlklkklmlmnmlklmlmlkjkjlnmnoll"
+            "volpiano": null,
+            "search_volpiano": ""
         },
         {
             "id": "094r4",

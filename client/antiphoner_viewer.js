@@ -2,13 +2,8 @@ module.exports = (function () {
     "use strict";
 
     var my = {
-        load: load,
-        goTo: function (folio, sequence) {
-            goTo(folio);
-        }
+        load: load
     };
-
-    var querystring = require("querystring");
 
     // Incipit data array
     var antiphoner = {};
@@ -17,6 +12,8 @@ module.exports = (function () {
     var incipit_template = require('./templates/incipit.hbs');
 
     var data = {};
+
+    var hold_state = false;
 
     /**
      * Initialize the antiphoner display
@@ -27,14 +24,29 @@ module.exports = (function () {
     function initialize(diva_settings, diva_instance) {
         data.current_diva = diva_instance;
         data.current_folio = '';
-        diva.Events.subscribe('PageDidLoad', loadPage, self);
+        diva.Events.subscribe('VisiblePageDidChange', loadPage, self);
         diva.Events.subscribe('ObjectDidLoad', loadInitialViewer, self);
     }
 
     function loadInitialViewer() {
-        var folio = querystring.parse(window.location.search.slice(1)).page;
+        //var folio = querystring.parse(window.location.pathname.slice(1)).page;
+        var path_parts = window.location.pathname.split('/');
+        var folio = path_parts[2], sequence = path_parts[3];
         if (folio) {
-            goTo(folio);
+            goTo(folio, sequence);
+        }
+    }
+
+    function update_state(state, url, push) {
+        console.log('updating');
+        if (push) {
+            console.log('pushing');
+            console.table(state);
+            history.pushState(state, '', url);
+        } else {
+            history.replaceState(state, '', url);
+            console.log('replacing');
+            console.table(state);
         }
     }
 
@@ -43,19 +55,22 @@ module.exports = (function () {
      *
      * @param folio
      */
-    function goTo(folio) {
-        folio = folio.replace(/^0+/, '');
-        data.current_diva.gotoPageByAliasedNumber(folio);
+    function goTo(folio, sequence) {
+        // For some reason we have to wait before jumping.
+        // @TODO: Why do we have to wait before jumping?
+        setTimeout(function () {
+            var url = (sequence) ? folio + '/' + sequence : folio;
+            data.current_diva.gotoPageByAliasedNumber(folio.replace(/^0+/, ''));
+        }, 1);
     }
 
     /**
      * Load a folio of antiphoner data
      *
      * @param page_num
-     * @param b
-     * @param c
+     * @param filename
      */
-    function loadPage(page_num, b, c) {
+    function loadPage(page_num, filename) {
         var chants_on_page = [];
         if (pageHasChanged()) {
             chants_on_page = antiphoner.getChants(data.current_folio);
@@ -72,9 +87,15 @@ module.exports = (function () {
      * @returns {boolean}
      */
     function pageHasChanged() {
-        window.currentdiva = data.current_diva;
+        var state;
         if (data.current_folio != data.current_diva.getCurrentAliasedPageIndex()) {
             data.current_folio = data.current_diva.getCurrentAliasedPageIndex();
+            state = {folio: data.current_folio, sequence: false, hold: false};
+            if (hold_state) {
+                update_state(state, data.current_folio, true);
+            } else {
+                update_state(state, data.current_folio, false);
+            }
             return true;
         } else {
             return false;
@@ -92,6 +113,13 @@ module.exports = (function () {
             }
         });
     }
+
+    window.onpopstate = function (e) {
+        if (e.state) {
+            console.log('popping!');
+            goTo(e.state.folio, e.state.sequence);
+        }
+    };
 
     return my;
 })();

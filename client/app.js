@@ -19,7 +19,7 @@ window.onload = function () {
     search_window.onclick = function (event) {
         if (!modal_content.contains(event.target) || event.target == close_btn) {
             toggleDisplay(event);
-        }s
+        }
     };
 
     volpiano_input.oninput = searchVolpiano;
@@ -35,6 +35,7 @@ window.onload = function () {
         $('.search-result').click(function (e) {
             var array = e.currentTarget.pathname.split('/'),
                 folio = array[2], sequence = array[3];
+            var url = folio + '/' + sequence;
             toggleDisplay(event);
             viewer.goTo(folio, sequence);
             return false;

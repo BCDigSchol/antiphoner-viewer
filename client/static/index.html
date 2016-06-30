@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8"/>
+    <base href="/antiphoner/">
     <title>Diva.js Demo Page</title>
     <link rel="stylesheet" href="css/diva.min.css"/>
     <link rel="stylesheet" href="css/style.css"/>
@@ -54,13 +55,11 @@
 <body>
 <div id="diva-wrapper"></div>
 <div id="info">
-    <h1>Lorem ipsum dolor</h1>
+    <h1>Encoded Antiphoner</h1>
+
 
     <button id="search-button">Search</button>
 
-    <p>Nullam vel ornare ex. Donec vel luctus ex. Curabitur eget bibendum metus. Nam sit amet ipsum turpis. Vestibulum
-        molestie sem eu velit suscipit ultricies. Vestibulum sit amet mollis arcu. Vivamus molestie mattis elit, at
-        vehicula turpis viverra sit amet. Aenean viverra commodo bibendum.
 
     <div class="incipit-holder">
     </div>
@@ -72,7 +71,7 @@
         <span class="close">x</span>
         <form>
             <label for="volpiano-input">Volpiano</label>
-            <input id="volpiano-input" type="text">
+            <input id="volpiano-input" type="text" autocomplete="off">
         </form>
 
         <div id="results-holder">
