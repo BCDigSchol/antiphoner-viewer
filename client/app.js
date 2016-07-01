@@ -20,7 +20,9 @@ function display_antiphoner() {
     var result_template = require('./templates/search-results.hbs');
 
     function searchVolpiano(event) {
-        var results = search.searchVolpiano(event.srcElement.value);
+        console.log('event is');
+        console.log(event);
+        var results = search.searchVolpiano(event.target.value);
         var total_results = results.length;
         $('#results-holder').html(result_template({results: results, total: total_results}));
         $('.search-result').click(function (e) {
