@@ -2,10 +2,15 @@ global.diva = require("diva");
 var antiphoner = require('./antiphoner.js');
 var viewer = require('./antiphoner_viewer.js');
 var search = require('./search.js');
-search.load(antiphoner.data);
-viewer.load(antiphoner);
 
-window.onload = function () {
+function display_antiphoner() {
+    console.log('loaded');
+
+    console.log('loading data now');
+    
+    search.load(antiphoner.data());
+    viewer.load(antiphoner);
+    
     var search_window = document.getElementById('search-window');
     var btn = document.getElementById('search-button');
     var close_btn = document.querySelector('#search-window .close');
@@ -13,20 +18,6 @@ window.onload = function () {
     var volpiano_input = document.getElementById('volpiano-input');
 
     var result_template = require('./templates/search-results.hbs');
-
-
-    btn.onclick = toggleDisplay;
-    search_window.onclick = function (event) {
-        if (!modal_content.contains(event.target) || event.target == close_btn) {
-            toggleDisplay(event);
-        }
-    };
-
-    volpiano_input.oninput = searchVolpiano;
-
-    function toggleDisplay(event) {
-        search_window.style.display = (search_window.style.display === 'block') ? 'none' : 'block';
-    }
 
     function searchVolpiano(event) {
         var results = search.searchVolpiano(event.srcElement.value);
@@ -41,4 +32,57 @@ window.onload = function () {
             return false;
         })
     }
+
+    $('#diva-wrapper').diva({
+        enableAutoHeight: true,
+        fixedHeightGrid: false,
+        iipServerURL: "http://mlib.bc.edu/iipsrv/iipsrv.fcgi",
+        objectData: "antiphoner-processed.json",
+        imageDir: "",
+        enableCanvas: true,
+        enableDownload: true,
+        enableAutoTitle: false,
+        enableAntiphoner: true,
+        pageAliasFunction: function (page) {
+            var numeric = 0;
+
+            switch (page) {
+                case 0:
+                    return 'Front cover';
+                case 1:
+                    return 'Front endpaper';
+                case 239:
+                    return 'Back endpaper';
+                case 240:
+                    return 'Back cover';
+            }
+
+            numeric = Math.floor(page / 2);
+
+            if (page % 2 === 0) {
+                return numeric + "r";
+            } else {
+                return numeric + "v";
+            }
+        },
+        enablePagealias: true
+    });
+
+    btn.onclick = toggleDisplay;
+    search_window.onclick = function (event) {
+        console.log('clicked in window');
+        if (!modal_content.contains(event.target) || event.target == close_btn) {
+            toggleDisplay(event);
+        }
+    };
+
+    volpiano_input.oninput = searchVolpiano;
+
+    function toggleDisplay(event) {
+        search_window.style.display = (search_window.style.display === 'block') ? 'none' : 'block';
+    }
+}
+
+window.onload = function() {
+    antiphoner.load(display_antiphoner);
 };

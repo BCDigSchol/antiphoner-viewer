@@ -2,55 +2,12 @@
 <html lang="en">
 <head>
     <meta charset="utf-8"/>
-    <base href="/antiphoner/">
+    <base href="/diva/">
     <title>Diva.js Demo Page</title>
     <link rel="stylesheet" href="css/diva.min.css"/>
     <link rel="stylesheet" href="css/style.css"/>
     <script src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
     <script src="js/antiphoner-bundle.min.js"></script>
-    <style>
-
-    </style>
-    <script type="text/javascript">
-        $(document).ready(function () {
-
-            $('#diva-wrapper').diva({
-                enableAutoHeight: true,
-                fixedHeightGrid: false,
-                iipServerURL: "http://mlib.bc.edu/iipsrv/iipsrv.fcgi",
-                objectData: "antiphoner-processed.json",
-                imageDir: "",
-                enableCanvas: true,
-                enableDownload: true,
-                enableAutoTitle: false,
-                enableAntiphoner: true,
-                pageAliasFunction: function (page) {
-                    var numeric = 0;
-
-                    switch (page) {
-                        case 0:
-                            return 'Front cover';
-                        case 1:
-                            return 'Front endpaper';
-                        case 239:
-                            return 'Back endpaper';
-                        case 240:
-                            return 'Back cover';
-                    }
-
-                    numeric = Math.floor(page / 2);
-
-                    if (page % 2 === 0) {
-                        return numeric + "r";
-                    } else {
-                        return numeric + "v";
-                    }
-                },
-                enablePagealias: true
-            });
-
-        });
-    </script>
 </head>
 <body>
 <div id="diva-wrapper"></div>
