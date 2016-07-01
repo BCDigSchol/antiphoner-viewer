@@ -71,6 +71,16 @@ office_map = {
     'MI3' => 'third Mass'
 }
 
+youtube_map = {
+    '017v1' => 'ppOm2CZvLdk',
+    '017v6' => 'Q0x1JyxWWJs',
+    '017v17' => 'MCN-1P5_96A',
+    '044r1' => 'reJvYV4LleY',
+    '059r1' => 'PS-Rud-iQgs',
+    '076r1' => 'YAubizMPr3U',
+    '088v1' => '0ZDTVUktYrk'
+}
+
 antiphoner = {
     'Front cover' => [],
     'Front endpaper' => []
@@ -107,6 +117,10 @@ CSV.foreach('inventory.csv', :headers => true) do |row|
 
   if chant[:volpiano]
     search_volpiano = chant[:volpiano].gsub(/[\W\d]/, '')
+  end
+
+  if youtube_map[chant[:id]]
+    chant[:youtube] = youtube_map[chant[:id]]
   end
 
   chant[:search_volpiano] = search_volpiano

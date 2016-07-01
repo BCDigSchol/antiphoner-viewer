@@ -26,6 +26,7 @@ body {
     flex: 1;
     padding: 0 2em;
     font-weight: 300;
+    height: 90vh
 }
 
 .diva-outer {
@@ -124,4 +125,21 @@ dt {
 
 #search-window h3 {
     font-weight: normal;
+}
+
+.youtube-viewer {
+    margin: 1em 0;
+}
+
+.incipit-holder {
+    height: 86%;
+    overflow: scroll;
+}
+
+.page-items-holder {
+    margin-top: 1em
+}
+
+#1-diva-grid-label {
+    display: none;
 }

@@ -1,5 +1,4 @@
-<div>
-    <h2>Chants</h2>
+<div class="page-items-holder">
     {{#each incipits}}
         <h3>{{incipit}}</h3>
         <div class="metadata">
@@ -14,6 +13,12 @@
                 <dd>{{mode}}</dd>
             </dl>
             <div class="notation">{{volpiano}}</div>
+            {{#if youtube}}
+                <div class="youtube-viewer">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/{{youtube}}" frameborder="0"
+                            allowfullscreen></iframe>
+                </div>
+            {{/if}}
         </div>
     {{/each}}
 </div>
