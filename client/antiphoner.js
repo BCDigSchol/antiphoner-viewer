@@ -1,13 +1,11 @@
 var data = {};
 
 function load(success) {
-    console.log('called');
     var request = new XMLHttpRequest();
     request.onload = function () {
         data = JSON.parse(request.responseText);
         success();
     }; request.onerror = function() {
-        console.log('error');
     };
     request.open('GET', 'antiphoner-data.json');
     request.send();

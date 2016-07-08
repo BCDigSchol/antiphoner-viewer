@@ -4,9 +4,6 @@ var viewer = require('./antiphoner_viewer.js');
 var search = require('./search.js');
 
 function display_antiphoner() {
-    console.log('loaded');
-
-    console.log('loading data now');
     
     search.load(antiphoner.data());
     viewer.load(antiphoner);
@@ -20,8 +17,6 @@ function display_antiphoner() {
     var result_template = require('./templates/search-results.hbs');
 
     function searchVolpiano(event) {
-        console.log('event is');
-        console.log(event);
         var results = search.searchVolpiano(event.target.value);
         var total_results = results.length;
         $('#results-holder').html(result_template({results: results, total: total_results}));
@@ -72,7 +67,6 @@ function display_antiphoner() {
 
     btn.onclick = toggleDisplay;
     search_window.onclick = function (event) {
-        console.log('clicked in window');
         if (!modal_content.contains(event.target) || event.target == close_btn) {
             toggleDisplay(event);
         }

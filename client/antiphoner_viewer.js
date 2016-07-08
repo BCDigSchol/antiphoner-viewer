@@ -23,7 +23,6 @@ module.exports = (function () {
      * @param diva_instance
      */
     function initialize(diva_settings, diva_instance) {
-        console.log('initializing');
         data.current_diva = diva_instance;
         data.current_folio = '';
         diva.Events.subscribe('VisiblePageDidChange', loadPage, self);
@@ -40,15 +39,10 @@ module.exports = (function () {
     }
 
     function update_state(state, url, push) {
-        console.log('updating');
         if (push) {
-            console.log('pushing');
-            console.table(state);
             history.pushState(state, '', url);
         } else {
             history.replaceState(state, '', url);
-            console.log('replacing');
-            console.table(state);
         }
     }
 
@@ -75,7 +69,6 @@ module.exports = (function () {
     function loadPage(page_num, filename) {
         var chants_on_page = [];
         if (pageHasChanged()) {
-            console.log('page has changed');
             chants_on_page = antiphoner.getChants(data.current_folio);
             $('.incipit-holder').html(incipit_template({incipits: chants_on_page}));
             $('.incipit-holder h3').click(function () {
@@ -91,7 +84,6 @@ module.exports = (function () {
      */
     function pageHasChanged() {
         var state;
-        console.log('called page has changed');
         if (data.current_folio != data.current_diva.getCurrentAliasedPageIndex()) {
             data.current_folio = data.current_diva.getCurrentAliasedPageIndex();
             state = {folio: data.current_folio, sequence: false, hold: false};
@@ -109,7 +101,6 @@ module.exports = (function () {
     function load(antiphoner_data) {
         antiphoner = antiphoner_data;
         // Add to the Diva plugin list
-        console.log(window.divaPlugins);
         window.divaPlugins.push({
             pluginName: 'antiphoner',
             init: initialize,
@@ -121,7 +112,6 @@ module.exports = (function () {
 
     window.onpopstate = function (e) {
         if (e.state) {
-            console.log('popping!');
             goTo(e.state.folio, e.state.sequence);
         }
     };

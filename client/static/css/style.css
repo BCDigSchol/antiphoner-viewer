@@ -143,3 +143,8 @@ dt {
 #1-diva-grid-label {
     display: none;
 }
+
+h3.has-video {
+    background: url(../img/play.svg) no-repeat 98% center;
+    background-size: auto 65%;
+}
