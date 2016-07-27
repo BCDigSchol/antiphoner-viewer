@@ -70,8 +70,8 @@ module.exports = (function () {
         var chants_on_page = [];
         if (pageHasChanged()) {
             chants_on_page = antiphoner.getChants(data.current_folio);
-            $('.incipit-holder').html(incipit_template({incipits: chants_on_page}));
-            $('.incipit-holder h3').click(function () {
+            $('#metadata-tab').html(incipit_template({incipits: chants_on_page}));
+            $('#metadata-tab h3').click(function () {
                 $(this).next('.metadata').slideToggle().siblings('.metadata:visible').slideUp();
             });
         }

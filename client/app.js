@@ -4,14 +4,13 @@ var viewer = require('./antiphoner_viewer.js');
 var search = require('./search.js');
 
 function display_antiphoner() {
-    
+
     search.load(antiphoner.data());
     viewer.load(antiphoner);
-    
-    var search_window = document.getElementById('search-window');
+
+    var search_tab = document.getElementById('search-tab');
+    var metadata_tab = document.getElementById('metadata-tab');
     var btn = document.getElementById('search-button');
-    var close_btn = document.querySelector('#search-window .close');
-    var modal_content = document.querySelector('#search-window .modal-content');
     var volpiano_input = document.getElementById('volpiano-input');
 
     var result_template = require('./templates/search-results.hbs');
@@ -65,20 +64,23 @@ function display_antiphoner() {
         enablePagealias: true
     });
 
-    btn.onclick = toggleDisplay;
-    search_window.onclick = function (event) {
+    $('#tab-menu li').click(function () {
+        if (! $(this).hasClass('current')) {
+            $('#tab-menu li').toggleClass('current');
+            metadata_tab.classList.toggle('current');
+            search_tab.classList.toggle('current');
+        }
+    });
+
+    search_tab.onclick = function (event) {
         if (!modal_content.contains(event.target) || event.target == close_btn) {
             toggleDisplay(event);
         }
     };
 
     volpiano_input.oninput = searchVolpiano;
-
-    function toggleDisplay(event) {
-        search_window.style.display = (search_window.style.display === 'block') ? 'none' : 'block';
-    }
 }
 
-window.onload = function() {
+window.onload = function () {
     antiphoner.load(display_antiphoner);
 };

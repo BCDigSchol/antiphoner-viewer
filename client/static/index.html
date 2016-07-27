@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8"/>
-    <base href="/diva/">
+    <base href="/antiphoner/">
     <title>Diva.js Demo Page</title>
     <link rel="stylesheet" href="css/diva.min.css"/>
     <link rel="stylesheet" href="css/style.css"/>
@@ -10,32 +10,30 @@
     <script src="js/antiphoner-bundle.min.js"></script>
 </head>
 <body>
-<div id="diva-wrapper"></div>
-<div id="info">
-    <h1>Encoded Antiphoner</h1>
+<header id="header">
+</header>
+<div id="viewer-body">
+    <div id="diva-wrapper"></div>
+    <div id="info">
+        <nav id="tab-menu">
+            <ul>
+                <li class="current">Chants</li>
+                <li>Search</li>
+            </ul>
+        </nav>
 
+        <section id="metadata-tab" class="current"></section>
 
-    <button id="search-button">Search</button>
-
-
-    <div class="incipit-holder">
-    </div>
-
-</div>
-
-<div id="search-window" class="modal">
-    <div class="modal-content">
-        <span class="close">x</span>
-        <form>
-            <label for="volpiano-input">Volpiano</label>
-            <input id="volpiano-input" type="text" autocomplete="off">
-        </form>
-
-        <div id="results-holder">
-
-        </div>
+        <section id="search-tab">
+            <form>
+                <label for="volpiano-input">Volpiano</label>
+                <input id="volpiano-input" type="text" autocomplete="off">
+            </form>
+            <div id="results-holder"></div>
+        </section>
 
     </div>
 </div>
+
 </body>
 </html>
