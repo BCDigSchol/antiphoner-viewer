@@ -8,21 +8,17 @@ module.exports = (function () {
 
     function load(antiphoner_object) {
         antiphoner = antiphoner_object;
-        ingest();
+        for (var folio in antiphoner.data()) {
+            for (var sequence in antiphoner.getChants(folio)) {
+                loadChant(folio, sequence);
+            }
+        }
     }
 
     function loadChant(folio, sequence) {
         sequence = parseInt(sequence) + 1;
         var chant = antiphoner.getChant(folio + sequence);
         indexes.indexChant(chant);
-    }
-
-    function ingest() {
-        for (var folio in antiphoner.data()) {
-            for (var sequence in antiphoner.getChants(folio)) {
-                loadChant(folio, sequence);
-            }
-        }
     }
 
     function searchTextField(keyword, field) {
@@ -33,7 +29,6 @@ module.exports = (function () {
                 results.push(antiphoner.getChant(result.ref));
             } catch (err) {
                 console.log(err.message);
-                results.push({});
             }
         });
         return results;

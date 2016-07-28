@@ -1,16 +1,16 @@
 var data = {};
 
-function load(success) {
+function load(success_callback) {
     var request = new XMLHttpRequest();
     request.onload = function () {
         data = JSON.parse(request.responseText);
-        success();
+        success_callback();
     };
     request.onerror = function () {
     };
     request.open('GET', 'antiphoner-data.json');
     request.send();
-};
+}
 
 function get_data() {
     return data;
@@ -18,7 +18,7 @@ function get_data() {
 
 function ChantError(message) {
     this.message = message;
-};
+}
 
 ChantError.prototype = Object.create(Error.prototype);
 

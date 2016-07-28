@@ -5,14 +5,6 @@ var search = require('./search.js');
 
 function display_antiphoner() {
 
-    search.load(antiphoner);
-    viewer.load(antiphoner);
-
-    var search_tab = document.getElementById('search-tab');
-    var metadata_tab = document.getElementById('metadata-tab');
-    var volpiano_input = document.getElementById('volpiano-input');
-    var keyword_input = document.getElementById('keyword-input');
-
     var result_template = require('./templates/search-results.hbs');
 
     function searchVolpiano(event) {
@@ -37,19 +29,21 @@ function display_antiphoner() {
             return false;
         });
     }
+    
+    search.load(antiphoner);
+    viewer.load(antiphoner);
 
     $('#diva-wrapper').diva(viewer.diva_settings);
 
     $('#tab-menu li').click(function () {
         if (!$(this).hasClass('current')) {
             $('#tab-menu li').toggleClass('current');
-            metadata_tab.classList.toggle('current');
-            search_tab.classList.toggle('current');
+            $('#info > section').toggleClass('current');
         }
     });
 
-    volpiano_input.oninput = searchVolpiano;
-    keyword_input.oninput = searchText;
+    document.getElementById('volpiano-input').oninput = searchVolpiano;
+    document.getElementById('keyword-input').oninput = searchText;
 }
 
 window.onload = function () {
