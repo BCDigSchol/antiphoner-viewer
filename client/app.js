@@ -10,7 +10,6 @@ function display_antiphoner() {
 
     var search_tab = document.getElementById('search-tab');
     var metadata_tab = document.getElementById('metadata-tab');
-    var btn = document.getElementById('search-button');
     var volpiano_input = document.getElementById('volpiano-input');
     var keyword_input = document.getElementById('keyword-input');
 
@@ -18,20 +17,15 @@ function display_antiphoner() {
 
     function searchVolpiano(event) {
         var results = search.searchVolpiano(event.target.value);
-        var total_results = results.length;
-        $('#results-holder').html(result_template({results: results, total: total_results}));
-        $('.search-result').click(function (e) {
-            var array = e.currentTarget.pathname.split('/'),
-                folio = array[2], sequence = array[3];
-            var url = folio + '/' + sequence;
-            toggleDisplay(event);
-            viewer.goTo(folio, sequence);
-            return false;
-        });
+        displayResults(results, event);
     }
 
     function searchText(event) {
-        var results = search.searchText(event.target.value);
+        var results = search.searchTextField(event.target.value, 'full_text');
+        displayResults(results, event);
+    }
+
+    function displayResults(results, event) {
         var total_results = results.length;
         $('#results-holder').html(result_template({results: results, total: total_results}));
         $('.search-result').click(function (e) {
@@ -82,7 +76,7 @@ function display_antiphoner() {
     });
 
     $('#tab-menu li').click(function () {
-        if (! $(this).hasClass('current')) {
+        if (!$(this).hasClass('current')) {
             $('#tab-menu li').toggleClass('current');
             metadata_tab.classList.toggle('current');
             search_tab.classList.toggle('current');

@@ -1,30 +1,20 @@
 "use strict";
 
-var lunr = require("lunr");
+var indexes = require('./indexes.js');
 
 module.exports = (function () {
 
     var antiphoner = {};
 
-    var full_text_idx = {};
-
     function load(antiphoner_object) {
         antiphoner = antiphoner_object;
-        full_text_idx = lunr(function () {
-            this.field('full_text_standard');
-            this.ref('id');
-        });
         ingest();
     }
 
     function loadChant(folio, sequence) {
         sequence = parseInt(sequence) + 1;
         var chant = antiphoner.getChant(folio + sequence);
-        full_text_idx.add({
-                id: chant['id'],
-                full_text_standard: chant['full_text_standard']
-            }
-        );
+        indexes.indexChant(chant);
     }
 
     function ingest() {
@@ -35,9 +25,9 @@ module.exports = (function () {
         }
     }
 
-    function searchText(keyword) {
+    function searchTextField(keyword, field) {
         var results = [];
-        var lunr_results = full_text_idx.search(keyword);
+        var lunr_results = indexes[field].search(keyword);
         lunr_results.forEach(function (result, index, array) {
             try {
                 results.push(antiphoner.getChant(result.ref));
@@ -66,7 +56,7 @@ module.exports = (function () {
 
     return {
         load: load,
-        searchText: searchText,
+        searchTextField: searchTextField,
         searchVolpiano: searchVolpiano
     };
 
