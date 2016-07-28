@@ -3,7 +3,22 @@ module.exports = (function () {
 
     var my = {
         load: load,
-        goTo: goTo
+        goTo: goTo,
+        diva_settings: {
+            enableAutoHeight: true,
+            fixedHeightGrid: false,
+            iipServerURL: "http://mlib.bc.edu/iipsrv/iipsrv.fcgi",
+            objectData: "antiphoner-processed.json",
+            imageDir: "",
+            enableCanvas: true,
+            enableDownload: true,
+            enableLinkIcon: false,
+            enableAutoTitle: false,
+            enableAntiphoner: true,
+            zoomLevel: 3,
+            pageAliasFunction: getPageAlias,
+            enablePagealias: true
+        }
     };
 
     // Incipit data array
@@ -15,6 +30,29 @@ module.exports = (function () {
     var data = {};
 
     var hold_state = false;
+    
+    function getPageAlias(page) {
+        var numeric = 0;
+
+        switch (page) {
+            case 0:
+                return 'Front cover';
+            case 1:
+                return 'Front endpaper';
+            case 239:
+                return 'Back endpaper';
+            case 240:
+                return 'Back cover';
+        }
+
+        numeric = Math.floor(page / 2);
+
+        if (page % 2 === 0) {
+            return numeric + "r";
+        } else {
+            return numeric + "v";
+        }
+    }
 
     /**
      * Initialize the antiphoner display

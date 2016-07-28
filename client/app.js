@@ -38,42 +38,7 @@ function display_antiphoner() {
         });
     }
 
-    $('#diva-wrapper').diva({
-        enableAutoHeight: true,
-        fixedHeightGrid: false,
-        iipServerURL: "http://mlib.bc.edu/iipsrv/iipsrv.fcgi",
-        objectData: "antiphoner-processed.json",
-        imageDir: "",
-        enableCanvas: true,
-        enableDownload: true,
-        enableLinkIcon: false,
-        enableAutoTitle: false,
-        enableAntiphoner: true,
-        zoomLevel: 3,
-        pageAliasFunction: function (page) {
-            var numeric = 0;
-
-            switch (page) {
-                case 0:
-                    return 'Front cover';
-                case 1:
-                    return 'Front endpaper';
-                case 239:
-                    return 'Back endpaper';
-                case 240:
-                    return 'Back cover';
-            }
-
-            numeric = Math.floor(page / 2);
-
-            if (page % 2 === 0) {
-                return numeric + "r";
-            } else {
-                return numeric + "v";
-            }
-        },
-        enablePagealias: true
-    });
+    $('#diva-wrapper').diva(viewer.diva_settings);
 
     $('#tab-menu li').click(function () {
         if (!$(this).hasClass('current')) {
