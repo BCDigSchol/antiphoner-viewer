@@ -1,36 +1,36 @@
-module.exports = (function () {
-    "use strict";
+"use strict";
 
-    var my = {
-        load: load,
-        goTo: goTo,
-        diva_settings: {
-            enableAutoHeight: true,
-            fixedHeightGrid: false,
-            iipServerURL: "http://mlib.bc.edu/iipsrv/iipsrv.fcgi",
-            objectData: "antiphoner-processed.json",
-            imageDir: "",
-            enableCanvas: true,
-            enableDownload: true,
-            enableLinkIcon: false,
-            enableAutoTitle: false,
-            enableAntiphoner: true,
-            zoomLevel: 3,
-            pageAliasFunction: getPageAlias,
-            enablePagealias: true
-        }
-    };
-
-    // Incipit data array
-    var antiphoner = {};
-
-    // Incipit handlebars template
+function Viewer(antiphoner) {
     var incipit_template = require('./templates/incipit.hbs');
-
     var data = {};
-
     var hold_state = false;
-    
+
+    this.diva_settings = {
+        enableAutoHeight: true,
+        fixedHeightGrid: false,
+        iipServerURL: "http://mlib.bc.edu/iipsrv/iipsrv.fcgi",
+        objectData: "antiphoner-processed.json",
+        imageDir: "",
+        enableCanvas: true,
+        enableDownload: true,
+        enableLinkIcon: false,
+        enableAutoTitle: false,
+        enableAntiphoner: true,
+        zoomLevel: 3,
+        pageAliasFunction: getPageAlias,
+        enablePagealias: true
+    };
+    this.goTo = goTo;
+
+    // Add to the Diva plugin list
+    window.divaPlugins.push({
+        pluginName: 'antiphoner',
+        init: initialize,
+        handleClick: function (event) {
+            // Diva.js plugins need a handleClick function, but we have no clicks to handle.
+        }
+    });
+
     function getPageAlias(page) {
         var numeric = 0;
 
@@ -136,23 +136,11 @@ module.exports = (function () {
         }
     }
 
-    function load(antiphoner_data) {
-        antiphoner = antiphoner_data;
-        // Add to the Diva plugin list
-        window.divaPlugins.push({
-            pluginName: 'antiphoner',
-            init: initialize,
-            handleClick: function (event) {
-                // Diva.js plugins need a handleClick function, but we have no clicks to handle.
-            }
-        });
-    }
-
     window.onpopstate = function (e) {
         if (e.state) {
             goTo(e.state.folio, e.state.sequence);
         }
     };
+}
 
-    return my;
-})();
+module.exports = Viewer;
