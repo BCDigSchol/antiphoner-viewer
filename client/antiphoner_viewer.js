@@ -16,7 +16,7 @@ function Viewer(antiphoner) {
         enableLinkIcon: false,
         enableAutoTitle: false,
         enableAntiphoner: true,
-        zoomLevel: 3,
+        zoomLevel: 2,
         pageAliasFunction: getPageAlias,
         enablePagealias: true
     };

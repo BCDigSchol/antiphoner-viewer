@@ -23,7 +23,8 @@ function display_antiphoner() {
     }
 
     function searchText(event) {
-        var results = search.searchTextField(event.target.value, 'full_text');
+        var input_name = event.target.id.replace('-input', '');
+        var results = search.searchTextField(event.target.value, input_name);
         displayResults(results);
     }
 
@@ -50,4 +51,8 @@ function display_antiphoner() {
 
     document.getElementById('volpiano-input').oninput = searchVolpiano;
     document.getElementById('keyword-input').oninput = searchText;
+    document.getElementById('genre-input').oninput = searchText;
+    document.getElementById('feast-input').oninput = searchText;
+    document.getElementById('office-input').oninput = searchText;
+    document.getElementById('mode-input').oninput = searchText;
 }

@@ -23,7 +23,7 @@ body {
 
 #diva-wrapper {
     height: 90vh;
-    max-width: 900px;
+    width: 50%;
 }
 
 #info {
