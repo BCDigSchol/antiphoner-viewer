@@ -184,3 +184,20 @@ h3.has-video {
     margin-left: 1em;
     line-height: 33px;
 }
+
+.entry-field .search-row {
+    display: none;
+}
+
+.entry-field .search-row.active-field {
+    display: inline-block;
+}
+
+.entry-field label {
+    position: absolute;
+    left: -10000px;
+    top: auto;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+}

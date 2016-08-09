@@ -26,29 +26,39 @@
 
         <section id="search-tab">
             <form>
-                <div class="search-row">
-                    <label for="volpiano-input">Volpiano</label>
-                    <input id="volpiano-input" type="text" autocomplete="off">
-                </div>
-                <div class="search-row">
-                    <label for="keyword-input">Keyword</label>
-                    <input id="keyword-input" type="text" autocomplete="off">
-                </div>
-                <div class="search-row">
-                    <label for="genre-input">Genre</label>
-                    <input id="genre-input" type="text" autocomplete="off">
-                </div>
-                <div class="search-row">
-                    <label for="feast-input">Feast</label>
-                    <input id="feast-input" type="text" autocomplete="off">
-                </div>
-                <div class="search-row">
-                    <label for="office-input">Office</label>
-                    <input id="office-input" type="text" autocomplete="off">
-                </div>
-                <div class="search-row">
-                    <label for="mode-input">Mode</label>
-                    <input id="mode-input" type="text" autocomplete="off">
+                <select name="field" id="index-selector">
+                    <option value="volpiano">Volpiano</option>
+                    <option value="keyword">Full text</option>
+                    <option value="genre">Genre</option>
+                    <option value="feast">Feast</option>
+                    <option value="office">Office</option>
+                    <option value="mode">Mode</option>
+                </select>
+                <div class="entry-field">
+                    <div class="search-row active-field" id="volpiano-row">
+                        <label for="volpiano-input">Volpiano</label>
+                        <input id="volpiano-input" type="text" autocomplete="off">
+                    </div>
+                    <div class="search-row" id="keyword-row">
+                        <label for="keyword-input">Keyword</label>
+                        <input id="keyword-input" type="text" autocomplete="off">
+                    </div>
+                    <div class="search-row" id="genre-row">
+                        <label for="genre-input">Genre</label>
+                        <input id="genre-input" type="text" autocomplete="off">
+                    </div>
+                    <div class="search-row" id="feast-row">
+                        <label for="feast-input">Feast</label>
+                        <input id="feast-input" type="text" autocomplete="off">
+                    </div>
+                    <div class="search-row" id="office-row">
+                        <label for="office-input">Office</label>
+                        <input id="office-input" type="text" autocomplete="off">
+                    </div>
+                    <div class="search-row" id="mode-row">
+                        <label for="mode-input">Mode</label>
+                        <input id="mode-input" type="text" autocomplete="off">
+                    </div>
                 </div>
             </form>
             <div id="results-holder"></div>

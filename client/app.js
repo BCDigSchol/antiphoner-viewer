@@ -17,6 +17,10 @@ function display_antiphoner() {
     var search = new SearchEngine(antiphoner);
     var viewer = new Viewer(antiphoner);
 
+    function selectSearchField(event) {
+        $('.entry-field .active-field, #' + event.target.value + '-row').toggleClass('active-field');
+    }
+
     function searchVolpiano(event) {
         var results = search.searchVolpiano(event.target.value);
         displayResults(results);
@@ -55,4 +59,5 @@ function display_antiphoner() {
     document.getElementById('feast-input').oninput = searchText;
     document.getElementById('office-input').oninput = searchText;
     document.getElementById('mode-input').oninput = searchText;
+    document.getElementById('index-selector').onchange = selectSearchField;
 }
