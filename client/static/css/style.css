@@ -7,19 +7,23 @@
 }
 
 body, html {
-    height: 90%;
+    height: 90vh;
     width: 100%;
     font-family: "Lato", serif, sans-serif;
 }
 
 body {
     display: flex;
+    flex-direction: column;
+}
+
+#viewer-body {
+    display: flex;
 }
 
 #diva-wrapper {
-    height: 100%;
+    height: 90vh;
     width: 50%;
-    max-width: 800px;
 }
 
 #info {
@@ -42,7 +46,11 @@ a {
     cursor: pointer;
 }
 
-.incipit-holder h3 {
+#metadata-tab {
+    display: block;
+}
+
+#metadata-tab h3 {
     font-weight: normal;
     padding: .5em;
     cursor: pointer;
@@ -52,12 +60,12 @@ a {
     margin: 0 0 .25em 0;
 }
 
-.incipit-holder .metadata {
+#metadata-tab .metadata {
     display: none;
     padding: .5em;
 }
 
-.incipit-holder dt {
+#metadata-tab dt {
     font-weight: bold;
 }
 
@@ -92,38 +100,17 @@ dt {
     font-size: 26px;
 }
 
-#search-window {
-    display: none;
-    position: absolute;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    z-index: 1000;
-    background-color: rgba(0,0,0,.5);
-}
-
-#search-window .modal-content {
-    width:50%;
-    margin: 1% auto;
-    background-color: #fff;
-    border:1px solid #000;
-    padding:15px;
-    height: 92%;
-    overflow: scroll;
-}
-
-#search-window .close {
-    cursor: pointer;
-}
-
 #volpiano-input {
     font-size: 30px;
     size: 600px;
     font-family: "Volpiano";
 }
 
-#search-window h3 {
+#search-tab {
+    display: hidden;
+}
+
+#search-tab h3 {
     font-weight: normal;
 }
 
@@ -131,13 +118,9 @@ dt {
     margin: 1em 0;
 }
 
-.incipit-holder {
+#metadata-tab {
     height: 86%;
     overflow: scroll;
-}
-
-.page-items-holder {
-    margin-top: 1em
 }
 
 #1-diva-grid-label {
@@ -147,4 +130,74 @@ dt {
 h3.has-video {
     background: url(../img/play.svg) no-repeat 98% center;
     background-size: auto 65%;
+}
+
+#info > section {
+    display: none;
+    padding-top: 1em;
+    overflow: scroll;
+    height: 86%;
+}
+
+#info > section.current-tab {
+    display: block;
+}
+
+#tab-menu ul {
+    list-style: none inside none;
+    margin: 0;
+    padding: 0 0 0 4px;
+}
+
+#tab-menu li.current-tab {
+    border-bottom: 4px solid #f3f4f5;
+    color: #fff;
+}
+
+#tab-menu {
+    clear: both;
+    height: 40px;
+    background-color: #94a4c3;
+    color: #eee;
+}
+
+#metadata-tab {
+    clear: both;
+}
+
+#search-tab {
+    clear: both;
+}
+
+#tab-menu li {
+    float: left;
+    width: 45%;
+    text-align: center;
+    clear: none;
+    list-style: none inside none;
+    padding: .5em;
+    cursor: pointer;
+}
+
+.diva-grid-label, .diva-zoom-label {
+    display: none;
+    margin-left: 1em;
+    line-height: 33px;
+}
+
+.entry-field .search-row {
+    display: none;
+}
+
+.entry-field .search-row.active-field {
+    display: inline-block;
+}
+
+.entry-field label {
+    position: absolute;
+    left: -10000px;
+    top: auto;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
 }

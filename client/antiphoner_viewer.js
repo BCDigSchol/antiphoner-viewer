@@ -1,20 +1,58 @@
-module.exports = (function () {
-    "use strict";
+"use strict";
 
-    var my = {
-        load: load,
-        goTo: goTo
-    };
-
-    // Incipit data array
-    var antiphoner = {};
-
-    // Incipit handlebars template
+function Viewer(antiphoner) {
     var incipit_template = require('./templates/incipit.hbs');
-
     var data = {};
-
     var hold_state = false;
+
+    this.diva_settings = {
+        enableAutoHeight: true,
+        fixedHeightGrid: false,
+        iipServerURL: "http://mlib.bc.edu/iipsrv/iipsrv.fcgi",
+        objectData: "antiphoner-processed.json",
+        imageDir: "",
+        enableCanvas: true,
+        enableDownload: true,
+        enableLinkIcon: false,
+        enableAutoTitle: false,
+        enableAntiphoner: true,
+        zoomLevel: 2,
+        pageAliasFunction: getPageAlias,
+        enablePagealias: true
+    };
+    this.goTo = goTo;
+
+    // Add to the Diva plugin list
+    window.divaPlugins.push({
+        pluginName: 'antiphoner',
+        init: initialize,
+        handleClick: function (event) {
+            // Diva.js plugins need a handleClick function, but we have no clicks to handle.
+        }
+    });
+
+    function getPageAlias(page) {
+        var numeric = 0;
+
+        switch (page) {
+            case 0:
+                return 'Front cover';
+            case 1:
+                return 'Front endpaper';
+            case 239:
+                return 'Back endpaper';
+            case 240:
+                return 'Back cover';
+        }
+
+        numeric = Math.floor(page / 2);
+
+        if (page % 2 === 0) {
+            return numeric + "r";
+        } else {
+            return numeric + "v";
+        }
+    }
 
     /**
      * Initialize the antiphoner display
@@ -70,8 +108,8 @@ module.exports = (function () {
         var chants_on_page = [];
         if (pageHasChanged()) {
             chants_on_page = antiphoner.getChants(data.current_folio);
-            $('.incipit-holder').html(incipit_template({incipits: chants_on_page}));
-            $('.incipit-holder h3').click(function () {
+            $('#metadata-tab').html(incipit_template({incipits: chants_on_page}));
+            $('#metadata-tab h3').click(function () {
                 $(this).next('.metadata').slideToggle().siblings('.metadata:visible').slideUp();
             });
         }
@@ -98,23 +136,11 @@ module.exports = (function () {
         }
     }
 
-    function load(antiphoner_data) {
-        antiphoner = antiphoner_data;
-        // Add to the Diva plugin list
-        window.divaPlugins.push({
-            pluginName: 'antiphoner',
-            init: initialize,
-            handleClick: function (event) {
-                // Diva.js plugins need a handleClick function, but we have no clicks to handle.
-            }
-        });
-    }
-
     window.onpopstate = function (e) {
         if (e.state) {
             goTo(e.state.folio, e.state.sequence);
         }
     };
+}
 
-    return my;
-})();
+module.exports = Viewer;

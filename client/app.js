@@ -1,84 +1,86 @@
 global.diva = require("diva");
-var antiphoner = require('./antiphoner.js');
-var viewer = require('./antiphoner_viewer.js');
-var search = require('./search.js');
+
+var Antiphoner = require('./antiphoner.js');
+var Viewer = require('./antiphoner_viewer.js');
+var SearchEngine = require('./search.js');
+
+var antiphoner;
+
+// Once the window loads, load the Antiphoner and display.
+window.onload = function () {
+    antiphoner = new Antiphoner(display_antiphoner);
+};
 
 function display_antiphoner() {
-    
-    search.load(antiphoner.data());
-    viewer.load(antiphoner);
-    
-    var search_window = document.getElementById('search-window');
-    var btn = document.getElementById('search-button');
-    var close_btn = document.querySelector('#search-window .close');
-    var modal_content = document.querySelector('#search-window .modal-content');
-    var volpiano_input = document.getElementById('volpiano-input');
 
     var result_template = require('./templates/search-results.hbs');
+    var search = new SearchEngine(antiphoner);
+    var viewer = new Viewer(antiphoner);
+    var current_index = 'volpiano';
+    var current_tab = 'metadata';
+
+    function selectSearchField(event) {
+        document.getElementById(current_index + '-row').className = 'search-row';
+        current_index = event.target.value;
+        document.getElementById(event.target.value + '-row').className = 'search-row active-field';
+    }
 
     function searchVolpiano(event) {
         var results = search.searchVolpiano(event.target.value);
-        var total_results = results.length;
-        $('#results-holder').html(result_template({results: results, total: total_results}));
-        $('.search-result').click(function (e) {
-            var array = e.currentTarget.pathname.split('/'),
-                folio = array[2], sequence = array[3];
-            var url = folio + '/' + sequence;
-            toggleDisplay(event);
-            viewer.goTo(folio, sequence);
-            return false;
-        })
+        displayResults(results);
     }
 
-    $('#diva-wrapper').diva({
-        enableAutoHeight: true,
-        fixedHeightGrid: false,
-        iipServerURL: "http://mlib.bc.edu/iipsrv/iipsrv.fcgi",
-        objectData: "antiphoner-processed.json",
-        imageDir: "",
-        enableCanvas: true,
-        enableDownload: true,
-        enableAutoTitle: false,
-        enableAntiphoner: true,
-        pageAliasFunction: function (page) {
-            var numeric = 0;
+    function searchText(event) {
+        var results = search.searchTextField(event.target.value, current_index);
+        displayResults(results);
+    }
 
-            switch (page) {
-                case 0:
-                    return 'Front cover';
-                case 1:
-                    return 'Front endpaper';
-                case 239:
-                    return 'Back endpaper';
-                case 240:
-                    return 'Back cover';
-            }
-
-            numeric = Math.floor(page / 2);
-
-            if (page % 2 === 0) {
-                return numeric + "r";
-            } else {
-                return numeric + "v";
-            }
-        },
-        enablePagealias: true
-    });
-
-    btn.onclick = toggleDisplay;
-    search_window.onclick = function (event) {
-        if (!modal_content.contains(event.target) || event.target == close_btn) {
-            toggleDisplay(event);
+    function displayResults(results) {
+        var total_results = results.length,
+            result_elements = [];
+        document.getElementById('results-holder').innerHTML = result_template({results: results, total: total_results});
+        result_elements = document.getElementsByClassName('search-result');
+        for (var i=0; i < result_elements.length; i++) {
+            result_elements[i].onclick = goToResult;
         }
-    };
-
-    volpiano_input.oninput = searchVolpiano;
-
-    function toggleDisplay(event) {
-        search_window.style.display = (search_window.style.display === 'block') ? 'none' : 'block';
     }
-}
 
-window.onload = function() {
-    antiphoner.load(display_antiphoner);
-};
+    function goToResult(event) {
+        var array = event.currentTarget.pathname.split('/'),
+            folio = array[2], sequence = array[3];
+        var url = folio + '/' + sequence;
+        viewer.goTo(folio, sequence);
+        return false;
+    }
+
+    function addSearchListeners() {
+        var text_inputs = document.getElementsByClassName('text-input');
+        for (var i = 0; i < text_inputs.length; i++) {
+            text_inputs[i].oninput = searchText
+        }
+        document.getElementById('volpiano-input').oninput = searchVolpiano;
+        document.getElementById('index-selector').onchange = selectSearchField;
+    }
+
+    function listenToTabs(event) {
+        var new_tab = event.target.id.replace('-tab-selector', '');
+        if (new_tab !== current_tab) {
+            changeTab(new_tab);
+        }
+    }
+
+    function changeTab(new_tab) {
+        var current = document.getElementsByClassName('current-tab');
+        while (current.length) {
+            current[0].className = '';
+        }
+        document.getElementById(new_tab + '-tab-selector').className = 'current-tab';
+        document.getElementById(new_tab + '-tab').className = 'current-tab';
+        current_tab = new_tab;
+    }
+
+    // Load everything.
+    $('#diva-wrapper').diva(viewer.diva_settings);
+    document.querySelector('#tab-menu').onclick = listenToTabs;
+    addSearchListeners();
+}

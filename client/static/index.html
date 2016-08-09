@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8"/>
-    <base href="/diva/">
+    <base href="/antiphoner/">
     <title>Diva.js Demo Page</title>
     <link rel="stylesheet" href="css/diva.min.css"/>
     <link rel="stylesheet" href="css/style.css"/>
@@ -10,32 +10,62 @@
     <script src="js/antiphoner-bundle.min.js"></script>
 </head>
 <body>
-<div id="diva-wrapper"></div>
-<div id="info">
-    <h1>Encoded Antiphoner</h1>
+<header id="header">
+</header>
+<div id="viewer-body">
+    <div id="diva-wrapper"></div>
+    <div id="info">
+        <nav id="tab-menu">
+            <ul>
+                <li class="current-tab" id="metadata-tab-selector">Chants</li>
+                <li id="search-tab-selector">Search</li>
+            </ul>
+        </nav>
 
+        <section id="metadata-tab" class="current-tab"></section>
 
-    <button id="search-button">Search</button>
+        <section id="search-tab">
+            <form>
+                <select name="field" id="index-selector">
+                    <option value="volpiano">Volpiano</option>
+                    <option value="keyword">Full text</option>
+                    <option value="genre">Genre</option>
+                    <option value="feast">Feast</option>
+                    <option value="office">Office</option>
+                    <option value="mode">Mode</option>
+                </select>
+                <div class="entry-field">
+                    <div class="search-row active-field" id="volpiano-row">
+                        <label for="volpiano-input">Volpiano</label>
+                        <input id="volpiano-input" class="volpiano-input" type="text" autocomplete="off">
+                    </div>
+                    <div class="search-row" id="keyword-row">
+                        <label for="keyword-input">Keyword</label>
+                        <input id="keyword-input" class="text-input" type="text" autocomplete="off">
+                    </div>
+                    <div class="search-row" id="genre-row">
+                        <label for="genre-input">Genre</label>
+                        <input id="genre-input" class="text-input" type="text" autocomplete="off">
+                    </div>
+                    <div class="search-row" id="feast-row">
+                        <label for="feast-input">Feast</label>
+                        <input id="feast-input" class="text-input" type="text" autocomplete="off">
+                    </div>
+                    <div class="search-row" id="office-row">
+                        <label for="office-input">Office</label>
+                        <input id="office-input" class="text-input" type="text" autocomplete="off">
+                    </div>
+                    <div class="search-row" id="mode-row">
+                        <label for="mode-input">Mode</label>
+                        <input id="mode-input" class="text-input" type="text" autocomplete="off">
+                    </div>
+                </div>
+            </form>
+            <div id="results-holder"></div>
+        </section>
 
-
-    <div class="incipit-holder">
     </div>
-
 </div>
 
-<div id="search-window" class="modal">
-    <div class="modal-content">
-        <span class="close">x</span>
-        <form>
-            <label for="volpiano-input">Volpiano</label>
-            <input id="volpiano-input" type="text" autocomplete="off">
-        </form>
-
-        <div id="results-holder">
-
-        </div>
-
-    </div>
-</div>
 </body>
 </html>
