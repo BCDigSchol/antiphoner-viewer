@@ -16,9 +16,13 @@ function display_antiphoner() {
     var result_template = require('./templates/search-results.hbs');
     var search = new SearchEngine(antiphoner);
     var viewer = new Viewer(antiphoner);
+    var current_index = 'volpiano';
+    var current_tab = 'metadata';
 
     function selectSearchField(event) {
-        $('.entry-field .active-field, #' + event.target.value + '-row').toggleClass('active-field');
+        document.getElementById(current_index + '-row').className = 'search-row';
+        current_index = event.target.value;
+        document.getElementById(event.target.value + '-row').className = 'search-row active-field';
     }
 
     function searchVolpiano(event) {
@@ -27,37 +31,56 @@ function display_antiphoner() {
     }
 
     function searchText(event) {
-        var input_name = event.target.id.replace('-input', '');
-        var results = search.searchTextField(event.target.value, input_name);
+        var results = search.searchTextField(event.target.value, current_index);
         displayResults(results);
     }
 
     function displayResults(results) {
-        var total_results = results.length;
-        $('#results-holder').html(result_template({results: results, total: total_results}));
-        $('.search-result').click(function (e) {
-            var array = e.currentTarget.pathname.split('/'),
-                folio = array[2], sequence = array[3];
-            var url = folio + '/' + sequence;
-            viewer.goTo(folio, sequence);
-            return false;
-        });
+        var total_results = results.length,
+            result_elements = [];
+        document.getElementById('results-holder').innerHTML = result_template({results: results, total: total_results});
+        result_elements = document.getElementsByClassName('search-result');
+        for (var i=0; i < result_elements.length; i++) {
+            result_elements[i].onclick = goToResult;
+        }
     }
 
-    $('#diva-wrapper').diva(viewer.diva_settings);
+    function goToResult(event) {
+        var array = event.currentTarget.pathname.split('/'),
+            folio = array[2], sequence = array[3];
+        var url = folio + '/' + sequence;
+        viewer.goTo(folio, sequence);
+        return false;
+    }
 
-    $('#tab-menu li').click(function () {
-        if (!$(this).hasClass('current')) {
-            $('#tab-menu li').toggleClass('current');
-            $('#info > section').toggleClass('current');
+    function addSearchListeners() {
+        var text_inputs = document.getElementsByClassName('text-input');
+        for (var i = 0; i < text_inputs.length; i++) {
+            text_inputs[i].oninput = searchText
         }
-    });
+        document.getElementById('volpiano-input').oninput = searchVolpiano;
+        document.getElementById('index-selector').onchange = selectSearchField;
+    }
 
-    document.getElementById('volpiano-input').oninput = searchVolpiano;
-    document.getElementById('keyword-input').oninput = searchText;
-    document.getElementById('genre-input').oninput = searchText;
-    document.getElementById('feast-input').oninput = searchText;
-    document.getElementById('office-input').oninput = searchText;
-    document.getElementById('mode-input').oninput = searchText;
-    document.getElementById('index-selector').onchange = selectSearchField;
+    function listenToTabs(event) {
+        var new_tab = event.target.id.replace('-tab-selector', '');
+        if (new_tab !== current_tab) {
+            changeTab(new_tab);
+        }
+    }
+
+    function changeTab(new_tab) {
+        var current = document.getElementsByClassName('current-tab');
+        while (current.length) {
+            current[0].className = '';
+        }
+        document.getElementById(new_tab + '-tab-selector').className = 'current-tab';
+        document.getElementById(new_tab + '-tab').className = 'current-tab';
+        current_tab = new_tab;
+    }
+
+    // Load everything.
+    $('#diva-wrapper').diva(viewer.diva_settings);
+    document.querySelector('#tab-menu').onclick = listenToTabs;
+    addSearchListeners();
 }

@@ -139,7 +139,7 @@ h3.has-video {
     height: 86%;
 }
 
-#info > section.current {
+#info > section.current-tab {
     display: block;
 }
 
@@ -149,7 +149,7 @@ h3.has-video {
     padding: 0 0 0 4px;
 }
 
-#tab-menu li.current {
+#tab-menu li.current-tab {
     border-bottom: 4px solid #f3f4f5;
     color: #fff;
 }

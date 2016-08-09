@@ -40,7 +40,6 @@ function SearchEngine(antiphoner) {
     function loadChant(folio, sequence) {
         sequence = parseInt(sequence) + 1;
         var chant = antiphoner.getChant(folio + sequence);
-        console.log(chant);
         for (var index in indices) {
             indices[index].addChant(chant);
         }
