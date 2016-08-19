@@ -201,3 +201,40 @@ h3.has-video {
     height: 1px;
     overflow: hidden;
 }
+
+.result-folio {
+    width: 7%;
+}
+
+td.result-incipit {
+    font-size: 1.2em;
+    width: 45%;
+}
+
+#results-holder th {
+    text-align: left;
+    font-size: .9em
+}
+
+#results-holder th, #results-holder td {
+    padding: 0 1em 0 0;
+}
+
+#results-holder table {
+    empty-cells: show;
+}
+
+#results-holder td.result-notation {
+    font-family: "Volpiano";
+    padding-bottom: 1em;
+    padding-top: .5em;
+    font-size: 2em;
+}
+
+.select-index {
+    display: inline-block;
+}
+
+.entry-field {
+    display: inline-block;
+}

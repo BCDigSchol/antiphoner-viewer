@@ -26,14 +26,17 @@
 
         <section id="search-tab">
             <form>
-                <select name="field" id="index-selector">
-                    <option value="volpiano">Volpiano</option>
-                    <option value="keyword">Full text</option>
-                    <option value="genre">Genre</option>
-                    <option value="feast">Feast</option>
-                    <option value="office">Office</option>
-                    <option value="mode">Mode</option>
-                </select>
+                <div class="select-index">
+                    <label for="index-selector">Search</label>
+                    <select name="field" id="index-selector">
+                        <option value="volpiano">Volpiano</option>
+                        <option value="keyword">Full text</option>
+                        <option value="genre">Genre</option>
+                        <option value="feast">Feast</option>
+                        <option value="office">Office</option>
+                        <option value="mode">Mode</option>
+                    </select>
+                </div>
                 <div class="entry-field">
                     <div class="search-row active-field" id="volpiano-row">
                         <label for="volpiano-input">Volpiano</label>
@@ -44,20 +47,115 @@
                         <input id="keyword-input" class="text-input" type="text" autocomplete="off">
                     </div>
                     <div class="search-row" id="genre-row">
-                        <label for="genre-input">Genre</label>
-                        <input id="genre-input" class="text-input" type="text" autocomplete="off">
+                        <label for="genre-selector">Genre</label>
+                        <select id="genre-selector">
+                            <option disabled selected value></option>
+                            <option>Antiphon</option>
+                            <option>Antiphon Verse</option>
+                            <option>Hymn</option>
+                            <option>Invitatory antiphon</option>
+                            <option>Invitatory psalm</option>
+                            <option>Responsory</option>
+                            <option>Responsory verse</option>
+                            <option>Sequence</option>
+                            <option>Versicle</option>
+                        </select>
                     </div>
                     <div class="search-row" id="feast-row">
-                        <label for="feast-input">Feast</label>
-                        <input id="feast-input" class="text-input" type="text" autocomplete="off">
+                        <label for="feast-selector">Feast</label>
+                        <select id="feast-selector">
+                            <option disabled selected value></option>
+                            <option>Agathae</option>
+                            <option>Agnetis</option>
+                            <option>Andreae</option>
+                            <option>Annuntiatio Mariae</option>
+                            <option>Appar. Michaelis</option>
+                            <option>Assumptio Mariae</option>
+                            <option>Caeceliae</option>
+                            <option>Cathedra Petri</option>
+                            <option>Clarae</option>
+                            <option>Clementis</option>
+                            <option>Comm unius Mart.</option>
+                            <option>Comm. Apostolorum</option>
+                            <option>Comm. pl. Con. non Pon.</option>
+                            <option>Comm. pl. Conf. Doct.</option>
+                            <option>Comm. pl. Conf. Pont.</option>
+                            <option>Comm. pl. Conf.Pont.</option>
+                            <option>Comm. plur. Mart.</option>
+                            <option>Comm. unius Virg.</option>
+                            <option>Comm. Virginum</option>
+                            <option>Conversio Pauli</option>
+                            <option>Cornelii, Cypriani</option>
+                            <option>Corporis Christi</option>
+                            <option>De Apostolorum</option>
+                            <option>De Beata Virgine</option>
+                            <option>De Francisco</option>
+                            <option>De Sanctis TP</option>
+                            <option>De Spiritus Sanctus</option>
+                            <option>Decoll. Jo. Bapt.</option>
+                            <option>Exaltatio Crucis</option>
+                            <option>Francisci</option>
+                            <option>In Dedicatione Eccl.</option>
+                            <option>Inventio Crucis</option>
+                            <option>Joannis Baptistae</option>
+                            <option>Joannis Port. Lat.</option>
+                            <option>Joannis, Pauli</option>
+                            <option>Laurentii</option>
+                            <option>Luciae</option>
+                            <option>Mariae Magadalenae</option>
+                            <option>Martini</option>
+                            <option>Michaelis</option>
+                            <option>Nativitas Mariae</option>
+                            <option>Oct. Petri, Pauli</option>
+                            <option>Octava Agnetis</option>
+                            <option>Omnium Sanctorum</option>
+                            <option>Pauli</option>
+                            <option>Petri, Pauli</option>
+                            <option>Philipi, Jacobi</option>
+                            <option>Pro Defunctis</option>
+                            <option>Purificatio Mariae</option>
+                            <option>Thomae Apost.</option>
+                            <option>Vincula Petri</option>
+                        </select>
                     </div>
                     <div class="search-row" id="office-row">
-                        <label for="office-input">Office</label>
-                        <input id="office-input" class="text-input" type="text" autocomplete="off">
+                        <label for="office-selector">Office</label>
+                        <select id="office-selector">
+                            <option disabled selected value></option>
+                            <option>Antiphons for the Magnificat or Benedictus</option>
+                            <option>First Vespers</option>
+                            <option>Lauds</option>
+                            <option>Matins</option>
+                            <option>None</option>
+                            <option>Prime</option>
+                            <option>Second Vespers</option>
+                            <option>Sext</option>
+                            <option>Terce</option>
+                        </select>
                     </div>
                     <div class="search-row" id="mode-row">
-                        <label for="mode-input">Mode</label>
-                        <input id="mode-input" class="text-input" type="text" autocomplete="off">
+                        <label for="mode-selector">Mode</label>
+                        <select id="mode-selector">
+                            <option disabled selected value></option>
+                            <option>1</option>
+                            <option>2</option>
+                            <option>3</option>
+                            <option>4</option>
+                            <option>5</option>
+                            <option>6</option>
+                            <option>7</option>
+                            <option>8</option>
+                            <option>*</option>
+                            <option>1S</option>
+                            <option>2S</option>
+                            <option>3S</option>
+                            <option>4S</option>
+                            <option>5S</option>
+                            <option>6S</option>
+                            <option>7S</option>
+                            <option>8S</option>
+                            <option>r</option>
+                        </select>
                     </div>
                 </div>
             </form>

@@ -46,7 +46,7 @@ function display_antiphoner() {
     }
 
     function goToResult(event) {
-        var array = event.currentTarget.pathname.split('/'),
+        var array = event.target.pathname.split('/'),
             folio = array[2], sequence = array[3];
         var url = folio + '/' + sequence;
         viewer.goTo(folio, sequence);
@@ -59,6 +59,10 @@ function display_antiphoner() {
             text_inputs[i].oninput = searchText
         }
         document.getElementById('volpiano-input').oninput = searchVolpiano;
+        document.getElementById('feast-selector').onchange = searchText;
+        document.getElementById('mode-selector').onchange = searchText;
+        document.getElementById('genre-selector').onchange = searchText;
+        document.getElementById('office-selector').onchange = searchText;
         document.getElementById('index-selector').onchange = selectSearchField;
     }
 

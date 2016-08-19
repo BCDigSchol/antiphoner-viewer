@@ -1,10 +1,28 @@
 <div>
     <h2>Results</h2>
-    {{total}} results found
-    {{#each results}}
-        <li>
-            <h3><a class="search-result" href="{{folio}}/{{sequence}}">{{incipit}}</a></h3>
-            <div class="notation">{{volpiano}}</div>
-        </li>
-    {{/each}}
+    <span id="results-total"><span class="total-number">{{total}}</span> results found</span>
+    <table>
+        <tr>
+            <th class="result-folio">Folio</th>
+            <th class="result-incipit">Incipit</th>
+            <th class="result-mode">Mode</th>
+            <th class="result-feast">Feast</th>
+            <th class="result-genre">Genre</th>
+            <th class="result-office">Office</th>
+        </tr>
+        {{#each results}}
+            <tr class="search-result">
+                <td class="result-folio">{{folio}}</td>
+                <td class="result-incipit"><a href="{{folio}}/{{sequence}}">{{incipit}}</a></td>
+                <td class="result-mode">{{mode}}</td>
+                <td class="result-feast">{{feast}}</td>
+                <td class="result-genre">{{genre}}</td>
+                <td class="result-office">{{office}}</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td class="result-notation" colspan="5">{{volpiano}}</td>
+            </tr>
+        {{/each}}
+    </table>
 </div>
