@@ -5,6 +5,9 @@ function Viewer(antiphoner) {
     var data = {};
     var hold_state = false;
 
+    var zoom_level = (window.innerWidth > 2400) ? 3 : 2;
+    console.log(window.innerWidth);
+
     this.diva_settings = {
         enableAutoHeight: true,
         fixedHeightGrid: false,
@@ -17,7 +20,7 @@ function Viewer(antiphoner) {
         enableLinkIcon: false,
         enableAutoTitle: false,
         enableAntiphoner: true,
-        zoomLevel: 2,
+        zoomLevel: zoom_level,
         pageAliasFunction: getPageAlias,
         enablePagealias: true
     };
