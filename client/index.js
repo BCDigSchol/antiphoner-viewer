@@ -2,23 +2,27 @@
 
 var lunr = require("lunr");
 
-function Index(field) {
-    var index = lunr(function () {
-        this.field(field);
-        this.ref('id');
-        this.pipeline.remove(lunr.stemmer)
-        this.pipeline.remove(lunr.stopWordFilter)
-    });
+function Index() {
+    var fields = Array.prototype.slice.call(arguments);
 
-     this.index = index;
+    var index = lunr(function () {
+        for (var i = 0; i < fields.length; i++) {
+            this.field(fields[i]);
+        }
+        this.ref('id');
+        this.pipeline.remove(lunr.stemmer);
+        this.pipeline.remove(lunr.stopWordFilter);
+    });
 
     this.search = function (text) {
         return index.search(text);
     };
 
     this.addChant = function (chant) {
-        var to_add = { id: chant['id']};
-        to_add[field] = chant[field];
+        var to_add = {id: chant['id']};
+        for (var i = 0; i < fields.length; i++) {
+            to_add[fields[i]] = chant[fields[i]];
+        }
         index.add(to_add);
     }
 }

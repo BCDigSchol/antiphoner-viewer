@@ -4,7 +4,7 @@ var Index = require('./index.js');
 
 function SearchEngine(antiphoner) {
     var indices = {
-        keyword: new Index('full_text_standard'),
+        keyword: new Index('full_text_standard', 'genre', 'feast', 'office', 'mode'),
         genre: new Index('genre'),
         feast: new Index('feast'),
         office: new Index('office'),
@@ -41,7 +41,7 @@ function SearchEngine(antiphoner) {
         sequence = parseInt(sequence) + 1;
         var chant = antiphoner.getChant(folio + sequence);
         /*chant.url = chant.folio + '/' + chant.sequence;
-        chant.folio  = chant.folio.replace(/^[0]+/g,"");*/
+         chant.folio  = chant.folio.replace(/^[0]+/g,"");*/
         for (var index in indices) {
             indices[index].addChant(chant);
         }
