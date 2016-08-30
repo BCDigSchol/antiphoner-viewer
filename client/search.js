@@ -4,7 +4,7 @@ var Index = require('./index.js');
 
 function SearchEngine(antiphoner) {
     var indices = {
-        keyword: new Index('full_text_standard', 'genre', 'feast', 'office', 'mode'),
+        keyword: new Index('incipit', 'genre', 'feast', 'office', 'mode'),
         genre: new Index('genre'),
         feast: new Index('feast'),
         office: new Index('office'),
