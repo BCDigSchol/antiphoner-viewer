@@ -1975,7 +1975,7 @@
       "mode": "7",
       "differentia": null,
       "full_text_standard": null,
-      "volpiano": "1--l--lmnml--klkj---k--k--k---k l--k--k---",
+      "volpiano": "1--l--lmnml--klkj---k--k--k---kl--k--k---",
       "search_volpiano": "llmnmlklkjkkkklkk"
     },
     {
@@ -2531,7 +2531,7 @@
       "mode": "7",
       "differentia": null,
       "full_text_standard": null,
-      "volpiano": "1--lmnml--klkj---k--k---k l--k--k---k--k--k---",
+      "volpiano": "1--lmnml--klkj---k--k---kl--k--k---k--k--k---",
       "search_volpiano": "lmnmlklkjkkklkkkkk"
     },
     {
@@ -3736,7 +3736,7 @@
       "mode": "7",
       "differentia": null,
       "full_text_standard": null,
-      "volpiano": "1--l--lmnml--klkj---k l--k--k---k--k--k---lj--kl---",
+      "volpiano": "1--l--lmnml--klkj---kl--k--k---k--k--k---lj--kl---",
       "search_volpiano": "llmnmlklkjklkkkkkljkl"
     },
     {
@@ -5648,7 +5648,7 @@
       "mode": "7",
       "differentia": null,
       "full_text_standard": null,
-      "volpiano": "1--lmnml--klkj---k l--k---lj--kl---kl---lmnm--ml---",
+      "volpiano": "1--lmnml--klkj---kl--k---lj--kl---kl---lmnm--ml---",
       "search_volpiano": "lmnmlklkjklkljklkllmnmml"
     },
     {
@@ -6024,7 +6024,7 @@
       "mode": "1",
       "differentia": null,
       "full_text_standard": null,
-      "volpiano": "1--dh--h ghgf---gh--g---hf--gh---gh---hjh--h---",
+      "volpiano": "1--dh--hghgf---gh--g---hf--gh---gh---hjh--h---",
       "search_volpiano": "dhhghgfghghfghghhjhh"
     },
     {
@@ -6412,7 +6412,7 @@
       "mode": "7",
       "differentia": null,
       "full_text_standard": null,
-      "volpiano": "1--lmnml--kj---klkj---k--k---k--k l--k---",
+      "volpiano": "1--lmnml--kj---klkj---k--k---k--kl--k---",
       "search_volpiano": "lmnmlkjklkjkkkklk"
     },
     {
@@ -6984,7 +6984,7 @@
       "mode": "1",
       "differentia": null,
       "full_text_standard": null,
-      "volpiano": "1--dh--h--h---h ghgf---g--g---g---g--g---",
+      "volpiano": "1--dh--h--h---hghgf---g--g---g---g--g---",
       "search_volpiano": "dhhhhghgfggggg"
     },
     {
@@ -7652,7 +7652,7 @@
       "mode": "1",
       "differentia": null,
       "full_text_standard": null,
-      "volpiano": "1--dh--h--h--h ghgf---g---hf--gh---gh---hjh--h---",
+      "volpiano": "1--dh--h--h--hghgf---g---hf--gh---gh---hjh--h---",
       "search_volpiano": "dhhhhghgfghfghghhjhh"
     },
     {
@@ -7930,7 +7930,7 @@
       "mode": "1",
       "differentia": null,
       "full_text_standard": null,
-      "volpiano": "1--h---h--h ghgf---g---g--g---g--gh--g---",
+      "volpiano": "1--h---h--hghgf---g---g--g---g--gh--g---",
       "search_volpiano": "hhhghgfggggghg"
     },
     {
@@ -12207,7 +12207,7 @@
       "mode": "1",
       "differentia": null,
       "full_text_standard": null,
-      "volpiano": "1--dh--h--h ghgf---gh--g---g---g--g--g---hf--gh---",
+      "volpiano": "1--dh--h--hghgf---gh--g---g---g--g--g---hf--gh---",
       "search_volpiano": "dhhhghgfghggggghfgh"
     },
     {
@@ -12273,7 +12273,7 @@
       "mode": "1",
       "differentia": null,
       "full_text_standard": null,
-      "volpiano": "1--dh--h--h--h ghgf---g---hf---gh--gh--h--hjh--h---",
+      "volpiano": "1--dh--h--h--hghgf---g---hf---gh--gh--h--hjh--h---",
       "search_volpiano": "dhhhhghgfghfghghhhjhh"
     },
     {
@@ -12305,7 +12305,7 @@
       "mode": "1",
       "differentia": null,
       "full_text_standard": null,
-      "volpiano": "1--dh--h ghgf---g---gh--g--g---g--g--hf--gh---",
+      "volpiano": "1--dh--hghgf---g---gh--g--g---g--g--hf--gh---",
       "search_volpiano": "dhhghgfgghgggghfgh"
     }
   ],
@@ -12973,7 +12973,7 @@
       "mode": "1",
       "differentia": null,
       "full_text_standard": null,
-      "volpiano": "1--dh--h--h ghgf---gh--g--g---g--hf--gh--gh---",
+      "volpiano": "1--dh--h--hghgf---gh--g--g---g--hf--gh--gh---",
       "search_volpiano": "dhhhghgfghggghfghgh"
     },
     {
@@ -13137,7 +13137,7 @@
       "mode": "1",
       "differentia": null,
       "full_text_standard": null,
-      "volpiano": "1--dh--h ghgf---gh--g--g---g---hf---gh--gh---",
+      "volpiano": "1--dh--hghgf---gh--g--g---g---hf---gh--gh---",
       "search_volpiano": "dhhghgfghggghfghgh"
     },
     {
@@ -13367,7 +13367,7 @@
       "mode": "1",
       "differentia": null,
       "full_text_standard": null,
-      "volpiano": "1--dh--h ghgf---gh--g--g---g--hf--gh---",
+      "volpiano": "1--dh--hghgf---gh--g--g---g--hf--gh---",
       "search_volpiano": "dhhghgfghggghfgh"
     },
     {
@@ -15038,7 +15038,7 @@
       "mode": "1",
       "differentia": null,
       "full_text_standard": null,
-      "volpiano": "1--dh--h--h---h ghgf---g--g---gh--g--g---",
+      "volpiano": "1--dh--h--h---hghgf---g--g---gh--g--g---",
       "search_volpiano": "dhhhhghgfggghgg"
     },
     {
@@ -15072,7 +15072,7 @@
       "mode": "1",
       "differentia": null,
       "full_text_standard": null,
-      "volpiano": "1--dh--h--h ghgf---g--hf---gh--gh---hjh--h---",
+      "volpiano": "1--dh--h--hghgf---g--hf---gh--gh---hjh--h---",
       "search_volpiano": "dhhhghgfghfghghhjhh"
     },
     {
@@ -16008,7 +16008,7 @@
       "mode": "1",
       "differentia": null,
       "full_text_standard": null,
-      "volpiano": "1--dh--h--h ghgf---g--gh--g--g---g--hf--gh---",
+      "volpiano": "1--dh--h--hghgf---g--gh--g--g---g--hf--gh---",
       "search_volpiano": "dhhhghgfgghggghfgh"
     },
     {
@@ -17533,7 +17533,7 @@
       "mode": "1",
       "differentia": null,
       "full_text_standard": null,
-      "volpiano": "1--h--h ghgf---g---[g]---g--g---g--hf---gh--gh---",
+      "volpiano": "1--h--hghgf---g---[g]---g--g---g--hf---gh--gh---",
       "search_volpiano": "hhghgfggggghfghgh"
     },
     {
@@ -18704,7 +18704,7 @@
       "mode": "7",
       "differentia": null,
       "full_text_standard": null,
-      "volpiano": "1--l---lmnml--klk---kj-k--k l--k---k--lj--kl---",
+      "volpiano": "1--l---lmnml--klk---kj-k--kl--k---k--lj--kl---",
       "search_volpiano": "llmnmlklkkjkklkkljkl"
     },
     {
@@ -19892,7 +19892,7 @@
       "mode": "7",
       "differentia": null,
       "full_text_standard": null,
-      "volpiano": "1--l--lmnml--klk---kj-k--k---k l--k--k---",
+      "volpiano": "1--l--lmnml--klk---kj-k--k---kl--k--k---",
       "search_volpiano": "llmnmlklkkjkkklkk"
     },
     {
@@ -21422,7 +21422,7 @@
       "mode": "7",
       "differentia": null,
       "full_text_standard": null,
-      "volpiano": "1--lmnml--kj--klk---kj-k--k---k--k l--k---",
+      "volpiano": "1--lmnml--kj--klk---kj-k--k---k--kl--k---",
       "search_volpiano": "lmnmlkjklkkjkkkklk"
     },
     {
@@ -23254,7 +23254,7 @@
       "mode": "5",
       "differentia": null,
       "full_text_standard": null,
-      "volpiano": "1--k--k--klk k---hjh-kl--kjk--lkl-lk---k--k--k---",
+      "volpiano": "1--k--k--klkk---hjh-kl--kjk--lkl-lk---k--k--k---",
       "search_volpiano": "kkklkkhjhklkjklkllkkkk"
     },
     {
