@@ -87,4 +87,5 @@ function display_antiphoner() {
     $('#diva-wrapper').diva(viewer.diva_settings);
     document.querySelector('#tab-menu').onclick = listenToTabs;
     addSearchListeners();
+    $('select').select2();
 }

@@ -231,10 +231,36 @@ td.result-incipit {
     font-size: 2em;
 }
 
-.select-index {
-    display: inline-block;
+#search-tab form {
+    height: 6em;
 }
 
-.entry-field {
-    display: inline-block;
+.select-index, .entry-field {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    display: block;
+    float: left;
 }
+
+.select-index {
+    margin-right: 1em;
+}
+
+.entry-field input {
+    width: 400px;
+    height: 36px;
+}
+
+input#keyword-input {
+    font-size: 18px;
+}
+
+.entry-field .select2-selection {
+    width: 350px;
+}
+
+.select-index .select2-selection {
+    width: 100px;
+}
+
