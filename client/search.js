@@ -7,8 +7,7 @@ function SearchEngine(antiphoner) {
         keyword: new Index('incipit', 'genre', 'feast', 'office', 'mode'),
         genre: new Index('genre'),
         feast: new Index('feast'),
-        office: new Index('office'),
-        mode: new Index('mode')
+        office: new Index('office')
     };
 
     var folios = antiphoner.getFolios();
@@ -37,6 +36,16 @@ function SearchEngine(antiphoner) {
         return return_vals;
     };
 
+    this.searchMode = function (mode) {
+        var return_vals = [],
+            chants;
+        folios.forEach(function (folio) {
+            chants = antiphoner.getChants(folio);
+            return_vals = return_vals.concat(chants.filter(chantIsInMode, {mode: mode}));
+        });
+        return return_vals;
+    };
+
     function loadChant(folio, sequence) {
         sequence = parseInt(sequence) + 1;
         var chant = antiphoner.getChant(folio + sequence);
@@ -55,6 +64,10 @@ function SearchEngine(antiphoner) {
 
     function chantContainsVolpiano(chant) {
         return chant.search_volpiano.includes(this.volpiano);
+    }
+
+    function chantIsInMode(chant) {
+        return chant.mode == this.mode;
     }
 };
 
