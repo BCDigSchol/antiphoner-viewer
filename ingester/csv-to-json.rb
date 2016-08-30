@@ -116,6 +116,7 @@ CSV.foreach('inventory.csv', :headers => true) do |row|
   search_volpiano = ''
 
   if chant[:volpiano]
+    chant[:volpiano] = chant[:volpiano].gsub(/ /,'')
     search_volpiano = chant[:volpiano].gsub(/[\W\d]/, '')
   end
 
