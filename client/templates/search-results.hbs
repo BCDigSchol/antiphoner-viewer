@@ -1,6 +1,7 @@
 <div>
     <span id="results-total"><span class="total-number">{{total}}</span> results found</span>
     <table>
+        <thead>
         <tr>
             <th class="result-folio">Folio</th>
             <th class="result-incipit">Incipit</th>
@@ -9,6 +10,8 @@
             <th class="result-genre">Genre</th>
             <th class="result-office">Office</th>
         </tr>
+        </thead>
+        <tbody>
         {{#each results}}
             <tr class="search-result">
                 <td class="result-folio">{{folio}}</td>
@@ -23,5 +26,6 @@
                 <td class="result-notation" colspan="5">{{volpiano}}</td>
             </tr>
         {{/each}}
+        </tbody>
     </table>
 </div>
