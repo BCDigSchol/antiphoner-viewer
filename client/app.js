@@ -16,7 +16,7 @@ function display_antiphoner() {
     var result_template = require('./templates/search-results.hbs');
     var search = new SearchEngine(antiphoner);
     var viewer = new Viewer(antiphoner);
-    var current_index = 'volpiano';
+    var current_index = 'keyword';
     var current_tab = 'metadata';
 
     function selectSearchField(event) {
