@@ -18,6 +18,8 @@ function display_antiphoner() {
     var viewer = new Viewer(antiphoner);
     var current_index = 'keyword';
     var current_tab = 'metadata';
+    var select_boxes = {};
+    var index_selector;
 
     function selectSearchField(event) {
         document.getElementById(current_index + '-row').className = 'search-row';
@@ -36,8 +38,10 @@ function display_antiphoner() {
     }
 
     function searchText(event) {
-        var results = search.searchTextField(event.target.value, current_index);
-        displayResults(results);
+        if (event.target.value) {
+            var results = search.searchTextField(event.target.value, current_index);
+            displayResults(results);
+        }
     }
 
     function displayResults(results) {
@@ -45,7 +49,7 @@ function display_antiphoner() {
             result_elements = [];
         document.getElementById('results-holder').innerHTML = result_template({results: results, total: total_results});
         result_elements = document.getElementsByClassName('search-result');
-        for (var i=0; i < result_elements.length; i++) {
+        for (var i = 0; i < result_elements.length; i++) {
             result_elements[i].onclick = goToResult;
         }
     }
@@ -92,5 +96,41 @@ function display_antiphoner() {
     $('#diva-wrapper').diva(viewer.diva_settings);
     document.querySelector('#tab-menu').onclick = listenToTabs;
     addSearchListeners();
-    $('select').select2();
+
+    // Initialize selectors
+    index_selector = $('#index-selector').select2({minimumResultsForSearch: Infinity});
+
+    select_boxes = {
+        genre: $('#genre-selector').select2({
+                placeholder: "Select a genre",
+                minimumResultsForSearch: Infinity
+            }
+        ),
+
+        feast: $('#feast-selector'
+        ).select2({
+                placeholder: "Select a feast"
+            }
+        ),
+
+        mode: $('#mode-selector').select2({
+                placeholder: "Select a mode",
+                minimumResultsForSearch: Infinity
+            }
+        ),
+
+        office: $('#office-selector').select2({
+                placeholder: "Select an office",
+                minimumResultsForSearch: Infinity
+            }
+        )
+    };
+
+    index_selector.on("change", function (e) {
+        Object.keys(select_boxes).forEach(function (key) {
+            select_boxes[key].val(null).change();
+            }
+        );
+        $('.entry-field input').val('');
+    })
 }
