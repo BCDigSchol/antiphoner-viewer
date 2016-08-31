@@ -63,7 +63,7 @@ function display_antiphoner() {
         for (var i = 0; i < text_inputs.length; i++) {
             text_inputs[i].oninput = searchText
         }
-        document.getElementById('volpiano-input').oninput = searchVolpiano;
+        document.getElementById('volpiano-input').oninput = searchText;
         document.getElementById('feast-selector').onchange = searchText;
         document.getElementById('mode-selector').onchange = searchMode;
         document.getElementById('genre-selector').onchange = searchText;
