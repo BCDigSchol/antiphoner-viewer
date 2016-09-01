@@ -15,7 +15,6 @@ function Viewer(antiphoner) {
         objectData: "antiphoner-processed.json",
         imageDir: "",
         enableCanvas: false,
-        enableGotoPage: false,
         enableDownload: true,
         enableLinkIcon: false,
         enableAutoTitle: false,
@@ -113,7 +112,7 @@ function Viewer(antiphoner) {
         var chants_on_page = [];
         if (pageHasChanged()) {
             chants_on_page = antiphoner.getChants(data.current_folio);
-            $('#metadata-tab').html(incipit_template({incipits: chants_on_page}));
+            $('#metadata-tab').html(incipit_template({incipits: chants_on_page, folio: data.current_folio}));
             $('#metadata-tab h3').click(function () {
                 $(this).next('.metadata').slideToggle().siblings('.metadata:visible').slideUp();
             });
