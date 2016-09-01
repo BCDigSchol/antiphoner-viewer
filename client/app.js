@@ -33,8 +33,10 @@ function display_antiphoner() {
     }
 
     function searchMode(event) {
-        var results = search.searchMode(event.target.value);
-        displayResults(results);
+        if (event.target.value) {
+            var results = search.searchMode(event.target.value);
+            displayResults(results);
+        }
     }
 
     function searchText(event) {
