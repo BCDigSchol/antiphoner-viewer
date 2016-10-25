@@ -43,9 +43,9 @@ function Viewer(antiphoner) {
                 return 'Front cover';
             case 1:
                 return 'Front endpaper';
-            case 239:
-                return 'Back endpaper';
             case 240:
+                return 'Back endpaper';
+            case 241:
                 return 'Back cover';
         }
 

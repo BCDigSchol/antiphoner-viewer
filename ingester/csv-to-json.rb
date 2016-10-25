@@ -131,8 +131,10 @@ CSV.foreach('inventory.csv', :headers => true) do |row|
   chants.push(chant)
 end
 
+puts "Adding last chant #{current_folio}"
 antiphoner[current_folio] = chants
 antiphoner['Back endpaper'] = []
+antiphoner['Back cover'] = []
 
 File.open("antiphoner-data.json", "w") do |f|
   f.write(JSON.dump(antiphoner))
