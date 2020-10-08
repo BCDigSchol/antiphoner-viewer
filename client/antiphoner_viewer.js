@@ -6,19 +6,19 @@ function Viewer(antiphoner) {
     var hold_state = false;
 
     var zoom_level = (window.innerWidth > 2400) ? 3 : 2;
-    console.log(window.innerWidth);
 
     this.diva_settings = {
         enableAutoHeight: true,
         fixedHeightGrid: false,
-        iipServerURL: "http://mlib.bc.edu/iipsrv/iipsrv.fcgi",
-        objectData: "antiphoner-processed.json",
+        objectData: 'https://library.bc.edu/iiif/manifests/ms.1996.097.json',
         imageDir: "",
         enableCanvas: false,
         enableDownload: true,
         enableLinkIcon: false,
         enableAutoTitle: false,
         enableAntiphoner: true,
+        inBookLayout: false,
+        verticallyOriented: true,
         goDirectlyTo: 2,
         zoomLevel: zoom_level,
         pageAliasFunction: getPageAlias,

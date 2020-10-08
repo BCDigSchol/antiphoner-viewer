@@ -21,7 +21,7 @@
     "lunr": "^0.7.1"
   },
   "dependencies": {
-    "diva.js": "^4.0.0",
+    "diva.js": "^4.1.0",
     "select2": "^4.0.3"
   },
   "browserify-shim": {

@@ -48,7 +48,7 @@ function display_antiphoner() {
 
     function displayResults(results) {
         var total_results = results.length,
-            result_elements = [];
+            result_elements;
         document.getElementById('results-holder').innerHTML = result_template({results: results, total: total_results});
         result_elements = document.getElementsByClassName('search-result');
         for (var i = 0; i < result_elements.length; i++) {

@@ -6,3 +6,4 @@ client/static/fonts
 ingester/*json
 ingester/*csv
 manifest-builder/*json
+ingester/data
