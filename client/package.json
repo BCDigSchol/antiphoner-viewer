@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "diva.js": "^4.1.0",
-    "select2": "^4.0.3"
+    "select2": "^4.0.6"
   },
   "browserify-shim": {
     "jQuery": "global:jQuery",
